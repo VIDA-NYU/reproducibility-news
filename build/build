@@ -24,7 +24,6 @@ def main():
                 if not title:
                     continue
                 link = next(fp)
-                author = next(fp)
                 date = next(fp)
                 date = datetime.strptime(date, '%Y-%m-%d')
                 date = format_date(date)
@@ -46,7 +45,6 @@ def main():
                 entries.append({
                     'title': title,
                     'link': link,
-                    'author': author,
                     'date': date,
                     'description': description
                 })

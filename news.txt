@@ -1,6 +1,5 @@
 Brian Nosek on the Reproducibility Project
 http://www.econtalk.org/archives/2015/11/brian_nosek_on.html
-EconTalk Episode
 2015-11-16
 Brian Nosek of the University of Virginia and the Center for Open Science talks with EconTalk host Russ Roberts about the Reproducibility Project.
 
