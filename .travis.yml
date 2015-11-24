@@ -5,5 +5,4 @@ sudo: false
 install:
   - pip install jinja2
 script:
-  - build/build
-  - "[ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ] && build/upload"
+  - "build/build && if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then build/upload; fi"
