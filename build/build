@@ -2,6 +2,7 @@
 
 from datetime import datetime
 import email.utils
+import io
 from jinja2 import Environment, FileSystemLoader
 import os
 import time
@@ -16,7 +17,7 @@ def main():
 
     entries = []
 
-    with open('news.txt') as fp_:
+    with io.open('news.txt', encoding='utf-8') as fp_:
         fp = (l.strip() for l in fp_)
         try:
             while True:
@@ -56,7 +57,7 @@ def main():
     if not os.path.isdir('target'):
         os.mkdir('target')
 
-    with open('target/feed.rss', 'w') as fp:
+    with io.open('target/feed.rss', 'w', encoding='utf-8') as fp:
         for chunk in template.generate({'items': entries}):
             fp.write(chunk)
 
