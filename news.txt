@@ -4,22 +4,22 @@ http://www.econtalk.org/archives/2015/11/brian_nosek_on.html
 Brian Nosek of the University of Virginia and the Center for Open Science talks with EconTalk host Russ Roberts about the Reproducibility Project.
 
 
-Promises, Promises, and Cell Lines: Life Sciences Researchers Talk About the Obvious Solution—Cell-Line Authentication—but They Fail To Implement It
+Promises, Promises, and Cell Lines: Life Sciences Researchers Talk About the Obvious Solutionâ€”Cell-Line Authenticationâ€”but They Fail To Implement It
 http://www.genengnews.com/gen-articles/promises-promises-and-cell-lines/5631/
 2015-11-15
-According to a 2013 report from the American Association for the Advancement of Science, $115 billion is spent annually in the United States on life science research. Fifty percent of this total is spent on preclinical research, half of which—$28 billion—is not reproducible.
+According to a 2013 report from the American Association for the Advancement of Science, $115 billion is spent annually in the United States on life science research. Fifty percent of this total is spent on preclinical research, half of whichâ€”$28 billionâ€”is not reproducible.
 
 
 Speaking of Research Integrity: 
 http://www.the-scientist.com/?articles.view/articleNo/44424/title/Speaking-of-Research-Integrity/
 2015-11-06
-Panelists discuss reproducibility, data-sharing, and encouraging early-career researchers at this year’s World Science Forum.
+Panelists discuss reproducibility, data-sharing, and encouraging early-career researchers at this year's World Science Forum.
 
 
 Bioethics and the reproducibility crisis
 http://www.bioedge.org/bioethics/bioethics-and-the-reproducibility-crisis/11632
 2015-10-31
-According to the mayor of Chicago, Rahm Emanuel, who is linked to bioethics through his bioethicist brother Ezekiel Emanuel, "You never let a serious crisis go to waste.” In this case the crisis is the reproducibility of published results in the biological and medical sciences. According to a recent comment in Nature, “An unpublished 2015 survey by the American Society for Cell Biology found that more than two-thirds of respondents had on at least one occasion been unable to reproduce published results. Biomedical researchers from drug companies have reported that one-quarter or fewer of high-profile papers are reproducible.”
+According to the mayor of Chicago, Rahm Emanuel, who is linked to bioethics through his bioethicist brother Ezekiel Emanuel, "You never let a serious crisis go to waste." In this case the crisis is the reproducibility of published results in the biological and medical sciences. According to a recent comment in Nature, "An unpublished 2015 survey by the American Society for Cell Biology found that more than two-thirds of respondents had on at least one occasion been unable to reproduce published results. Biomedical researchers from drug companies have reported that one-quarter or fewer of high-profile papers are reproducible."
 
 
 Improving the reproducibility of biomedical research
@@ -28,7 +28,7 @@ http://www.bbsrc.ac.uk/news/policy/2015/151029-pr-improving-reproducibility-of-b
 The Academy of Medical Sciences has published a new joint report on how the reproducibility and reliability of research can be improved. Recent reports in the general and scientific media show there is increasing concern within the biomedical research community about the lack of reproducibility of key research findings.
 
 
-Reproducibility in science — where the MRC comes in
+Reproducibility in scienceâ€”where the MRC comes in
 http://www.insight.mrc.ac.uk/2015/10/29/reproducibility-in-science-where-the-mrc-comes-in/
 2015-10-29
 The MRC and a group of partner organisations have today published a report and joint statement  about the reproducibility and reliability of research, and what can be done to improve them. Here, Jim Smith, MRC Deputy Chief Executive and Director of Strategy, thinks about how discussions of reproducibility offer us the opportunity to improve the way science is done.
@@ -40,10 +40,10 @@ http://www.utahpeoplespost.com/2015/08/new-study-scientific-researches-are-not-a
 Researchers tested the credibility of past investigations reaching the conclusion of a new study: scientific researches are not always reliable. Few of the past studies could be replicated showing that some researches are either too biased or too distinctive to make a statement in history.
 
 
-The Results of the Reproducibility Project Are In. They’re Not Good.
+The Results of the Reproducibility Project Are In. They're Not Good.
 http://chronicle.com/article/The-Results-of-the/232695
 2015-08-28
-A decade ago, John P.A. Ioannidis published a provocative and much-discussed paper arguing that most published research findings are false. It’s starting to look like he was right.
+A decade ago, John P.A. Ioannidis published a provocative and much-discussed paper arguing that most published research findings are false. It's starting to look like he was right.
 
 
 MASSIVE STUDY REPORTS CHALLENGES IN REPRODUCING PUBLISHED PSYCHOLOGY FINDINGS
