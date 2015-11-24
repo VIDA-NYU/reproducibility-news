@@ -9,7 +9,7 @@
       <link>{{ item.link }}</link>
       <pubDate>{{ item.date }}</pubDate>
       <description>
-        {{ item.author }}: {{ item.description }}
+        {{ item.description }}
       </description>
     </item>
 {% endfor %}
