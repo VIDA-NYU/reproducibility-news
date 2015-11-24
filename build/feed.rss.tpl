@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Reproducibility News Feed</title>
-    <link>http://reproducibility.org/</link>
+    <link>http://reproduciblescience.org/</link>
 {% for item in items %}
     <item>
       <title>{{ item.title }}</title>
