@@ -89,14 +89,14 @@ When a cancer study is published in a prestigious peer-reviewed journal, the imp
 
 
 The Database Experiments Repository (DBXR) is Online
-2012-01-01
 http://www.dbxr.org/
+2012-01-01
 This site serves as a repository for experiments related to database research. Currently, it supports the submission and review of results published at PVLDB and ACM Sigmod.
 
 
 SIGMOD Repeatability Effort
-2012-01-01
 http://effdas.itu.dk/repeatability/tuning.html
+2012-01-01
 As part of this project, in collaboration with Philippe Bonnet, we are using (and extending) our infrastructure to support the SIGMOD Repeatability effort. Below are some case studies that illustrate how authors can create provenance-rich and reproducible papers, and how reviewers can both reproduce the experiments and perform workability tests: packaging an experiment on a distributed database system (link in title).
 
 
