@@ -1,5 +1,6 @@
 Brian Nosek on the Reproducibility Project
 http://www.econtalk.org/archives/2015/11/brian_nosek_on.html
+EconTalk Episode
 2015-11-16
 Brian Nosek of the University of Virginia and the Center for Open Science talks with EconTalk host Russ Roberts about the Reproducibility Project.
 
@@ -13,13 +14,19 @@ According to a 2013 report from the American Association for the Advancement of 
 Speaking of Research Integrity: 
 http://www.the-scientist.com/?articles.view/articleNo/44424/title/Speaking-of-Research-Integrity/
 2015-11-06
-Panelists discuss reproducibility, data-sharing, and encouraging early-career researchers at this year's World Science Forum.
+Panelists discuss reproducibility, data-sharing, and encouraging early-career researchers at this year’s World Science Forum.
+
+
+ReproZip Demo Tutorial Video
+https://www.youtube.com/watch?v=-zLPuwCHXo0
+2015-11-05
+This is a demo video showing how to pack and unpack experiments with ReproZip.
 
 
 Bioethics and the reproducibility crisis
 http://www.bioedge.org/bioethics/bioethics-and-the-reproducibility-crisis/11632
 2015-10-31
-According to the mayor of Chicago, Rahm Emanuel, who is linked to bioethics through his bioethicist brother Ezekiel Emanuel, "You never let a serious crisis go to waste." In this case the crisis is the reproducibility of published results in the biological and medical sciences. According to a recent comment in Nature, "An unpublished 2015 survey by the American Society for Cell Biology found that more than two-thirds of respondents had on at least one occasion been unable to reproduce published results. Biomedical researchers from drug companies have reported that one-quarter or fewer of high-profile papers are reproducible."
+According to the mayor of Chicago, Rahm Emanuel, who is linked to bioethics through his bioethicist brother Ezekiel Emanuel, "You never let a serious crisis go to waste.” In this case the crisis is the reproducibility of published results in the biological and medical sciences. According to a recent comment in Nature, “An unpublished 2015 survey by the American Society for Cell Biology found that more than two-thirds of respondents had on at least one occasion been unable to reproduce published results. Biomedical researchers from drug companies have reported that one-quarter or fewer of high-profile papers are reproducible.”
 
 
 Improving the reproducibility of biomedical research
@@ -28,11 +35,16 @@ http://www.bbsrc.ac.uk/news/policy/2015/151029-pr-improving-reproducibility-of-b
 The Academy of Medical Sciences has published a new joint report on how the reproducibility and reliability of research can be improved. Recent reports in the general and scientific media show there is increasing concern within the biomedical research community about the lack of reproducibility of key research findings.
 
 
-Reproducibility in science—where the MRC comes in
+Reproducibility in science — where the MRC comes in
 http://www.insight.mrc.ac.uk/2015/10/29/reproducibility-in-science-where-the-mrc-comes-in/
 2015-10-29
 The MRC and a group of partner organisations have today published a report and joint statement  about the reproducibility and reliability of research, and what can be done to improve them. Here, Jim Smith, MRC Deputy Chief Executive and Director of Strategy, thinks about how discussions of reproducibility offer us the opportunity to improve the way science is done.
 
+
+MSDSE Reproducibility Zotero Bibliography
+https://www.zotero.org/groups/msdse-reproducibility
+2015-10-05
+This group is for sharing reproducibility related citeable resources within the Moore and Sloan Data Science Environments reproducibility working group effort.
 
 NEW STUDY: SCIENTIFIC RESEARCHES ARE NOT ALWAYS RELIABLE
 http://www.utahpeoplespost.com/2015/08/new-study-scientific-researches-are-not-always-reliable/
@@ -40,10 +52,10 @@ http://www.utahpeoplespost.com/2015/08/new-study-scientific-researches-are-not-a
 Researchers tested the credibility of past investigations reaching the conclusion of a new study: scientific researches are not always reliable. Few of the past studies could be replicated showing that some researches are either too biased or too distinctive to make a statement in history.
 
 
-The Results of the Reproducibility Project Are In. They're Not Good.
+The Results of the Reproducibility Project Are In. They’re Not Good.
 http://chronicle.com/article/The-Results-of-the/232695
 2015-08-28
-A decade ago, John P.A. Ioannidis published a provocative and much-discussed paper arguing that most published research findings are false. It's starting to look like he was right.
+A decade ago, John P.A. Ioannidis published a provocative and much-discussed paper arguing that most published research findings are false. It’s starting to look like he was right.
 
 
 MASSIVE STUDY REPORTS CHALLENGES IN REPRODUCING PUBLISHED PSYCHOLOGY FINDINGS
@@ -56,3 +68,66 @@ Reproducibility blues
 10.15252/embj.201570090
 2015-04-11
 Research findings advance science only if they are significant, reliable and reproducible. Scientists and journals must publish robust data in a way that renders it optimally reproducible. Reproducibility has to be incentivized and supported by the research infrastructure but without dampening innovation.
+
+
+Program Seeks to Nurture 'Data Science Culture' at Universities
+http://bits.blogs.nytimes.com/2013/11/12/program-seeks-to-nurture-data-science-culture-at-universities/?_php=true&_type=blogs&smid=fb-share&_r=1
+2013-11-12
+In collaboration with the University of Washington (UW) and Berkeley, and under the sponsorship of the Moore and Sloan foundations, we are working on a new initiative to 'harness the potential of data scientists and big data'. As part of this initiative, we aim to increase awareness of sharing, preservation, provenance, and reproducibility best practices across UW, NYU, Berkeley campuses and encourage their adoption. 
+
+
+Open-Access Deal for Particle Physics
+http://www.nature.com/news/open-access-deal-for-particle-physics-1.11468
+2012-09-24
+"The entire field of particle physics is set to switch to open-access publishing, a milestone in the push to make research results freely available to readers."
+
+
+Junk science? Most preclinical cancer studies don't replicate
+http://www.readthehook.com/103149/junk-science-most-preclinical-cancer-studies-dont-replicate
+2012-04-06
+When a cancer study is published in a prestigious peer-reviewed journal, the implication is the findings are robust, replicable, and point the way toward eventual treatments. Consequently, researchers scour their colleagues' work for clues about promising avenues to explore. Doctors pore over the pages, dreaming of new therapies coming down the pike. Which makes a new finding that nine out of 10 preclinical peer-reviewed cancer research studies cannot be replicated all the more shocking and discouraging.
+
+
+The Database Experiments Repository (DBXR) is Online
+http://www.dbxr.org/
+This site serves as a repository for experiments related to database research. Currently, it supports the submission and review of results published at PVLDB and ACM Sigmod.
+
+
+SIGMOD Repeatability Effort
+http://effdas.itu.dk/repeatability/tuning.html
+As part of this project, in collaboration with Philippe Bonnet, we are using (and extending) our infrastructure to support the SIGMOD Repeatability effort. Below are some case studies that illustrate how authors can create provenance-rich and reproducible papers, and how reviewers can both reproduce the experiments and perform workability tests: packaging an experiment on a distributed database system (link in title).
+
+
+How Bright Promise in Cancer Testing Fell Apart
+http://www.nytimes.com/2011/07/08/health/research/08genes.html
+2011-07-11
+Research at Duke University in genomics that involved fighting cancer by looking for gene patterns that would determine which drugs would best attack a particular cancer (no more trial-and-error treatment, considered a breakthrough). This research turned out to be wrong, due to flaws in the research (found by statisticians); if the research was reproducible, errors could have been found earlier and the patients could have continued their treatment. 
+
+
+It’s Science, but Not Necessarily Right
+http://www.nytimes.com/2011/06/26/opinion/sunday/26ideas.html?_r=2
+2011-06-25
+NY article discussing the issues with scientific reproducibility: "Why? One simple answer is that it takes a lot of time to look back over other scientists’ work and replicate their experiments. Scientists are busy people, scrambling to get grants and tenure. As a result, papers that attract harsh criticism may nonetheless escape the careful scrutiny required if they are to be refuted."
+
+Galois Conjugates of Topological Phases
+http://arxiv.org/abs/1106.3267
+2011-06-16
+Professor Matthias Troyer (ETH Zurich) and his collaborators have published a number of papers whose results are fully reproducible. He is using VisTrails to both carry out the experiments and to package them for publication. 
+
+
+The ALPS Project Release 2.0: Open Source Software for Strongly Correlated Systems
+http://arxiv.org/pdf/1101.2646.pdf
+2011-05-23
+Professor Matthias Troyer (ETH Zurich) and his collaborators have published a number of papers whose results are fully reproducible. He is using VisTrails to both carry out the experiments and to package them for publication. 
+
+
+Reproducible Research
+http://magazine.amstat.org/blog/2011/01/01/scipolicyjan11
+2011-01-01
+The journal Biostatistics has an associate editor for reproducibility who can assign grades of merit to conditionally accepted papers: D: data are available, C: code is available, and R: the AE could run the code and reproduce the results without much effort.
+
+
+Nobel Laureate Retracts Two Papers Unrelated to Her Prize
+http://www.nytimes.com/2010/09/24/science/24retraction.html?_r=1&emc=eta1
+2010-09-23
+Linda B. Buck, who shared the 2004 Nobel Prize in Physiology or Medicine for deciphering the workings of the sense of smell, has retracted two scientific papers after she and her colleagues were unable to repeat the findings.
