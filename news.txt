@@ -10,14 +10,14 @@ http://www.genengnews.com/gen-articles/promises-promises-and-cell-lines/5631/
 According to a 2013 report from the American Association for the Advancement of Science, $115 billion is spent annually in the United States on life science research. Fifty percent of this total is spent on preclinical research, half of which—$28 billion—is not reproducible.
 
 
-Speaking of Research Integrity: 
+Speaking of Research Integrity 
 http://www.the-scientist.com/?articles.view/articleNo/44424/title/Speaking-of-Research-Integrity/
 2015-11-06
 Panelists discuss reproducibility, data-sharing, and encouraging early-career researchers at this year’s World Science Forum.
 
 
 ReproZip Demo Tutorial Video
-https://www.youtube.com/watch?v=-zLPuwCHXo0
+https://youtu.be/-zLPuwCHXo0
 2015-11-05
 This is a demo video showing how to pack and unpack experiments with ReproZip.
 
@@ -43,10 +43,10 @@ The MRC and a group of partner organisations have today published a report and j
 MSDSE Reproducibility Zotero Bibliography
 https://www.zotero.org/groups/msdse-reproducibility
 2015-10-05
-This group is for sharing reproducibility related citeable resources within the Moore and Sloan Data Science Environments reproducibility working group effort.
+This group is for sharing reproducibility related citeable resources within the Moore and Sloan Data Science Environments reproducibility working group effort.
 
 
-NEW STUDY: SCIENTIFIC RESEARCHES ARE NOT ALWAYS RELIABLE
+New Study: Scientific Researchers Are Not Always Reliable
 http://www.utahpeoplespost.com/2015/08/new-study-scientific-researches-are-not-always-reliable/
 2015-08-29
 Researchers tested the credibility of past investigations reaching the conclusion of a new study: scientific researches are not always reliable. Few of the past studies could be replicated showing that some researches are either too biased or too distinctive to make a statement in history.
@@ -58,7 +58,7 @@ http://chronicle.com/article/The-Results-of-the/232695
 A decade ago, John P.A. Ioannidis published a provocative and much-discussed paper arguing that most published research findings are false. It’s starting to look like he was right.
 
 
-MASSIVE STUDY REPORTS CHALLENGES IN REPRODUCING PUBLISHED PSYCHOLOGY FINDINGS
+Massive Study Reports Challenges in Reproducing Published Psychology Findings
 https://news.virginia.edu/content/massive-study-reports-challenges-reproducing-published-psychology-findings
 2015-08-27
 A study that sought to replicate 100 findings published in three prominent psychology journals has found that, across multiple criteria, independent researchers could replicate less than half of the original findings. In some cases this may call into question the validity of some scientific findings, but it may also point to the difficulty of conducting effective replications and achieving reproducible results.
@@ -73,7 +73,7 @@ Research findings advance science only if they are significant, reliable and rep
 Program Seeks to Nurture 'Data Science Culture' at Universities
 http://bits.blogs.nytimes.com/2013/11/12/program-seeks-to-nurture-data-science-culture-at-universities/?_php=true&_type=blogs&smid=fb-share&_r=1
 2013-11-12
-In collaboration with the University of Washington (UW) and Berkeley, and under the sponsorship of the Moore and Sloan foundations, we are working on a new initiative to 'harness the potential of data scientists and big data'. As part of this initiative, we aim to increase awareness of sharing, preservation, provenance, and reproducibility best practices across UW, NYU, Berkeley campuses and encourage their adoption. 
+In collaboration with the University of Washington (UW) and Berkeley, and under the sponsorship of the Moore and Sloan foundations, NYU is working on a new initiative to 'harness the potential of data scientists and big data'. As part of this initiative, we aim to increase awareness of sharing, preservation, provenance, and reproducibility best practices across UW, NYU, Berkeley campuses and encourage their adoption. 
 
 
 Open-Access Deal for Particle Physics
@@ -89,11 +89,13 @@ When a cancer study is published in a prestigious peer-reviewed journal, the imp
 
 
 The Database Experiments Repository (DBXR) is Online
+2012-01-01
 http://www.dbxr.org/
 This site serves as a repository for experiments related to database research. Currently, it supports the submission and review of results published at PVLDB and ACM Sigmod.
 
 
 SIGMOD Repeatability Effort
+2012-01-01
 http://effdas.itu.dk/repeatability/tuning.html
 As part of this project, in collaboration with Philippe Bonnet, we are using (and extending) our infrastructure to support the SIGMOD Repeatability effort. Below are some case studies that illustrate how authors can create provenance-rich and reproducible papers, and how reviewers can both reproduce the experiments and perform workability tests: packaging an experiment on a distributed database system (link in title).
 
