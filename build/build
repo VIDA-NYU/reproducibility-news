@@ -6,6 +6,7 @@ import io
 from jinja2 import Environment, FileSystemLoader
 import os
 import time
+from xml.sax.saxutils import escape
 
 
 def format_date(d):
@@ -44,10 +45,10 @@ def main():
                 description = '\n'.join(description)
 
                 entries.append({
-                    'title': title,
-                    'link': link,
-                    'date': date,
-                    'description': description
+                    'title': escape(title),
+                    'link': escape(link),
+                    'date': escape(date),
+                    'description': escape(description)
                 })
         except StopIteration:
             pass
