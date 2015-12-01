@@ -45,6 +45,7 @@ https://www.zotero.org/groups/msdse-reproducibility
 2015-10-05
 This group is for sharing reproducibility related citeable resources within the Moore and Sloan Data Science Environments reproducibility working group effort.
 
+
 NEW STUDY: SCIENTIFIC RESEARCHES ARE NOT ALWAYS RELIABLE
 http://www.utahpeoplespost.com/2015/08/new-study-scientific-researches-are-not-always-reliable/
 2015-08-29
@@ -107,6 +108,7 @@ It’s Science, but Not Necessarily Right
 http://www.nytimes.com/2011/06/26/opinion/sunday/26ideas.html?_r=2
 2011-06-25
 NY article discussing the issues with scientific reproducibility: "Why? One simple answer is that it takes a lot of time to look back over other scientists’ work and replicate their experiments. Scientists are busy people, scrambling to get grants and tenure. As a result, papers that attract harsh criticism may nonetheless escape the careful scrutiny required if they are to be refuted."
+
 
 Galois Conjugates of Topological Phases
 http://arxiv.org/abs/1106.3267
