@@ -1,3 +1,8 @@
+Reproducibility of Research: Get Started
+http://campusguides.lib.utah.edu/reproducibility
+2015-12-01
+A research guide from the University of Utah on making research reproducible.
+
 Brian Nosek on the Reproducibility Project
 http://www.econtalk.org/archives/2015/11/brian_nosek_on.html
 2015-11-16
