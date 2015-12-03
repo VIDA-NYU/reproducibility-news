@@ -1,3 +1,9 @@
+Cancer reproducibility project scales back ambitions
+http://www.nature.com/news/cancer-reproducibility-project-scales-back-ambitions-1.18938
+2015-12-02
+The Reproducibility Project: Cancer Biology aims to get a better, quantitative estimate of the reproducibility of important work and to understand the challenges such efforts present. Begun in 2013, the project is run jointly by the Center for Open Science (COS) in Charlottesville, Virginia, and Science Exchange in Palo Alto, California. 
+
+
 Reproducibility of Research: Get Started
 http://campusguides.lib.utah.edu/reproducibility
 2015-12-01
