@@ -1,3 +1,9 @@
+How do we fix bad science?
+https://cosmosmagazine.com/society/how-do-we-fix-bad-science
+2015-12-07
+Independently verifying research can help science regain its credibility, argues Laurie Zoloth. His paper: “Why Most Published Research Findings Are False”, was published in August 2005, in PLOS Medicine. It became one of the journal’s most-cited articles. While climate sceptics, anti-vaccination campaigners and the rest of the pseudo-science community have dined out on this paper, arguably it has been a shot in the arm for science. 
+
+
 ReproZip 1.0.3 released
 https://github.com/ViDA-NYU/reprozip/releases/tag/1.0.3
 2015-12-02
