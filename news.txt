@@ -1,3 +1,33 @@
+Reproducibility in Medical IVA
+https://osf.io/5afwm/
+2015-12-09
+Project on Reproducibility and Robustness of the Empirical Instrumental Variables Literature in Medicine. 
+
+
+Reproducibility: Experimental mismatch in neural circuits
+http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16323.html
+2015-12-09
+The finding that acute and chronic manipulations of the same neural circuit can produce different behavioural outcomes poses new questions about how best to analyse these circuits.
+
+
+Translation, cultural adaptation and reproducibility of the Oxford Shoulder Score questionnaire for Brazil, among patients with rheumatoid arthritis.
+http://www.ncbi.nlm.nih.gov/pubmed/26648280
+2015-12-08
+Although shoulder questionnaires validated for Brazil do exist, none of them are aimed at populations with rheumatic disease. We believe that the Oxford Shoulder Score (OSS) may be useful in this population. The objective of this study was to translate the OSS, adapt it to Brazilian culture and test its reproducibility.
+
+
+Letting Out Steam: Reproducibility Problems
+https://www.digital-science.com/blog/perspectives/letting-out-steam-reproducibility-problems/
+2015-12-08
+The first part of the STM innovations seminar focused on the problems of reproducibility in science. For some years now, there have been voices of concern noting that when previously reported results are tested, the data very often doesn’t come out the same way. During the seminar, Andrew Hufton of Scientific Data went so far as to state that progress in the pharmaceutical sciences is being held back by lack of reliability in the basic literature. 
+
+
+Big problems for common fMRI thresholding methods
+http://reproducibility.stanford.edu/big-problems-for-common-fmri-thresholding-methods/
+2015-12-08
+Stanford Center for Reproducible Neuroscience: A new preprint has been posted to the ArXiv that has very important implications and should be required reading for all fMRI researchers.  Anders Eklund, Tom Nichols, and Hans Knutson applied task fMRI analyses to a large number of resting fMRI datasets, in order to identify the empirical corrected “familywise” Type I error rates observed under the null hypothesis for both voxel-wise and cluster-wise inference.  What they found is shocking: While voxel-wise error rates were valid, nearly all cluster-based parametric methods (except for FSL’s FLAME 1) have greatly inflated familywise Type I error rates.  This inflation was worst for analyses using lower cluster-forming thresholds (e.g. p=0.01) compared to higher thresholds, but even with higher thresholds there was serious inflation.  This should be a sobering wake-up call for fMRI researchers, as it suggests that the methods used in a large number of previous publications suffer from exceedingly high false positive rates (sometimes greater than 50%).  
+
+
 How do we fix bad science?
 https://cosmosmagazine.com/society/how-do-we-fix-bad-science
 2015-12-07
