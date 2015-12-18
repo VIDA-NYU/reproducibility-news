@@ -10,6 +10,12 @@ http://www.nist.gov/itl/ssd/is/upload/NRE-2015-00-SC16SCC_CfP_slide.pdf
 Replication and reproducibility of experimental computer science results in peer-reviewed paper is gaining relevance in the HPC community. SC, the leading conference in the field, wants to promote and support replication and reproducibility through a new initiative that aims to integrate aspects of past technical papers into the Student Cluster Competition (SCC). SC16 invites authors of technical papers accepted at past SC conferences, including SC15, to submit proposals for case studies based on applications and tests in their SC paper that can be transformed into benchmarks for the SCC. This initiative provides SC authors with the unique opportunity to further promote their published research as an example of replicable and reproducible experimental computer science.
 
 
+Clinical Genetics Has a Big Problem That's Affecting People's Lives
+http://www.theatlantic.com/science/archive/2015/12/why-human-genetics-research-is-full-of-costly-mistakes/420693/
+2015-12-16
+Over the last decade, there’s been a lot of talk about reproducibility problems in science — about published results that turn out to be false alarms. In fields like psychology, neuroscience, and cell biology, these errors can send scientists down unproductive paths, waste time and money, and pollute headlines with misleading claims. “But I get much more exercised about reproducibility problems in clinical genetics, because those have massive and real-time consequences for thousands of families,” says MacArthur.
+
+
 Emphasize Sex in Research, orders National Institutes of Health
 http://synapse.ucsf.edu/articles/2015/12/16/emphasize-sex-research-orders-national-institutes-health
 2015-12-16
