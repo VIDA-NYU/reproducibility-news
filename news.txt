@@ -1,3 +1,9 @@
+A Proactive Approach to Reproducibility with Evidence-Based Research on Research
+https://www.plos.org/a-proactive-approach-to-reproducibility-with-evidence-based-research-on-research/
+2016-01-06
+The new Meta-Research Section in PLOS Biology is not the only example of how PLOS strives to improve the scientific endeavor through innovative communication efforts. PLOS has always recognized that publication of studies that reproduce published work or null results, either confirming or refuting the original result, is essential for progress in research. In fact, the largest journal at PLOS, PLOS ONE, is one of only a handful of publications that actively encourage these types of submissions with The Missing Pieces Collection.
+
+
 Reproducibility Project Named Among Top Scientific Achievements of 2015
 https://www.psychologicalscience.org/index.php/publications/observer/obsonline/reproducibility-project-named-among-top-scientific-achievements-of-2015.html
 2016-01-05
