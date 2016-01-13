@@ -16,6 +16,12 @@ http://blog.revolutionanalytics.com/2016/01/rs-role-in-science-breakthrough-repr
 R is a natural fit for a reproducibility project like this: as a scripting language, the R script itself provides a reproducible documentation of every step of the process. (Revolution R Open, Microsoft's enhanced R distribution, additionally includes features to facilitate reproducibility when using R packages.) The R script used for the psychology replication project describes and executes the process for checking the results of the papers.
 
 
+"PEOPLE LIKE STORIES" A SHORT FILM ABOUT REPRODUCIBILITY
+https://politicalsciencereplication.wordpress.com/2016/01/07/people-like-stories-a-short-film-about-reproducibility/
+2016-01-07
+We need mathematical help to tell the difference between a real discovery and the illusion of one. Fellow of the Royal Society and future President of the Royal Statistical Society, Sir David Spiegelhalter visits Dr Nicole Janz  to discuss reproducibility in scientific publications.
+
+
 A Proactive Approach to Reproducibility with Evidence-Based Research on Research
 https://www.plos.org/a-proactive-approach-to-reproducibility-with-evidence-based-research-on-research/
 2016-01-06
