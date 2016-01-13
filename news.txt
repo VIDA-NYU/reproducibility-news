@@ -1,3 +1,21 @@
+Lecture: A Noob's Guide to Reproducibility
+http://bids.berkeley.edu/events/noobs-guide-reproducibility
+2016-01-11
+Lecture on January 25, 2016; 4:00pm to 5:00pm; 3110 Etcheverry Hall at Berkely Institute of Data Science. What does it mean to work reproducibly and transparently? Why bother? Whom does it benefit, and how? What will it cost me? What work habits will I need to change? Will I need to learn new tools? What resources help? What's the simplest thing I can do to make my work more reproducible? How can I move my discipline, my institution, and science as a whole towards reproducibility?
+
+
+Upcoming Webinar: Scientific Rigor and Data Reproducibility
+https://www.sfn.org/news-and-calendar/news-and-calendar/news/professional-development/upcoming-webinar-scientific-rigor-and-data-reproducibility
+2016-01-11
+The topics of scientific rigor and data reproducibility have been increasingly covered in the scientific and mainstream media, and are being addressed by publishers, professional organizations, and funding agencies, including NIH. This webinar – the first in a series titled Training Modules to Enhance Data Reproducibility (TMEDR) – will address topics of scientific rigor as they pertain to pre-clinical neuroscience research. 
+
+
+R's role in science breakthrough: reproducibility of psychology studies
+http://blog.revolutionanalytics.com/2016/01/rs-role-in-science-breakthrough-reproducibility-of-psychology-studies.html
+2016-01-08
+R is a natural fit for a reproducibility project like this: as a scripting language, the R script itself provides a reproducible documentation of every step of the process. (Revolution R Open, Microsoft's enhanced R distribution, additionally includes features to facilitate reproducibility when using R packages.) The R script used for the psychology replication project describes and executes the process for checking the results of the papers.
+
+
 A Proactive Approach to Reproducibility with Evidence-Based Research on Research
 https://www.plos.org/a-proactive-approach-to-reproducibility-with-evidence-based-research-on-research/
 2016-01-06
