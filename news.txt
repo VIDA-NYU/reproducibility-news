@@ -1,3 +1,9 @@
+FASEB Issues Recommendations on Reproducibility
+http://www.faseb.org/Resources-for-the-Public/News-Room/Article-Detail-View/tabid/1014/ArticleId/1251/FASEB-Issues-Recommendations-on-Reproducibility.aspx
+2016-01-14
+Today the Federation of American Societies for Experimental Biology (FASEB) issued Enhancing Research Reproducibility, a set of recommendations aimed to promote the reproducibility and transparency of biomedical and biological research. 
+
+
 Lecture: A Noob's Guide to Reproducibility
 http://bids.berkeley.edu/events/noobs-guide-reproducibility
 2016-01-11
