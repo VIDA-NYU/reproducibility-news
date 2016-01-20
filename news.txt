@@ -1,3 +1,9 @@
+noWorkflow Demo Video Released
+https://www.youtube.com/watch?v=lyJnbwdArJM
+2016-01-20
+A video demonstrating noWorkflow, a non-intrusive tool that allows researchers to capture a variety of provenance information and utilize the analyses it supports, including graph-based visualization, differencing over provenance trails, and inference queries.
+
+
 FASEB Issues Recommendations on Reproducibility
 http://www.faseb.org/Resources-for-the-Public/News-Room/Article-Detail-View/tabid/1014/ArticleId/1251/FASEB-Issues-Recommendations-on-Reproducibility.aspx
 2016-01-14
