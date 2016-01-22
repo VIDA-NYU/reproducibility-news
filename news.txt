@@ -1,3 +1,9 @@
+New Shotgun Mass Spec Workflow Could Improve Reproducibility of Protein Quantitation in DDA
+https://www.genomeweb.com/proteomics-protein-research/new-shotgun-mass-spec-workflow-could-improve-reproducibility-protein
+2016-01-21
+Researchers at Sweden's Karolinska Institute and Royal Institute of Technology have developed a new data analysis workflow for shotgun mass spec that could help improve the technique's quantitative reproducibility. Detailed in a paper published this month in Molecular & Cellular Proteomics, the approach uses a new quality scoring system that allows for more reliable recovery of missing data points across multiple mass spec runs.
+
+
 noWorkflow Demo Video Released
 https://www.youtube.com/watch?v=lyJnbwdArJM
 2016-01-20
