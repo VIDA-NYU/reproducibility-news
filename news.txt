@@ -1,3 +1,21 @@
+ReproZip Poster Accepted at FORCE2016
+2016-01-27
+https://www.force11.org/meetings/force2016/program/agenda
+Fernando Chirigati and Remi Rampin's poster "Enhancing Scholarly Communication with ReproZip" was recently accepted at FORCE2016, a conference from FORCE11 a community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing. 
+
+
+GBSI Doubles Down on Research Reproducibility at Annual BioPolicy Summit and Webcast in Washington, DC, February 9th
+2016-27-01
+http://www.newswise.com/articles/gbsi-doubles-down-on-research-reproducibility-at-annual-biopolicy-summit-and-webcast-in-washington-dc-february-9th
+The Summit will also introduce GBSI’s Reproducibility2020, an action plan for the biomedical research community to significantly improve the quality of research by 2020 targeting: 1) improved validation and standardization of biological reagents; 2) better tools and technologies to expand open access for reporting and sharing protocols and data; and 3) increased training that emphasizes rigorous study design and practice.
+
+
+Reproducibility from a Mostly Selfish Point of View
+2016-07-01
+https://discuss.ropensci.org/t/slides-and-some-thoughts-on-a-talk-about-reproducibility/294
+A talk given by Noam Ross: "Why was, as the title suggests, primarily focused on the benefits of reproducibility to us, and I proceeded from avoiding negatives (risk avoidance) to creating positives (more impact). In How I tried to be very high-level, talking about major concepts in reproducibility, and then talking generally about the tools that I have used for each, emphasizing that they may not be the right tools for everyone. Then we had a discussion about the most promising areas and tools to start with."
+
+
 New Shotgun Mass Spec Workflow Could Improve Reproducibility of Protein Quantitation in DDA
 https://www.genomeweb.com/proteomics-protein-research/new-shotgun-mass-spec-workflow-could-improve-reproducibility-protein
 2016-01-21
