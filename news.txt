@@ -1,3 +1,9 @@
+Startup unveils tools to improve trial reproducibility
+http://www.mmm-online.com/dataanalytics/startup-unveils-tools-to-improve-trial-reproducibility/article/471977/
+2016-02-09
+Elemental Machines, which develops smart laboratory technology, launched a new suite of tools that that measure environmental variables such as temperature and humidity—both of which are not traditionally accounted for in scientific experiments. By “debugging” the lab environment, the company believes it can improve experimental reproducibility, therefore reducing the time and cost of marketing new drugs and therapies. Elemental Machines recently raised $2.5 million in seed capital to support the development of the new suite of tools, which is called the EM Suite.
+
+
 Co-founder of Center for Scientific Integrity speaks Feb. 19 about issues in scholarly publishing
 2016-02-05
 http://www.montana.edu/news/15963/co-founder-of-center-for-scientific-integrity-speaks-feb-19-about-issues-in-scholarly-publishing
