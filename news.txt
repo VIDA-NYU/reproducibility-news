@@ -1,3 +1,15 @@
+A Noob's Guide to Reproducibility
+http://www.stat.berkeley.edu/~stark/Seminars/reproNE16.htm#1
+2016-02-10
+A presentation by Philip B. Stark of University of California at Berkeley that gives a great 101-style look into what the everyday researcher can do to make their science more reproducible. 
+
+
+Science is “show me,” not “trust me”
+http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/
+2016-02-10
+A blog post from Philip B. Stark, Associate Dean of the Division of Mathematical and Physical Sciences, UC Berkeley Professor of Statistics, and winner of one of BITSS’ Leamer-Rosenthal Prizes for Open Social Science. This post discuss the core elements of reproducibility; its principles and practices.
+
+
 Startup unveils tools to improve trial reproducibility
 http://www.mmm-online.com/dataanalytics/startup-unveils-tools-to-improve-trial-reproducibility/article/471977/
 2016-02-09
