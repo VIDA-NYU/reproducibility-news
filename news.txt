@@ -1,13 +1,7 @@
-A Noob's Guide to Reproducibility
-http://www.stat.berkeley.edu/~stark/Seminars/reproNE16.htm#1
-2016-02-10
-A presentation by Philip B. Stark of University of California at Berkeley that gives a great 101-style look into what the everyday researcher can do to make their science more reproducible. 
-
-
-Science is “show me,” not “trust me”
-http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/
-2016-02-10
-A blog post from Philip B. Stark, Associate Dean of the Division of Mathematical and Physical Sciences, UC Berkeley Professor of Statistics, and winner of one of BITSS’ Leamer-Rosenthal Prizes for Open Social Science. This post discuss the core elements of reproducibility; its principles and practices.
+Friday: Reusing Data and Making Your Data Reusable
+http://data-services.hosting.nyu.edu/updates/lyd16-friday/
+2016-02-12
+This blog post is apart of the Love Your Data campaign #LYD16, a global and cross-institution awareness campaign for open data, research reproducibility, and research data management. This post features ReproMatch and ReproZip as important tools for achieving reproducibility. 
 
 
 Startup unveils tools to improve trial reproducibility
