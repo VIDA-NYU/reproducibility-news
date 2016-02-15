@@ -1,3 +1,15 @@
+"A practical guide for improving transparency and reproducibility in neuroimaging research"
+http://dx.doi.org/10.1101/039354
+2016-02-14
+Recent years have seen an increase in alarming signals about the lack of replicability in neuroscience, psychology, and other related fields. To avoid a widespread crisis in our field and consequent loss of credibility in the public eye, we need to improve how we do science. This article aims to be a practical guide for researchers at any stage of their careers that will help them make their research more reproducible and transparent while minimizing the additional effort that this might require. The guide covers three major topics in open science (data, code, and publications) and offers practical advice as well as highlighting advantages of adopting more open research practices that go beyond improved transparency and reproducibility.
+
+
+A New Group Is Dedicated To Double-Checking Scientists' Work
+http://www.newsy.com/videos/a-new-group-is-dedicated-to-double-checking-scientists-work/
+2016-02-12
+For the past decade, scientists have been worried about the so-called replication crisis. Enter the Preclinical Reproducibility and Robustness channel. The website launched the first week in February with the goal of publishing the results of replication studies. The journal wants to keep scientists accountable for their work.
+
+
 BioPolicy Summit tackles reproducibility of science issues
 https://biodesign.asu.edu/news/biopolicy-summit-tackles-reproducibility-science-issues
 2016-02-12
