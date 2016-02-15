@@ -47,38 +47,38 @@ Elemental Machines, which develops smart laboratory technology, launched a new s
 
 
 Co-founder of Center for Scientific Integrity speaks Feb. 19 about issues in scholarly publishing
-2016-02-05
 http://www.montana.edu/news/15963/co-founder-of-center-for-scientific-integrity-speaks-feb-19-about-issues-in-scholarly-publishing
+2016-02-05
 Adam Marcus, cofounder of Retraction Watch and the Center for Scientific Integrity, will give a free lecture about issues in scholarly science publishing at 4 p.m. Friday, Feb. 19, in 103 Reid Hall at Montana State University.
 
 
 Misfit Founders Raise $2.5M to 'Debug the Physical World' With New Startup
-2016-02-03
 http://bostinno.streetwise.co/2016/02/03/misfit-wearables-founders-raise-2-5m-for-elemental-machines/
+2016-02-03
 Elemental Machines, a venture based in Boston and San Francisco, has come out of stealth mode. The startup says it's raised $2.5 million in seed from investors including Founders Fund’s FF Angel, PayPal co-founder Max Levchin and Project 11 Ventures. And now it’s ready to change the way our world does science, providing the infrastructure that will ensure experiment reproducibility for researchers.
 
 
 Reproducibility: A tragedy of errors
-2016-02-03
 http://www.nature.com/news/reproducibility-a-tragedy-of-errors-1.19264
+2016-02-03
 Mistakes in peer-reviewed papers are easy to find but hard to fix, report David B. Allison and colleagues: "In the course of assembling weekly lists of articles in our field, we began noticing more peer-reviewed articles containing what we call substantial or invalidating errors. These involve factual mistakes or veer substantially from clearly accepted procedures in ways that, if corrected, might alter a paper's conclusions."
 
 
 ReproZip Poster Accepted at FORCE2016
-2016-01-27
 https://www.force11.org/meetings/force2016/program/agenda
+2016-01-27
 Fernando Chirigati and Remi Rampin's poster "Enhancing Scholarly Communication with ReproZip" was recently accepted at FORCE2016, a conference from FORCE11 a community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing. 
 
 
 GBSI Doubles Down on Research Reproducibility at Annual BioPolicy Summit and Webcast in Washington, DC, February 9th
-2016-27-01
 http://www.newswise.com/articles/gbsi-doubles-down-on-research-reproducibility-at-annual-biopolicy-summit-and-webcast-in-washington-dc-february-9th
+2016-27-01
 The Summit will also introduce GBSI’s Reproducibility2020, an action plan for the biomedical research community to significantly improve the quality of research by 2020 targeting: 1) improved validation and standardization of biological reagents; 2) better tools and technologies to expand open access for reporting and sharing protocols and data; and 3) increased training that emphasizes rigorous study design and practice.
 
 
 Reproducibility from a Mostly Selfish Point of View
-2016-07-01
 https://discuss.ropensci.org/t/slides-and-some-thoughts-on-a-talk-about-reproducibility/294
+2016-01-01
 A talk given by Noam Ross: "Why was, as the title suggests, primarily focused on the benefits of reproducibility to us, and I proceeded from avoiding negatives (risk avoidance) to creating positives (more impact). In How I tried to be very high-level, talking about major concepts in reproducibility, and then talking generally about the tools that I have used for each, emphasizing that they may not be the right tools for everyone. Then we had a discussion about the most promising areas and tools to start with."
 
 
