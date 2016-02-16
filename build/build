@@ -5,12 +5,28 @@ import email.utils
 import io
 from jinja2 import Environment, FileSystemLoader
 import os
+import sys
 import time
+import traceback
 from xml.sax.saxutils import escape
 
 
 def format_date(d):
     return email.utils.formatdate(time.mktime(d.timetuple()))
+
+
+class StrippedCountedIterator(object):
+    def __init__(self, fp):
+        self.fp = fp
+        self.line_number = 0
+
+    def __iter__(self):
+        return self
+
+    def next(self):
+        l = next(self.fp).strip()
+        self.line_number += 1
+        return l
 
 
 def main():
@@ -19,39 +35,49 @@ def main():
     entries = []
 
     with io.open('news.txt', encoding='utf-8') as fp_:
-        fp = (l.strip() for l in fp_)
-        try:
-            while True:
+        fp = StrippedCountedIterator(fp_)
+        while True:
+            try:
                 title = next(fp)
+            except StopIteration:
+                break
+            else:
                 if not title:
                     continue
-                link = next(fp)
-                date = next(fp)
-                date = datetime.strptime(date, '%Y-%m-%d')
-                date = format_date(date)
-                description = []
                 try:
-                    while True:
-                        line = next(fp)
-                        if not line:
+                    link = next(fp)
+                    date = next(fp)
+                    date = datetime.strptime(date, '%Y-%m-%d')
+                    date = format_date(date)
+                    description = []
+                    try:
+                        while True:
                             line = next(fp)
                             if not line:
-                                break
-                            else:
-                                description.append('')
-                        description.append(line)
-                except StopIteration:
-                    pass
-                description = '\n'.join(description)
+                                line = next(fp)
+                                if not line:
+                                    break
+                                else:
+                                    description.append('')
+                            description.append(line)
+                    except StopIteration:
+                        pass
+                    description = '\n'.join(description)
 
-                entries.append({
-                    'title': escape(title),
-                    'link': escape(link),
-                    'date': escape(date),
-                    'description': escape(description)
-                })
-        except StopIteration:
-            pass
+                    entries.append({
+                        'title': escape(title),
+                        'link': escape(link),
+                        'date': escape(date),
+                        'description': escape(description)
+                    })
+                except StopIteration:
+                    sys.stderr.write("The last entry is incomplete\n")
+                    sys.exit(1)
+                except Exception:
+                    traceback.print_exc()
+                    sys.stderr.write("Error located on line %d\n" %
+                                     fp.line_number)
+                    sys.exit(1)
 
     template = template_env.get_template('feed.rss.tpl')
 
