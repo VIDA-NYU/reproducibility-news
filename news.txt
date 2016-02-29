@@ -1,217 +1,217 @@
 How Many Replication Studies are Enough?
 http://www.nature.com/news/how-many-replication-studies-are-enough-1.19461
 2016-02-26
-replication tests
+replication study, news article
 Researchers on social media ask at what point replication efforts go from useful to wasteful. The problem of irreproducibility in science has gained widespread attention, but one aspect that is discussed less often is how to find the right balance between replicating findings and moving a field forward from well-established ones.
 
 
 A Bayesian Perspective on the Reproducibility Project: Psychology
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794
 2016-02-26
-replication tests
+replication study, reproducible paper
 We revisit the results of the recent Reproducibility Project: Psychology by the Open Science Collaboration. We compute Bayes factors—a quantity that can be used to express comparative evidence for an hypothesis but also for the null hypothesis—for a large subset (N = 72) of the original papers and their corresponding replication attempts.
 
 
 A Practical Guide for Improving transparency and Reproducibility in Neuroimaging Research
 http://dx.doi.org/10.1101/039354
 2016-02-14
-reproducibility guide, guide, neuroimaging
+reproducibility guidelines 
 Recent years have seen an increase in alarming signals about the lack of replicability in neuroscience, psychology, and other related fields. To avoid a widespread crisis in our field and consequent loss of credibility in the public eye, we need to improve how we do science. This article aims to be a practical guide for researchers at any stage of their careers that will help them make their research more reproducible and transparent while minimizing the additional effort that this might require. The guide covers three major topics in open science (data, code, and publications) and offers practical advice as well as highlighting advantages of adopting more open research practices that go beyond improved transparency and reproducibility.
 
 
 A New Group Is Dedicated To Double-Checking Scientists' Work
 http://www.newsy.com/videos/a-new-group-is-dedicated-to-double-checking-scientists-work/
 2016-02-12
-
+reproducibility infrastructure, popular news
 For the past decade, scientists have been worried about the so-called replication crisis. Enter the Preclinical Reproducibility and Robustness channel. The website launched the first week in February with the goal of publishing the results of replication studies. The journal wants to keep scientists accountable for their work.
 
 
 BioPolicy Summit tackles reproducibility of science issues
 https://biodesign.asu.edu/news/biopolicy-summit-tackles-reproducibility-science-issues
 2016-02-12
-
-The 2016 GBSI Summit—“Research Reproducibility: Innovative Solutions to Drive Quality” welcomed premiere life science thought leaders, including Arizona State University biomarker researcher Joshua LaBaer, MD, PhD, and science correspondent and moderator Richard Harris (currently on leave from National Public Radio as a visiting scholar this spring at Arizona State University), to explore the driving forces and profound impacts behind the issues.
+reproducible conference, news article, reproducibility talk
+The 2016 GBSI Summit—"Research Reproducibility: Innovative Solutions to Drive Quality" welcomed premiere life science thought leaders, including Arizona State University biomarker researcher Joshua LaBaer, MD, PhD, and science correspondent and moderator Richard Harris (currently on leave from National Public Radio as a visiting scholar this spring at Arizona State University), to explore the driving forces and profound impacts behind the issues.
 
 
 It’s a kind of magic: how to improve adherence to reporting guidelines
 http://blogs.biomedcentral.com/bmcseriesblog/2016/02/12/kind-magic-improve-adherence-reporting-guidelines/
 2016-02-12
-
+popular news, news article, reproducible journal
 Finding a relevant reporting guideline for a study can be very difficult. Here we introduce a pilot experiment starting for some of the BMC-series journals which aims to overcome this issue.
 
 
 Friday: Reusing Data and Making Your Data Reusable
 http://data-services.hosting.nyu.edu/updates/lyd16-friday/
 2016-02-12
-
+research guide
 This blog post is apart of the Love Your Data campaign #LYD16, a global and cross-institution awareness campaign for open data, research reproducibility, and research data management. This post features ReproMatch and ReproZip as important tools for achieving reproducibility. 
 
 
 A Noob's Guide to Reproducibility
 http://www.stat.berkeley.edu/~stark/Seminars/reproNE16.htm#1
 2016-02-10
-
+reproducibility guidelines, reproducibility talk
 A presentation by Philip B. Stark of University of California at Berkeley that gives a great 101-style look into what the everyday researcher can do to make their science more reproducible. 
 
 
 Science is "show me," not "trust me"
 http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/
 2016-02-10
-
+reproducibility guidelines, popular news
 A blog post from Philip B. Stark, Associate Dean of the Division of Mathematical and Physical Sciences, UC Berkeley Professor of Statistics, and winner of one of BITSS’ Leamer-Rosenthal Prizes for Open Social Science. This post discuss the core elements of reproducibility; its principles and practices.
 
 
 Startup unveils tools to improve trial reproducibility
 http://www.mmm-online.com/dataanalytics/startup-unveils-tools-to-improve-trial-reproducibility/article/471977/
 2016-02-09
-
+reproducibility infrastructure, popular news, news article
 Elemental Machines, which develops smart laboratory technology, launched a new suite of tools that that measure environmental variables such as temperature and humidity—both of which are not traditionally accounted for in scientific experiments. By “debugging” the lab environment, the company believes it can improve experimental reproducibility, therefore reducing the time and cost of marketing new drugs and therapies. Elemental Machines recently raised $2.5 million in seed capital to support the development of the new suite of tools, which is called the EM Suite.
 
 
 Co-founder of Center for Scientific Integrity speaks Feb. 19 about issues in scholarly publishing
 http://www.montana.edu/news/15963/co-founder-of-center-for-scientific-integrity-speaks-feb-19-about-issues-in-scholarly-publishing
 2016-02-05
-
+open access, reproducibility talk
 Adam Marcus, cofounder of Retraction Watch and the Center for Scientific Integrity, will give a free lecture about issues in scholarly science publishing at 4 p.m. Friday, Feb. 19, in 103 Reid Hall at Montana State University.
 
 
 Misfit Founders Raise $2.5M to 'Debug the Physical World' With New Startup
 http://bostinno.streetwise.co/2016/02/03/misfit-wearables-founders-raise-2-5m-for-elemental-machines/
 2016-02-03
-
+reproducibility infrastructure, popular news
 Elemental Machines, a venture based in Boston and San Francisco, has come out of stealth mode. The startup says it's raised $2.5 million in seed from investors including Founders Fund’s FF Angel, PayPal co-founder Max Levchin and Project 11 Ventures. And now it’s ready to change the way our world does science, providing the infrastructure that will ensure experiment reproducibility for researchers.
 
 
 Reproducibility: A tragedy of errors
 http://www.nature.com/news/reproducibility-a-tragedy-of-errors-1.19264
 2016-02-03
-
+news article, reproducibility report
 Mistakes in peer-reviewed papers are easy to find but hard to fix, report David B. Allison and colleagues: "In the course of assembling weekly lists of articles in our field, we began noticing more peer-reviewed articles containing what we call substantial or invalidating errors. These involve factual mistakes or veer substantially from clearly accepted procedures in ways that, if corrected, might alter a paper's conclusions."
 
 
 ReproZip Poster Accepted at FORCE2016
 https://www.force11.org/meetings/force2016/program/agenda
 2016-01-27
-
+ReproZip, reproducibility talk, reproducibility infrastructure
 Fernando Chirigati and Remi Rampin's poster "Enhancing Scholarly Communication with ReproZip" was recently accepted at FORCE2016, a conference from FORCE11 a community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing. 
 
 
 GBSI Doubles Down on Research Reproducibility at Annual BioPolicy Summit and Webcast in Washington, DC, February 9th
 http://www.newswise.com/articles/gbsi-doubles-down-on-research-reproducibility-at-annual-biopolicy-summit-and-webcast-in-washington-dc-february-9th
 2016-01-27
-
+reproducible conference, news article, reproducibility talk
 The Summit will also introduce GBSI’s Reproducibility2020, an action plan for the biomedical research community to significantly improve the quality of research by 2020 targeting: 1) improved validation and standardization of biological reagents; 2) better tools and technologies to expand open access for reporting and sharing protocols and data; and 3) increased training that emphasizes rigorous study design and practice.
 
 
 Reproducibility from a Mostly Selfish Point of View
 https://discuss.ropensci.org/t/slides-and-some-thoughts-on-a-talk-about-reproducibility/294
 2016-01-27
-
+popular news, news article, reproducibility talk
 A talk given by Noam Ross: "Why was, as the title suggests, primarily focused on the benefits of reproducibility to us, and I proceeded from avoiding negatives (risk avoidance) to creating positives (more impact). In How I tried to be very high-level, talking about major concepts in reproducibility, and then talking generally about the tools that I have used for each, emphasizing that they may not be the right tools for everyone. Then we had a discussion about the most promising areas and tools to start with."
 
 
 New Shotgun Mass Spec Workflow Could Improve Reproducibility of Protein Quantitation in DDA
 https://www.genomeweb.com/proteomics-protein-research/new-shotgun-mass-spec-workflow-could-improve-reproducibility-protein
 2016-01-21
-
+reproducibility report, news article, reproducibility infrastructure
 Researchers at Sweden's Karolinska Institute and Royal Institute of Technology have developed a new data analysis workflow for shotgun mass spec that could help improve the technique's quantitative reproducibility. Detailed in a paper published this month in Molecular & Cellular Proteomics, the approach uses a new quality scoring system that allows for more reliable recovery of missing data points across multiple mass spec runs.
 
 
 noWorkflow Demo Video Released
 https://www.youtube.com/watch?v=lyJnbwdArJM
 2016-01-20
-
+noWorkflow, reproducibility infrastructure
 A video demonstrating noWorkflow, a non-intrusive tool that allows researchers to capture a variety of provenance information and utilize the analyses it supports, including graph-based visualization, differencing over provenance trails, and inference queries.
 
 
 FASEB Issues Recommendations on Reproducibility
 http://www.faseb.org/Resources-for-the-Public/News-Room/Article-Detail-View/tabid/1014/ArticleId/1251/FASEB-Issues-Recommendations-on-Reproducibility.aspx
 2016-01-14
-
+reproducibility report, news article, reproducibility guidelines
 Today the Federation of American Societies for Experimental Biology (FASEB) issued Enhancing Research Reproducibility, a set of recommendations aimed to promote the reproducibility and transparency of biomedical and biological research. 
 
 
 Lecture: A Noob's Guide to Reproducibility
 http://bids.berkeley.edu/events/noobs-guide-reproducibility
 2016-01-11
-
+reproducibility talk
 Lecture on January 25, 2016; 4:00pm to 5:00pm; 3110 Etcheverry Hall at Berkely Institute of Data Science. What does it mean to work reproducibly and transparently? Why bother? Whom does it benefit, and how? What will it cost me? What work habits will I need to change? Will I need to learn new tools? What resources help? What's the simplest thing I can do to make my work more reproducible? How can I move my discipline, my institution, and science as a whole towards reproducibility?
 
 
 Upcoming Webinar: Scientific Rigor and Data Reproducibility
 https://www.sfn.org/news-and-calendar/news-and-calendar/news/professional-development/upcoming-webinar-scientific-rigor-and-data-reproducibility
 2016-01-11
-
+reproducibility talk, reproducibility guidelines, news article, popular article
 The topics of scientific rigor and data reproducibility have been increasingly covered in the scientific and mainstream media, and are being addressed by publishers, professional organizations, and funding agencies, including NIH. This webinar – the first in a series titled Training Modules to Enhance Data Reproducibility (TMEDR) – will address topics of scientific rigor as they pertain to pre-clinical neuroscience research. 
 
 
 R's role in science breakthrough: reproducibility of psychology studies
 http://blog.revolutionanalytics.com/2016/01/rs-role-in-science-breakthrough-reproducibility-of-psychology-studies.html
 2016-01-08
-
+popular article, news article, reproducibility infrastructure
 R is a natural fit for a reproducibility project like this: as a scripting language, the R script itself provides a reproducible documentation of every step of the process. (Revolution R Open, Microsoft's enhanced R distribution, additionally includes features to facilitate reproducibility when using R packages.) The R script used for the psychology replication project describes and executes the process for checking the results of the papers.
 
 
 "PEOPLE LIKE STORIES" A SHORT FILM ABOUT REPRODUCIBILITY
 https://politicalsciencereplication.wordpress.com/2016/01/07/people-like-stories-a-short-film-about-reproducibility/
 2016-01-07
-
+reproducibility talk, popular news
 We need mathematical help to tell the difference between a real discovery and the illusion of one. Fellow of the Royal Society and future President of the Royal Statistical Society, Sir David Spiegelhalter visits Dr Nicole Janz  to discuss reproducibility in scientific publications.
 
 
 A Proactive Approach to Reproducibility with Evidence-Based Research on Research
 https://www.plos.org/a-proactive-approach-to-reproducibility-with-evidence-based-research-on-research/
 2016-01-06
-
+reproducible journal, news article
 The new Meta-Research Section in PLOS Biology is not the only example of how PLOS strives to improve the scientific endeavor through innovative communication efforts. PLOS has always recognized that publication of studies that reproduce published work or null results, either confirming or refuting the original result, is essential for progress in research. In fact, the largest journal at PLOS, PLOS ONE, is one of only a handful of publications that actively encourage these types of submissions with The Missing Pieces Collection.
 
 
 Reproducibility Project Named Among Top Scientific Achievements of 2015
 https://www.psychologicalscience.org/index.php/publications/observer/obsonline/reproducibility-project-named-among-top-scientific-achievements-of-2015.html
 2016-01-05
-
+reproducible journal, replication study
 The journal Science has named a major attempt to replicate 100 papers published in top-tier psychology journals as one of the "breakthroughs of the year" for 2015.
 
 
 Why Scientists Need to Fail
 http://www.psmag.com/nature-and-technology/science-needs-to-fail
 2015-12-22
-
+popular news
 As researchers think about how to improve reproducibility, it's important to remember that failure is a crucial part of the scientific process.
 
 
 Winning Video from GBSI #authenticate Campaign Will Promote Reproducibility Among Younger Generation of Biomedical Researchers
 http://www.newswise.com/articles/winning-video-from-gbsi-authenticate-campaign-will-promote-reproducibility-among-younger-generation-of-biomedical-researchers
 2015-12-17
-
-The Global Biological Standards Institute (GBSI) today announced the winner of its #authenticate video competition to promote cell authentication in biomedical research is Michael Ge, from West Covina, California
+reproduciblility conference
+The Global Biological Standards Institute (GBSI) today announced the winner of its #authenticate video competition to promote cell authentication in biomedical research is Michael Ge, from West Covina, California.
 
 
 Reproducibility at SC16 with the Student Cluster Competition
 http://www.nist.gov/itl/ssd/is/upload/NRE-2015-00-SC16SCC_CfP_slide.pdf
 2015-12-17
-
+reproduciblility conference
 Replication and reproducibility of experimental computer science results in peer-reviewed paper is gaining relevance in the HPC community. SC, the leading conference in the field, wants to promote and support replication and reproducibility through a new initiative that aims to integrate aspects of past technical papers into the Student Cluster Competition (SCC). SC16 invites authors of technical papers accepted at past SC conferences, including SC15, to submit proposals for case studies based on applications and tests in their SC paper that can be transformed into benchmarks for the SCC. This initiative provides SC authors with the unique opportunity to further promote their published research as an example of replicable and reproducible experimental computer science.
 
 
 Clinical Genetics Has a Big Problem That's Affecting People's Lives
 http://www.theatlantic.com/science/archive/2015/12/why-human-genetics-research-is-full-of-costly-mistakes/420693/
 2015-12-16
-
-Over the last decade, there’s been a lot of talk about reproducibility problems in science — about published results that turn out to be false alarms. In fields like psychology, neuroscience, and cell biology, these errors can send scientists down unproductive paths, waste time and money, and pollute headlines with misleading claims. “But I get much more exercised about reproducibility problems in clinical genetics, because those have massive and real-time consequences for thousands of families,” says MacArthur.
+popular news
+Over the last decade, there’s been a lot of talk about reproducibility problems in science — about published results that turn out to be false alarms. In fields like psychology, neuroscience, and cell biology, these errors can send scientists down unproductive paths, waste time and money, and pollute headlines with misleading claims. "But I get much more exercised about reproducibility problems in clinical genetics, because those have massive and real-time consequences for thousands of families," says MacArthur.
 
 
 Emphasize Sex in Research, orders National Institutes of Health
 http://synapse.ucsf.edu/articles/2015/12/16/emphasize-sex-research-orders-national-institutes-health
 2015-12-16
-
-While experiments may be published even in a top scientific journal, other researchers who attempt to repeat the same experiments under the same conditions often find contradicting results. As a measure of this, a recent study attempted to reproduce psychology publications and successfully replicated only 39 out of 100 studies.It turns out that excluding sex in experimental design may have contributed to reproducibility issues. Furthermore, sex can also have a biological impact on our scientific understanding and influence how well early biological studies translate into advances in human medicine.
+popular news, news article, reproducibility guidelines
+While experiments may be published even in a top scientific journal, other researchers who attempt to repeat the same experiments under the same conditions often find contradicting results. As a measure of this, a recent study attempted to reproduce psychology publications and successfully replicated only 39 out of 100 studies. It turns out that excluding sex in experimental design may have contributed to reproducibility issues. Furthermore, sex can also have a biological impact on our scientific understanding and influence how well early biological studies translate into advances in human medicine.
 
 
 Year in review: Scientists tackle the irreproducibility problem
 https://www.sciencenews.org/article/year-review-scientists-tackle-irreproducibility-problem
 2015-12-15
-
+popular news, news article, reproducibility report
 Experimental results that don’t hold up to replication have caused consternation among scientists for years, especially in the life and social sciences (SN: 1/24/15, p. 20). In 2015 several research groups examining the issue reported on the magnitude of the irreproducibility problem. The news was not good.
 
 
@@ -225,14 +225,14 @@ Project on Reproducibility and Robustness of the Empirical Instrumental Variable
 Reproducibility: Experimental mismatch in neural circuits
 http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16323.html
 2015-12-09
-news article, replication test
+news article, replication study
 The finding that acute and chronic manipulations of the same neural circuit can produce different behavioural outcomes poses new questions about how best to analyse these circuits.
 
 
 Translation, cultural adaptation and reproducibility of the Oxford Shoulder Score questionnaire for Brazil, among patients with rheumatoid arthritis.
 http://www.ncbi.nlm.nih.gov/pubmed/26648280
 2015-12-08
-replication test, news article
+replication , news article
 Although shoulder questionnaires validated for Brazil do exist, none of them are aimed at populations with rheumatic disease. We believe that the Oxford Shoulder Score (OSS) may be useful in this population. The objective of this study was to translate the OSS, adapt it to Brazilian culture and test its reproducibility.
 
 
