@@ -49,6 +49,11 @@ def main():
                     date = next(fp)
                     date = datetime.strptime(date, '%Y-%m-%d')
                     date = format_date(date)
+                    tags = next(fp)
+                    if not tags.strip():
+                        tags = []
+                    else:
+                        tags = [tag.strip() for tag in tags.split(',')]
                     description = []
                     try:
                         while True:
@@ -72,6 +77,7 @@ def main():
                         'title': escape(title),
                         'link': escape(link),
                         'date': escape(date),
+                        'tags': [escape(tag) for tag in tags],
                         'description': escape(description)
                     })
                 except StopIteration:

@@ -11,6 +11,9 @@
       <description>
         {{ item.description }}
       </description>
+{% for tag in item.tags %}
+      <category>{{ tag }}</category>
+{% endfor %}
     </item>
 {% endfor %}
   </channel>
