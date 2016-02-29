@@ -1,7 +1,7 @@
-"A practical guide for improving transparency and reproducibility in neuroimaging research"
+A Practical Guide for Improving transparency and Reproducibility in Neuroimaging Research
 http://dx.doi.org/10.1101/039354
 2016-02-14
-
+reproducibility guide, guide, neuroimaging
 Recent years have seen an increase in alarming signals about the lack of replicability in neuroscience, psychology, and other related fields. To avoid a widespread crisis in our field and consequent loss of credibility in the public eye, we need to improve how we do science. This article aims to be a practical guide for researchers at any stage of their careers that will help them make their research more reproducible and transparent while minimizing the additional effort that this might require. The guide covers three major topics in open science (data, code, and publications) and offers practical advice as well as highlighting advantages of adopting more open research practices that go beyond improved transparency and reproducibility.
 
 
