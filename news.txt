@@ -1,3 +1,17 @@
+How Many Replication Studies are Enough?
+http://www.nature.com/news/how-many-replication-studies-are-enough-1.19461
+2016-02-26
+replication tests
+Researchers on social media ask at what point replication efforts go from useful to wasteful. The problem of irreproducibility in science has gained widespread attention, but one aspect that is discussed less often is how to find the right balance between replicating findings and moving a field forward from well-established ones.
+
+
+A Bayesian Perspective on the Reproducibility Project: Psychology
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794
+2016-02-26
+replication tests
+We revisit the results of the recent Reproducibility Project: Psychology by the Open Science Collaboration. We compute Bayes factors—a quantity that can be used to express comparative evidence for an hypothesis but also for the null hypothesis—for a large subset (N = 72) of the original papers and their corresponding replication attempts.
+
+
 A Practical Guide for Improving transparency and Reproducibility in Neuroimaging Research
 http://dx.doi.org/10.1101/039354
 2016-02-14
