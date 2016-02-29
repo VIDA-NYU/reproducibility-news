@@ -3,6 +3,7 @@
   <channel>
     <title>Reproducibility News Feed</title>
     <link>http://reproduciblescience.org/</link>
+    <description>A feed that shows recent news about scientific reproducibility efforts.</description>
 {% for item in items %}
     <item>
       <title>{{ item.title }}</title>
