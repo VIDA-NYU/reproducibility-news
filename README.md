@@ -11,6 +11,4 @@ Please, do not hesitate to provide news about your own work by opening a Pull Re
 To-do
 =====
 
-* Publish website
 * Contact email?
-* Correct feed format for wordpress (markdown?)
