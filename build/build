@@ -62,6 +62,10 @@ def main():
                             description.append(line)
                     except StopIteration:
                         pass
+                    if not description:
+                        sys.stderr.write("Missing description line %d\n" %
+                                         fp.line_number)
+                        sys.exit(1)
                     description = '\n'.join(description)
 
                     entries.append({
