@@ -5,6 +5,13 @@ reproducibility conference
 This year, also SMI will introduce an Award for Reproducibility to be granted to authors of accepted papers who are willing to provide a complete open-source implementation of their algorithm. The reproducibility stamp does not affect the reviewing process or the requirements for your submission to be accepted. The awarded papers will receive an additional 5 to 10 minutes in their presentation to give a live demo and will be recognized during the SMI closing ceremony. More information on the web site soon.
 
 
+Janiform Papers Demo (pdbf: portable database files)
+https://www.youtube.com/watch?v=f4iKwdERXhI&feature=youtu.be
+2016-02-29
+reproducibility infrastructure, reproducible paper
+PDBF documents are a hybrid format. They are a valid PDF and a valid HTML page at the same time. You can now optionally add an VirtualBox OVA file with a complete operating system to the PDBF document. Yes, this means that the resulting file is a valid PDF, HTML, and OVA file at the same time. If you change the file extension to PDF and open it with an PDF viewer, you can see the static part of the document.
+
+
 How Many Replication Studies are Enough?
 http://www.nature.com/news/how-many-replication-studies-are-enough-1.19461
 2016-02-26
