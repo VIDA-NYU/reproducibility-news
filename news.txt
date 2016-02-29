@@ -1,3 +1,10 @@
+Shape Modeling International (SMI 2016) Introduces Reproducibility Award
+http://www.geometrysummit.org/smi2016/index.html
+2016-02-29
+reproducibility conference
+This year, also SMI will introduce an Award for Reproducibility to be granted to authors of accepted papers who are willing to provide a complete open-source implementation of their algorithm. The reproducibility stamp does not affect the reviewing process or the requirements for your submission to be accepted. The awarded papers will receive an additional 5 to 10 minutes in their presentation to give a live demo and will be recognized during the SMI closing ceremony. More information on the web site soon.
+
+
 How Many Replication Studies are Enough?
 http://www.nature.com/news/how-many-replication-studies-are-enough-1.19461
 2016-02-26
