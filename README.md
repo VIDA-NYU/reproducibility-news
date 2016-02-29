@@ -8,6 +8,62 @@ This repository contains the recent news about reproducibility that are shown on
 
 Please, do not hesitate to provide news about your own work by opening a Pull Request here or by contacting us.
 
+RSS Format
+=====
+Title
+
+Link
+
+Date
+
+Tags 
+
+Description
+
+-- two lines between items --
+
+
+RSS Tags
+=====
++ retraction
+    - report of a paper being retracted
++ reproducible journal
+    - journals that work towards reproducibility efforts (requiring submissions to be reproducible, etc.
++ reproducible paper
+    - papers that are considered reproducible
++ popular news
+    - articles published by popular reporting organizations (NY times, etc.) 
++ news article
+    - articles published by scientific bodies
++ reproducibility infrastructure
+    - reports/articles/papers on building reproducibility infrastructure
++ case studies
+    - reproducibility case studies
++ VisTrails
+    - everything related to VisTrails
++ replication study
+    - studies that seek to replicate scientific findings
++ open access
+    - everything related to open access publishing of data and papers
++ data science
+    - everything related to data science
++ reproducibility bibliography
+    - bibliographies having to do with reproducibility
++ reproducibility report
+    - reports by governing bodies on reproducibility of a field's work
++ ReproZip
+    - everything related to ReproZip
++ research guide
+    - library guides for reproducibility
++ reproducibility guidelines
+    - guidelines for reproducibility
++ reproducibility conference
+    - conferences that want reproducible papers/posters accepted AND conferences that discuss reproducibility 
++ noWorkflow
+    - everything related to noWorkflow
++ reproducibility talk
+    - talks and presentations about reproducibility
+
 To-do
 =====
 
