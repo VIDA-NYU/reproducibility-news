@@ -56,7 +56,7 @@ For the past decade, scientists have been worried about the so-called replicatio
 BioPolicy Summit tackles reproducibility of science issues
 https://biodesign.asu.edu/news/biopolicy-summit-tackles-reproducibility-science-issues
 2016-02-12
-reproducible conference, news article, reproducibility talk
+reproducibility conference, news article, reproducibility talk
 The 2016 GBSI Summit—"Research Reproducibility: Innovative Solutions to Drive Quality" welcomed premiere life science thought leaders, including Arizona State University biomarker researcher Joshua LaBaer, MD, PhD, and science correspondent and moderator Richard Harris (currently on leave from National Public Radio as a visiting scholar this spring at Arizona State University), to explore the driving forces and profound impacts behind the issues.
 
 
@@ -126,7 +126,7 @@ Fernando Chirigati and Remi Rampin's poster "Enhancing Scholarly Communication w
 GBSI Doubles Down on Research Reproducibility at Annual BioPolicy Summit and Webcast in Washington, DC, February 9th
 http://www.newswise.com/articles/gbsi-doubles-down-on-research-reproducibility-at-annual-biopolicy-summit-and-webcast-in-washington-dc-february-9th
 2016-01-27
-reproducible conference, news article, reproducibility talk
+reproducibility conference, news article, reproducibility talk
 The Summit will also introduce GBSI’s Reproducibility2020, an action plan for the biomedical research community to significantly improve the quality of research by 2020 targeting: 1) improved validation and standardization of biological reagents; 2) better tools and technologies to expand open access for reporting and sharing protocols and data; and 3) increased training that emphasizes rigorous study design and practice.
 
 
@@ -210,14 +210,14 @@ As researchers think about how to improve reproducibility, it's important to rem
 Winning Video from GBSI #authenticate Campaign Will Promote Reproducibility Among Younger Generation of Biomedical Researchers
 http://www.newswise.com/articles/winning-video-from-gbsi-authenticate-campaign-will-promote-reproducibility-among-younger-generation-of-biomedical-researchers
 2015-12-17
-reproduciblility conference
+reproducibility conference
 The Global Biological Standards Institute (GBSI) today announced the winner of its #authenticate video competition to promote cell authentication in biomedical research is Michael Ge, from West Covina, California.
 
 
 Reproducibility at SC16 with the Student Cluster Competition
 http://www.nist.gov/itl/ssd/is/upload/NRE-2015-00-SC16SCC_CfP_slide.pdf
 2015-12-17
-reproduciblility conference
+reproducibility conference
 Replication and reproducibility of experimental computer science results in peer-reviewed paper is gaining relevance in the HPC community. SC, the leading conference in the field, wants to promote and support replication and reproducibility through a new initiative that aims to integrate aspects of past technical papers into the Student Cluster Competition (SCC). SC16 invites authors of technical papers accepted at past SC conferences, including SC15, to submit proposals for case studies based on applications and tests in their SC paper that can be transformed into benchmarks for the SCC. This initiative provides SC authors with the unique opportunity to further promote their published research as an example of replicable and reproducible experimental computer science.
 
 
