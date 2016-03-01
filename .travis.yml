@@ -6,3 +6,6 @@ install:
   - pip install jinja2
 script:
   - "build/build && if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then build/upload; fi"
+notifications:
+  email:
+    - remirampin@gmail.com
