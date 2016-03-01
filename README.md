@@ -9,22 +9,29 @@ This repository contains the recent news about reproducibility that are shown on
 Please, do not hesitate to provide news about your own work by opening a Pull Request here or by contacting us.
 
 RSS Format
-=====
+==========
+
+The feed is generated from a simple text file, `news.txt`, that you can [edit here](https://github.com/ViDA-NYU/reproducibility-news/edit/master/news.txt). The format is as follow:
+
+```
 Title
-
 Link
-
 Date
-
 Tags 
-
 Description
-
 -- two lines between items --
 
 
+New ReproZip Version
+https://vida-nyu.github.io/reprozip/
+2015-12-02
+ReproZip, reproducibility infrastructure
+A new version of ReproZip has been released.
+```
+
 RSS Tags
-=====
+========
+
 + retraction
     - report of a paper being retracted
 + reproducible journal
@@ -63,8 +70,3 @@ RSS Tags
     - everything related to noWorkflow
 + reproducibility talk
     - talks and presentations about reproducibility
-
-To-do
-=====
-
-* Contact email?
