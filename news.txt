@@ -1,3 +1,10 @@
+Statistical Challenges in Assessing and Fostering the Reproducibility of Scientific Results: Summary of a Workshop
+http://www.nap.edu/read/21915/chapter/1
+2016-03-01
+reproducibility conference, reproducibility report
+The workshop summarized in this report was designed not to address the social and experimental challenges but instead to focus on the latter issues of improper data management and analysis, inadequate statistical expertise, incomplete data, and difficulties applying sound statistical inference to the available data.
+
+
 ReproZip Demo Accepted at SIGMOD 2016
 http://vida-nyu.github.io/reprozip/news.html#sigmod-demo-2016
 2016-02-27
