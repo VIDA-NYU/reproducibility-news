@@ -1,3 +1,9 @@
+ReproZip Featured on Library of Congress Blog Post
+https://blogs.loc.gov/digitalpreservation/2016/02/blurred-lines-shapes-and-polygons-part-1-an-ndsr-ny-project-update/
+2016-02-12
+ReproZip, popular news
+ReproZip was featured in a post on the Library of Congress's digital preservation blog, the Signal. The author, Genevieve Havemeyer-King, writes "ReproZip is a tool being developed at NYU "aimed at simplifying the process of creating reproducible experiments from command-line executions", and could be something to consider as an alternative to many costly web-archiving services for preservation of internet-based projects and applications."
+
 University of Washington's eScience Institute Guidelines for Reproducible & Open Science
 http://uwescience.github.io/reproducible/guidelines.html
 2016-03-01
