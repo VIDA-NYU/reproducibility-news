@@ -1,10 +1,3 @@
-test
-test.com
-2016-03-03
-ReproZip, popular news
-testing stuff hard
-
-
 ReproZip Featured on Library of Congress Blog Post
 https://blogs.loc.gov/digitalpreservation/2016/02/blurred-lines-shapes-and-polygons-part-1-an-ndsr-ny-project-update/
 2016-02-12
