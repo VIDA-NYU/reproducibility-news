@@ -12,7 +12,7 @@ reproducibility guidelines
 Our working definition for reproducible research is that a research result can be replicated by another investigator. Our focus is data science and the reproducibility of computational studies and/or analysis of digital data. This note summarizes best practices to facilitate reproducible research in data science (and computational science more generally). It is expected that all research conducted with funding from the DSE will be performed in accordance with these guidelines to the extent possible.
 
 
-University of Washington's eScience Institute Guidelines for Reproducible & Open Science
+ACM SIGMOD 2016 Reproducibility Guidelines
 http://db-reproducibility.seas.harvard.edu/
 2016-03-01
 reproducibility guidelines
