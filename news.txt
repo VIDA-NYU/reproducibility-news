@@ -1,3 +1,17 @@
+Research Software Sustainability: Report on Knowledge Exchange workshop
+http://repository.jisc.ac.uk/6332/1/Research_Software_Sustainability_Report_on_KE_Workshop_Feb_2016_FINAL.pdf
+2016-03-03
+reproducibility report, reproducibility conference
+The report introduces software sustainability, provides definitions, clearly demonstrates that software is not the same as data and illustrates aspects of sustainability in the software lifecycle. The recommendations state that improving software sustainability requires a number of changes: some technical and others societal, some small and others significant. We must start by raising awareness of researchers' reliance on software. This goal will become easier if we recognise the valuable contribution that software makes to research and reward those people who invest their time into developing reliable and reproducible software. 
+
+
+Psychology’s reproducibility problem is exaggerated – say psychologists
+http://www.nature.com/news/psychology-s-reproducibility-problem-is-exaggerated-say-psychologists-1.19498
+2016-03-03
+popular news, replication study
+In August 2015, a team of 270 researchers reported the largest ever single-study audit of the scientific literature. Led by Brian Nosek, executive director of the Center for Open Science in Charlottesville, Virginia, the Reproducibility Project attempted to replicate studies in 100 psychology papers. According to one of several measures of reproducibility, just 36% could be confirmed; by another statistical measure, 47% could. Not so fast, says Gilbert. Because of the way the Reproducibility Project was conducted, its results say little about the overall reliability of the psychology papers it tried to validate, he argues. "The number of studies that actually did fail to replicate is about the number you would expect to fail to replicate by chance alone — even if all the original studies had shown true effects."
+
+
 ReproZip Featured on Library of Congress Blog Post
 https://blogs.loc.gov/digitalpreservation/2016/02/blurred-lines-shapes-and-polygons-part-1-an-ndsr-ny-project-update/
 2016-02-12
