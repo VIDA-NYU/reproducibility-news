@@ -1,3 +1,10 @@
+Evaluating replicability of laboratory experiments in economics
+http://science.sciencemag.org/content/early/2016/03/02/science.aaf0918
+2016-03-03
+popular news, replication study
+The reproducibility of scientific findings has been called into question. To contribute data about reproducibility in economics, we replicate 18 studies published in the American Economic Review and the Quarterly Journal of Economics in 2011-2014. All replications follow predefined analysis plans publicly posted prior to the replications, and have a statistical power of at least 90% to detect the original effect size at the 5% significance level. We find a significant effect in the same direction as the original study for 11 replications (61%); on average the replicated effect size is 66% of the original. The reproducibility rate varies between 67% and 78% for four additional reproducibility indicators, including a prediction market measure of peer beliefs.
+
+
 Research Software Sustainability: Report on Knowledge Exchange workshop
 http://repository.jisc.ac.uk/6332/1/Research_Software_Sustainability_Report_on_KE_Workshop_Feb_2016_FINAL.pdf
 2016-03-03
