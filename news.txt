@@ -1,3 +1,10 @@
+The Quest for Reproducible Science: Issues in Research Transparency and Integrity
+http://www.ala.org/alcts/events/ac/2016/reproduciblescience
+2016-03-09
+reproducibility conference
+A pre-conference event of the American Library Association's annual conference: "The credibility of scientific findings is under attack. While this crisis has several causes, none is more common or correctable than the inability to replicate experimental and computational research. This preconference will feature scholars, librarians, and technologists who are attacking this problem through tools and techniques to manage data, enable research transparency, and promote reproducible science. Attendees will learn strategies for fostering and supporting transparent research practices at their institutions."
+
+
 Evaluating replicability of laboratory experiments in economics
 http://science.sciencemag.org/content/early/2016/03/02/science.aaf0918
 2016-03-03
