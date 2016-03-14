@@ -4,6 +4,7 @@ http://www.psi-chology.com/replication-mirror/
 replication study
 A satirical piece detailing the replication and reproducibility crisis in Psychology. 
 
+
 The Quest for Reproducible Science: Issues in Research Transparency and Integrity
 http://www.ala.org/alcts/events/ac/2016/reproduciblescience
 2016-03-09
