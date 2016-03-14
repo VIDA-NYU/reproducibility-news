@@ -1,3 +1,10 @@
+Many scientific "truths" are, in fact, false
+http://qz.com/638059/many-scientific-truths-are-in-fact-false/
+2016-03-13
+popular news
+In 2005, John Ioannidis, a professor of medicine at Stanford University, published a paper, “Why most published research findings are false,” mathematically showing that a huge number of published papers must be incorrect. He also looked at a number of well-regarded medical research findings, and found that, of 34 that had been retested, 41% had been contradicted or found to be significantly exaggerated. Since then, researchers in several scientific areas have consistently struggled to reproduce major results of prominent studies. By some estimates, at least 51%—and as much as 89%—of published papers are based on studies and experiments showing results that cannot be reproduced.
+
+
 Replication Mirror
 http://www.psi-chology.com/replication-mirror/
 2016-03-14
