@@ -1,3 +1,10 @@
+Tools and techniques for computational reproducibility
+http://biorxiv.org/content/early/2016/03/17/022707
+2016-03-17
+reproducibility infrastructure
+When reporting research findings, scientists document the steps they followed so that others can verify and build upon the research. When those steps have been described in sufficient detail that others can retrace the steps and obtain similar results, the research is said to be reproducible. Computers play a vital role in many research disciplines and present both opportunities and challenges for reproducibility. With a broad scientific audience in mind, we describe strengths and limitations of each approach, as well as circumstances under which each might be applied. No single strategy is sufficient for every scenario; thus we emphasize that it is often useful to combine approaches.
+
+
 Reproducibility: Team up with industry
 http://www.nature.com/news/reproducibility-team-up-with-industry-1.19551
 2016-03-16
