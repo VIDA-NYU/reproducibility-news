@@ -102,6 +102,7 @@ http://vida-nyu.github.io/reprozip/news.html#sigmod-demo-2016
 ReproZip, reproducibility talk, reproducibility infrastructure
 A ReproZip demo has been accepted at SIGMOD 2016: "ReproZip: Computational Reproducibility With Ease." F. Chirigati, R. Rampin, D. Shasha, and J. Freire.
 
+
 Shape Modeling International (SMI 2016) Introduces Reproducibility Award
 http://www.geometrysummit.org/smi2016/index.html
 2016-02-29
