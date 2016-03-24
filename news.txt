@@ -1,3 +1,38 @@
+myExperiment
+http://www.myexperiment.org/home
+2015-01-01
+reproducibility infrastructure
+myExperiment is a collaborative environment where scientists can safely publish their workflows and in silico experiments, share them with groups and find those of others. Workflows, other digital objects and bundles (called Packs) can now be swapped, sorted and searched like photos and videos on the Web. 
+
+
+The Legal Framework for Reproducible Scientific Research: Licensing and Copyright
+http://doi.ieeecomputersociety.org/10.1109/MCSE.2009.19
+2009-01-01
+open access
+The code, data structures, experimental design and parameters, documentation, and figures are all important for scholarship communication and result replication. The author proposes the reproducible research standard for scientific researchers to use for all components of their scholarship that should encourage reproducible scientific investigation through attribution, facilitate greater collaboration, and promote engagement of the larger community in scientific learning and discovery.
+
+
+Sweave
+http://www.statistik.lmu.de/~leisch/Sweave/
+2002-01-01
+reproducibility infrastructure
+Sweave is a tool that allows to embed the R code for complete data analyses in latex documents, and is automatically packaged in R installations. The purpose is to create dynamic reports, which can be updated automatically if data or analysis change. Instead of inserting a prefabricated graph or table into the report, the master document contains the R code necessary to obtain it. When run through R, all data analysis output (tables, graphs, etc.) is created on the fly and inserted into a final latex document. The report can be automatically updated if data or analysis change, which allows for truly reproducible research. It does not, however, track provenance. 
+
+
+Software Tools to Facilitate Research Programming
+https://purl.stanford.edu/mb510fs4943
+2012-05-28
+reproducibility infrastructure
+Ph.D. dissertation, Department of Computer Science, Stanford University, 2012: "By understanding the unique challenges faced during research programming, it becomes possible to apply techniques from dynamic program analysis, mixed-initiative recommendation systems, and OS-level tracing to make research programmers more productive. This dissertation characterizes the research programming process, describes typical challenges faced by research programmers, and presents five software tools that I have developed to address some key challenges."
+
+
+Our approach to replication in computational science
+http://ivory.idyll.org/blog/replication-i.html
+2012-04-02
+reproducible paper
+A blog post from C. Titus Brown on how he and his co-authors were able to make a paper they wrote replicable. 
+
+
 Tools and techniques for computational reproducibility
 http://biorxiv.org/content/early/2016/03/17/022707
 2016-03-17
