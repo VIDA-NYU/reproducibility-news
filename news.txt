@@ -1,3 +1,17 @@
+Failure Is Moving Science Forward
+http://fivethirtyeight.com/features/failure-is-moving-science-forward/
+2016-03-24
+popular news
+As science grapples with what some have called a reproducibility crisis, replication studies, which aim to reproduce the results of previous studies, have been held up as a way to make science more reliable. It seems like common sense: Take a study and do it again — if you get the same result, that’s evidence that the findings are true, and if the result doesn’t turn up again, they’re false. Yet in practice, it’s nowhere near this simple.
+
+
+Reproducibility in density functional theory calculations of solids
+http://science.sciencemag.org/content/351/6280/aad3000
+2016-03-25
+reproducibility study
+The scrutiny of the scientific community has also turned to research involving computer programs, finding that reproducibility depends more strongly on implementation than commonly thought. These problems are especially relevant for property predictions of crystals and molecules, which hinge on precise computer implementations of the governing equation of quantum physics. We devised a procedure to assess the precision of DFT methods and used this to demonstrate reproducibility among many of the most widely used DFT codes. 
+
+
 myExperiment
 http://www.myexperiment.org/home
 2015-01-01
