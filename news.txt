@@ -1,3 +1,10 @@
+The Signal and the Noise: The Problem of Reproducibility
+http://cameronneylon.net/blog/the-signal-and-the-noise-the-problem-of-reproducibility/
+2016-03-20
+popular news
+Once again, reproducibility is in the news. Most recently we hear that irreproducibility is irreproducible and thus everything is actually fine. The most recent round was kicked off by a criticism of the Reproducibility Project followed by claim and counter claim on whether one analysis makes more sense than the other. I’m not going to comment on that but I want to tease apart what the disagreement is about, because it shows that the problem with reproducibility goes much deeper than whether or not a particular experiment replicates.
+
+
 Automatic Benchmark Profiling through Advanced Trace Analysis
 https://hal.inria.fr/hal-01292618/document
 2016-03-24
