@@ -1,3 +1,10 @@
+Automatic Benchmark Profiling through Advanced Trace Analysis
+https://hal.inria.fr/hal-01292618/document
+2016-03-24
+VisTrails
+Benchmarking has proven to be crucial for the investigation of the behavior and performances of a system. However, the choice of relevant benchmarks still remains a challenge. To help the process of comparing and choosing among benchmarks, we propose a solution for automatic benchmark profiling. It computes unified benchmark profiles reflecting benchmarks’ duration, function repartition, stability, CPU efficiency, parallelization and memory usage. It identifies the needed system information for profile computation, collects it from execution traces and produces profiles through efficient and reproducible trace analysis treatments. The paper presents the design, implementation and the evaluation of the approach. The analysis of the kernel trace follows a workflow implemented using the VisTrails tool.
+
+
 Failure Is Moving Science Forward
 http://fivethirtyeight.com/features/failure-is-moving-science-forward/
 2016-03-24
