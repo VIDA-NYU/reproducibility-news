@@ -1,3 +1,10 @@
+Ten Major Errors in Obesity Research Discussed
+http://www.newswise.com/articles/ten-major-errors-in-obesity-research-discussed
+2016-03-30
+popular news
+A paper from investigators at the University of Alabama at Birmingham recently published in Obesity identifies several key statistical errors commonly seen in obesity research with discussions on how to identify and avoid making these mistakes. "Our goal is to provide researchers and reviewers with a tutorial to improve the rigor of the science in future obesity studies,” said Brandon George, Ph.D., statistician in the University of Alabama at Birmingham Office of Energetics. “Investigators who conduct primary research may find the paper useful to read or share with statistical collaborators to obtain a deeper understanding of statistical issues, avoid making the discussed errors, and increase the reproducibility and rigor of the field. Editors, reviewers and consumers will find valuable information allowing them to properly identify these common errors while critically reading the work of others."
+
+
 The Signal and the Noise: The Problem of Reproducibility
 http://cameronneylon.net/blog/the-signal-and-the-noise-the-problem-of-reproducibility/
 2016-03-20
