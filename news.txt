@@ -1,3 +1,10 @@
+Reproducibility in research results: the challenges of attributing reliability
+http://blog.scielo.org/en/2016/03/31/reproducibility-in-research-results-the-challenges-of-attributing-reliability/
+2016-03-31
+popular news
+Studies indicate, however, that more than half of the experiments involving clinical trials of new drugs and treatments are irreproducible. John Ioannidis at Stanford University, US, goes on saying that most of the search results is actually false. Ioannidis is the author of a mathematical model that predicts that the smaller the sample and less stringent are the experimental methodology, definitions, outcomes and statistical analysis, the greater the probability of error. Furthermore, studies that hold financial and other interests or of great impact are also more prone to false results.
+
+
 Ten Major Errors in Obesity Research Discussed
 http://www.newswise.com/articles/ten-major-errors-in-obesity-research-discussed
 2016-03-30
