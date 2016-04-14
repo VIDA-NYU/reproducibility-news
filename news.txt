@@ -1,3 +1,10 @@
+A practical guide for improving transparency and reproducibility in neuroimaging research
+http://biorxiv.org/content/early/2016/04/12/039354
+2016-04-12
+reproducibility guidelines
+Recent years have seen an increase in alarming signals regarding the lack of replicability in neuroscience, psychology, and other related fields. To avoid a widespread crisis in neuroimaging research and consequent loss of credibility in the public eye, we need to improve how we do science. This article aims to be a practical guide for researchers at any stage of their careers that will help them make their research more reproducible and transparent while minimizing the additional effort that this might require. The guide covers three major topics in open science (data, code, and publications) and offers practical advice as well as highlighting advantages of adopting more open research practices that go beyond improved transparency and reproducibility.
+
+
 Checklists vs. checkmate: Reproducibility key to premium surgery success
 http://www.healio.com/ophthalmology/practice-management/news/print/ocular-surgery-news/%7Bff6cbf13-7a83-4e23-897c-5b5f4bbe2e1f%7D/checklists-vs-checkmate-reproducibility-key-to-premium-surgery-success
 2016-04-03
