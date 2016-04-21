@@ -1,3 +1,10 @@
+Cancer Research Is Broken
+http://www.slate.com/articles/health_and_science/future_tense/2016/0/biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology.html
+2016-04-19
+popular news
+There’s a replication crisis in biomedicine—and no one even knows how deep it runs. Many science funders share Parker’s antsiness over all the waste of time and money. In February, the White House announced its plan to put $1 billion toward a similar objective—a “Cancer Moonshot” aimed at making research more techy and efficient. But recent studies of the research enterprise reveal a more confounding issue, and one that won’t be solved with bigger grants and increasingly disruptive attitudes. The deeper problem is that much of cancer research in the lab—maybe even most of it—simply can’t be trusted. The data are corrupt. The findings are unstable. The science doesn’t work.
+
+
 A practical guide for improving transparency and reproducibility in neuroimaging research
 http://biorxiv.org/content/early/2016/04/12/039354
 2016-04-12
