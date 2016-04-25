@@ -1,3 +1,10 @@
+Transparency and Reproducibility in Economics Research
+https://bids.berkeley.edu/resources/videos/transparency-and-reproducibility-economics-research
+2016-04-22
+reproducibility talk
+There is growing interest in research transparency and reproducibility in economics and other scientific fields. We survey existing work on these topics within economics and discuss the evidence suggesting that publication bias, inability to replicate, and specification searching remain widespread problems in the discipline. We next discuss recent progress in this area, including improved research design, study registration and pre-analysis plans, disclosure standards, and open sharing of data and materials, and draw on experiences in both economics and other social sciences. We discuss areas where consensus is emerging on new practices as well as approaches that remain controversial and speculate about the most effective ways to make economics research more accurate, credible, and reproducible in the future.
+
+
 Cancer Research Is Broken
 http://www.slate.com/articles/health_and_science/future_tense/2016/0/biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology.html
 2016-04-19
