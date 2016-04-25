@@ -1,3 +1,10 @@
+It bears repeating: how scientists are addressing the 'reproducibility problem'
+http://theconversation.com/it-bears-repeating-how-scientists-are-addressing-the-reproducibility-problem-55369
+2016-04-25
+popular news
+Recent reports in the Washington Post and the Economist, among others, raise the concern that relatively few scientists' experimental findings can be replicated. This is worrying: replicating an experiment is a main foundation of the scientific method. As scientists, we build on knowledge gained and published by others. We develop new experiments and questions based on the knowledge we gain from those published reports. If those papers are valid, our work is supported and knowledge advances. On the other hand, if published research is not actually valid, if it can’t be replicated, it delivers only an incidental finding, not scientific knowledge.
+
+
 Transparency and Reproducibility in Economics Research
 https://bids.berkeley.edu/resources/videos/transparency-and-reproducibility-economics-research
 2016-04-22
