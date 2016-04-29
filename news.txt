@@ -1,3 +1,10 @@
+1st International Workshop on Reproducible Open Science (RepScience2016)
+http://www.tpdl2016.org/repscience2016
+2016-04-29
+reproducibility conference
+This Workshop aims at becoming a forum to discuss ideas and advancements towards the revision of current scientific communication practices in order to support Open Science, introduce novel evaluation schemes, and enable reproducibility. As such it candidates as an event fostering collaboration between (i) Library and information scientists working on the identification of new publication paradigms; (ii) ICT scientists involved in the definition of new technical solutions to these issues; (iii) scientists/researchers who actually conduct the research and demand tools and practices for Open Science. The expected results are advancements in the definition of the next generation scientific communication ecosystem, where scientists can publish research results (including the scientific article, the data, the methods, and any “alternative” product that may be relevant to the conducted research) in order to enable reproducibility (effective reuse and decrease of cost of science) and rely on novel scientific reward practices.
+
+
 It bears repeating: how scientists are addressing the 'reproducibility problem'
 http://theconversation.com/it-bears-repeating-how-scientists-are-addressing-the-reproducibility-problem-55369
 2016-04-25
