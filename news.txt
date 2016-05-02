@@ -1,3 +1,10 @@
+Unconditional data sharing, plus peer review transparency, is key to research reproducibility
+https://thewinnower.com/papers/4314-unconditional-data-sharing-plus-peer-review-transparency-is-key-to-research-reproducibility
+2016-04-28
+popular news, open access
+Only mandatory Open Data, not Gold Open Access, will lead to more honest and more reproducible science. Open Science is these days largely about mandatory publishing in Open Access (OA), regardless of the costs to poorer scientists or the universities which already struggle to pay horrendous subscription fees. Meanwhile, publishers openly declare that the so-called Gold (author-pays) OA will be much more expensive than even current subscription rates, yet wealthy western institutions like the Dutch university network VSNU or the German Max Planck Society do not seem troubled by this at all. They seriously expect the publishing oligopoly of Elsevier, SpringerNature and Wiley to lower the costs for Gold OA later on, out of the goodness of their hearts (as this winter’s invitation-only Berlin12 OA conference suggests).
+
+
 1st International Workshop on Reproducible Open Science (RepScience2016)
 http://www.tpdl2016.org/repscience2016
 2016-04-29
