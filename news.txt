@@ -1,3 +1,10 @@
+John Oliver on scientific studies, statistical significance and reproducibility
+https://www.youtube.com/watch?v=0Rnq1NpHdmw
+2016-05-08
+popular news
+In his show Last Week Tonight, John Oliver discusses how and why media outlets so often report untrue or incomplete information as science.
+
+
 Unconditional data sharing, plus peer review transparency, is key to research reproducibility
 https://thewinnower.com/papers/4314-unconditional-data-sharing-plus-peer-review-transparency-is-key-to-research-reproducibility
 2016-04-28
