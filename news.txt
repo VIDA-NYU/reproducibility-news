@@ -1,3 +1,10 @@
+Reproducibility and Relative Validity of a Short Food Frequency Questionnaire in 9–10 Year-Old Children
+http://www.mdpi.com/2072-6643/8/5/271
+2016-05-07
+reproducibility study
+The aim of this study was to assess the reproducibility and validity of a non-quantitative 28-item food frequency questionnaire (FFQ). Children aged 9–10 years (n = 50) from three schools in Dunedin, New Zealand, completed the FFQ twice and a four-day estimated food diary (4DEFD) over a two-week period. Intraclass correlation coefficients (ICC) and Spearman’s correlation coefficients (SCC) were used to determine reproducibility and validity of the FFQ, respectively. 
+
+
 John Oliver on scientific studies, statistical significance and reproducibility
 https://www.youtube.com/watch?v=0Rnq1NpHdmw
 2016-05-08
