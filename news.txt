@@ -1,3 +1,10 @@
+"Reproducibility Symposium" -- a recap of NYU's Reproducibility Symposium
+http://theoryandpractice.org/2016/05/Reproducibility-Symposium/#.VyzammOgq5g
+2016-05-03
+reproducibility conference, popular news
+Kyle Cranmer, a faculty member in NYU's physics department, distills and describes of the event of NYU's first Reproducibility Symposium on May 3, 2016. 
+
+
 Reproducibility and Relative Validity of a Short Food Frequency Questionnaire in 9–10 Year-Old Children
 http://www.mdpi.com/2072-6643/8/5/271
 2016-05-07
