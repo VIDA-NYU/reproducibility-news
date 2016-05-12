@@ -1,3 +1,10 @@
+Research Reproducibility 2016
+http://metrics.stanford.edu/node/research-reproducibility-2016
+2016-02-12
+research guide	
+This is a guide from Standford University outlinig methodology, tools, and resources for increasing reproducibility in science.
+
+
 "Reproducibility Symposium" -- a recap of NYU's Reproducibility Symposium
 http://theoryandpractice.org/2016/05/Reproducibility-Symposium/#.VyzammOgq5g
 2016-05-03
