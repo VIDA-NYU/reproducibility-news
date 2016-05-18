@@ -1,3 +1,10 @@
+Webinar@AIMS Increasing Openness and Reproducibility in Agricultural Research
+http://aims.fao.org/activity/blog/webinaraims-increasing-openness-and-reproducibility-agricultural-research
+2016-05-19
+reproducibility talk
+There are many actions researchers can take to increase the openness and reproducibility of their work. This introductory webinar from the Center for Open Science is aimed at faculty, staff, and students involved in agricultural research. Participants will gain a foundation for incorporating reproducible, transparent practices into their current workflows.
+
+
 Pain and Laboratory Animals: Publication Practices for Better Data Reproducibility and Better Animal Welfare
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155001
 2016-05-12
