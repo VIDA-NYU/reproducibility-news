@@ -1,3 +1,17 @@
+Research Quality Assurance: A Strategy for Improving Research Reproducibility
+https://osf.io/29htc/
+2016-05-24
+reproducibility talk	
+A poster by Rebecca Davies in the field of Veterinary Medicine.
+
+
+Nature Reproducibility survey
+https://figshare.com/articles/Nature_Reproducibility_survey/3394951
+2016-05-24
+reproducibility report, reproducibility study
+Raw data from survey on reproducibility survey run by Nature Publishing Group November 2015, published in Nature June 2016
+
+
 Webinar@AIMS Increasing Openness and Reproducibility in Agricultural Research
 http://aims.fao.org/activity/blog/webinaraims-increasing-openness-and-reproducibility-agricultural-research
 2016-05-19
