@@ -1,3 +1,17 @@
+Contextual sensitivity in scientific reproducibility
+http://www.pnas.org/content/early/2016/05/18/1521897113.full
+2016-05-24
+reproducibility study	
+Scientific progress requires that findings can be reproduced by other scientists. However, there is widespread debate in psychology (and other fields) about how to interpret failed replications. Many have argued that contextual factors might account for several of these failed replications. We analyzed 100 replication attempts in psychology and found that the extent to which the research topic was likely to be contextually sensitive (varying in time, culture, or location) was associated with replication success. This relationship remained a significant predictor of replication success even after adjusting for characteristics of the original and replication studies that previously had been associated with replication success (e.g., effect size, statistical power). We offer recommendations for psychologists and other scientists interested in reproducibility.
+
+
+When Great Minds Think Unlike: Inside Science's 'Replication Crisis'
+http://www.npr.org/2016/05/24/477921050/when-great-minds-think-unlike-inside-sciences-replication-crisis
+2016-05-24
+popular news
+This week, Hidden Brain looks at the "replication crisis" through zooming in on one seminal paper that was the focus of two replication efforts: one succeeded in replicating the original finding, the other failed.
+
+
 Research Quality Assurance: A Strategy for Improving Research Reproducibility
 https://osf.io/29htc/
 2016-05-24
