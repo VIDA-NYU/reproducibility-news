@@ -1,3 +1,17 @@
+Reproducibility: Crisis or Not?
+http://blogs.sciencemag.org/pipeline/archives/2016/05/26/reproducibility-crisis-or-not
+2016-05-26
+news article
+Here are the results of a Nature survey on reproducibility in the scientific literature. They themselves admit that it’s a "confusing snapshot", but it shows that we're still arguing about what "reproducibility" means. 52% of the responders (over 1500 scientists) said that there was "a significant crisis", though, so this issue is on people’s minds. Interestingly, chemists were among the most confidant in the literature of their own field (physics and engineering as well). At the same time, chemists had the highest proportion of respondents who said that they'd been unable to reproduce someone else's experiment. I don't think that's necessarily a contradiction, though. Chemistry is a field with lower barriers to replication than many others, and we also probably do more replications in general.
+
+
+Money back guarantees for non-reproducible results?
+http://dx.doi.org/10.1136/bmj.i2770
+2016-05-24
+news article
+Money back guarantees are generally unheard of in biomedicine and healthcare. Recently, the US provider Geisenger Health System, in Pennsylvania, started a programme to give patients their money back if they were dissatisfied. That came as quite a surprise. Soon thereafter, the chief medical officer at Merck launched an even bigger one, proposing an "incentive-based approach" to non-reproducible results—what he termed a "reproducibility crisis" that "threatens the entire biomedical research enterprise."
+
+
 1,500 scientists lift the lid on reproducibility
 http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
 2016-05-25
