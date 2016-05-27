@@ -1,3 +1,10 @@
+Let's see that again
+http://www.rsc.org/chemistryworld/2016/05/pipeline-reproducibility-derek-lowe-lets-see-again
+2016-05-27
+news article
+A few years ago, the topic of whether scientific papers are reproducible or not would have been an odd thing to see in a newspaper. But not any more: both the popular media and the journals themselves have been trying to deal with the topic, amid reports that far too many results can’t be replicated. Large scale efforts have begun to examine key papers in experimental psychology, among other areas. Reports from the biopharma industry about the numbers of interesting biology papers that don’t hold up have stirred alarm as well. But as far as I can tell, chemistry has largely escaped the current rounds of criticism.
+
+
 Reproducibility: Crisis or Not?
 http://blogs.sciencemag.org/pipeline/archives/2016/05/26/reproducibility-crisis-or-not
 2016-05-26
