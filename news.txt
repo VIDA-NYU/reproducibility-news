@@ -2,9 +2,7 @@ Introducing ReproZip at SIGMOD
 http://permalink.gmane.org/gmane.comp.db.dbworld/56283
 2016-06-20
 ReproZip
-Remi Rampin and Fernando Chirigati of NYU will be presenting ReproZip at this year's SIGMOD ACM conference. ReproZip enables a researcher to create a compendium of his/her Linux experiment by automatically
-tracking and identifying all its required dependencies (data files, libraries, configuration files,
-etc.).
+Remi Rampin and Fernando Chirigati of NYU will be presenting ReproZip at this year's SIGMOD ACM conference. ReproZip enables a researcher to create a compendium of his/her Linux experiment by automatically tracking and identifying all its required dependencies (data files, libraries, configuration files, etc.).
 
 
 From Reproducibility to Accessibility
