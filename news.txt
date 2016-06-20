@@ -1,3 +1,73 @@
+From Reproducibility to Accessibility
+https://www.genomeweb.com/scan/reproducibility-accessibility
+2016-06-15
+news article
+Jeremy Berg, the incoming editor-in-chief of Science magazine, will be grappling with a number of issues plaguing science and science publishing when he takes over that role, Retraction Watch's Shannon Palus writes. Berg has previously supported efforts to bolster reproducibility and transparency, Palus notes. He tells her that there are a number of efforts aimed at improving reproducibility underway at Science, but as he hasn't started the position yet — he's to take the helm in July — he needs to catch up on what's already been done. He says various issues could be behind the irreproducibility problem and, to be effective, any response has to be tailored to that issue.
+
+
+Muddled meanings hamper efforts to fix reproducibility crisis
+http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076?WT.ec_id=NEWSDAILY-20160614
+2016-06-14
+news article
+Researchers tease out different definitions of a crucial scientific term. A semantic confusion is clouding one of the most talked-about issues in research. Scientists agree that there is a crisis in reproducibility, but they can’t agree on what 'reproducibility' means.
+
+
+Connectome hubs at resting state in children and adolescents: Reproducibility and psychopathological correlation.
+http://www.ncbi.nlm.nih.gov/pubmed/27288820
+2016-06-10
+reproducible paper	
+Functional brain hubs are key integrative regions in brain networks. Recently, brain hubs identified through resting-state fMRI have emerged as interesting targets to increase understanding of the relationships between large-scale functional networks and psychopathology. However, few studies have directly addressed the replicability and consistency of the hub regions identified and their association with symptoms. Here, we used the eigenvector centrality (EVC) measure obtained from graph analysis of two large, independent population-based samples of children and adolescents (7-15 years old; total N=652; 341 subjects for site 1 and 311 for site 2) to evaluate the replicability of hub identification. Subsequently, we tested the association between replicable hub regions and psychiatric symptoms. We identified a set of hubs consisting of the anterior medial prefrontal cortex and inferior parietal lobule/intraparietal sulcus (IPL/IPS). Moreover, lower EVC values in the right IPS were associated with psychiatric symptoms in both samples. Thus, low centrality of the IPS was a replicable sign of potential vulnerability to mental disorders in children. The identification of critical and replicable hubs in functional cortical networks in children and adolescents can foster understanding of the mechanisms underlying mental disorders.
+
+
+Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research - full programme
+https://figshare.com/articles/Alan_Turing_Institute_Symposium_on_Reproducibility_for_Data-Intensive_Research_-_full_programme_6-7_April_2016/3422998
+2016-06-10
+reproducibility conference
+Full programme and speaker biographies for the Alan Turing Institute Symposium on Data-Intensive Research, held 6-7 April 2016
+
+
+What crisis? – the reproducibility crisis
+https://thepsychologist.bps.org.uk/what-crisis-reproducibility-crisis
+2016-06-09
+news article
+A huge audience of psychologists, students and researchers was drawn to the British Psychological Society debate in London about the reproducibility and replication crisis in psychology. After Brian Nosek and the Open Science Collaboration outlined the difficulty in reproducing psychological findings, the BPS, the Experimental Psychology Society and the Association of Heads of Psychology Departments hoped to host an upbeat and positive debate in the area. Ella Rhodes reports from a British Psychological Society debate.
+
+
+Is there a reproducibility "crisis" in biomedical science? No, but there is a reproducibility problem
+https://www.sciencebasedmedicine.org/is-there-a-reproducibility-crisis-in-biomedical-science-no-but-there-is-a-reproducibility-problem/
+2016-06-06
+popular news
+Most scientists I know get a chuckle out of the Journal of Irreproducible Results (JIR), a humor journal that often parodies scientific papers. Back in the day, we used to chuckle at articles like "Any Eye for an Eye for an Arm and a Leg: Applied Dysfunctional Measurement" and "A Double Blind Efficacy Trial of Placebos, Extra Strength Placebos and Generic Placebos." Unfortunately, these days, reporting on science is giving the impression that the JIR is a little too close to the truth, at least when it comes to reproduciblity, so much so that the issue even has its own name and Wikipedia entry: Replication (or reproducibility) crisis.
+
+
+SCIEX Announces High Throughput, Industrialized Omics Solutions at ASMS 2016
+http://www.businesswire.com/news/home/20160606005088/en/SCIEX-Announces-High-Throughput-Industrialized-Omics-Solutions
+2016-06-06
+popular news
+Advancements in Automation, Reproducibility and Robustness Enables Research to Scale like Never Before. SCIEX, a global leader in life science analytical technologies, today announced their latest proteomics solution advancements, which address the challenges of throughput, reproducibility and robustness faced by Academic Labs working to advance precision medicine. 
+
+
+Elsewhere in Science: Open access, Dance Your Ph.D., and more
+http://www.sciencemag.org/careers/2016/06/elsewhere-science-open-access-dance-your-phd-and-more
+2016-06-03
+news article
+Here is the past week’s career-related news from across the Science family of publications.
+
+
+Reproducible Research Resources for Research(ing) Parasites
+http://blogs.biomedcentral.com/gigablog/2016/06/03/reproducible-research-resources-researching-parasites/
+2016-06-03
+news article
+Two new research papers on scabies and tapeworms published today showcase a new collaboration with protocols.io. This demonstrates a new way to share scientific methods that allows scientists to better repeat and build upon these complicated studies on difficult-to-study parasites. It also highlights a new means of writing all research papers with citable methods that can be updated over time.
+
+
+Reproducible research: A hunt for the truth
+http://med.stanford.edu/news/all-news/2016/06/reproducible-research-a-hunt-for-the-truth.html
+2016-06-03
+popular news
+Researchers write that "reproducibility,"replicability" and several other terms are not used consistently in scientific communication.
+
+
 CU-Boulder graduate student wants transparent research practice policy
 http://www.dailycamera.com/cu-news/ci_29949880/cu-boulder-graduate-student-wants-transparent-research-practice
 2016-05-29
