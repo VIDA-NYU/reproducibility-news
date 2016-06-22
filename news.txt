@@ -1,3 +1,10 @@
+Repeatability, Reproducibility, Separative Power and Subjectivity of Different Fish Morphometric Analysis Methods
+http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0157890
+2016-06-21
+reproducible paper
+We compared the repeatability, reproducibility (intra- and inter-measurer similarity), separative power and subjectivity (measurer effect on results) of four morphometric methods frequently used in ichthyological research, the “traditional” caliper-based (TRA) and truss-network (TRU) distance methods and two geometric methods that compare landmark coordinates on the body (GMB) and scales (GMS).
+
+
 Introducing ReproZip at SIGMOD
 http://permalink.gmane.org/gmane.comp.db.dbworld/56283
 2016-06-20
