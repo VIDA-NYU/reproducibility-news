@@ -4,7 +4,7 @@
 Reproducibility news
 ====================
 
-This repository contains the recent news about reproducibility that are shown on [reproduciblescience.org](http://reproduciblescience.org/). The raw RSS feed is [here](https://vida-nyu.github.io/reproducibility-news/feed.rss).
+This repository contains the recent news about reproducibility that are shown on [reproduciblescience.org](https://reproduciblescience.org/). The raw RSS feed is [here](https://vida-nyu.github.io/reproducibility-news/feed.rss).
 
 Please, do not hesitate to provide news about your own work by opening a Pull Request here or by contacting us.
 
