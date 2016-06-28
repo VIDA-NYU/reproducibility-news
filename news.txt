@@ -1,3 +1,10 @@
+ReproZip 1.0.6 released
+https://github.com/ViDA-NYU/reprozip/releases/tag/1.0.6
+2016-06-25
+ReproZip
+A new version of ReproZip has been released, adding some bugfixes and new commands related to distributed or server experiments.
+
+
 Research Roundup: Improving reproducibility, the usefulness of clinical research and more
 http://blogs.plos.org/plospodcasts/2016/06/23/research-roundup-improving-reproducibility-the-usefulness-of-clinical-research-and-more/
 2016-06-24
