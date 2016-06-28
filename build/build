@@ -13,6 +13,7 @@ from xml.sax.saxutils import escape
 
 
 WRITE_CSV = False
+MAX_ENTRIES = 50
 
 
 def format_date(d):
@@ -45,7 +46,7 @@ def main():
 
     with io.open('news.txt', encoding='utf-8') as fp_:
         fp = StrippedCountedIterator(fp_)
-        while True:
+        for entry_num in range(MAX_ENTRIES):
             try:
                 title = next(fp)
             except StopIteration:
