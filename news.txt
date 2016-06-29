@@ -1,7 +1,21 @@
+Reproducibility Data for: Direct and Indirect Welfare Chauvinism as Party Strategies
+http://dx.doi.org/10.7910/DVN/ZLFP3A
+2016-06-29
+reproducible paper
+Reproducibility material (data and code) for 'Direct and Indirect Welfare Chauvinism as Party Strategies: An Analysis of the Danish People’s Party', Scandinavian Political Studies.
+
+
+Fire to the File Drawer: Sharing Reproducibility Data in an Online Age.
+2016-06-29
+https://thewinnower.com/papers/4880-fire-to-the-file-drawer-sharing-reproducibility-data-in-an-online-age
+popular news
+"It is entirely within the realm of possibility that the creation of a new publishing platform, focused on hosting formal replications, alongside these review style evaluations of method, would provide a new and more focused home for the type of discussion. Overall, implementing such a system would vastly improve the accessibility of research; both through providing links to peer reviewed replications which have not been filtered by the file drawer, and literally, in terms enabling an overview replication information out at a glance."
+
+
 ReproZip 1.0.6 released
 https://github.com/ViDA-NYU/reprozip/releases/tag/1.0.6
 2016-06-25
-ReproZip
+ReproZip, reproducibility infrastructure
 A new version of ReproZip has been released, adding some bugfixes and new commands related to distributed or server experiments.
 
 
