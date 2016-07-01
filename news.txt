@@ -1,3 +1,17 @@
+Can Robots Help Solve the Reproducibility Crisis?
+http://www.slate.com/articles/technology/future_tense/2016/06/automating_lab_research_could_help_resolve_the_reproducibility_crisis.html
+2016-06-30
+popular news
+In recent years, there’s been increasing awareness of a problem across many scientific fields—the problem of reproducibility. Can experiments be repeated (or "reproduced") to arrive at the same result? Evidence is piling up that the answer, all too often, is no. This makes it difficult to know which results we can confidently rely on, and which are spurious.
+
+
+Biomedical researchers lax about validating antibodies for experiments
+http://www.nature.com/news/biomedical-researchers-lax-about-validating-antibodies-for-experiments-1.20192
+2016-06-30
+news article
+Nearly one-third of junior scientists spend no time validating antibodies, even though accurate results depend on these reagents working as expected, according to the results of a survey reported today in BioTechniques. "This is quite alarming," says Matthias Uhlén, a protein researcher at the Royal Institute of Technology in Stockholm who heads an international working group on antibody validation, but who was not directly involved in the survey.
+
+
 Reproducibility Data for: Direct and Indirect Welfare Chauvinism as Party Strategies
 http://dx.doi.org/10.7910/DVN/ZLFP3A
 2016-06-29
