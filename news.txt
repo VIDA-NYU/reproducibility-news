@@ -1,3 +1,10 @@
+Springer Nature is Introducing a Standardized Set of Research Data Sharing Policies
+http://www.infodocket.com/2016/07/05/springer-nature-introduces-a-standardized-set-of-research-data-sharing-policies/
+2016-07-05
+reproducibility guidelines
+We want to enable our authors to publish the best research and maximize the benefit of research funding, which includes achieving good practice in the sharing and archiving of research data. We also aim to facilitate authors’ compliance with institution and research funder requirements to share data. Encourage publication of more open and reproducible research.
+
+
 MRI software bugs could upend years of research
 http://www.theregister.co.uk/2016/07/03/mri_software_bugs_could_upend_years_of_research/?mt=1467675331912
 2016-07-03
