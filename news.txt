@@ -1,3 +1,10 @@
+Reproducibility of quantitative indices of lung function and microstructure
+http://www.ncbi.nlm.nih.gov/pubmed/27366901
+2016-07-01
+reproducible paper
+To evaluate the reproducibility of indices of lung microstructure and function derived from 129 Xe chemical shift saturation recovery (CSSR) spectroscopy in healthy volunteers and patients with chronic obstructive pulmonary disease (COPD), and to study the sensitivity of CSSR-derived parameters to pulse sequence design and lung inflation level.
+
+
 Can Robots Help Solve the Reproducibility Crisis?
 http://www.slate.com/articles/technology/future_tense/2016/06/automating_lab_research_could_help_resolve_the_reproducibility_crisis.html
 2016-06-30
