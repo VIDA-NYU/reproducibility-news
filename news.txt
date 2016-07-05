@@ -1,3 +1,10 @@
+MRI software bugs could upend years of research
+http://www.theregister.co.uk/2016/07/03/mri_software_bugs_could_upend_years_of_research/?mt=1467675331912
+2016-07-03
+news article
+A whole pile of "this is how your brain looks like" MRI-based science has been invalidated because someone finally got around to checking the data. The problem is simple: to get from a high-resolution magnetic resonance imaging scan of the brain to a scientific conclusion, the brain is divided into tiny "voxels." Software, rather than humans, then scans the voxels looking for clusters. In this paper at PNAS, they write: "the most common software packages for fMRI analysis (SPM, FSL, AFNI) can result in false-positive rates of up to 70%. These results question the validity of some 40,000 fMRI studies and may have a large impact on the interpretation of neuroimaging results."
+
+
 Reproducibility of quantitative indices of lung function and microstructure
 http://www.ncbi.nlm.nih.gov/pubmed/27366901
 2016-07-01
