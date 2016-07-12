@@ -1,7 +1,7 @@
 ACM | The TOMS Initiative and Policies for Replicated Computational Results (RCR)
 http://toms.acm.org/replicated-computational-results.cfm
 2016-07-12
-repreoducibility guidelines
+reproducibility guidelines
 TOMS accepts manuscripts for an additional, and presently optional, review of computational results. This Replicated Computational Results (RCR) review is focused solely on replicating any computational results that are included in a manuscript. If the results are successfully replicated, the manuscript receives a special RCR designation when published. This page outlines the TOMS policies for determining the RCR designation.
 
 
