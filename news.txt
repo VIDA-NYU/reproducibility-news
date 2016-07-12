@@ -1,3 +1,24 @@
+Show and tell: disclosure and data sharing in experimental pathology
+http://dmm.biologists.org/content/9/6/601
+2016-07-11
+reproducible paper
+Reproducibility of data from experimental investigations using animal models is increasingly under scrutiny because of the potentially negative impact of poor reproducibility on the translation of basic research. Histopathology is a key tool in biomedical research, in particular for the phenotyping of animal models to provide insights into the pathobiology of diseases. Failure to disclose and share crucial histopathological experimental details compromises the validity of the review process and reliability of the conclusions. We discuss factors that affect the interpretation and validation of histopathology data in publications and the importance of making these data accessible to promote replicability in research.
+
+
+New Study Calls the Reliability of Brain Scan Research Into Question
+http://www.smithsonianmag.com/smart-news/new-study-calls-reliability-brain-scan-research-question-180959715/?no-ist
+2016-07-11
+news article
+When functional magnetic resonance imaging (fMRI) was introduced in the late 1990s, it drew raves for its ability to show brain activity—and concerns that it might be the modern equivalent of phrenology. Now, that debate could spring to life again with revelations that the popular imaging technology could have been flawed for years. As Kate Lunau writes for Motherboard, new research suggests that software used to analyze fMRI results could invalidate up to 40,000 brain activity studies.
+
+
+samExploreR: Exploring reproducibility and robustness of RNA-seq results based on SAM files
+http://bioinformatics.oxfordjournals.org/content/early/2016/07/08/bioinformatics.btw475.abstract
+2016-07-11
+reproducible paper
+Data from RNA-seq experiments provide us with many new possibilities to gain insights into biological and disease mechanisms of cellular functioning. However, the reproducibility and robustness of RNA-seq data analysis results is often unclear. This is in part attributed to the two counter acting goals of (a) a cost efficient and (b) an optimal experimental design leading to a compromise, e.g., in the sequencing depth of experiments.
+
+
 Springer Nature is Introducing a Standardized Set of Research Data Sharing Policies
 http://www.infodocket.com/2016/07/05/springer-nature-introduces-a-standardized-set-of-research-data-sharing-policies/
 2016-07-05
