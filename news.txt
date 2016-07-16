@@ -1,3 +1,10 @@
+Where next for the reproducibility agenda in computational biology?
+http://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-016-0288-x
+2016-07-15
+reproducible paper
+The concept of reproducibility is a foundation of the scientific method. With the arrival of fast and powerful computers over the last few decades, there has been an explosion of results based on complex computational analyses and simulations. The reproducibility of these results has been addressed mainly in terms of exact replicability or numerical equivalence, ignoring the wider issue of the reproducibility of conclusions through equivalent, extended or alternative methods.
+
+
 We asked hundreds of scientists what they’d change about science. Here are 33 of our favorite responses.
 http://www.vox.com/2016/7/14/12120746/science-challenges-fixes#mQgKZB
 2016-07-14
