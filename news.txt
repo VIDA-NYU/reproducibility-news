@@ -1,7 +1,14 @@
+Validity and Reproducibility of a Dietary Questionnaire for Consumption Frequencies of Foods during Pregnancy in the Born in Guangzhou Cohort Study (BIGCS)
+http://www.mdpi.com/2072-6643/8/8/454
+2016-07-28
+reproducibility study
+This study aimed to examine the reproducibility and validity of a new food frequency questionnaire (FFQ) used in a birth cohort study to estimate the usual consumption frequencies of foods during pregnancy. The reference measure was the average of three inconsecutive 24 h diet recalls (24 HR) administrated between two FFQs, and the reproducibility was measured by repeating the first FFQ (FFQ1) approximately eight weeks later (FFQ2).
+
+
 Pressure BioSciences Announces Initial Shipments of its Enabling, Next-Generation PCT System
 http://finance.yahoo.com/news/pressure-biosciences-announces-initial-shipments-144800971.html
 2016-07-21
-reproducibility study
+reproducibility report
 Pressure BioSciences, Inc. (PBIO) ("PBI" or the "Company") today announced the initial shipments of its recently released, next-generation pressure cycling technology ("PCT")-based instrument, the Barocycler 2320EXTREME (the "2320EXT"). A key component to the study's success will be the maximization of the breadth of biomolecular analytes revealed and measured, and the quality and reproducibility of the results generated using the tools chosen by ProCan for both the sample preparation and analytical portions of the study. 
 
 
