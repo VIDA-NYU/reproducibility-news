@@ -1,3 +1,10 @@
+A statistical definition for reproducibility and replicability
+http://dx.doi.org/10.1101/066803
+2016-07-31
+reproducibility guidelines
+Everyone agrees that reproducibility and replicability are fundamental characteristics of scientific studies. These topics are attracting increasing attention, scrutiny, and debate both in the popular press and the scientific literature. But there are no formal statistical definitions for these concepts, which leads to confusion since the same words are used for different concepts by different people in different fields. We provide formal and informal definitions of scientific studies, reproducibility, and replicability that can be used to clarify discussions around these concepts in the scientific and popular press.
+
+
 In dramatic statement, European leaders call for ‘immediate’ open access to all scientific papers by 2020
 http://www.sciencemag.org/news/2016/05/dramatic-statement-european-leaders-call-immediate-open-access-all-scientific-papers
 2016-07-30
