@@ -1,3 +1,10 @@
+1,500 scientists lift the lid on reproducibility
+http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
+2016-08-08
+reproducibility report
+More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.
+
+
 Standardized Mixed-Meal Tolerance and Arginine Stimulation Tests Provide Reproducible and Complementary Measures ofb-cell Function: Results From the Foundation for the National Institutes of Health Biomarkers Consortium Investigative Series
 http://dx.doi.org/10.2337/dc15-0931
 2016-08-02
