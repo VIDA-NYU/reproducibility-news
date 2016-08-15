@@ -1,3 +1,10 @@
+Report from the first CRN coding sprint
+http://reproducibility.stanford.edu/report-from-the-first-crn-coding-sprint/
+2016-08-14
+reproducibility conference
+Two weeks ago (1st-4th of August 2016) we hosted a coding sprint at Stanford aimed at making neuroimaging data processing and analysis tools more portable and accessible. You might have heard about BIDS – it is a new standard for organizing and describing neuroimaging datasets that we have recently proposed. Containers (also known as “operating-system-level virtualization”) are very lightweight virtual machines that can encapsulate any piece of code along with all of the libraries necessary to run it. Docker and Singularity are two examples of container technologies. The reason we are so excited about containers for reproducible data analysis is that they provide a way to package a piece of software which can run in the same way across many different computing platforms, from a laptop to a supercomputer. Creating containerized and BIDS-aware versions of all of the major neuroimaging analysis packages is critical to our center’s mission: providing data analysis as an free and open service to incentivize researchers to share data.
+
+
 Project package libraries and reproducibility
 https://www.r-bloggers.com/project-package-libraries-and-reproducibility/
 2016-08-12
