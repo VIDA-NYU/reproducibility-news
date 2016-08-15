@@ -1,3 +1,10 @@
+Project package libraries and reproducibility
+https://www.r-bloggers.com/project-package-libraries-and-reproducibility/
+2016-08-12
+reproducibility infrastructure
+If you are an R user it has probably happened to you that you upgraded some R package in your R installation, and then suddenly your R script or application stopped working. One strategy is that you create a new package library for a new project. A package library is just a directory that holds all installed R packages. (In addition to the ones that are installed with R itself.) This is why we created the pkgsnap tool. This is a very simple package with two exported functions: 1) snap takes a snapshot of your project library. It writes out the names and versions of the currently installed packages into a text file. You can put this text file into the version control repository of the project, to make sure it is not lost, and 2) restore uses the snapshot file to recreate the package project library from scratch. It installs the recorded versions of the recorded packages, in the right order.
+
+
 Assessing the reproducibility of exome copy number variations predictions
 https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0336-6
 2016-08-08
