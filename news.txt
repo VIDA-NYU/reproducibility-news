@@ -1,3 +1,10 @@
+CERN Analysis Preservation: A Novel Digital Library Service to Enable Reusable and Reproducible Research
+http://link.springer.com/chapter/10.1007/978-3-319-43997-6_27/fulltext.html
+2016-08-18
+reproducibility report
+The latest policy developments require immediate action for data preservation, as well as reproducible and Open Science. To address this, an unprecedented digital library service is presented to enable the High-Energy Physics community to preserve and share their research objects (such as data, code, documentation, notes) throughout their research process. While facing the challenges of a “big data” community, the internal service builds on existing internal databases to make the process as easy and intrinsic as possible for researchers. Given the “work in progress” nature of the objects preserved, versioning is supported. It is expected that the service will not only facilitate better preservation techniques in the community, but will foremost make collaborative research easier as detailed metadata and novel retrieval functionality provide better access to ongoing works. This new type of e-infrastructure, fully integrated into the research workflow, could help in fostering Open Science practices across disciplines.
+
+
 Report from the first CRN coding sprint
 http://reproducibility.stanford.edu/report-from-the-first-crn-coding-sprint/
 2016-08-14
