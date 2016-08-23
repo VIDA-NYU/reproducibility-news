@@ -1,3 +1,10 @@
+Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research
+https://osf.io/bcef5/
+2016-08-23
+reproducibility conference
+The Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research was held on 6th - 7th April 2016 at the University of Oxford. It was organised by senior academics, publishers and library professionals representing the Alan Turing Institute (ATI) joint venture partners (the universities of Cambridge, Edinburgh, Oxford, UCL and Warwick), the University of Manchester, Newcastle University and the British Library. The key aim of the symposium was to address the challenges around reproducibility of data-intensive research in science, social science and the humanities. This report presents an overview of the discussions and makes some recommendations for the ATI to take forwards. 
+
+
 CERN Analysis Preservation: A Novel Digital Library Service to Enable Reusable and Reproducible Research
 http://link.springer.com/chapter/10.1007/978-3-319-43997-6_27/fulltext.html
 2016-08-18
