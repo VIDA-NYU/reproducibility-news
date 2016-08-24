@@ -1,3 +1,17 @@
+Go forth and replicate!
+http://www.nature.com/news/go-forth-and-replicate-1.20473
+2016-08-24
+news article
+To make replication studies more useful, researchers must make more of them, funders must encourage them and journals must publish them.No scientist wants to be the first to try to replicate another’s promising study: much better to know what happened when others tried it. Long before replication or reproducibility became major talking points, scientists had strategies to get the word out. Gossip was one. Researchers would compare notes at conferences, and a patchy network would be warned about whether a study was worth building on. Or a vague comment might be buried in a related publication. Tell-tale sentences would start "In our hands", "It is unclear why our results differed …" or "Interestingly, our results did not …".
+
+
+The Reproducibility and Relative Validity of a Mexican Diet Quality Index (ICDMx) for the Assessment of the Habitual Diet of Adults
+http://www.mdpi.com/2072-6643/8/9/516
+2016-08-23
+reproducible paper
+The study of diet quality in a population provides information for the development of programs to improve nutritional status through better directed actions. The aim of this study was to assess the reproducibility and relative validity of a Mexican Diet Quality Index (ICDMx) for the assessment of the habitual diet of adults.
+
+
 Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research
 https://osf.io/bcef5/
 2016-08-23
