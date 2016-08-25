@@ -1,3 +1,10 @@
+Reproducibility in Chemical Research
+http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/epdf
+2016-08-25
+reproducibility report
+Reproducibility is a defining feature of science. Lately, however, serious concerns have been raised regarding the extent to which the results of research, especially biomedical research, are easily replicated. In this Editorial, we discuss to what extent reproducibility is a significant issue in chemical research and then suggest steps to minimize problems involving irreproducibility in chemistry. 
+
+
 Go forth and replicate!
 http://www.nature.com/news/go-forth-and-replicate-1.20473
 2016-08-24
