@@ -1,3 +1,24 @@
+Rethinking Education in Psychology in Light of Reproducibility Crisis
+http://www.chronicle.com/blogs/letters/rethinking-education-in-psychology-in-light-of-reproducibility-crisis/
+2016-08-27
+popular news
+Sanjay Srivastava’s joke syllabus ("A Joke Syllabus With a Serious Point: Cussing Away the Reproducibility Crisis," The Chronicle, August 15) and Lee Jussim's blog post on Psychology Today about educating psychology students in light of the reproducibility crisis led me to reflect on my department’s recent curriculum changes. We have retooled or created from scratch multiple courses that engage something few of my colleagues seem to consider relevant to the problem: intellectual history. They instead hold firmly to the dictates of positivism, insisting that better training in the methods of science will be the source of rescue. Where does this prejudice come from? Might it be time to pave a new way?
+
+
+Empowering Multi-Cohort Gene Expression Analysis to Increase Reproducibility
+http://dx.doi.org/10.1101/071514
+2016-08-25
+reproducibility study	
+A major contributor to the scientific reproducibility crisis has been that the results from homogeneous, single-center studies do not generalize to heterogeneous, real world populations. Multi-cohort gene expression analysis has helped to increase reproducibility by aggregating data from diverse populations into a single analysis. To make the multi-cohort analysis process more feasible, we have assembled an analysis pipeline which implements rigorously studied meta-analysis best practices. We have compiled and made publicly available the results of our own multi-cohort gene expression analysis of 103 diseases, spanning 615 studies and 36,915 samples, through a novel and interactive web application. As a result, we have made both the process of and the results from multi-cohort gene expression analysis more approachable for non-technical users.
+
+
+Cell Press transforms article methods section to improve transparency and accessibility
+http://www.eurekalert.org/pub_releases/2016-08/cp-cpt082516.php
+2016-08-25
+reproducible journal
+Amid discussions around scientific reproducibility, the leading biomedical journal Cell will introduce a redesigned methods section to help authors clearly communicate how experiments are conducted. The first papers using Structured, Transparent, Accessible Reporting (STAR) Methods, which promotes guidelines encouraged by reagent labeling and animal experimentation initiatives, appear in Cell on August 25. The format will then be adopted by other Cell Press journals over the next year, starting with Cell Systems in the fall.
+
+
 Reproducibility in Chemical Research
 http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/epdf
 2016-08-25
