@@ -1,3 +1,17 @@
+Julian Wolfson Named Reproducibility Editor for Leading Statistics Journal
+http://www.sph.umn.edu/wolfson-named-reproducibility-editor-asa-statistics-journal/
+2016-09-01
+reproducible journal
+University of Minnesota School of Public Health Assistant Professor Julian Wolfson was named an associate editor for reproducibility for the Journal of the American Statistical Association (JASA). The appointment is in support of the journal’s new requirement for authors to submit scientific code and data for review along with their papers.
+
+
+A reproducibility horror story (and the heroes, knitr and checkpoint)
+http://blog.revolutionanalytics.com/2016/08/a-reproducibility-horror-story.html
+2016-09-01
+reproducibility infrastructure
+You download the data and complete your analysis with ample time to spare. Then, just before deadline, your collaborator lets you know that they've "fixed a data error". Now, you have to do your analysis all over again. This is the reproducibility horror story.
+
+
 Truth in Science Publishing: A Personal Perspective
 http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002547
 2016-09-01
