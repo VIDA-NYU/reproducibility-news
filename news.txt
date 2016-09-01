@@ -1,3 +1,10 @@
+Truth in Science Publishing: A Personal Perspective
+http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002547
+2016-09-01
+popular news
+Scientists, public servants, and patient advocates alike increasingly question the validity of published scientific results, endangering the public’s acceptance of science. Here, I argue that emerging flaws in the integrity of the peer review system are largely responsible. Distortions in peer review are driven by economic forces and enabled by a lack of accountability of journals, editors, and authors. One approach to restoring trust in the validity of published results may be to establish basic rules that render peer review more transparent, such as publishing the reviews (a practice already embraced by some journals) and monitoring not only the track records of authors but also of editors and journals.
+
+
 ASM Addresses the Reproducibility Crisis in New Academy Report
 http://www.asm.org/index.php/ceo-blog/item/155-asm-addresses-the-reproducibility-crisis-in-new-academy-report
 2016-08-30
