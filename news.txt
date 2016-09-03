@@ -1,3 +1,24 @@
+A Framework for Improving the Quality of Research in the Biological Sciences
+http://mbio.asm.org/content/7/4/e01256-16.full
+2016-09-02
+reproducibility study
+The American Academy of Microbiology convened a colloquium to discuss problems in the biological sciences, with emphasis on identifying mechanisms to improve the quality of research. Participants from various disciplines made six recommendations: (i) design rigorous and comprehensive evaluation criteria to recognize and reward high-quality scientific research; (ii) require universal training in good scientific practices, appropriate statistical usage, and responsible research practices for scientists at all levels, with training content regularly updated and presented by qualified scientists; (iii) establish open data at the timing of publication as the standard operating procedure throughout the scientific enterprise; (iv) encourage scientific journals to publish negative data that meet methodologic standards of quality; (v) agree upon common criteria among scientific journals for retraction of published papers, to provide consistency and transparency; and (vi) strengthen research integrity oversight and training. These recommendations constitute an actionable framework that, in combination, could improve the quality of biological research.
+
+
+Reproducibility and Variation of Diffusion Measures in the Squirrel Monkey Brain, In Vivo and Ex Vivo
+http://www.mrijournal.com/article/S0730-725X(16)30120-5/abstract
+2016-09-02
+reproducibility study
+Animal models are needed to better understand the relationship between diffusion MRI (dMRI) and the underlying tissue microstructure. One promising model for validation studies is the common squirrel monkey, Saimiri sciureus. This study aims to determine (1) the reproducibility of in vivo diffusion measures both within and between subjects; (2) the agreement between in vivo and ex vivo data acquired from the same specimen and (3) normal diffusion values and their variation across brain regions.
+
+
+MBoC Introduces Author Checklist to Enhance Research Reproducibility
+http://www.ascb.org/september-2016-nl-mboc-introduces-author-checklist-to-enhance-research-reproducibility/
+2016-09-02
+reproducible journal
+Molecular Biology of the Cell (MBoC) has developed a checklist for authors to help them ensure that their work can be reproduced by others. In so doing, the journal is mboc logofollowing the recommendations in the 2015 whitepaper by the ASCB Reproducibility Task Force. The checklist was developed by a committee of MBoC Editorial Board members chaired by Editor Jean Schwarzbauer and including Associate Editors Rick Fehon, Carole Parent, Greg Matera, Alex Mogilner, and Fred Chang with input from Editor-in-Chief David Drubin and other members of the board.
+
+
 Clinical Trial Transparency and Reproducibility Discussion Panel and Workshop at NYU
 https://docs.google.com/forms/d/e/1FAIpQLSfkbeRa4I4na_1FoEAcaILKLFId3GfQJkSO0x5rd1Yk-vFStA/viewform?c=0&w=1
 2016-09-02
