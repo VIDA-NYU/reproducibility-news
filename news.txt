@@ -1,3 +1,17 @@
+Moving Towards Model Reproducibility and Reusability
+http://www.ncbi.nlm.nih.gov/pubmed/27576241
+2016-09-05
+reproducibility study
+This commentary provides a brief history of the U.S. funding initiatives associated with promoting multiscale modeling of the physiome since 2003. An effort led in the United States is the Interagency Modeling and Analysis Group (IMAG) Multiscale Modeling Consortium (MSM). Though IMAG and the MSM have generated much interest in developing MSM models of the physiome, challenges associated with model and data sharing in biomedical, biological and behavioral systems still exist. Since 2013, the IEEE EMBS Technical Committee on Computational Biology and the Physiome (CBaP TC) has supported discussions on promoting model reproducibility through publication. This Special Issue on Model Sharing and Reproducibility is a realization of the CBaP TC discussions. Though open questions remain on how we can further facilitate model reproducibility, accessibility and reuse by the worldwide community for different biomedical domain applications, this special issue provides a unique demonstration of both the challenges and opportunities for publishing reproducible computational models.
+
+
+Proposal for first validating antibody specificity strategies to publish in Nature Methods
+http://www.eurekalert.org/pub_releases/2016-09/gh-pff083016.php
+2016-09-05
+reproducibility study
+The International Working Group on Antibody Validation (IWGAV), an independent group of international scientists with diverse research interests in the field of protein biology, today announced the publication of initial strategies developed to address a critical unmet need for antibody specificity, functionality and reproducibility in the online issue of Nature Methods. The IWGAV is the first initiative of its size and scope to establish strategic recommendations for antibody validation for both antibody producers and users. Thermo Fisher Scientific, the world leader in serving science, provided financial support to the IWGAV in 2015 to spearhead the development of industry standards and help combat the common challenges associated with antibody specificity and reproducibility.
+
+
 A Framework for Improving the Quality of Research in the Biological Sciences
 http://mbio.asm.org/content/7/4/e01256-16.full
 2016-09-02
