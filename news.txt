@@ -1,3 +1,24 @@
+Vive la Petite Différence! Exploiting Small Differences for Gender Attribution of Short Texts
+http://link.springer.com/chapter/10.1007/978-3-319-45510-5_7
+2016-09-08
+reproducible paper
+This article describes a series of experiments on gender attribution of Polish texts. The research was conducted on the publicly available corpus called "He Said She Said", consisting of a large number of short texts from the Polish version of Common Crawl. As opposed to other experiments on gender attribution, this research takes on a task of classifying relatively short texts, authored by many different people. For the sake of this work, the original "He Said She Said" corpus was filtered in order to eliminate noise and apparent errors in the training data. In the next step, various machine learning algorithms were developed in order to achieve better classification accuracy. Interestingly, the results of the experiments presented in this paper are fully reproducible, as all the source codes were deposited in the open platform Gonito.net. Gonito.net allows for defining machine learning tasks to be tackled by multiple researchers and provides the researchers with easy access to each other’s results.
+
+
+Conducting Reproducible Research with Umbrella: Tracking, Creating, and Preserving Execution Environments 
+http://ccl.cse.nd.edu/research/papers/umbrella-escience-2016.pdf
+2016-09-08
+reproducibility infrastructure
+Publishing scientific results without the detailed execution environments describing how the results were collected makes it difficult or even impossible for the reader to reproduce thework. However, the configurations of the execution environ-ments are too complex to be described easily by authors. To solve this problem, we propose a framework facilitating the conduct of reproducible research by tracking, creating, and preserving the comprehensive execution environments with Umbrella. The framework includes a lightweight, persistent anddeployable execution environment specification, an execution engine which creates the specified execution environments, and an archiver which archives an execution environment into persistent storage services like Amazon S3 and Open Science Framework (OSF). The execution engine utilizes sandbox techniques like virtual machines (VMs), Linux containers and user-space tracers, to cre-ate an execution environment, and allows common dependencies like base OS images to be shared by sandboxes for different applications. We evaluate our framework by utilizing it to reproduce three scientific applications from epidemiology, scene rendering, and high energy physics. We evaluate the time and space overhead of reproducing these applications, and the effectiveness of the chosen archive unit and mounting mechanism for allowing different applications to share dependencies. Our results show that these applications can be reproduced using different sandbox techniques successfully and efficiently, even through the overhead andperformance slightly vary. 
+
+
+PRUNE: A Preserving Run Environment for Reproducible Scientific Computing 
+http://ccl.cse.nd.edu/research/papers/prune-escience-2016.pdf
+2016-09-08
+reproducibility infrastructure
+Computing as a whole suffers from a crisis of reproducibility. Programs executed in one context are aston-ishingly hard to reproduce in another context, resulting in wasted effort by people and general distrust of results produced by computer. The root of the problem lies in the fact that every program has implicit dependencies on data and execution environment whichare rarely understood by the end user. To address this problem, we present PRUNE, the Preserving Run Environment.In PRUNE, every task to be executed is wrapped in a functional interface and coupled with a strictly defined environment. The task is then executed by PRUNErather than the user to ensure reproducibility. As a scientific workflow evolves in PRUNE, a growing but immutable tree of derived data is created. The provenance of every item in the system can be precisely described, facilitating sharing and modification between collaborating researchers, along with efficient management of limited storage space. We present the user interface and the initial prototype of PRUNE, and demonstrate its application in matching records and comparing surnames in U.S. Censuses. 
+
+
 Moving Towards Model Reproducibility and Reusability
 http://www.ncbi.nlm.nih.gov/pubmed/27576241
 2016-09-05
