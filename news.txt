@@ -1,3 +1,10 @@
+Reprowd: Crowdsourced Data Processing Made Reproducible
+http://arxiv.org/pdf/1609.00791.pdf
+2016-09-10
+reproducible paper, ReproZip
+Crowdsourcing is a multidisciplinary research area in-cluding disciplines like artificial intelligence, human-computer interaction, database, and social science. One of the main objectives of AAAI HCOMP conferences is to bring together researchers from different fields and provide them opportunities to exchange ideas and share new research results. To facilitate cooperation across disciplines,repro-ducibilityis a crucial factor, but unfortunately it has not got-ten enough attention in the HCOMP community.
+
+
 Vive la Petite Différence! Exploiting Small Differences for Gender Attribution of Short Texts
 http://link.springer.com/chapter/10.1007/978-3-319-45510-5_7
 2016-09-08
