@@ -1,3 +1,10 @@
+Why scientists must share their research code
+http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504
+2016-09-13
+news article
+Many scientists worry over the reproducibility of wet-lab experiments, but data scientist Victoria Stodden's focus is on how to validate computational research: analyses that can involve thousands of lines of code and complex data sets. Beginning this month, Stodden — who works at the University of Illinois at Urbana-Champaign — becomes one of three ‘reproducibility editors’ appointed to look over code and data sets submitted by authors to the Applications and Case Studies (ACS) section of the Journal of the American Statistical Association (JASA). Other journals including Nature have established guidelines for accommodating data requests after publication, but they rarely consider the availability of code and data during the review of a manuscript. JASA ACS will now insist that — with a few exceptions for privacy — authors submit this information as a condition of publication.
+
+
 Reprowd: Crowdsourced Data Processing Made Reproducible
 http://arxiv.org/pdf/1609.00791.pdf
 2016-09-10
