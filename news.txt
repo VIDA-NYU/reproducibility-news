@@ -1,3 +1,10 @@
+Never Waste a Good Crisis: Confronting Reproducibility in Translational Research
+http://dx.doi.org/10.1016/j.cmet.2016.08.006
+2016-09-14
+news article
+The lack of reproducibility of preclinical experimentation has implications for sustaining trust in and ensuring the viability and funding of the academic research enterprise. Here I identify problematic behaviors and practices and suggest solutions to enhance reproducibility in translational research.
+
+
 Why scientists must share their research code
 http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504
 2016-09-13
