@@ -1,3 +1,17 @@
+Research Antibody Reproducibility
+http://www.genengnews.com/gen-articles/research-antibody-reproducibility/5833/
+2016-09-15
+news article
+The ongoing dialogue has included the role of improperly validated research reagents, such as antibodies, with blame falling at the feet of reagent vendors, researchers, and journals. This article will highlight how the lack of consistent research on antibody validation has contributed to the reproducibility crisis and the role of vendors from Cell Signaling Technology’s (CST) perspective in making research more robust and reproducible.
+
+
+Reproducibility: Respect your cells!
+http://www.nature.com/nature/journal/v537/n7620/full/537433a.html
+2016-09-14
+news article
+Numerous variables can torpedo attempts to replicate cell experiments, from the batch of serum to the shape of growth plates. But there are ways to ensure reliability.
+
+
 Never Waste a Good Crisis: Confronting Reproducibility in Translational Research
 http://dx.doi.org/10.1016/j.cmet.2016.08.006
 2016-09-14
