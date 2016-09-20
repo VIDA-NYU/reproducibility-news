@@ -1,3 +1,17 @@
+Reproducibility: Respect your cells!
+http://www.nature.com/nature/journal/v537/n7620/full/537433a.html
+2016-09-20
+news article
+Numerous variables can torpedo attempts to replicate cell experiments, from the batch of serum to the shape of growth plates. But there are ways to ensure reliability.
+
+
+Reproducibility: Harness passion of private fossil owners
+http://www.nature.com/nature/journal/v537/n7620/full/537307a.html
+2016-09-20
+news article
+Reproducing palaeontological results depends on unrestricted access to fossils described in the literature, allowing others to re-examine or reinterpret them. Museums have policies and protocols for keeping materials in the public trust, but accessibility to privately owned fossil collections can be a problem.
+
+
 What do we mean by "reproducibility"?
 http://www.stats.org/what-do-we-mean-by-reproducibility/
 2016-09-19
