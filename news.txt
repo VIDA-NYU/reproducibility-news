@@ -1,3 +1,10 @@
+A Reproducibility Study of Information Retrieval Models
+http://dl.acm.org/citation.cfm?id=2970415
+2016-09-27
+reproducibility study
+Developing effective information retrieval models has been a long standing challenge in Information Retrieval (IR), and significant progresses have been made over the years. With the increasing number of developed retrieval functions and the release of new data collections, it becomes more difficult, if not impossible, to compare a new retrieval function with all existing retrieval functions over all available data collections. To tackle thisproblem, this paper describes our efforts on constructing a platform that aims to improve the reproducibility of IR researchand facilitate the evaluation and comparison of retrieval functions.
+
+
 Reproducibility: Respect your cells!
 http://www.nature.com/nature/journal/v537/n7620/full/537433a.html
 2016-09-20
