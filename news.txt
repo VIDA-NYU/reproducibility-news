@@ -1,3 +1,10 @@
+Reproducibility of Search Strategies Is Poor in Systematic Reviews Published in High-Impact Pediatrics, Cardiology and Surgery Journals: A Cross-Sectional Study
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163309
+2016-09-27
+reproducibility study
+A high-quality search strategy is considered an essential component of systematic reviews but many do not contain reproducible search strategies. It is unclear if low reproducibility spans medical disciplines, is affected by librarian/search specialist involvement or has improved with increased awareness of reporting guidelines.
+
+
 A Reproducibility Study of Information Retrieval Models
 http://dl.acm.org/citation.cfm?id=2970415
 2016-09-27
