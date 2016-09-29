@@ -1,3 +1,17 @@
+Validate your antibodies to improve reproducibility? Easier said than done
+http://www.sciencemag.org/news/2016/09/validate-your-antibodies-improve-reproducibility-easier-said-done
+2016-09-29
+news article
+It seems like the most elementary of research principles: Make sure the cells and reagents in your experiment are what they claim to be and behave as expected. But when it comes to antibodies—the immune proteins used in all kinds of experiments to tag a molecule of interest in a sample—that validation process is not straightforward. Research antibodies from commercial vendors are often screened and optimized for narrow experimental conditions, which means they may not work as advertised for many scientists. Indeed, problems with antibodies are thought to have led many drug developers astray and generated a host of misleading or irreproducible scientific results. 
+
+
+AN INTERNATIONAL INTER-LABORATORY DIGITAL PCR STUDY DEMONSTRATES HIGH REPRODUCIBILITY FOR THE MEASUREMENT OF A RARE SEQUENCE VARIANT
+http://biorxiv.org/content/early/2016/09/28/077917
+2016-09-29
+reproducible paper
+This study tested the claim that digital PCR (dPCR) can offer highly reproducible quantitative measurements in disparate labs. Twenty-one laboratories measured four blinded samples containing different quantities of a KRAS fragment encoding G12D, an important genetic marker for guiding therapy of certain cancers. This marker is challenging to quantify reproducibly using qPCR or NGS due to the presence of competing wild type sequences and the need for calibration. Using dPCR, eighteen laboratories were able to quantify the G12D marker within 12% of each other in all samples. Three laboratories appeared to measure consistently outlying results; however, proper application of a follow-up analysis recommendation rectified their data. Our findings show that dPCR has demonstrable reproducibility across a large number of laboratories without calibration and could enable the reproducible application of molecular stratification to guide therapy, and potentially for molecular diagnostics.
+
+
 Reproducibility of Search Strategies Is Poor in Systematic Reviews Published in High-Impact Pediatrics, Cardiology and Surgery Journals: A Cross-Sectional Study
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163309
 2016-09-27
