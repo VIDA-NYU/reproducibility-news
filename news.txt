@@ -1,3 +1,17 @@
+Strategies to Increase Rigor and Reproducibility of Data in Manuscripts: Reply to Héroux
+http://jn.physiology.org/content/116/3/1538
+2016-10-01
+reproducible paper
+A number of proactive steps are underway to improve the rigor and reproducibility of the data reported in the Journal of Neurophysiology. The American Physiological Society's Publications Committee is currently devising implementation plans for the following recommendations from editors of the Society's journals.
+
+
+Reproducibility in wireless experimentation: need, challenges, and approaches
+http://dl.acm.org/citation.cfm?id=2984738
+2016-10-01
+reproducible paper
+Wireless networks are the key enabling technology of the mobile revolution. However, experimental mobile and wireless research is still hindered by the lack of a solid framework to adequately evaluate the performance of a wide variety of techniques and protocols proposed by the community. In this talk, I will motivate the need for experimental reproducibility as a necessary aspect for healthy progress as accepted by other communities. I will illustrate how other research communities went through similar processes. I will then present the unique challenges of mobile and wireless experimentation, and discuss approaches, past, current, and future to address these challenges. Finally, I will discuss how reproducibility extends to mobile and wireless security research.
+
+
 Validate your antibodies to improve reproducibility? Easier said than done
 http://www.sciencemag.org/news/2016/09/validate-your-antibodies-improve-reproducibility-easier-said-done
 2016-09-29
