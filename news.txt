@@ -1,3 +1,10 @@
+The Solution to Science's Replication Crisis
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2835131
+2016-10-03
+reproducible paper
+The solution to science's replication crisis is a new ecosystem in which scientists sell what they learn from their research. In each pairwise transaction, the information seller makes (loses) money if he turns out to be correct (incorrect). Responsibility for the determination of correctness is delegated, with appropriate incentives, to the information purchaser. Each transaction is brokered by a central exchange, which holds money from the anonymous information buyer and anonymous information seller in escrow, and which enforces a set of incentives facilitating the transfer of useful, bluntly honest information from the seller to the buyer. This new ecosystem, capitalist science, directly addresses socialist science's replication crisis by explicitly rewarding accuracy and penalizing inaccuracy. 
+
+
 Strategies to Increase Rigor and Reproducibility of Data in Manuscripts: Reply to Héroux
 http://jn.physiology.org/content/116/3/1538
 2016-10-01
