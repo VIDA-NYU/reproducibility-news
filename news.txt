@@ -1,3 +1,24 @@
+Incentivizing Reproducibility
+http://cacm.acm.org/magazines/2016/10/207757-incentivizing-reproducibility/fulltext?1475360375780=1
+2016-10-06
+reproducible journal
+A scientific result is not truly established until it is independently confirmed. This is one of the tenets of experimental science. Yet, we have seen a rash of recent headlines about experimental results that could not be reproduced. In the biomedical field, efforts to reproduce results of academic research by drug companies have had less than a 50% success rate,a resulting in billions of dollars in wasted effort. In most cases the cause is not intentional fraud, but rather sloppy research protocols and faulty statistical analysis. Nevertheless, this has led to both a loss in public confidence in the scientific enterprise and some serious soul searching within certain fields. Publishers have begun to take the lead in insisting on more careful reporting and review, as well as facilitating government open science initiatives mandating sharing of research data and code. To support efforts of this type, the ACM Publications Board recently approved a new policy on Result and Artifact Review and Badging. This policy defines two badges ACM will use to highlight papers that have undergone independent verification. Results Replicated is applied when the paper's main results have been replicated using artifacts provided by the author, or Results Reproduced if done completely independently.
+
+
+Reproducibility: Seek out stronger science
+http://www.nature.com/nature/journal/v537/n7622/full/nj7622-703a.html
+2016-10-05
+news article
+When graduate student Alyssa Ward took a science-policy internship, she expected to learn about policy — not to unearth gaps in her biomedical training. She was compiling a bibliography about the reproducibility of experiments, and one of the papers, a meta-analysis, found that scientists routinely fail to explain how they choose the number of samples to use in a study. "My surprise was not about the omission — it was because I had no clue how, or when, to calculate sample size," Ward says. Nor had she ever been taught about major categories of experimental design, or the limitations of P values. (Although they can help to judge the strength of scientific evidence, P values do not — as many think — estimate the likelihood that a hypothesis is true.)
+
+
+BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods
+http://biorxiv.org/content/early/2016/10/05/079145
+2016-10-04
+reproducible paper
+In this work, we introduce a framework for creating, testing, versioning and archiving portable applications for analyzing neuroimaging data organized and described in compliance with the Brain Imaging Data Structure (BIDS). The portability of these applications (BIDS Apps) is achieved by using container technologies that encapsulate all binary and other dependencies in one convenient package. BIDS Apps run on all three major operating systems with no need for complex setup and configuration and thanks to the richness of the BIDS standard they require little manual user input. Previous containerized data processing solutions were limited to single user environments and not compatible with most multi tenant High Performance Computing systems. BIDS Apps overcome this limitation by taking advantage of the Singularity container technology. As a proof of concept, this work is accompanied by 18 ready to use BIDS Apps, packaging a diverse set of commonly used neuroimaging algorithms.
+
+
 The Solution to Science's Replication Crisis
 http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2835131
 2016-10-03
