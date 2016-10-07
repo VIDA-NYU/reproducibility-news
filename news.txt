@@ -1,3 +1,31 @@
+Scientific Misconduct: The Elephant in the Lab. A Response to Parker et al.
+http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(16)30159-8?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534716301598%3Fshowall%3Dtrue
+2016-10-07
+reproducible paper
+In a recent Opinion article, Parker et al. [1] highlight a range of important issues and provide tangible solutions to improve transparency in ecology and evolution (E&E). We agree wholeheartedly with their points and encourage the E&E community to heed their advice. However, a key issue remains conspicuously unaddressed: Parker et al. assume that ‘deliberate dishonesty’ is rare in E&E, yet evidence suggests that occurrences of scientific misconduct (i.e., data fabrication, falsification, and/or plagiarism) are disturbingly common in the life sciences [2].
+
+
+Most computational hydrology is not reproducible, so is it really science?
+http://onlinelibrary.wiley.com/doi/10.1002/2016WR019285/full
+2016-10-07
+reproducible paper
+Reproducibility is a foundational principle in scientific research. Yet in computational hydrology, the code and data that actually produces published results is not regularly made available, inhibiting the ability of the community to reproduce and verify previous findings. In order to overcome this problem we recommend that re-useable code and formal workflows, which unambiguously reproduce published scientific results, are made available for the community alongside data, so that we can verify previous findings, and build directly from previous work. In cases where reproducing large-scale hydrologic studies is computationally very expensive and time-consuming, new processes are required to ensure scientific rigour. Such changes will strongly improve the transparency of hydrological research, and thus provide a more credible foundation for scientific advancement and policy support.
+
+
+Reproducibility and replicability of rodent phenotyping in preclinical studies
+http://biorxiv.org/content/early/2016/10/05/079350
+2016-10-06
+reproducible paper
+The scientific community is increasingly concerned with cases of published "discoveries" that are not replicated in further studies. The field of mouse phenotyping was one of the first to raise this concern, and to relate it to other complicated methodological issues: the complex interaction between genotype and environment; the definitions of behavioral constructs; and the use of the mouse as a model animal for human health and disease mechanisms. In January 2015, researchers from various disciplines including genetics, behavior genetics, neuroscience, ethology, statistics and bioinformatics gathered in Tel Aviv University to discuss these issues. The general consent presented here was that the issue is prevalent and of concern, and should be addressed at the statistical, methodological and policy levels, but is not so severe as to call into question the validity and the usefulness of the field as a whole. Well-organized community efforts, coupled with improved data and metadata sharing were agreed by all to have a key role to play in view of identifying specific problems, as well as promoting effective solutions. As replicability is related to validity and may also affect generalizability and translation of findings, the implications of the present discussion reach far beyond the issue of replicability of mouse phenotypes but may be highly relevant throughout biomedical research.
+
+
+Repeat After Me: Why can't anyone replicate the scientific studies from those eye-grabbing headlines?
+https://thenib.com/repeat-after-me?t=default
+2016-10-06
+popular news
+A comic illustrating the complexities and history of research reproducibility. 
+
+
 Incentivizing Reproducibility
 http://cacm.acm.org/magazines/2016/10/207757-incentivizing-reproducibility/fulltext?1475360375780=1
 2016-10-06
