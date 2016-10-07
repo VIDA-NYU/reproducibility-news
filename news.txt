@@ -1,3 +1,10 @@
+The hard road to reproducibility
+http://science.sciencemag.org/content/354/6308/142
+2016-10-07
+popular news
+Early in my Ph.D. studies, my supervisor assigned me the task of running computer code written by a previous student who was graduated and gone. It was hell. I had to sort through many different versions of the code, saved in folders with a mysterious numbering scheme. There was no documentation and scarcely an explanatory comment in the code itself. It took me at least a year to run the code reliably, and more to get results that reproduced those in my predecessor's thesis. Now that I run my own lab, I make sure that my students don't have to go through that.
+
+
 Scientific Misconduct: The Elephant in the Lab. A Response to Parker et al.
 http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(16)30159-8?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534716301598%3Fshowall%3Dtrue
 2016-10-07
