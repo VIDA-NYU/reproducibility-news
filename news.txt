@@ -1,3 +1,31 @@
+WHAT IS REPLICATION CRISIS? AND WHAT CAN BE DONE TO FIX IT?
+http://www.popsci.com/what-is-replication-crisis
+2016-10-16
+popular news
+Psychology has a replication problem. Since 2010, scientists conducting replications of hundreds of studies have discovered that a dismal amount of published results can be reproduced. This realization by psychologists has come to be known as "replication crisis". For me, this story all started with ego-depletion, and the comics I had drawn about it in 2014. The idea is that your self-control is a resource that can be diminished with use. When you think about all the times you've been slowly worn down by temptation, it seems obvious. When I drew the comics, there had been new research pointing to blood sugar levels as the font of self-control from which we all drew from. It also made sense—people get cranky when they're hungry. We even made up a word for it. We call it being "hangry".
+
+
+Reproducibility and transparency in biomedical sciences
+http://onlinelibrary.wiley.com/doi/10.1111/odi.12588/full
+2016-10-15
+reproducible paper
+The biomedical research sciences are currently facing a challenge highlighted in several recent publications: concerns about the rigor and reproducibility of studies published in the scientific literature.Research progress is strongly dependent on published work. Basic science researchers build on their own prior work and the published findings of other researchers. This work becomes the foundation for preclinical and clinical research aimed at developing innovative new diagnostic tools and disease therapies. At each of the stages of research, scientific rigor and reproducibility are critical, and the financial and ethical stakes rise as drug development research moves through these stages.
+
+
+Introduction: The Challenge of Reproducibility
+http://www.annualreviews.org/doi/full/10.1146/annurev-cb-32-100316-100001
+2016-10-15
+reproducibility report
+Science progresses by an iterative process whereby discoveries build upon a foundation of established facts and principles. The integrity of the advancement of knowledge depends crucially on the reliability and reproducibility of our published results. Although mistakes and falsification of results have always been an unfortunate part of the process, most viewed scientific research as self-correcting; the incorrect results and conclusions would inevitably be challenged and replaced with more reliable information. But what happens if the process is corrupted by systematic errors brought about by the misapplication of statistics, the use of unreliable reagents and inappropriate cell models, and the pressure to publish in the most selective venues? We may be facing this scenario now in areas of biomedical science in which claims have been made that a majority of the most important work in, for example, cancer biology is not reproducible in the hands of drug companies that would seek to rely on the biomedical literature for opportunities in drug discovery.
+
+
+A Year of Reproducibility Initiatives: The Replication Revolution Forges Ahead
+http://www.psychologicalscience.org/publications/observer/2014/july-august-14/a-year-of-reproducibility-initiatives-the-replication-revolution-forges-ahead.html
+2016-10-14
+news article
+Adhering faithfully to the scientific method is at the very heart of psychological inquiry. It requires scientists to be passionately dispassionate, to be intensely interested in scientific questions but not wedded to the answers. It asks that scientists not personally identify with their past work or theories — even those that bear their names — so that science as a whole can inch ever closer to illuminating elusive truths. That compliance isn’t so easy. But those who champion the so-called replication revolution in psychological science believe that it is possible — with the right structural reforms and personal incentives.
+
+
 The hard road to reproducibility
 http://science.sciencemag.org/content/354/6308/142
 2016-10-07
