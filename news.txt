@@ -1,3 +1,17 @@
+A Framework for Scientific Workflow Reproducibility in the Cloud 
+https://www.researchgate.net/profile/Rawaa_Qasha/publication/307905445_A_Framework_for_Scientific_Workflow_Reproducibility_in_the_Cloud/links/57ecf52c08ae92eb4d2689d0.pdf
+2016-10-18
+reproducibility infrastructure, ReproZip
+Workflow is a well-established means by which to capture scientific methods in an abstract graph of interrelated processing tasks. The reproducibility of scientific workflows is therefore fundamental to reproducible e-Science. However, the ability to record all the required details so as to make a workflow fully reproducible is a long-standing problem that is very difficult to solve. In this paper, we introduce an approach that integrates system description, source control, container management and automatic deployment techniques to facilitate workflow reproducibility. We have developed a framework that leverages this integration to support workflow execution, re-execution and reproducibility in the cloud and in a personal computing environment. We demonstrate the effectiveness of our approach by ex-amining various aspects of repeatability and reproducibility on real scientific workflows. The framework allows workflow andtask images to be captured automatically, which improves not only repeatability but also runtime performance. It also gives workflows portability across different cloud environments. Finally, the framework can also track changes in the development of tasks and workflows to protect them from unintentional failures. 
+
+
+Reproducibility and research misconduct: time for radical reform
+http://onlinelibrary.wiley.com/doi/10.1111/imj.13206/full
+2016-10-18
+reproducible paper
+We know now that much health and medical research which is published in peer-reviewed journals is wrong,[1] and consequently much is unable to be replicated.[2-4] This is due in part to poor research practice, biases in publication, and simply a pressure to publish in order to ‘survive’. Cognitive biases that unreasonably wed to our hypotheses and results are to blame.[5] Strongly embedded in our culture of health and medical research is the natural selection of poor science practice driven by the dependence for survival on high rates of publication in academic life. It is a classic form of cultural evolution along Darwinian lines.[6, 7] Do not think that even publications in the most illustrious medical journal are immune from these problems: the COMPare project[8] reveals that more than 85% of large randomised controlled trials deviate seriously from their plan when the trial was registered prior to its start. An average of more than five new outcome measures was secretly added to the publication and a similar number of nominated outcomes were silently omitted. It is hardly far-fetched to propose that this drive to publish is contributing to the growth in the number of papers retracted from the literature for dubious conduct[9] along with the increasing number of cases of research misconduct.
+
+
 A University Symposium: Promoting Credibility, Reproducibility and Integrity in Research
 http://evpr.columbia.edu/content/PCRI
 2016-10-17
