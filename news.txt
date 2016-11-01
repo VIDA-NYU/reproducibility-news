@@ -1,3 +1,10 @@
+Reinventing the Methods Journal: Increasing Reproducibility with Video Journals
+http://docs.lib.purdue.edu/atg/vol25/iss5/9/
+2016-11-01
+reproducible journal
+The way science journals present research must be rehabilitated or risk becoming obsolete, causing foreseeable negative consequences to research funding and pro-ductivity.  Researchers are dealing with ever- increasing complexities, and as techniques and solutions become more involved, so too does the task of describing them.  Unfortunately, simply explaining a technique with text does not always paint a clear enough picture. Scientific publishing has followed essentially the same model since the original scientific journal was published in the mid-seventeenth century. Thanks to advances in technology, we have seen some minor improvements such as the addition of color printing and better dissemination and search functionality through online cataloging.  But what has actually changed?  In truth, not all that much. Articles are still published as text heavy-tomes with the occasional pho-tograph or chart to demonstrate a point.     
+
+
 A Framework for Scientific Workflow Reproducibility in the Cloud 
 https://www.researchgate.net/profile/Rawaa_Qasha/publication/307905445_A_Framework_for_Scientific_Workflow_Reproducibility_in_the_Cloud/links/57ecf52c08ae92eb4d2689d0.pdf
 2016-10-18
