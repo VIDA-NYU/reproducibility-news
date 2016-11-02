@@ -1,3 +1,10 @@
+A Reproducibility Reading List
+http://software-carpentry.org/blog/2016/11/reproducibility-reading-list.html
+2016-11-02
+reproducibility bibliography
+Prof. Lorena Barba has just posted a reading list for reproducible research that includes ten key papers to understand reproducibility. 
+
+
 Reinventing the Methods Journal: Increasing Reproducibility with Video Journals
 http://docs.lib.purdue.edu/atg/vol25/iss5/9/
 2016-11-01
