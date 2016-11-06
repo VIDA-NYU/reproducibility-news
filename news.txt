@@ -1,3 +1,31 @@
+Reward, reproducibility and recognition in research – the case for going Open
+http://septentrio.uit.no/index.php/SCS/article/view/4036
+2016-11-05
+open access
+The advent of the internet has meant that scholarly communication has changed immeasurably over the past two decades but in some ways it has hardly changed at all. The coin in the realm of any research remains the publication of novel results in a high impact journal – despite known issues with the Journal Impact Factor. This elusive goal has led to many problems in the research process: from hyperauthorship to high levels of retractions, reproducibility problems and 'cherry picking' of results. The veracity of the academic record is increasingly being brought into question. An additional problem is this static reward systems binds us to the current publishing regime, preventing any real progress in terms of widespread open access or even adoption of novel publishing opportunities. But there is a possible solution. Increased calls to open research up and provide a greater level of transparency have started to yield practical real solutions. This talk will cover the problems we currently face and describe some of the innovations that might offer a way forward.
+
+
+Scientific Data Science and the Case for Open Access
+https://arxiv.org/pdf/1611.00097.pdf
+2016-11-05
+data science, open access
+"Open access" has become a central theme of journal reform inacademic publishing. In this article, Iexamine the consequences of an important technological loophole in which publishers can claim to be adhering to the principles of open access by releasing articles in proprietary or “locked” formats that cannot be processed by automated tools, whereby even simple copy and pasting of text is disabled. These restrictions will prevent the development of an important infrastructural element of a modern research enterprise, namely,scientific data science, or the use of data analytic techniques to conduct meta-analyses and investigations into the scientific corpus. I give a brief history of the open access movement, discuss novel journalistic practices, and an overview of data-driven investigation of the scientific corpus. I arguethat particularly in an era where the veracity of many research studies has been called into question, scientific data science should be oneof the key motivations for open access publishing. The enormous benefits of unrestricted access to the research literature should prompt scholars from all disciplines to reject publishing models whereby articles are released in proprietary formats or are otherwise restricted from being processed by automated tools as part of a data science pipeline.
+
+
+The research data reproducibility problem solicits a 21st century solution 
+http://ojs.whioce.com/index.php/apm/article/viewFile/53/50
+2016-11-05
+reproducibility report	
+Reproducibility is a hallmark of scientific efforts. Estimates indicate that lack of reproducibility of data ranges from 50% to 90% among published research reports. The inability to reproduce major findings of published data confounds  new discoveries, and importantly, result in wastage of limited resources in the futile effort to build on these published reports. This poses a challenge to the research community to change the way we approach reproducibility by developing new tools to help progress the reliability of methods and materials we use in our trade. 
+
+
+Capturing the "Whole Tale" of Computational Research: Reproducibility in Computing Environments 
+https://arxiv.org/pdf/1610.09958.pdf
+2016-11-05
+reproducibility infrastructure	
+We present an overview of the recently funded "Merging Science and Cyberinfrastructure Pathways: The Whole Tale" project (NSF award #1541450). Our approach has two nested goals: 1) deliver an environment that enables researchers to create a  complete  narrative  of  the  research process including exposure of the data-to-publication lifecycle, and 2)  systematically and persistently link research publications to their associated digital scholarly objects such as the data,  code, and workflows. To enable this, WholeTale will create an environment where researchers can collaborate on data,  workspaces, and workflows and then publish them for future adoption or modification. Published data and applications will  be consumed either directly by users using the Whole Tale environment or can be integrated into existing or future  domain  Science Gateways. 
+
+
 A Reproducibility Reading List
 http://software-carpentry.org/blog/2016/11/reproducibility-reading-list.html
 2016-11-02
