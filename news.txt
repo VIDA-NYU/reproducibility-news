@@ -1,3 +1,10 @@
+From old York to New York: PASIG 2016
+http://digital-archiving.blogspot.co.uk/2016/11/pasig-made-me-think.html
+2016-11-04
+reproducibility conference, ReproZip, reproducibility infrastructure
+One of the most valuable talks of the day for me was from Fernando Chirigati from New York University. He introduced us to a useful new tool called ReproZip. He made the point that the computational environment is as important as the data itself for the reproducibility of research data. This could include information about libraries used, environment variables and options. You can not expect your depositors to find or document all of the dependencies (or your future users to install them). What ReproZip does is package up all the necessary dependencies along with the data itself. This package can then be archived and re-used in the future. ReproZip can also be used to unpack and re-use the data in the future. I can see a very real use case for this for researchers within our institution.
+
+
 Reward, reproducibility and recognition in research – the case for going Open
 http://septentrio.uit.no/index.php/SCS/article/view/4036
 2016-11-05
