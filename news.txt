@@ -1,3 +1,10 @@
+Linux Foundation Back Reproducible Builds Effort for Secure Software
+http://www.eweek.com/security/linux-foundation-back-reproducible-builds-effort-for-secure-software.html
+2016-11-15
+reproducibility infrastructure
+In an effort to help open-source software developers build more secure software, the Linux Foundation is doubling down on its efforts to help the reproducible builds project. Among the most basic and often most difficult aspects of software development is making sure that the software end-users get is the same software that developers actually built. "Reproducible builds are a set of software development practices that create a verifiable path from human readable source code to the binary code used by computers," the Reproducible Builds project explains.
+
+
 From old York to New York: PASIG 2016
 http://digital-archiving.blogspot.co.uk/2016/11/pasig-made-me-think.html
 2016-11-04
