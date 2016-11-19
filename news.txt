@@ -1,3 +1,10 @@
+Student teams take on synbio reproducibility problem
+http://blogs.plos.org/synbio/2016/11/18/student-teams-take-on-synbio-reproducibility-problem/
+2016-11-19
+news article
+Well, over the last two years iGEM teams around the world have been working to find out just how reproducible fluorescent proteins measurements are. They distributed testing plasmids and compared results across labs, measurement instruments, genetic parts, and E. coli strains.  It’s a thorough 2 year study of interlab variability, and the results are out in PLOS ONE, “Reproducibility of Fluorescent Expression from Engineered Biological Constructs in E. coli“. 
+
+
 NIH Request for Information on Strategies for NIH Data Management, Sharing, and Citation
 http://osp.od.nih.gov/content/nih-request-information-strategies-nih-data-management-sharing-and-citation
 2016-11-19
