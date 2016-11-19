@@ -1,3 +1,10 @@
+NIH Request for Information on Strategies for NIH Data Management, Sharing, and Citation
+http://osp.od.nih.gov/content/nih-request-information-strategies-nih-data-management-sharing-and-citation
+2016-11-19
+reproducibility guidelines
+This Request for Information (RFI) seeks public comments on data management and sharing strategies and priorities in order to consider: (1) how digital scientific data generated from NIH-funded research should be managed, and to the fullest extent possible, made publicly available; and, (2) how to set standards for citing shared data and software. Response to this RFI is voluntary. Responders are free to address any or all of the items in Sections I and II, delineated below, or any other relevant topics respondents recognize as important for NIH to consider. Respondents should not feel compelled to address all items. Instructions on how to respond to this RFI are provided in "Concluding Comments."
+
+
 Linux Foundation Back Reproducible Builds Effort for Secure Software
 http://www.eweek.com/security/linux-foundation-back-reproducible-builds-effort-for-secure-software.html
 2016-11-15
