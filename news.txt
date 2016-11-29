@@ -1,3 +1,17 @@
+Replication in computing education research: researcher attitudes and experiences
+http://dl.acm.org/citation.cfm?id=2999554
+2016-11-29
+reproducibility study
+Replicability is a core principle of the scientific method. However, several scientific disciplines have suffered crises in confidence caused, in large part, by attitudes toward replication. This work reports on the value the computing education research community associates with studies that aim to replicate, reproduce or repeat earlier research. The results were obtained from a survey of 73 computing education researchers. An analysis of the responses confirms that researchers in our field hold many of the same biases as those in other fields experiencing a crisis in replication. In particular, researchers agree that original works - novel works that report new phenomena - have more impact and are more prestigious. They also agree that originality is an important criteria for accepting a paper, making such work more likely to be published. Furthermore, while the respondents agree that published work should be verifiable, they doubt this standard is widely met in the computing education field and are not eager to perform the work of verifying others' work themselves.
+
+
+Reproducible research: Stripe’s approach to data science
+https://stripe.com/blog/reproducible-research
+2016-11-29
+case studies, reproducible paper
+When people talk about their data infrastructure, they tend to focus on the technologies: Hadoop, Scalding, Impala, and the like. However, we’ve found that just as important as the technologies themselves are the principles that guide their use. We’d like to share our experience with one such principle that we’ve found particularly useful: reproducibility. We’ll talk about our motivation for focusing on reproducibility, how we’re using Jupyter Notebooks as our core tool, and the workflow we’ve developed around Jupyter to operationalize our approach.
+
+
 Reproducible Risk Assessment
 http://onlinelibrary.wiley.com/doi/10.1111/risa.12730/full
 2016-11-20
