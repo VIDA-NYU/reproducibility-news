@@ -1,3 +1,10 @@
+Reproducibility and Validity of a Food Frequency Questionnaire Designed to Assess Diet in Children Aged 4-5 Years
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167338
+2016-11-30
+reproducible paper
+The food frequency questionnaire (FFQ) is the most efficient and cost-effective method to investigate the relationship between usual diet and disease in epidemiologic studies. Although FFQs have been validated in many adult populations worldwide, the number of valid FFQ in preschool children is very scarce. The aim of this study was to evaluate the reproducibility and validity of a semi-quantitative FFQ designed for children aged 4 to 5 years.
+
+
 KDD 2017 Research Papers New Reproducibility Policy
 http://www.kdd.org/kdd2017/calls/view/kdd-2017-call-for-research-papers
 2016-11-30
