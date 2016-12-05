@@ -1,3 +1,17 @@
+Authorization of Animal Experiments Is Based on Confidence Rather than Evidence of Scientific Rigor
+http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000598
+2016-12-05
+reproducible paper
+Accumulating evidence indicates high risk of bias in preclinical animal research, questioning the scientific validity and reproducibility of published research findings. Systematic reviews found low rates of reporting of measures against risks of bias in the published literature (e.g., randomization, blinding, sample size calculation) and a correlation between low reporting rates and inflated treatment effects. That most animal research undergoes peer review or ethical review would offer the possibility to detect risks of bias at an earlier stage, before the research has been conducted.
+
+
+Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability
+http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/
+2016-12-05
+news article
+It’s not a new story, although "the reproducibility crisis" may seem to be. For life sciences, I think it started in the late 1950s. Problems caused in clinical research burst into the open in a very public way then. But before we get to that, what is "research reproducibility"? It’s a euphemism for unreliable research or research reporting. Steve Goodman and colleagues (2016) say 3 dimensions of science that affect reliability are at play: Methods reproducibility – enough detail available to enable a study to be repeated; Results reproducibility – the findings are replicated by others; Inferential reproducibility – similar conclusions are drawn about results, which brings statistics and interpretation squarely into the mix. There is a lot of history behind each of those. Here are some of the milestones in awareness and proposed solutions that stick out for me.
+
+
 NIH-Wide Policy Doubles Down on Scientific Rigor and Reproducibility
 https://www.psychologicalscience.org/observer/nih-wide-policy-doubles-down-on-scientific-rigor-and-reproducibility
 2016-12-02
