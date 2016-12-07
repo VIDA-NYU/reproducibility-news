@@ -1,3 +1,10 @@
+ReproZip in the Journal of Open Source Software
+http://joss.theoj.org/papers/b578b171263c73f64dfb9d040ca80fe0
+2016-12-06
+reproducible paper, ReproZip
+ReproZip (Rampin et al. 2014) is a tool aimed at simplifying the process of creating reproducible experiments. After finishing an experiment, writing a website, constructing a database, or creating an interactive environment, users can run ReproZip to create reproducible packages, archival snapshots, and an easy way for reviewers to validate their work.
+
+
 Authorization of Animal Experiments Is Based on Confidence Rather than Evidence of Scientific Rigor
 http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000598
 2016-12-05
