@@ -1,6 +1,13 @@
+The Researchers’ View of Scientific Rigor—Survey on the Conduct and Reporting of In Vivo Research
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165999
+2016-12-02
+reproducible paper
+Reproducibility in animal research is alarmingly low, and a lack of scientific rigor has been proposed as a major cause. Systematic reviews found low reporting rates of measures against risks of bias (e.g., randomization, blinding), and a correlation between low reporting rates and overstated treatment effects. Reporting rates of measures against bias are thus used as a proxy measure for scientific rigor, and reporting guidelines (e.g., ARRIVE) have become a major weapon in the fight against risks of bias in animal research. Surprisingly, animal scientists have never been asked about their use of measures against risks of bias and how they report these in publications. Whether poor reporting reflects poor use of such measures, and whether reporting guidelines may effectively reduce risks of bias has therefore remained elusive. To address these questions, we asked in vivo researchers about their use and reporting of measures against risks of bias and examined how self-reports relate to reporting rates obtained through systematic reviews. An online survey was sent out to all registered in vivo researchers in Switzerland (N = 1891) and was complemented by personal interviews with five representative in vivo researchers to facilitate interpretation of the survey results. Return rate was 28% (N = 530), of which 302 participants (16%) returned fully completed questionnaires that were used for further analysis.
+
+
 ReproZip in the Journal of Open Source Software
 http://joss.theoj.org/papers/b578b171263c73f64dfb9d040ca80fe0
-2016-12-06
+2016-12-02
 reproducible paper, ReproZip
 ReproZip (Rampin et al. 2014) is a tool aimed at simplifying the process of creating reproducible experiments. After finishing an experiment, writing a website, constructing a database, or creating an interactive environment, users can run ReproZip to create reproducible packages, archival snapshots, and an easy way for reviewers to validate their work.
 
