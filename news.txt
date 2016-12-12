@@ -1,3 +1,17 @@
+Weekend reads: A flawed paper makes it into Nature; is science in big trouble?; a reproducibility crisis history
+http://retractionwatch.com/2016/12/10/weekend-reads-flawed-paper-makes-nature-science-big-trouble-reproducibility-crisis-history/
+2016-12-11
+popular news
+The week at Retraction Watch featured a refreshingly honest retraction, and a big win for PubPeer. Here’s what was happening elsewhere. 
+
+
+Could Critical Incident Reporting Fix Preclinical Research?
+http://www.the-scientist.com/?articles.view/articleNo/47707/title/Could-Critical-Incident-Reporting-Fix-Preclinical-Research-/
+2016-12-11
+news article
+Scientists propose a modified critical incident reporting system to help combat the reproducibility crisis.When Dirnagl first considered that his lab might benefit from a formal incident reporting system, he was surprised to find that no such system existed for biomedical researchers. Other high-stakes fields, from clinical medicine to nuclear power research, have long had such systems in place, but for the preclinical space, "we had to create one, because there’s nothing like it," Dirnagl said. But once Dirnagl and colleagues introduced an anonymous, online system, people began submitting reports. At meetings, the team would discuss what had gone wrong and strategize how to fix it. After a short while, Dirnagl said, his team began voluntarily filing virtually all reports with their signatures on them.  
+
+
 The Researchers’ View of Scientific Rigor—Survey on the Conduct and Reporting of In Vivo Research
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165999
 2016-12-02
