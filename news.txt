@@ -1,3 +1,10 @@
+Enhancing reproducibility for computational methods
+http://science.sciencemag.org/content/354/6317/1240.summary
+2016-12-13
+reproducible paper
+Over the past two decades, computational methods have radically changed the ability of researchers from all areas of scholarship to process and analyze data and to simulate complex systems. But with these advances come challenges that are contributing to broader concerns over irreproducibility in the scholarly literature, among them the lack of transparency in disclosure of computational methods. Current reporting methods are often uneven, incomplete, and still evolving. We present a novel set of Reproducibility Enhancement Principles (REP) targeting disclosure challenges involving computation. These recommendations, which build upon more general proposals from the Transparency and Openness Promotion (TOP) guidelines (1) and recommendations for field data (2), emerged from workshop discussions among funding agencies, publishers and journal editors, industry participants, and researchers representing a broad range of domains. Although some of these actions may be aspirational, we believe it is important to recognize and move toward ameliorating irreproducibility in computational research.
+
+
 Weekend reads: A flawed paper makes it into Nature; is science in big trouble?; a reproducibility crisis history
 http://retractionwatch.com/2016/12/10/weekend-reads-flawed-paper-makes-nature-science-big-trouble-reproducibility-crisis-history/
 2016-12-11
