@@ -1,3 +1,59 @@
+Leveraging Statistical Methods to Improve Validity and Reproducibility of Research Findings
+http://jamanetwork.com/journals/jamapsychiatry/article-abstract/2594382
+2016-12-28
+reproducibility guidelines
+Scientific discoveries have the profound opportunity to impact the lives of patients. They can lead to advances in medical decision making when the findings are correct, or mislead when not. We owe it to our peers, funding sources, and patients to take every precaution against false conclusions, and to communicate our discoveries with accuracy, precision, and clarity. With the National Institutes of Health’s new focus on rigor and reproducibility, scientists are returning attention to the ideas of validity and reliability. At JAMA Psychiatry, we seek to publish science that leverages the power of statistics and contributes discoveries that are reproducible and valid. Toward that end, I provide guidelines for using statistical methods: the essentials, good practices, and advanced methods.
+
+
+Lack of reproducibility triggers retractions of Nature Materials articles
+http://retractionwatch.com/2016/12/28/lack-reproducibility-triggers-retractions-nature-materials-articles/
+2016-12-28
+news article
+The authors of a highly cited 2015 paper in Nature Materials have retracted it, after being unable to reproduce some of the key findings. We’ve seen this kind of thing before, from another Nature journal, although in one case the News & Views article only earned a warning notice.
+
+
+Transparency, Reproducibility, and the Credibility of Economics Research
+https://www.nber.org/papers/w22989
+2016-12-22
+reproducibility report
+There is growing interest in enhancing research transparency and reproducibility in economics and other scientific fields. We survey existing work on these topics within economics, and discuss the evidence suggesting that publication bias, inability to replicate, and specification searching remain widespread in the discipline. We next discuss recent progress in this area, including through improved research design, study registration and pre-analysis plans, disclosure standards, and open sharing of data and materials, drawing on experiences in both economics and other social sciences. We discuss areas where consensus is emerging on new practices, as well as approaches that remain controversial, and speculate about the most effective ways to make economics research more credible in the future.
+
+
+The State of Reproducibility: 16 Advances from 2016
+http://www.jove.com/blog/2016/12/21/the-state-of-reproducibility-16-advances-from-2016
+2016-12-21
+popular news
+2016 saw a tremendous amount of discussion and development on the subject of scientific reproducibility. Were you able to keep up? If not, check out this list of 16 sources from 2016 to get you up to date for the new year! The reproducibility crisis in science refers to the difficulty scientists have faced in reproducing or replicating results from previously published scientific experiments. Although this crisis has existed in the scientific community for a very long time, it gained much more visibility in in the past few years. The terms “reproducibility crisis” and “replicability crisis” were coined in the early 2010s due to the growing awareness of the problem.
+
+
+Introduction to the special issue on recentering science: Replication, robustness, and reproducibility in psychophysiology
+http://onlinelibrary.wiley.com/doi/10.1111/psyp.12787/full
+2016-12-20
+reproducible journal
+In recent years, the psychological and behavioral sciences have increased efforts to strengthen methodological practices and publication standards, with the ultimate goal of enhancing the value and reproducibility of published reports. These issues are especially important in the multidisciplinary field of psychophysiology, which yields rich and complex data sets with a large number of observations. In addition, the technological tools and analysis methods available in the field of psychophysiology are continually evolving, widening the array of techniques and approaches available to researchers. This special issue presents articles detailing rigorous and systematic evaluations of tasks, measures, materials, analysis approaches, and statistical practices in a variety of subdisciplines of psychophysiology. These articles highlight challenges in conducting and interpreting psychophysiological research and provide data-driven, evidence-based recommendations for overcoming those challenges to produce robust, reproducible results in the field of psychophysiology.
+ 
+
+Ensuring Reproducibility in Computational Processes: Automating Data Identification/Citation and Process Documentation
+http://riuma.uma.es/xmlui/handle/10630/12605
+2016-12-19
+reproducible paper
+In this talk I will review a few examples of reproducibility challenges in computational environments and discuss their potential effects. Based on discussions in a recent Dagstuhl seminar we will identify different types of reproducibility. Here, we will focus specifically on what we gain from them, rather than seeing them merely as means to an end. We subsequently will address two core challenges impacting reproducibility, namely (1) understanding and automatically capturing process context and provenance information, and (2) approaches allowing us to deal with dynamically evolving data sets relying on recommendation of the Research Data Alliance (RDA). The goal is to raise awareness of reproducibility challenges and show ways how these can be addressed with minimal impact on the researchers via research infrastructures offering according services.
+
+
+Enabling access to reproducible research
+http://www.ecs.soton.ac.uk/news/4972
+2016-12-19
+news article
+A team of Web and Internet Science (WAIS) researchers, from Electronics and Computer Science at Southampton, has been working with statistical colleagues at the Centre for Multilevel Modelling, University of Bristol, to develop new software technology that allows UK students and young researchers to access reproducible statistical research.
+
+
+Research transparency depends on sharing computational tools, says John Ioannidis
+http://scopeblog.stanford.edu/2016/12/15/research-transparency-depends-on-sharing-computational-tools-says-john-ioannidis/
+2016-12-15
+reproducible paper
+A team of scientists including Stanford’s John Ioannidis, MD, DSc, has proposed a set of principles to improve the transparency and reproducibility of computational methods used in all areas of research. The group’s summary of those principles, known as the Reproducibility Enhancement Principles, was published recently in a paper in Science.
+
+
 Enhancing reproducibility for computational methods
 http://science.sciencemag.org/content/354/6317/1240.summary
 2016-12-13
