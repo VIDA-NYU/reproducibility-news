@@ -1,3 +1,10 @@
+Scientific papers need better feedback systems. Here's why
+http://www.wired.co.uk/article/science-academic-papers-review
+2017-01-06
+news article
+Somewhere between 65 and 90 per cent of biomedical literature is considered non-reproducible. This means that if you try to reproduce an experiment described in a given paper, 65 to 90 per cent of the time you won't get the same findings. We call this the reproducibility crisis. The issue became live thanks to a study by Glenn Begley, who ran the oncology department at Amgen, a pharmaceutical company. In 2011, Begley decided to try to reproduce findings in 53 foundational papers in oncology: highly cited papers published in the top journals. He was unable to reproduce 47 of them - 89 per cent.
+
+
 Leveraging Statistical Methods to Improve Validity and Reproducibility of Research Findings
 http://jamanetwork.com/journals/jamapsychiatry/article-abstract/2594382
 2016-12-28
