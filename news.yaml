@@ -1,0 +1,1645 @@
+- title: A manifesto for reproducible science
+  link: http://www.nature.com/articles/s41562-016-0021
+  date: 2017-01-10 00:00:00
+  tags: [reproducible paper, reproducibility report]
+  description: |
+    Improving the reliability and efficiency of scientific research will increase the credibility of the published scientific literature and accelerate discovery. Here we argue for the adoption of measures to optimize key elements of the scientific process: methods, reporting and dissemination, reproducibility, evaluation and incentives. There is some evidence from both simulations and empirical studies supporting the likely effectiveness of these measures, but their broad adoption by researchers, institutions, funders and journals will require iterative evaluation and improvement. We discuss the goals of these measures, and how they can be implemented, in the hope that this will facilitate action toward improving the transparency, reproducibility and efficiency of scientific research.
+
+- title: Scientific papers need better feedback systems. Here's why
+  link: http://www.wired.co.uk/article/science-academic-papers-review
+  date: 2017-01-06 00:00:00
+  tags: [news article]
+  description: |
+    Somewhere between 65 and 90 per cent of biomedical literature is considered non-reproducible. This means that if you try to reproduce an experiment described in a given paper, 65 to 90 per cent of the time you won't get the same findings. We call this the reproducibility crisis. The issue became live thanks to a study by Glenn Begley, who ran the oncology department at Amgen, a pharmaceutical company. In 2011, Begley decided to try to reproduce findings in 53 foundational papers in oncology: highly cited papers published in the top journals. He was unable to reproduce 47 of them - 89 per cent.
+
+- title: Leveraging Statistical Methods to Improve Validity and Reproducibility of Research Findings
+  link: http://jamanetwork.com/journals/jamapsychiatry/article-abstract/2594382
+  date: 2016-12-28 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    Scientific discoveries have the profound opportunity to impact the lives of patients. They can lead to advances in medical decision making when the findings are correct, or mislead when not. We owe it to our peers, funding sources, and patients to take every precaution against false conclusions, and to communicate our discoveries with accuracy, precision, and clarity. With the National Institutes of Health’s new focus on rigor and reproducibility, scientists are returning attention to the ideas of validity and reliability. At JAMA Psychiatry, we seek to publish science that leverages the power of statistics and contributes discoveries that are reproducible and valid. Toward that end, I provide guidelines for using statistical methods: the essentials, good practices, and advanced methods.
+
+- title: Lack of reproducibility triggers retractions of Nature Materials articles
+  link: http://retractionwatch.com/2016/12/28/lack-reproducibility-triggers-retractions-nature-materials-articles/
+  date: 2016-12-28 00:00:00
+  tags: [news article]
+  description: |
+    The authors of a highly cited 2015 paper in Nature Materials have retracted it, after being unable to reproduce some of the key findings. We’ve seen this kind of thing before, from another Nature journal, although in one case the News & Views article only earned a warning notice.
+
+- title: Transparency, Reproducibility, and the Credibility of Economics Research
+  link: https://www.nber.org/papers/w22989
+  date: 2016-12-22 00:00:00
+  tags: [reproducibility report]
+  description: |
+    There is growing interest in enhancing research transparency and reproducibility in economics and other scientific fields. We survey existing work on these topics within economics, and discuss the evidence suggesting that publication bias, inability to replicate, and specification searching remain widespread in the discipline. We next discuss recent progress in this area, including through improved research design, study registration and pre-analysis plans, disclosure standards, and open sharing of data and materials, drawing on experiences in both economics and other social sciences. We discuss areas where consensus is emerging on new practices, as well as approaches that remain controversial, and speculate about the most effective ways to make economics research more credible in the future.
+
+- title: "The State of Reproducibility: 16 Advances from 2016"
+  link: http://www.jove.com/blog/2016/12/21/the-state-of-reproducibility-16-advances-from-2016
+  date: 2016-12-21 00:00:00
+  tags: [popular news]
+  description: |
+    2016 saw a tremendous amount of discussion and development on the subject of scientific reproducibility. Were you able to keep up? If not, check out this list of 16 sources from 2016 to get you up to date for the new year! The reproducibility crisis in science refers to the difficulty scientists have faced in reproducing or replicating results from previously published scientific experiments. Although this crisis has existed in the scientific community for a very long time, it gained much more visibility in in the past few years. The terms “reproducibility crisis” and “replicability crisis” were coined in the early 2010s due to the growing awareness of the problem.
+
+- title: "Introduction to the special issue on recentering science: Replication, robustness, and reproducibility in psychophysiology"
+  link: http://onlinelibrary.wiley.com/doi/10.1111/psyp.12787/full
+  date: 2016-12-20 00:00:00
+  tags: [reproducible journal]
+  description: |
+    In recent years, the psychological and behavioral sciences have increased efforts to strengthen methodological practices and publication standards, with the ultimate goal of enhancing the value and reproducibility of published reports. These issues are especially important in the multidisciplinary field of psychophysiology, which yields rich and complex data sets with a large number of observations. In addition, the technological tools and analysis methods available in the field of psychophysiology are continually evolving, widening the array of techniques and approaches available to researchers. This special issue presents articles detailing rigorous and systematic evaluations of tasks, measures, materials, analysis approaches, and statistical practices in a variety of subdisciplines of psychophysiology. These articles highlight challenges in conducting and interpreting psychophysiological research and provide data-driven, evidence-based recommendations for overcoming those challenges to produce robust, reproducible results in the field of psychophysiology.
+
+- title: "Ensuring Reproducibility in Computational Processes: Automating Data Identification/Citation and Process Documentation"
+  link: http://riuma.uma.es/xmlui/handle/10630/12605
+  date: 2016-12-19 00:00:00
+  tags: [reproducible paper]
+  description: |
+    In this talk I will review a few examples of reproducibility challenges in computational environments and discuss their potential effects. Based on discussions in a recent Dagstuhl seminar we will identify different types of reproducibility. Here, we will focus specifically on what we gain from them, rather than seeing them merely as means to an end. We subsequently will address two core challenges impacting reproducibility, namely (1) understanding and automatically capturing process context and provenance information, and (2) approaches allowing us to deal with dynamically evolving data sets relying on recommendation of the Research Data Alliance (RDA). The goal is to raise awareness of reproducibility challenges and show ways how these can be addressed with minimal impact on the researchers via research infrastructures offering according services.
+
+- title: Enabling access to reproducible research
+  link: http://www.ecs.soton.ac.uk/news/4972
+  date: 2016-12-19 00:00:00
+  tags: [news article]
+  description: |
+    A team of Web and Internet Science (WAIS) researchers, from Electronics and Computer Science at Southampton, has been working with statistical colleagues at the Centre for Multilevel Modelling, University of Bristol, to develop new software technology that allows UK students and young researchers to access reproducible statistical research.
+
+- title: Research transparency depends on sharing computational tools, says John Ioannidis
+  link: http://scopeblog.stanford.edu/2016/12/15/research-transparency-depends-on-sharing-computational-tools-says-john-ioannidis/
+  date: 2016-12-15 00:00:00
+  tags: [reproducible paper]
+  description: |
+    A team of scientists including Stanford’s John Ioannidis, MD, DSc, has proposed a set of principles to improve the transparency and reproducibility of computational methods used in all areas of research. The group’s summary of those principles, known as the Reproducibility Enhancement Principles, was published recently in a paper in Science.
+
+- title: Enhancing reproducibility for computational methods
+  link: http://science.sciencemag.org/content/354/6317/1240.summary
+  date: 2016-12-13 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Over the past two decades, computational methods have radically changed the ability of researchers from all areas of scholarship to process and analyze data and to simulate complex systems. But with these advances come challenges that are contributing to broader concerns over irreproducibility in the scholarly literature, among them the lack of transparency in disclosure of computational methods. Current reporting methods are often uneven, incomplete, and still evolving. We present a novel set of Reproducibility Enhancement Principles (REP) targeting disclosure challenges involving computation. These recommendations, which build upon more general proposals from the Transparency and Openness Promotion (TOP) guidelines (1) and recommendations for field data (2), emerged from workshop discussions among funding agencies, publishers and journal editors, industry participants, and researchers representing a broad range of domains. Although some of these actions may be aspirational, we believe it is important to recognize and move toward ameliorating irreproducibility in computational research.
+
+- title: "Weekend reads: A flawed paper makes it into Nature; is science in big trouble?; a reproducibility crisis history"
+  link: http://retractionwatch.com/2016/12/10/weekend-reads-flawed-paper-makes-nature-science-big-trouble-reproducibility-crisis-history/
+  date: 2016-12-11 00:00:00
+  tags: [popular news]
+  description: |
+    The week at Retraction Watch featured a refreshingly honest retraction, and a big win for PubPeer. Here’s what was happening elsewhere.
+
+- title: Could Critical Incident Reporting Fix Preclinical Research?
+  link: http://www.the-scientist.com/?articles.view/articleNo/47707/title/Could-Critical-Incident-Reporting-Fix-Preclinical-Research-/
+  date: 2016-12-11 00:00:00
+  tags: [news article]
+  description: |
+    Scientists propose a modified critical incident reporting system to help combat the reproducibility crisis.When Dirnagl first considered that his lab might benefit from a formal incident reporting system, he was surprised to find that no such system existed for biomedical researchers. Other high-stakes fields, from clinical medicine to nuclear power research, have long had such systems in place, but for the preclinical space, "we had to create one, because there’s nothing like it," Dirnagl said. But once Dirnagl and colleagues introduced an anonymous, online system, people began submitting reports. At meetings, the team would discuss what had gone wrong and strategize how to fix it. After a short while, Dirnagl said, his team began voluntarily filing virtually all reports with their signatures on them.
+
+- title: The Researchers’ View of Scientific Rigor—Survey on the Conduct and Reporting of In Vivo Research
+  link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165999
+  date: 2016-12-02 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Reproducibility in animal research is alarmingly low, and a lack of scientific rigor has been proposed as a major cause. Systematic reviews found low reporting rates of measures against risks of bias (e.g., randomization, blinding), and a correlation between low reporting rates and overstated treatment effects. Reporting rates of measures against bias are thus used as a proxy measure for scientific rigor, and reporting guidelines (e.g., ARRIVE) have become a major weapon in the fight against risks of bias in animal research. Surprisingly, animal scientists have never been asked about their use of measures against risks of bias and how they report these in publications. Whether poor reporting reflects poor use of such measures, and whether reporting guidelines may effectively reduce risks of bias has therefore remained elusive. To address these questions, we asked in vivo researchers about their use and reporting of measures against risks of bias and examined how self-reports relate to reporting rates obtained through systematic reviews. An online survey was sent out to all registered in vivo researchers in Switzerland (N = 1891) and was complemented by personal interviews with five representative in vivo researchers to facilitate interpretation of the survey results. Return rate was 28% (N = 530), of which 302 participants (16%) returned fully completed questionnaires that were used for further analysis.
+
+- title: ReproZip in the Journal of Open Source Software
+  link: http://joss.theoj.org/papers/b578b171263c73f64dfb9d040ca80fe0
+  date: 2016-12-02 00:00:00
+  tags: [reproducible paper, ReproZip]
+  description: |
+    ReproZip (Rampin et al. 2014) is a tool aimed at simplifying the process of creating reproducible experiments. After finishing an experiment, writing a website, constructing a database, or creating an interactive environment, users can run ReproZip to create reproducible packages, archival snapshots, and an easy way for reviewers to validate their work.
+
+- title: Authorization of Animal Experiments Is Based on Confidence Rather than Evidence of Scientific Rigor
+  link: http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000598
+  date: 2016-12-05 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Accumulating evidence indicates high risk of bias in preclinical animal research, questioning the scientific validity and reproducibility of published research findings. Systematic reviews found low rates of reporting of measures against risks of bias in the published literature (e.g., randomization, blinding, sample size calculation) and a correlation between low reporting rates and inflated treatment effects. That most animal research undergoes peer review or ethical review would offer the possibility to detect risks of bias at an earlier stage, before the research has been conducted.
+
+- title: "Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability"
+  link: http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/
+  date: 2016-12-05 00:00:00
+  tags: [news article]
+  description: |
+    It’s not a new story, although "the reproducibility crisis" may seem to be. For life sciences, I think it started in the late 1950s. Problems caused in clinical research burst into the open in a very public way then. But before we get to that, what is "research reproducibility"? It’s a euphemism for unreliable research or research reporting. Steve Goodman and colleagues (2016) say 3 dimensions of science that affect reliability are at play: Methods reproducibility – enough detail available to enable a study to be repeated; Results reproducibility – the findings are replicated by others; Inferential reproducibility – similar conclusions are drawn about results, which brings statistics and interpretation squarely into the mix. There is a lot of history behind each of those. Here are some of the milestones in awareness and proposed solutions that stick out for me.
+
+- title: NIH-Wide Policy Doubles Down on Scientific Rigor and Reproducibility
+  link: https://www.psychologicalscience.org/observer/nih-wide-policy-doubles-down-on-scientific-rigor-and-reproducibility
+  date: 2016-12-02 00:00:00
+  tags: [news article]
+  description: |
+    The US National Institutes of Health (NIH) is now assessing all research grant submissions based on the rigor and transparency of the proposed research plans. Previously, efforts to strengthen scientific practices had been undertaken by individual institutes, beginning in 2011 with the National Institute on Aging, which partnered with APS and the NIH Office of Behavioral and Social Science Research to begin a conversation about improving reproducibility across science. These early efforts were noted and encouraged by Congress. Now, the entire agency has committed to this important goal: NIH's 2016–2020 strategic plan announces, "NIH will take the lead in promoting new approaches toward enhancing the rigor of experimental design, analysis, and reporting."
+
+- title: Reproducibility and Validity of a Food Frequency Questionnaire Designed to Assess Diet in Children Aged 4-5 Years
+  link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167338
+  date: 2016-11-30 00:00:00
+  tags: [reproducible paper]
+  description: |
+    The food frequency questionnaire (FFQ) is the most efficient and cost-effective method to investigate the relationship between usual diet and disease in epidemiologic studies. Although FFQs have been validated in many adult populations worldwide, the number of valid FFQ in preschool children is very scarce. The aim of this study was to evaluate the reproducibility and validity of a semi-quantitative FFQ designed for children aged 4 to 5 years.
+
+- title: KDD 2017 Research Papers New Reproducibility Policy
+  link: http://www.kdd.org/kdd2017/calls/view/kdd-2017-call-for-research-papers
+  date: 2016-11-30 00:00:00
+  tags: [reproducible paper, reproducibility conference]
+  description: |
+    Reproducibility: Submitted papers will be assessed based on their novelty, technical quality, potential impact, insightfulness, depth, clarity, and reproducibility. Authors are strongly encouraged to make their code and data publicly available whenever possible. Algorithms and resources used in a paper should be described as completely as possible to allow reproducibility. This includes experimental methodology, empirical evaluations, and results. The reproducibility factor will play an important role in the assessment of each submission.
+
+- title: "Replication in computing education research: researcher attitudes and experiences"
+  link: http://dl.acm.org/citation.cfm?id=2999554
+  date: 2016-11-29 00:00:00
+  tags: [reproducibility study]
+  description: |
+    Replicability is a core principle of the scientific method. However, several scientific disciplines have suffered crises in confidence caused, in large part, by attitudes toward replication. This work reports on the value the computing education research community associates with studies that aim to replicate, reproduce or repeat earlier research. The results were obtained from a survey of 73 computing education researchers. An analysis of the responses confirms that researchers in our field hold many of the same biases as those in other fields experiencing a crisis in replication. In particular, researchers agree that original works - novel works that report new phenomena - have more impact and are more prestigious. They also agree that originality is an important criteria for accepting a paper, making such work more likely to be published. Furthermore, while the respondents agree that published work should be verifiable, they doubt this standard is widely met in the computing education field and are not eager to perform the work of verifying others' work themselves.
+
+- title: "Reproducible research: Stripe’s approach to data science"
+  link: https://stripe.com/blog/reproducible-research
+  date: 2016-11-29 00:00:00
+  tags: [case studies, reproducible paper]
+  description: |
+    When people talk about their data infrastructure, they tend to focus on the technologies: Hadoop, Scalding, Impala, and the like. However, we’ve found that just as important as the technologies themselves are the principles that guide their use. We’d like to share our experience with one such principle that we’ve found particularly useful: reproducibility. We’ll talk about our motivation for focusing on reproducibility, how we’re using Jupyter Notebooks as our core tool, and the workflow we’ve developed around Jupyter to operationalize our approach.
+
+- title: Reproducible Risk Assessment
+  link: http://onlinelibrary.wiley.com/doi/10.1111/risa.12730/full
+  date: 2016-11-20 00:00:00
+  tags: [reproducible journal]
+  description: |
+    Reproducible research is a concept that has emerged in data and computationally intensive sciences in which the code used to conduct all analyses, including generation of publication quality figures, is directly available, and preferably in open source manner. This perspective outlines the processes and attributes, and illustrates the execution of reproducible research via a simple exposure assessment of air pollutants in metropolitan Philadelphia.
+
+- title: Student teams take on synbio reproducibility problem
+  link: http://blogs.plos.org/synbio/2016/11/18/student-teams-take-on-synbio-reproducibility-problem/
+  date: 2016-11-19 00:00:00
+  tags: [news article]
+  description: |
+    Well, over the last two years iGEM teams around the world have been working to find out just how reproducible fluorescent proteins measurements are. They distributed testing plasmids and compared results across labs, measurement instruments, genetic parts, and E. coli strains.  It’s a thorough 2 year study of interlab variability, and the results are out in PLOS ONE, “Reproducibility of Fluorescent Expression from Engineered Biological Constructs in E. coli“.
+
+- title: NIH Request for Information on Strategies for NIH Data Management, Sharing, and Citation
+  link: http://osp.od.nih.gov/content/nih-request-information-strategies-nih-data-management-sharing-and-citation
+  date: 2016-11-19 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    This Request for Information (RFI) seeks public comments on data management and sharing strategies and priorities in order to consider: (1) how digital scientific data generated from NIH-funded research should be managed, and to the fullest extent possible, made publicly available; and, (2) how to set standards for citing shared data and software. Response to this RFI is voluntary. Responders are free to address any or all of the items in Sections I and II, delineated below, or any other relevant topics respondents recognize as important for NIH to consider. Respondents should not feel compelled to address all items. Instructions on how to respond to this RFI are provided in "Concluding Comments."
+
+- title: Linux Foundation Back Reproducible Builds Effort for Secure Software
+  link: http://www.eweek.com/security/linux-foundation-back-reproducible-builds-effort-for-secure-software.html
+  date: 2016-11-15 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    In an effort to help open-source software developers build more secure software, the Linux Foundation is doubling down on its efforts to help the reproducible builds project. Among the most basic and often most difficult aspects of software development is making sure that the software end-users get is the same software that developers actually built. "Reproducible builds are a set of software development practices that create a verifiable path from human readable source code to the binary code used by computers," the Reproducible Builds project explains.
+
+- title: "From old York to New York: PASIG 2016"
+  link: http://digital-archiving.blogspot.co.uk/2016/11/pasig-made-me-think.html
+  date: 2016-11-04 00:00:00
+  tags: [reproducibility conference, ReproZip, reproducibility infrastructure]
+  description: |
+    One of the most valuable talks of the day for me was from Fernando Chirigati from New York University. He introduced us to a useful new tool called ReproZip. He made the point that the computational environment is as important as the data itself for the reproducibility of research data. This could include information about libraries used, environment variables and options. You can not expect your depositors to find or document all of the dependencies (or your future users to install them). What ReproZip does is package up all the necessary dependencies along with the data itself. This package can then be archived and re-used in the future. ReproZip can also be used to unpack and re-use the data in the future. I can see a very real use case for this for researchers within our institution.
+
+- title: Reward, reproducibility and recognition in research – the case for going Open
+  link: http://septentrio.uit.no/index.php/SCS/article/view/4036
+  date: 2016-11-05 00:00:00
+  tags: [open access]
+  description: |
+    The advent of the internet has meant that scholarly communication has changed immeasurably over the past two decades but in some ways it has hardly changed at all. The coin in the realm of any research remains the publication of novel results in a high impact journal – despite known issues with the Journal Impact Factor. This elusive goal has led to many problems in the research process: from hyperauthorship to high levels of retractions, reproducibility problems and 'cherry picking' of results. The veracity of the academic record is increasingly being brought into question. An additional problem is this static reward systems binds us to the current publishing regime, preventing any real progress in terms of widespread open access or even adoption of novel publishing opportunities. But there is a possible solution. Increased calls to open research up and provide a greater level of transparency have started to yield practical real solutions. This talk will cover the problems we currently face and describe some of the innovations that might offer a way forward.
+
+- title: Scientific Data Science and the Case for Open Access
+  link: https://arxiv.org/pdf/1611.00097.pdf
+  date: 2016-11-05 00:00:00
+  tags: [data science, open access]
+  description: |
+    "Open access" has become a central theme of journal reform inacademic publishing. In this article, Iexamine the consequences of an important technological loophole in which publishers can claim to be adhering to the principles of open access by releasing articles in proprietary or “locked” formats that cannot be processed by automated tools, whereby even simple copy and pasting of text is disabled. These restrictions will prevent the development of an important infrastructural element of a modern research enterprise, namely,scientific data science, or the use of data analytic techniques to conduct meta-analyses and investigations into the scientific corpus. I give a brief history of the open access movement, discuss novel journalistic practices, and an overview of data-driven investigation of the scientific corpus. I arguethat particularly in an era where the veracity of many research studies has been called into question, scientific data science should be oneof the key motivations for open access publishing. The enormous benefits of unrestricted access to the research literature should prompt scholars from all disciplines to reject publishing models whereby articles are released in proprietary formats or are otherwise restricted from being processed by automated tools as part of a data science pipeline.
+
+- title: The research data reproducibility problem solicits a 21st century solution
+  link: http://ojs.whioce.com/index.php/apm/article/viewFile/53/50
+  date: 2016-11-05 00:00:00
+  tags: [reproducibility report]
+  description: |
+    Reproducibility is a hallmark of scientific efforts. Estimates indicate that lack of reproducibility of data ranges from 50% to 90% among published research reports. The inability to reproduce major findings of published data confounds  new discoveries, and importantly, result in wastage of limited resources in the futile effort to build on these published reports. This poses a challenge to the research community to change the way we approach reproducibility by developing new tools to help progress the reliability of methods and materials we use in our trade.
+
+- title: "Capturing the \"Whole Tale\" of Computational Research: Reproducibility in Computing Environments"
+  link: https://arxiv.org/pdf/1610.09958.pdf
+  date: 2016-11-05 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    We present an overview of the recently funded "Merging Science and Cyberinfrastructure Pathways: The Whole Tale" project (NSF award #1541450). Our approach has two nested goals: 1) deliver an environment that enables researchers to create a  complete  narrative  of  the  research process including exposure of the data-to-publication lifecycle, and 2)  systematically and persistently link research publications to their associated digital scholarly objects such as the data,  code, and workflows. To enable this, WholeTale will create an environment where researchers can collaborate on data,  workspaces, and workflows and then publish them for future adoption or modification. Published data and applications will  be consumed either directly by users using the Whole Tale environment or can be integrated into existing or future  domain  Science Gateways.
+
+- title: A Reproducibility Reading List
+  link: http://software-carpentry.org/blog/2016/11/reproducibility-reading-list.html
+  date: 2016-11-02 00:00:00
+  tags: [reproducibility bibliography]
+  description: |
+    Prof. Lorena Barba has just posted a reading list for reproducible research that includes ten key papers to understand reproducibility.
+
+- title: "Reinventing the Methods Journal: Increasing Reproducibility with Video Journals"
+  link: http://docs.lib.purdue.edu/atg/vol25/iss5/9/
+  date: 2016-11-01 00:00:00
+  tags: [reproducible journal]
+  description: |
+    The way science journals present research must be rehabilitated or risk becoming obsolete, causing foreseeable negative consequences to research funding and pro-ductivity.  Researchers are dealing with ever- increasing complexities, and as techniques and solutions become more involved, so too does the task of describing them.  Unfortunately, simply explaining a technique with text does not always paint a clear enough picture. Scientific publishing has followed essentially the same model since the original scientific journal was published in the mid-seventeenth century. Thanks to advances in technology, we have seen some minor improvements such as the addition of color printing and better dissemination and search functionality through online cataloging.  But what has actually changed?  In truth, not all that much. Articles are still published as text heavy-tomes with the occasional pho-tograph or chart to demonstrate a point.
+
+- title: A Framework for Scientific Workflow Reproducibility in the Cloud
+  link: https://www.researchgate.net/profile/Rawaa_Qasha/publication/307905445_A_Framework_for_Scientific_Workflow_Reproducibility_in_the_Cloud/links/57ecf52c08ae92eb4d2689d0.pdf
+  date: 2016-10-18 00:00:00
+  tags: [reproducibility infrastructure, ReproZip]
+  description: |
+    Workflow is a well-established means by which to capture scientific methods in an abstract graph of interrelated processing tasks. The reproducibility of scientific workflows is therefore fundamental to reproducible e-Science. However, the ability to record all the required details so as to make a workflow fully reproducible is a long-standing problem that is very difficult to solve. In this paper, we introduce an approach that integrates system description, source control, container management and automatic deployment techniques to facilitate workflow reproducibility. We have developed a framework that leverages this integration to support workflow execution, re-execution and reproducibility in the cloud and in a personal computing environment. We demonstrate the effectiveness of our approach by ex-amining various aspects of repeatability and reproducibility on real scientific workflows. The framework allows workflow andtask images to be captured automatically, which improves not only repeatability but also runtime performance. It also gives workflows portability across different cloud environments. Finally, the framework can also track changes in the development of tasks and workflows to protect them from unintentional failures.
+
+- title: "Reproducibility and research misconduct: time for radical reform"
+  link: http://onlinelibrary.wiley.com/doi/10.1111/imj.13206/full
+  date: 2016-10-18 00:00:00
+  tags: [reproducible paper]
+  description: |
+    We know now that much health and medical research which is published in peer-reviewed journals is wrong,[1] and consequently much is unable to be replicated.[2-4] This is due in part to poor research practice, biases in publication, and simply a pressure to publish in order to ‘survive’. Cognitive biases that unreasonably wed to our hypotheses and results are to blame.[5] Strongly embedded in our culture of health and medical research is the natural selection of poor science practice driven by the dependence for survival on high rates of publication in academic life. It is a classic form of cultural evolution along Darwinian lines.[6, 7] Do not think that even publications in the most illustrious medical journal are immune from these problems: the COMPare project[8] reveals that more than 85% of large randomised controlled trials deviate seriously from their plan when the trial was registered prior to its start. An average of more than five new outcome measures was secretly added to the publication and a similar number of nominated outcomes were silently omitted. It is hardly far-fetched to propose that this drive to publish is contributing to the growth in the number of papers retracted from the literature for dubious conduct[9] along with the increasing number of cases of research misconduct.
+
+- title: "A University Symposium: Promoting Credibility, Reproducibility and Integrity in Research"
+  link: http://evpr.columbia.edu/content/PCRI
+  date: 2016-10-17 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    Columbia University and other New York City research institutions, including NYU, are hosting a one-day symposium on December 9, 2016 to showcase a robust discussion of reproducibility and research integrity among leading experts, high-profile journal editors, funders and researchers. This program will reveal the "inside story" of how issues are handled by institutions, journals and federal agencies and offer strategies for responding to challenges in these areas. The stimulating and provacative program is for researchers at all stages of their careers.
+
+- title: What is Replication Crisis? And what can be done to fix it?
+  link: http://www.popsci.com/what-is-replication-crisis
+  date: 2016-10-16 00:00:00
+  tags: [popular news]
+  description: |
+    Psychology has a replication problem. Since 2010, scientists conducting replications of hundreds of studies have discovered that a dismal amount of published results can be reproduced. This realization by psychologists has come to be known as "replication crisis". For me, this story all started with ego-depletion, and the comics I had drawn about it in 2014. The idea is that your self-control is a resource that can be diminished with use. When you think about all the times you've been slowly worn down by temptation, it seems obvious. When I drew the comics, there had been new research pointing to blood sugar levels as the font of self-control from which we all drew from. It also made sense—people get cranky when they're hungry. We even made up a word for it. We call it being "hangry".
+
+- title: Reproducibility and transparency in biomedical sciences
+  link: http://onlinelibrary.wiley.com/doi/10.1111/odi.12588/full
+  date: 2016-10-15 00:00:00
+  tags: [reproducible paper]
+  description: |
+    The biomedical research sciences are currently facing a challenge highlighted in several recent publications: concerns about the rigor and reproducibility of studies published in the scientific literature.Research progress is strongly dependent on published work. Basic science researchers build on their own prior work and the published findings of other researchers. This work becomes the foundation for preclinical and clinical research aimed at developing innovative new diagnostic tools and disease therapies. At each of the stages of research, scientific rigor and reproducibility are critical, and the financial and ethical stakes rise as drug development research moves through these stages.
+
+- title: "Introduction: The Challenge of Reproducibility"
+  link: http://www.annualreviews.org/doi/full/10.1146/annurev-cb-32-100316-100001
+  date: 2016-10-15 00:00:00
+  tags: [reproducibility report]
+  description: |
+    Science progresses by an iterative process whereby discoveries build upon a foundation of established facts and principles. The integrity of the advancement of knowledge depends crucially on the reliability and reproducibility of our published results. Although mistakes and falsification of results have always been an unfortunate part of the process, most viewed scientific research as self-correcting; the incorrect results and conclusions would inevitably be challenged and replaced with more reliable information. But what happens if the process is corrupted by systematic errors brought about by the misapplication of statistics, the use of unreliable reagents and inappropriate cell models, and the pressure to publish in the most selective venues? We may be facing this scenario now in areas of biomedical science in which claims have been made that a majority of the most important work in, for example, cancer biology is not reproducible in the hands of drug companies that would seek to rely on the biomedical literature for opportunities in drug discovery.
+
+- title: "A Year of Reproducibility Initiatives: The Replication Revolution Forges Ahead"
+  link: http://www.psychologicalscience.org/publications/observer/2014/july-august-14/a-year-of-reproducibility-initiatives-the-replication-revolution-forges-ahead.html
+  date: 2016-10-14 00:00:00
+  tags: [news article]
+  description: |
+    Adhering faithfully to the scientific method is at the very heart of psychological inquiry. It requires scientists to be passionately dispassionate, to be intensely interested in scientific questions but not wedded to the answers. It asks that scientists not personally identify with their past work or theories — even those that bear their names — so that science as a whole can inch ever closer to illuminating elusive truths. That compliance isn’t so easy. But those who champion the so-called replication revolution in psychological science believe that it is possible — with the right structural reforms and personal incentives.
+
+- title: The hard road to reproducibility
+  link: http://science.sciencemag.org/content/354/6308/142
+  date: 2016-10-07 00:00:00
+  tags: [popular news]
+  description: |
+    Early in my Ph.D. studies, my supervisor assigned me the task of running computer code written by a previous student who was graduated and gone. It was hell. I had to sort through many different versions of the code, saved in folders with a mysterious numbering scheme. There was no documentation and scarcely an explanatory comment in the code itself. It took me at least a year to run the code reliably, and more to get results that reproduced those in my predecessor's thesis. Now that I run my own lab, I make sure that my students don't have to go through that.
+
+- title: "Scientific Misconduct: The Elephant in the Lab. A Response to Parker et al."
+  link: http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(16)30159-8?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534716301598%3Fshowall%3Dtrue
+  date: 2016-10-07 00:00:00
+  tags: [reproducible paper]
+  description: |
+    In a recent Opinion article, Parker et al. [1] highlight a range of important issues and provide tangible solutions to improve transparency in ecology and evolution (E&E). We agree wholeheartedly with their points and encourage the E&E community to heed their advice. However, a key issue remains conspicuously unaddressed: Parker et al. assume that ‘deliberate dishonesty’ is rare in E&E, yet evidence suggests that occurrences of scientific misconduct (i.e., data fabrication, falsification, and/or plagiarism) are disturbingly common in the life sciences [2].
+
+- title: Most computational hydrology is not reproducible, so is it really science?
+  link: http://onlinelibrary.wiley.com/doi/10.1002/2016WR019285/full
+  date: 2016-10-07 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Reproducibility is a foundational principle in scientific research. Yet in computational hydrology, the code and data that actually produces published results is not regularly made available, inhibiting the ability of the community to reproduce and verify previous findings. In order to overcome this problem we recommend that re-useable code and formal workflows, which unambiguously reproduce published scientific results, are made available for the community alongside data, so that we can verify previous findings, and build directly from previous work. In cases where reproducing large-scale hydrologic studies is computationally very expensive and time-consuming, new processes are required to ensure scientific rigour. Such changes will strongly improve the transparency of hydrological research, and thus provide a more credible foundation for scientific advancement and policy support.
+
+- title: Reproducibility and replicability of rodent phenotyping in preclinical studies
+  link: http://biorxiv.org/content/early/2016/10/05/079350
+  date: 2016-10-06 00:00:00
+  tags: [reproducible paper]
+  description: |
+    The scientific community is increasingly concerned with cases of published "discoveries" that are not replicated in further studies. The field of mouse phenotyping was one of the first to raise this concern, and to relate it to other complicated methodological issues: the complex interaction between genotype and environment; the definitions of behavioral constructs; and the use of the mouse as a model animal for human health and disease mechanisms. In January 2015, researchers from various disciplines including genetics, behavior genetics, neuroscience, ethology, statistics and bioinformatics gathered in Tel Aviv University to discuss these issues. The general consent presented here was that the issue is prevalent and of concern, and should be addressed at the statistical, methodological and policy levels, but is not so severe as to call into question the validity and the usefulness of the field as a whole. Well-organized community efforts, coupled with improved data and metadata sharing were agreed by all to have a key role to play in view of identifying specific problems, as well as promoting effective solutions. As replicability is related to validity and may also affect generalizability and translation of findings, the implications of the present discussion reach far beyond the issue of replicability of mouse phenotypes but may be highly relevant throughout biomedical research.
+
+- title: "Repeat After Me: Why can't anyone replicate the scientific studies from those eye-grabbing headlines?"
+  link: https://thenib.com/repeat-after-me?t=default
+  date: 2016-10-06 00:00:00
+  tags: [popular news]
+  description: |
+    A comic illustrating the complexities and history of research reproducibility.
+
+- title: Incentivizing Reproducibility
+  link: http://cacm.acm.org/magazines/2016/10/207757-incentivizing-reproducibility/fulltext?1475360375780=1
+  date: 2016-10-06 00:00:00
+  tags: [reproducible journal]
+  description: |
+    A scientific result is not truly established until it is independently confirmed. This is one of the tenets of experimental science. Yet, we have seen a rash of recent headlines about experimental results that could not be reproduced. In the biomedical field, efforts to reproduce results of academic research by drug companies have had less than a 50% success rate,a resulting in billions of dollars in wasted effort. In most cases the cause is not intentional fraud, but rather sloppy research protocols and faulty statistical analysis. Nevertheless, this has led to both a loss in public confidence in the scientific enterprise and some serious soul searching within certain fields. Publishers have begun to take the lead in insisting on more careful reporting and review, as well as facilitating government open science initiatives mandating sharing of research data and code. To support efforts of this type, the ACM Publications Board recently approved a new policy on Result and Artifact Review and Badging. This policy defines two badges ACM will use to highlight papers that have undergone independent verification. Results Replicated is applied when the paper's main results have been replicated using artifacts provided by the author, or Results Reproduced if done completely independently.
+
+- title: "Reproducibility: Seek out stronger science"
+  link: http://www.nature.com/nature/journal/v537/n7622/full/nj7622-703a.html
+  date: 2016-10-05 00:00:00
+  tags: [news article]
+  description: |
+    When graduate student Alyssa Ward took a science-policy internship, she expected to learn about policy — not to unearth gaps in her biomedical training. She was compiling a bibliography about the reproducibility of experiments, and one of the papers, a meta-analysis, found that scientists routinely fail to explain how they choose the number of samples to use in a study. "My surprise was not about the omission — it was because I had no clue how, or when, to calculate sample size," Ward says. Nor had she ever been taught about major categories of experimental design, or the limitations of P values. (Although they can help to judge the strength of scientific evidence, P values do not — as many think — estimate the likelihood that a hypothesis is true.)
+
+- title: "BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods"
+  link: http://biorxiv.org/content/early/2016/10/05/079145
+  date: 2016-10-04 00:00:00
+  tags: [reproducible paper]
+  description: |
+    In this work, we introduce a framework for creating, testing, versioning and archiving portable applications for analyzing neuroimaging data organized and described in compliance with the Brain Imaging Data Structure (BIDS). The portability of these applications (BIDS Apps) is achieved by using container technologies that encapsulate all binary and other dependencies in one convenient package. BIDS Apps run on all three major operating systems with no need for complex setup and configuration and thanks to the richness of the BIDS standard they require little manual user input. Previous containerized data processing solutions were limited to single user environments and not compatible with most multi tenant High Performance Computing systems. BIDS Apps overcome this limitation by taking advantage of the Singularity container technology. As a proof of concept, this work is accompanied by 18 ready to use BIDS Apps, packaging a diverse set of commonly used neuroimaging algorithms.
+
+- title: The Solution to Science's Replication Crisis
+  link: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2835131
+  date: 2016-10-03 00:00:00
+  tags: [reproducible paper]
+  description: |
+    The solution to science's replication crisis is a new ecosystem in which scientists sell what they learn from their research. In each pairwise transaction, the information seller makes (loses) money if he turns out to be correct (incorrect). Responsibility for the determination of correctness is delegated, with appropriate incentives, to the information purchaser. Each transaction is brokered by a central exchange, which holds money from the anonymous information buyer and anonymous information seller in escrow, and which enforces a set of incentives facilitating the transfer of useful, bluntly honest information from the seller to the buyer. This new ecosystem, capitalist science, directly addresses socialist science's replication crisis by explicitly rewarding accuracy and penalizing inaccuracy.
+
+- title: "Strategies to Increase Rigor and Reproducibility of Data in Manuscripts: Reply to Héroux"
+  link: http://jn.physiology.org/content/116/3/1538
+  date: 2016-10-01 00:00:00
+  tags: [reproducible paper]
+  description: |
+    A number of proactive steps are underway to improve the rigor and reproducibility of the data reported in the Journal of Neurophysiology. The American Physiological Society's Publications Committee is currently devising implementation plans for the following recommendations from editors of the Society's journals.
+
+- title: "Reproducibility in wireless experimentation: need, challenges, and approaches"
+  link: http://dl.acm.org/citation.cfm?id=2984738
+  date: 2016-10-01 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Wireless networks are the key enabling technology of the mobile revolution. However, experimental mobile and wireless research is still hindered by the lack of a solid framework to adequately evaluate the performance of a wide variety of techniques and protocols proposed by the community. In this talk, I will motivate the need for experimental reproducibility as a necessary aspect for healthy progress as accepted by other communities. I will illustrate how other research communities went through similar processes. I will then present the unique challenges of mobile and wireless experimentation, and discuss approaches, past, current, and future to address these challenges. Finally, I will discuss how reproducibility extends to mobile and wireless security research.
+
+- title: Validate your antibodies to improve reproducibility? Easier said than done
+  link: http://www.sciencemag.org/news/2016/09/validate-your-antibodies-improve-reproducibility-easier-said-done
+  date: 2016-09-29 00:00:00
+  tags: [news article]
+  description: |
+    It seems like the most elementary of research principles: Make sure the cells and reagents in your experiment are what they claim to be and behave as expected. But when it comes to antibodies—the immune proteins used in all kinds of experiments to tag a molecule of interest in a sample—that validation process is not straightforward. Research antibodies from commercial vendors are often screened and optimized for narrow experimental conditions, which means they may not work as advertised for many scientists. Indeed, problems with antibodies are thought to have led many drug developers astray and generated a host of misleading or irreproducible scientific results.
+
+- title: AN INTERNATIONAL INTER-LABORATORY DIGITAL PCR STUDY DEMONSTRATES HIGH REPRODUCIBILITY FOR THE MEASUREMENT OF A RARE SEQUENCE VARIANT
+  link: http://biorxiv.org/content/early/2016/09/28/077917
+  date: 2016-09-29 00:00:00
+  tags: [reproducible paper]
+  description: |
+    This study tested the claim that digital PCR (dPCR) can offer highly reproducible quantitative measurements in disparate labs. Twenty-one laboratories measured four blinded samples containing different quantities of a KRAS fragment encoding G12D, an important genetic marker for guiding therapy of certain cancers. This marker is challenging to quantify reproducibly using qPCR or NGS due to the presence of competing wild type sequences and the need for calibration. Using dPCR, eighteen laboratories were able to quantify the G12D marker within 12% of each other in all samples. Three laboratories appeared to measure consistently outlying results; however, proper application of a follow-up analysis recommendation rectified their data. Our findings show that dPCR has demonstrable reproducibility across a large number of laboratories without calibration and could enable the reproducible application of molecular stratification to guide therapy, and potentially for molecular diagnostics.
+
+- title: "Reproducibility of Search Strategies Is Poor in Systematic Reviews Published in High-Impact Pediatrics, Cardiology and Surgery Journals: A Cross-Sectional Study"
+  link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163309
+  date: 2016-09-27 00:00:00
+  tags: [reproducibility study]
+  description: |
+    A high-quality search strategy is considered an essential component of systematic reviews but many do not contain reproducible search strategies. It is unclear if low reproducibility spans medical disciplines, is affected by librarian/search specialist involvement or has improved with increased awareness of reporting guidelines.
+
+- title: A Reproducibility Study of Information Retrieval Models
+  link: http://dl.acm.org/citation.cfm?id=2970415
+  date: 2016-09-27 00:00:00
+  tags: [reproducibility study]
+  description: |
+    Developing effective information retrieval models has been a long standing challenge in Information Retrieval (IR), and significant progresses have been made over the years. With the increasing number of developed retrieval functions and the release of new data collections, it becomes more difficult, if not impossible, to compare a new retrieval function with all existing retrieval functions over all available data collections. To tackle thisproblem, this paper describes our efforts on constructing a platform that aims to improve the reproducibility of IR researchand facilitate the evaluation and comparison of retrieval functions.
+
+- title: "Reproducibility: Respect your cells!"
+  link: http://www.nature.com/nature/journal/v537/n7620/full/537433a.html
+  date: 2016-09-20 00:00:00
+  tags: [news article]
+  description: |
+    Numerous variables can torpedo attempts to replicate cell experiments, from the batch of serum to the shape of growth plates. But there are ways to ensure reliability.
+
+- title: "Reproducibility: Harness passion of private fossil owners"
+  link: http://www.nature.com/nature/journal/v537/n7620/full/537307a.html
+  date: 2016-09-20 00:00:00
+  tags: [news article]
+  description: |
+    Reproducing palaeontological results depends on unrestricted access to fossils described in the literature, allowing others to re-examine or reinterpret them. Museums have policies and protocols for keeping materials in the public trust, but accessibility to privately owned fossil collections can be a problem.
+
+- title: What do we mean by "reproducibility"?
+  link: http://www.stats.org/what-do-we-mean-by-reproducibility/
+  date: 2016-09-19 00:00:00
+  tags: [news article]
+  description: |
+    There’s been a lot of discussion across many scientific fields about the "reproducibility crisis" in the past few years. Hundreds of psychologists attempted to redo 100 studies as part of the Reproducibility Project in Psychology, and claimed that fewer than half of the replication attempts succeeded. In Biomedicine, a study from the biotech firm Amgen tried to re-create results of 53 "landmark" preclinical cancer studies, and only got the same results for six of them. Amid a growing concern about research reliability, funders including the National Institutes of Health (NIH) have called for a greater effort to make research reproducible through transparent reporting of the methods researchers use to conduct their investigations.
+
+- title: Research Antibody Reproducibility
+  link: http://www.genengnews.com/gen-articles/research-antibody-reproducibility/5833/
+  date: 2016-09-15 00:00:00
+  tags: [news article]
+  description: |
+    The ongoing dialogue has included the role of improperly validated research reagents, such as antibodies, with blame falling at the feet of reagent vendors, researchers, and journals. This article will highlight how the lack of consistent research on antibody validation has contributed to the reproducibility crisis and the role of vendors from Cell Signaling Technology’s (CST) perspective in making research more robust and reproducible.
+
+- title: "Reproducibility: Respect your cells!"
+  link: http://www.nature.com/nature/journal/v537/n7620/full/537433a.html
+  date: 2016-09-14 00:00:00
+  tags: [news article]
+  description: |
+    Numerous variables can torpedo attempts to replicate cell experiments, from the batch of serum to the shape of growth plates. But there are ways to ensure reliability.
+
+- title: "Never Waste a Good Crisis: Confronting Reproducibility in Translational Research"
+  link: http://dx.doi.org/10.1016/j.cmet.2016.08.006
+  date: 2016-09-14 00:00:00
+  tags: [news article]
+  description: |
+    The lack of reproducibility of preclinical experimentation has implications for sustaining trust in and ensuring the viability and funding of the academic research enterprise. Here I identify problematic behaviors and practices and suggest solutions to enhance reproducibility in translational research.
+
+- title: Why scientists must share their research code
+  link: http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504
+  date: 2016-09-13 00:00:00
+  tags: [news article]
+  description: |
+    Many scientists worry over the reproducibility of wet-lab experiments, but data scientist Victoria Stodden's focus is on how to validate computational research: analyses that can involve thousands of lines of code and complex data sets. Beginning this month, Stodden — who works at the University of Illinois at Urbana-Champaign — becomes one of three ‘reproducibility editors’ appointed to look over code and data sets submitted by authors to the Applications and Case Studies (ACS) section of the Journal of the American Statistical Association (JASA). Other journals including Nature have established guidelines for accommodating data requests after publication, but they rarely consider the availability of code and data during the review of a manuscript. JASA ACS will now insist that — with a few exceptions for privacy — authors submit this information as a condition of publication.
+
+- title: "Reprowd: Crowdsourced Data Processing Made Reproducible"
+  link: http://arxiv.org/pdf/1609.00791.pdf
+  date: 2016-09-10 00:00:00
+  tags: [reproducible paper, ReproZip]
+  description: |
+    Crowdsourcing is a multidisciplinary research area in-cluding disciplines like artificial intelligence, human-computer interaction, database, and social science. One of the main objectives of AAAI HCOMP conferences is to bring together researchers from different fields and provide them opportunities to exchange ideas and share new research results. To facilitate cooperation across disciplines,repro-ducibilityis a crucial factor, but unfortunately it has not got-ten enough attention in the HCOMP community.
+
+- title: Vive la Petite Différence! Exploiting Small Differences for Gender Attribution of Short Texts
+  link: http://link.springer.com/chapter/10.1007/978-3-319-45510-5_7
+  date: 2016-09-08 00:00:00
+  tags: [reproducible paper]
+  description: |
+    This article describes a series of experiments on gender attribution of Polish texts. The research was conducted on the publicly available corpus called "He Said She Said", consisting of a large number of short texts from the Polish version of Common Crawl. As opposed to other experiments on gender attribution, this research takes on a task of classifying relatively short texts, authored by many different people. For the sake of this work, the original "He Said She Said" corpus was filtered in order to eliminate noise and apparent errors in the training data. In the next step, various machine learning algorithms were developed in order to achieve better classification accuracy. Interestingly, the results of the experiments presented in this paper are fully reproducible, as all the source codes were deposited in the open platform Gonito.net. Gonito.net allows for defining machine learning tasks to be tackled by multiple researchers and provides the researchers with easy access to each other’s results.
+
+- title: "Conducting Reproducible Research with Umbrella: Tracking, Creating, and Preserving Execution Environments"
+  link: http://ccl.cse.nd.edu/research/papers/umbrella-escience-2016.pdf
+  date: 2016-09-08 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    Publishing scientific results without the detailed execution environments describing how the results were collected makes it difficult or even impossible for the reader to reproduce thework. However, the configurations of the execution environ-ments are too complex to be described easily by authors. To solve this problem, we propose a framework facilitating the conduct of reproducible research by tracking, creating, and preserving the comprehensive execution environments with Umbrella. The framework includes a lightweight, persistent anddeployable execution environment specification, an execution engine which creates the specified execution environments, and an archiver which archives an execution environment into persistent storage services like Amazon S3 and Open Science Framework (OSF). The execution engine utilizes sandbox techniques like virtual machines (VMs), Linux containers and user-space tracers, to cre-ate an execution environment, and allows common dependencies like base OS images to be shared by sandboxes for different applications. We evaluate our framework by utilizing it to reproduce three scientific applications from epidemiology, scene rendering, and high energy physics. We evaluate the time and space overhead of reproducing these applications, and the effectiveness of the chosen archive unit and mounting mechanism for allowing different applications to share dependencies. Our results show that these applications can be reproduced using different sandbox techniques successfully and efficiently, even through the overhead andperformance slightly vary.
+
+- title: "PRUNE: A Preserving Run Environment for Reproducible Scientific Computing"
+  link: http://ccl.cse.nd.edu/research/papers/prune-escience-2016.pdf
+  date: 2016-09-08 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    Computing as a whole suffers from a crisis of reproducibility. Programs executed in one context are aston-ishingly hard to reproduce in another context, resulting in wasted effort by people and general distrust of results produced by computer. The root of the problem lies in the fact that every program has implicit dependencies on data and execution environment whichare rarely understood by the end user. To address this problem, we present PRUNE, the Preserving Run Environment.In PRUNE, every task to be executed is wrapped in a functional interface and coupled with a strictly defined environment. The task is then executed by PRUNErather than the user to ensure reproducibility. As a scientific workflow evolves in PRUNE, a growing but immutable tree of derived data is created. The provenance of every item in the system can be precisely described, facilitating sharing and modification between collaborating researchers, along with efficient management of limited storage space. We present the user interface and the initial prototype of PRUNE, and demonstrate its application in matching records and comparing surnames in U.S. Censuses.
+
+- title: Moving Towards Model Reproducibility and Reusability
+  link: http://www.ncbi.nlm.nih.gov/pubmed/27576241
+  date: 2016-09-05 00:00:00
+  tags: [reproducibility study]
+  description: |
+    This commentary provides a brief history of the U.S. funding initiatives associated with promoting multiscale modeling of the physiome since 2003. An effort led in the United States is the Interagency Modeling and Analysis Group (IMAG) Multiscale Modeling Consortium (MSM). Though IMAG and the MSM have generated much interest in developing MSM models of the physiome, challenges associated with model and data sharing in biomedical, biological and behavioral systems still exist. Since 2013, the IEEE EMBS Technical Committee on Computational Biology and the Physiome (CBaP TC) has supported discussions on promoting model reproducibility through publication. This Special Issue on Model Sharing and Reproducibility is a realization of the CBaP TC discussions. Though open questions remain on how we can further facilitate model reproducibility, accessibility and reuse by the worldwide community for different biomedical domain applications, this special issue provides a unique demonstration of both the challenges and opportunities for publishing reproducible computational models.
+
+- title: Proposal for first validating antibody specificity strategies to publish in Nature Methods
+  link: http://www.eurekalert.org/pub_releases/2016-09/gh-pff083016.php
+  date: 2016-09-05 00:00:00
+  tags: [reproducibility study]
+  description: |
+    The International Working Group on Antibody Validation (IWGAV), an independent group of international scientists with diverse research interests in the field of protein biology, today announced the publication of initial strategies developed to address a critical unmet need for antibody specificity, functionality and reproducibility in the online issue of Nature Methods. The IWGAV is the first initiative of its size and scope to establish strategic recommendations for antibody validation for both antibody producers and users. Thermo Fisher Scientific, the world leader in serving science, provided financial support to the IWGAV in 2015 to spearhead the development of industry standards and help combat the common challenges associated with antibody specificity and reproducibility.
+
+- title: A Framework for Improving the Quality of Research in the Biological Sciences
+  link: http://mbio.asm.org/content/7/4/e01256-16.full
+  date: 2016-09-02 00:00:00
+  tags: [reproducibility study]
+  description: |
+    The American Academy of Microbiology convened a colloquium to discuss problems in the biological sciences, with emphasis on identifying mechanisms to improve the quality of research. Participants from various disciplines made six recommendations: (i) design rigorous and comprehensive evaluation criteria to recognize and reward high-quality scientific research; (ii) require universal training in good scientific practices, appropriate statistical usage, and responsible research practices for scientists at all levels, with training content regularly updated and presented by qualified scientists; (iii) establish open data at the timing of publication as the standard operating procedure throughout the scientific enterprise; (iv) encourage scientific journals to publish negative data that meet methodologic standards of quality; (v) agree upon common criteria among scientific journals for retraction of published papers, to provide consistency and transparency; and (vi) strengthen research integrity oversight and training. These recommendations constitute an actionable framework that, in combination, could improve the quality of biological research.
+
+- title: Reproducibility and Variation of Diffusion Measures in the Squirrel Monkey Brain, In Vivo and Ex Vivo
+  link: http://www.mrijournal.com/article/S0730-725X(16)30120-5/abstract
+  date: 2016-09-02 00:00:00
+  tags: [reproducibility study]
+  description: |
+    Animal models are needed to better understand the relationship between diffusion MRI (dMRI) and the underlying tissue microstructure. One promising model for validation studies is the common squirrel monkey, Saimiri sciureus. This study aims to determine (1) the reproducibility of in vivo diffusion measures both within and between subjects; (2) the agreement between in vivo and ex vivo data acquired from the same specimen and (3) normal diffusion values and their variation across brain regions.
+
+- title: MBoC Introduces Author Checklist to Enhance Research Reproducibility
+  link: http://www.ascb.org/september-2016-nl-mboc-introduces-author-checklist-to-enhance-research-reproducibility/
+  date: 2016-09-02 00:00:00
+  tags: [reproducible journal]
+  description: |
+    Molecular Biology of the Cell (MBoC) has developed a checklist for authors to help them ensure that their work can be reproduced by others. In so doing, the journal is mboc logofollowing the recommendations in the 2015 whitepaper by the ASCB Reproducibility Task Force. The checklist was developed by a committee of MBoC Editorial Board members chaired by Editor Jean Schwarzbauer and including Associate Editors Rick Fehon, Carole Parent, Greg Matera, Alex Mogilner, and Fred Chang with input from Editor-in-Chief David Drubin and other members of the board.
+
+- title: Clinical Trial Transparency and Reproducibility Discussion Panel and Workshop at NYU
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfkbeRa4I4na_1FoEAcaILKLFId3GfQJkSO0x5rd1Yk-vFStA/viewform?c=0&w=1
+  date: 2016-09-02 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    Please join us for a free afternoon of clinical research transparency and reproducibility discussion and learning co-hosted by New York University, Center for Open Science, and AllTrials USA (part of Sense About Science USA).
+
+- title: Julian Wolfson Named Reproducibility Editor for Leading Statistics Journal
+  link: http://www.sph.umn.edu/wolfson-named-reproducibility-editor-asa-statistics-journal/
+  date: 2016-09-01 00:00:00
+  tags: [reproducible journal]
+  description: |
+    University of Minnesota School of Public Health Assistant Professor Julian Wolfson was named an associate editor for reproducibility for the Journal of the American Statistical Association (JASA). The appointment is in support of the journal’s new requirement for authors to submit scientific code and data for review along with their papers.
+
+- title: A reproducibility horror story (and the heroes, knitr and checkpoint)
+  link: http://blog.revolutionanalytics.com/2016/08/a-reproducibility-horror-story.html
+  date: 2016-09-01 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    You download the data and complete your analysis with ample time to spare. Then, just before deadline, your collaborator lets you know that they've "fixed a data error". Now, you have to do your analysis all over again. This is the reproducibility horror story.
+
+- title: "Truth in Science Publishing: A Personal Perspective"
+  link: http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002547
+  date: 2016-09-01 00:00:00
+  tags: [popular news]
+  description: |
+    Scientists, public servants, and patient advocates alike increasingly question the validity of published scientific results, endangering the public’s acceptance of science. Here, I argue that emerging flaws in the integrity of the peer review system are largely responsible. Distortions in peer review are driven by economic forces and enabled by a lack of accountability of journals, editors, and authors. One approach to restoring trust in the validity of published results may be to establish basic rules that render peer review more transparent, such as publishing the reviews (a practice already embraced by some journals) and monitoring not only the track records of authors but also of editors and journals.
+
+- title: ASM Addresses the Reproducibility Crisis in New Academy Report
+  link: http://www.asm.org/index.php/ceo-blog/item/155-asm-addresses-the-reproducibility-crisis-in-new-academy-report
+  date: 2016-08-30 00:00:00
+  tags: [reproducibility report]
+  description: |
+    "Promoting Responsible Scientific Research" is the title of a new report just released by the American Academy of Microbiology, a component of ASM. It grew out of an Academy colloquium held last October to tackle an issue that is unfortunately becoming well known both inside and outside scientific circles—the lack of rigor in science. I am delighted that the Academy and ASM are taking on this difficult issue and am grateful to all the participants, the Academy steering committee, and especially to Dr. Arturo Casadevall of Johns Hopkins University, who chaired the colloquium.
+
+- title: Rethinking Education in Psychology in Light of Reproducibility Crisis
+  link: http://www.chronicle.com/blogs/letters/rethinking-education-in-psychology-in-light-of-reproducibility-crisis/
+  date: 2016-08-27 00:00:00
+  tags: [popular news]
+  description: |
+    Sanjay Srivastava’s joke syllabus ("A Joke Syllabus With a Serious Point: Cussing Away the Reproducibility Crisis," The Chronicle, August 15) and Lee Jussim's blog post on Psychology Today about educating psychology students in light of the reproducibility crisis led me to reflect on my department’s recent curriculum changes. We have retooled or created from scratch multiple courses that engage something few of my colleagues seem to consider relevant to the problem: intellectual history. They instead hold firmly to the dictates of positivism, insisting that better training in the methods of science will be the source of rescue. Where does this prejudice come from? Might it be time to pave a new way?
+
+- title: Empowering Multi-Cohort Gene Expression Analysis to Increase Reproducibility
+  link: http://dx.doi.org/10.1101/071514
+  date: 2016-08-25 00:00:00
+  tags: [reproducibility study]
+  description: |
+    A major contributor to the scientific reproducibility crisis has been that the results from homogeneous, single-center studies do not generalize to heterogeneous, real world populations. Multi-cohort gene expression analysis has helped to increase reproducibility by aggregating data from diverse populations into a single analysis. To make the multi-cohort analysis process more feasible, we have assembled an analysis pipeline which implements rigorously studied meta-analysis best practices. We have compiled and made publicly available the results of our own multi-cohort gene expression analysis of 103 diseases, spanning 615 studies and 36,915 samples, through a novel and interactive web application. As a result, we have made both the process of and the results from multi-cohort gene expression analysis more approachable for non-technical users.
+
+- title: Cell Press transforms article methods section to improve transparency and accessibility
+  link: http://www.eurekalert.org/pub_releases/2016-08/cp-cpt082516.php
+  date: 2016-08-25 00:00:00
+  tags: [reproducible journal]
+  description: |
+    Amid discussions around scientific reproducibility, the leading biomedical journal Cell will introduce a redesigned methods section to help authors clearly communicate how experiments are conducted. The first papers using Structured, Transparent, Accessible Reporting (STAR) Methods, which promotes guidelines encouraged by reagent labeling and animal experimentation initiatives, appear in Cell on August 25. The format will then be adopted by other Cell Press journals over the next year, starting with Cell Systems in the fall.
+
+- title: Reproducibility in Chemical Research
+  link: http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/epdf
+  date: 2016-08-25 00:00:00
+  tags: [reproducibility report]
+  description: |
+    Reproducibility is a defining feature of science. Lately, however, serious concerns have been raised regarding the extent to which the results of research, especially biomedical research, are easily replicated. In this Editorial, we discuss to what extent reproducibility is a significant issue in chemical research and then suggest steps to minimize problems involving irreproducibility in chemistry.
+
+- title: Go forth and replicate!
+  link: http://www.nature.com/news/go-forth-and-replicate-1.20473
+  date: 2016-08-24 00:00:00
+  tags: [news article]
+  description: |
+    To make replication studies more useful, researchers must make more of them, funders must encourage them and journals must publish them.No scientist wants to be the first to try to replicate another’s promising study: much better to know what happened when others tried it. Long before replication or reproducibility became major talking points, scientists had strategies to get the word out. Gossip was one. Researchers would compare notes at conferences, and a patchy network would be warned about whether a study was worth building on. Or a vague comment might be buried in a related publication. Tell-tale sentences would start "In our hands", "It is unclear why our results differed …" or "Interestingly, our results did not …".
+
+- title: The Reproducibility and Relative Validity of a Mexican Diet Quality Index (ICDMx) for the Assessment of the Habitual Diet of Adults
+  link: http://www.mdpi.com/2072-6643/8/9/516
+  date: 2016-08-23 00:00:00
+  tags: [reproducible paper]
+  description: |
+    The study of diet quality in a population provides information for the development of programs to improve nutritional status through better directed actions. The aim of this study was to assess the reproducibility and relative validity of a Mexican Diet Quality Index (ICDMx) for the assessment of the habitual diet of adults.
+
+- title: Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research
+  link: https://osf.io/bcef5/
+  date: 2016-08-23 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    The Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research was held on 6th - 7th April 2016 at the University of Oxford. It was organised by senior academics, publishers and library professionals representing the Alan Turing Institute (ATI) joint venture partners (the universities of Cambridge, Edinburgh, Oxford, UCL and Warwick), the University of Manchester, Newcastle University and the British Library. The key aim of the symposium was to address the challenges around reproducibility of data-intensive research in science, social science and the humanities. This report presents an overview of the discussions and makes some recommendations for the ATI to take forwards.
+
+- title: "CERN Analysis Preservation: A Novel Digital Library Service to Enable Reusable and Reproducible Research"
+  link: http://link.springer.com/chapter/10.1007/978-3-319-43997-6_27/fulltext.html
+  date: 2016-08-18 00:00:00
+  tags: [reproducibility report]
+  description: |
+    The latest policy developments require immediate action for data preservation, as well as reproducible and Open Science. To address this, an unprecedented digital library service is presented to enable the High-Energy Physics community to preserve and share their research objects (such as data, code, documentation, notes) throughout their research process. While facing the challenges of a “big data” community, the internal service builds on existing internal databases to make the process as easy and intrinsic as possible for researchers. Given the “work in progress” nature of the objects preserved, versioning is supported. It is expected that the service will not only facilitate better preservation techniques in the community, but will foremost make collaborative research easier as detailed metadata and novel retrieval functionality provide better access to ongoing works. This new type of e-infrastructure, fully integrated into the research workflow, could help in fostering Open Science practices across disciplines.
+
+- title: Report from the first CRN coding sprint
+  link: http://reproducibility.stanford.edu/report-from-the-first-crn-coding-sprint/
+  date: 2016-08-14 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    Two weeks ago (1st-4th of August 2016) we hosted a coding sprint at Stanford aimed at making neuroimaging data processing and analysis tools more portable and accessible. You might have heard about BIDS – it is a new standard for organizing and describing neuroimaging datasets that we have recently proposed. Containers (also known as “operating-system-level virtualization”) are very lightweight virtual machines that can encapsulate any piece of code along with all of the libraries necessary to run it. Docker and Singularity are two examples of container technologies. The reason we are so excited about containers for reproducible data analysis is that they provide a way to package a piece of software which can run in the same way across many different computing platforms, from a laptop to a supercomputer. Creating containerized and BIDS-aware versions of all of the major neuroimaging analysis packages is critical to our center’s mission: providing data analysis as an free and open service to incentivize researchers to share data.
+
+- title: Project package libraries and reproducibility
+  link: https://www.r-bloggers.com/project-package-libraries-and-reproducibility/
+  date: 2016-08-12 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    If you are an R user it has probably happened to you that you upgraded some R package in your R installation, and then suddenly your R script or application stopped working. One strategy is that you create a new package library for a new project. A package library is just a directory that holds all installed R packages. (In addition to the ones that are installed with R itself.) This is why we created the pkgsnap tool. This is a very simple package with two exported functions: 1) snap takes a snapshot of your project library. It writes out the names and versions of the currently installed packages into a text file. You can put this text file into the version control repository of the project, to make sure it is not lost, and 2) restore uses the snapshot file to recreate the package project library from scratch. It installs the recorded versions of the recorded packages, in the right order.
+
+- title: Assessing the reproducibility of exome copy number variations predictions
+  link: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0336-6
+  date: 2016-08-08 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Reproducibility is receiving increased attention across many domains of science and genomics is no exception. Efforts to identify copy number variations (CNVs) from exome sequence (ES) data have been increasing. Many algorithms have been published to discover CNVs from exomes and a major challenge is the reproducibility in other datasets. Here we test exome CNV calling reproducibility under three conditions: data generated by different sequencing centers; varying sample sizes; and varying capture methodology.
+
+- title: 1,500 scientists lift the lid on reproducibility
+  link: http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
+  date: 2016-08-08 00:00:00
+  tags: [reproducibility report]
+  description: |
+    More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.
+
+- title: "Standardized Mixed-Meal Tolerance and Arginine Stimulation Tests Provide Reproducible and Complementary Measures ofb-cell Function: Results From the Foundation for the National Institutes of Health Biomarkers Consortium Investigative Series"
+  link: http://dx.doi.org/10.2337/dc15-0931
+  date: 2016-08-02 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Standardized, reproducible, and feasible quantification ofb-cell function (BCF) is necessary for the evaluation of interventions to improve insulin secretion and important for comparison across studies. We therefore characterized the re-sponses to, and reproducibility of, standardized methods of in vivo BCF across different glucose tolerance states.  Reproducibility for the AST was very good, with ICC values >0.8 across all variables and populations.
+
+- title: A statistical definition for reproducibility and replicability
+  link: http://dx.doi.org/10.1101/066803
+  date: 2016-07-31 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    Everyone agrees that reproducibility and replicability are fundamental characteristics of scientific studies. These topics are attracting increasing attention, scrutiny, and debate both in the popular press and the scientific literature. But there are no formal statistical definitions for these concepts, which leads to confusion since the same words are used for different concepts by different people in different fields. We provide formal and informal definitions of scientific studies, reproducibility, and replicability that can be used to clarify discussions around these concepts in the scientific and popular press.
+
+- title: In dramatic statement, European leaders call for ‘immediate’ open access to all scientific papers by 2020
+  link: http://www.sciencemag.org/news/2016/05/dramatic-statement-european-leaders-call-immediate-open-access-all-scientific-papers
+  date: 2016-07-30 00:00:00
+  tags: [open access]
+  description: |
+    In what European science chief Carlos Moedas calls a "life-changing" move, E.U. member states today agreed on an ambitious new open-access (OA) target. All scientific papers should be freely available by 2020, the Competitiveness Council—a gathering of ministers of science, innovation, trade, and industry—concluded after a 2-day meeting in Brussels. But some observers are warning that the goal will be difficult to achieve.
+
+- title: Validity and Reproducibility of a Dietary Questionnaire for Consumption Frequencies of Foods during Pregnancy in the Born in Guangzhou Cohort Study (BIGCS)
+  link: http://www.mdpi.com/2072-6643/8/8/454
+  date: 2016-07-28 00:00:00
+  tags: [reproducibility study]
+  description: |
+    This study aimed to examine the reproducibility and validity of a new food frequency questionnaire (FFQ) used in a birth cohort study to estimate the usual consumption frequencies of foods during pregnancy. The reference measure was the average of three inconsecutive 24 h diet recalls (24 HR) administrated between two FFQs, and the reproducibility was measured by repeating the first FFQ (FFQ1) approximately eight weeks later (FFQ2).
+
+- title: Pressure BioSciences Announces Initial Shipments of its Enabling, Next-Generation PCT System
+  link: http://finance.yahoo.com/news/pressure-biosciences-announces-initial-shipments-144800971.html
+  date: 2016-07-21 00:00:00
+  tags: [reproducibility report]
+  description: |
+    Pressure BioSciences, Inc. (PBIO) ("PBI" or the "Company") today announced the initial shipments of its recently released, next-generation pressure cycling technology ("PCT")-based instrument, the Barocycler 2320EXTREME (the "2320EXT"). A key component to the study's success will be the maximization of the breadth of biomolecular analytes revealed and measured, and the quality and reproducibility of the results generated using the tools chosen by ProCan for both the sample preparation and analytical portions of the study.
+
+- title: 可重复性与开放科学在中国（Reproducibility and Open Science in China ）
+  link: https://osf.io/9d7y4/
+  date: 2016-07-25 00:00:00
+  tags: [reproducibility report]
+  description: |
+    This project aimed at promoting the awareness of replication crisis and related issues in China. It will be a Public Project to record resources for Reproducibility and Open Science in Chinese.
+
+- title: DARPA Cyber Grand Challenge AI Will Prevail
+  link: http://www.i-programmer.info/news/105-artificial-intelligence/9925-darpa-cyber-grand-challenge-ai-will-prevail.html
+  date: 2016-07-20 00:00:00
+  tags: [news article]
+  description: |
+    Next month Las Vegas will host the Final Event of the DARPA Cyber grand Challenge as an all-computer cyber-defence Capture the Flag tournament. From an initial field of over 100 applicant seven teams will compete for the $3.5 million prize pool. Reproducibility is a key aspect of a sound scientific design. While perfect system state replay is impossible without a full system event recorder, DECREE has been designed to allow high determinism and reproducibility given a record of software and inputs. This reproducibility property has been built into DECREE from kernel modifications up through the entire platform stack.
+
+- title: Where next for the reproducibility agenda in computational biology?
+  link: http://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-016-0288-x
+  date: 2016-07-15 00:00:00
+  tags: [reproducible paper]
+  description: |
+    The concept of reproducibility is a foundation of the scientific method. With the arrival of fast and powerful computers over the last few decades, there has been an explosion of results based on complex computational analyses and simulations. The reproducibility of these results has been addressed mainly in terms of exact replicability or numerical equivalence, ignoring the wider issue of the reproducibility of conclusions through equivalent, extended or alternative methods.
+
+- title: We asked hundreds of scientists what they’d change about science. Here are 33 of our favorite responses.
+  link: http://www.vox.com/2016/7/14/12120746/science-challenges-fixes#mQgKZB
+  date: 2016-07-14 00:00:00
+  tags: [popular news]
+  description: |
+    We heard back from 270 scientists around the world, including graduate students, senior professors, laboratory heads, and Fields Medalists. And they told us that in a variety of ways, they feel their careers are being hijacked by perverse incentives.
+
+- title: ACM | The TOMS Initiative and Policies for Replicated Computational Results (RCR)
+  link: http://toms.acm.org/replicated-computational-results.cfm
+  date: 2016-07-12 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    TOMS accepts manuscripts for an additional, and presently optional, review of computational results. This Replicated Computational Results (RCR) review is focused solely on replicating any computational results that are included in a manuscript. If the results are successfully replicated, the manuscript receives a special RCR designation when published. This page outlines the TOMS policies for determining the RCR designation.
+
+- title: "Show and tell: disclosure and data sharing in experimental pathology"
+  link: http://dmm.biologists.org/content/9/6/601
+  date: 2016-07-11 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Reproducibility of data from experimental investigations using animal models is increasingly under scrutiny because of the potentially negative impact of poor reproducibility on the translation of basic research. Histopathology is a key tool in biomedical research, in particular for the phenotyping of animal models to provide insights into the pathobiology of diseases. Failure to disclose and share crucial histopathological experimental details compromises the validity of the review process and reliability of the conclusions. We discuss factors that affect the interpretation and validation of histopathology data in publications and the importance of making these data accessible to promote replicability in research.
+
+- title: New Study Calls the Reliability of Brain Scan Research Into Question
+  link: http://www.smithsonianmag.com/smart-news/new-study-calls-reliability-brain-scan-research-question-180959715/?no-ist
+  date: 2016-07-11 00:00:00
+  tags: [news article]
+  description: |
+    When functional magnetic resonance imaging (fMRI) was introduced in the late 1990s, it drew raves for its ability to show brain activity—and concerns that it might be the modern equivalent of phrenology. Now, that debate could spring to life again with revelations that the popular imaging technology could have been flawed for years. As Kate Lunau writes for Motherboard, new research suggests that software used to analyze fMRI results could invalidate up to 40,000 brain activity studies.
+
+- title: "samExploreR: Exploring reproducibility and robustness of RNA-seq results based on SAM files"
+  link: http://bioinformatics.oxfordjournals.org/content/early/2016/07/08/bioinformatics.btw475.abstract
+  date: 2016-07-11 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Data from RNA-seq experiments provide us with many new possibilities to gain insights into biological and disease mechanisms of cellular functioning. However, the reproducibility and robustness of RNA-seq data analysis results is often unclear. This is in part attributed to the two counter acting goals of (a) a cost efficient and (b) an optimal experimental design leading to a compromise, e.g., in the sequencing depth of experiments.
+
+- title: Springer Nature is Introducing a Standardized Set of Research Data Sharing Policies
+  link: http://www.infodocket.com/2016/07/05/springer-nature-introduces-a-standardized-set-of-research-data-sharing-policies/
+  date: 2016-07-05 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    We want to enable our authors to publish the best research and maximize the benefit of research funding, which includes achieving good practice in the sharing and archiving of research data. We also aim to facilitate authors’ compliance with institution and research funder requirements to share data. Encourage publication of more open and reproducible research.
+
+- title: MRI software bugs could upend years of research
+  link: http://www.theregister.co.uk/2016/07/03/mri_software_bugs_could_upend_years_of_research/?mt=1467675331912
+  date: 2016-07-03 00:00:00
+  tags: [news article]
+  description: |
+    A whole pile of "this is how your brain looks like" MRI-based science has been invalidated because someone finally got around to checking the data. The problem is simple: to get from a high-resolution magnetic resonance imaging scan of the brain to a scientific conclusion, the brain is divided into tiny "voxels." Software, rather than humans, then scans the voxels looking for clusters. In this paper at PNAS, they write: "the most common software packages for fMRI analysis (SPM, FSL, AFNI) can result in false-positive rates of up to 70%. These results question the validity of some 40,000 fMRI studies and may have a large impact on the interpretation of neuroimaging results."
+
+- title: Reproducibility of quantitative indices of lung function and microstructure
+  link: http://www.ncbi.nlm.nih.gov/pubmed/27366901
+  date: 2016-07-01 00:00:00
+  tags: [reproducible paper]
+  description: |
+    To evaluate the reproducibility of indices of lung microstructure and function derived from 129 Xe chemical shift saturation recovery (CSSR) spectroscopy in healthy volunteers and patients with chronic obstructive pulmonary disease (COPD), and to study the sensitivity of CSSR-derived parameters to pulse sequence design and lung inflation level.
+
+- title: Can Robots Help Solve the Reproducibility Crisis?
+  link: http://www.slate.com/articles/technology/future_tense/2016/06/automating_lab_research_could_help_resolve_the_reproducibility_crisis.html
+  date: 2016-06-30 00:00:00
+  tags: [popular news]
+  description: |
+    In recent years, there’s been increasing awareness of a problem across many scientific fields—the problem of reproducibility. Can experiments be repeated (or "reproduced") to arrive at the same result? Evidence is piling up that the answer, all too often, is no. This makes it difficult to know which results we can confidently rely on, and which are spurious.
+
+- title: Biomedical researchers lax about validating antibodies for experiments
+  link: http://www.nature.com/news/biomedical-researchers-lax-about-validating-antibodies-for-experiments-1.20192
+  date: 2016-06-30 00:00:00
+  tags: [news article]
+  description: |
+    Nearly one-third of junior scientists spend no time validating antibodies, even though accurate results depend on these reagents working as expected, according to the results of a survey reported today in BioTechniques. "This is quite alarming," says Matthias Uhlén, a protein researcher at the Royal Institute of Technology in Stockholm who heads an international working group on antibody validation, but who was not directly involved in the survey.
+
+- title: "Reproducibility Data for: Direct and Indirect Welfare Chauvinism as Party Strategies"
+  link: http://dx.doi.org/10.7910/DVN/ZLFP3A
+  date: 2016-06-29 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Reproducibility material (data and code) for 'Direct and Indirect Welfare Chauvinism as Party Strategies: An Analysis of the Danish People’s Party', Scandinavian Political Studies.
+
+- title: "Fire to the File Drawer: Sharing Reproducibility Data in an Online Age."
+  link: https://thewinnower.com/papers/4880-fire-to-the-file-drawer-sharing-reproducibility-data-in-an-online-age
+  date: 2016-06-29 00:00:00
+  tags: [popular news]
+  description: |
+    "It is entirely within the realm of possibility that the creation of a new publishing platform, focused on hosting formal replications, alongside these review style evaluations of method, would provide a new and more focused home for the type of discussion. Overall, implementing such a system would vastly improve the accessibility of research; both through providing links to peer reviewed replications which have not been filtered by the file drawer, and literally, in terms enabling an overview replication information out at a glance."
+
+- title: ReproZip 1.0.6 released
+  link: https://github.com/ViDA-NYU/reprozip/releases/tag/1.0.6
+  date: 2016-06-25 00:00:00
+  tags: [ReproZip, reproducibility infrastructure]
+  description: |
+    A new version of ReproZip has been released, adding some bugfixes and new commands related to distributed or server experiments.
+
+- title: "Research Roundup: Improving reproducibility, the usefulness of clinical research and more"
+  link: http://blogs.plos.org/plospodcasts/2016/06/23/research-roundup-improving-reproducibility-the-usefulness-of-clinical-research-and-more/
+  date: 2016-06-24 00:00:00
+  tags: [news article]
+  description: |
+    This week in science, academia and publishing for reproducibility.
+
+- title: Repeatability, Reproducibility, Separative Power and Subjectivity of Different Fish Morphometric Analysis Methods
+  link: http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0157890
+  date: 2016-06-21 00:00:00
+  tags: [reproducible paper]
+  description: |
+    We compared the repeatability, reproducibility (intra- and inter-measurer similarity), separative power and subjectivity (measurer effect on results) of four morphometric methods frequently used in ichthyological research, the “traditional” caliper-based (TRA) and truss-network (TRU) distance methods and two geometric methods that compare landmark coordinates on the body (GMB) and scales (GMS).
+
+- title: Introducing ReproZip at SIGMOD
+  link: http://permalink.gmane.org/gmane.comp.db.dbworld/56283
+  date: 2016-06-20 00:00:00
+  tags: [ReproZip]
+  description: |
+    Remi Rampin and Fernando Chirigati of NYU will be presenting ReproZip at this year's SIGMOD ACM conference. ReproZip enables a researcher to create a compendium of his/her Linux experiment by automatically tracking and identifying all its required dependencies (data files, libraries, configuration files, etc.).
+
+- title: From Reproducibility to Accessibility
+  link: https://www.genomeweb.com/scan/reproducibility-accessibility
+  date: 2016-06-15 00:00:00
+  tags: [news article]
+  description: |
+    Jeremy Berg, the incoming editor-in-chief of Science magazine, will be grappling with a number of issues plaguing science and science publishing when he takes over that role, Retraction Watch's Shannon Palus writes. Berg has previously supported efforts to bolster reproducibility and transparency, Palus notes. He tells her that there are a number of efforts aimed at improving reproducibility underway at Science, but as he hasn't started the position yet — he's to take the helm in July — he needs to catch up on what's already been done. He says various issues could be behind the irreproducibility problem and, to be effective, any response has to be tailored to that issue.
+
+- title: Muddled meanings hamper efforts to fix reproducibility crisis
+  link: http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076?WT.ec_id=NEWSDAILY-20160614
+  date: 2016-06-14 00:00:00
+  tags: [news article]
+  description: |
+    Researchers tease out different definitions of a crucial scientific term. A semantic confusion is clouding one of the most talked-about issues in research. Scientists agree that there is a crisis in reproducibility, but they can’t agree on what 'reproducibility' means.
+
+- title: "Connectome hubs at resting state in children and adolescents: Reproducibility and psychopathological correlation."
+  link: http://www.ncbi.nlm.nih.gov/pubmed/27288820
+  date: 2016-06-10 00:00:00
+  tags: [reproducible paper]
+  description: |
+    Functional brain hubs are key integrative regions in brain networks. Recently, brain hubs identified through resting-state fMRI have emerged as interesting targets to increase understanding of the relationships between large-scale functional networks and psychopathology. However, few studies have directly addressed the replicability and consistency of the hub regions identified and their association with symptoms. Here, we used the eigenvector centrality (EVC) measure obtained from graph analysis of two large, independent population-based samples of children and adolescents (7-15 years old; total N=652; 341 subjects for site 1 and 311 for site 2) to evaluate the replicability of hub identification. Subsequently, we tested the association between replicable hub regions and psychiatric symptoms. We identified a set of hubs consisting of the anterior medial prefrontal cortex and inferior parietal lobule/intraparietal sulcus (IPL/IPS). Moreover, lower EVC values in the right IPS were associated with psychiatric symptoms in both samples. Thus, low centrality of the IPS was a replicable sign of potential vulnerability to mental disorders in children. The identification of critical and replicable hubs in functional cortical networks in children and adolescents can foster understanding of the mechanisms underlying mental disorders.
+
+- title: Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research - full programme
+  link: https://figshare.com/articles/Alan_Turing_Institute_Symposium_on_Reproducibility_for_Data-Intensive_Research_-_full_programme_6-7_April_2016/3422998
+  date: 2016-06-10 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    Full programme and speaker biographies for the Alan Turing Institute Symposium on Data-Intensive Research, held 6-7 April 2016
+
+- title: What crisis? – the reproducibility crisis
+  link: https://thepsychologist.bps.org.uk/what-crisis-reproducibility-crisis
+  date: 2016-06-09 00:00:00
+  tags: [news article]
+  description: |
+    A huge audience of psychologists, students and researchers was drawn to the British Psychological Society debate in London about the reproducibility and replication crisis in psychology. After Brian Nosek and the Open Science Collaboration outlined the difficulty in reproducing psychological findings, the BPS, the Experimental Psychology Society and the Association of Heads of Psychology Departments hoped to host an upbeat and positive debate in the area. Ella Rhodes reports from a British Psychological Society debate.
+
+- title: Is there a reproducibility "crisis" in biomedical science? No, but there is a reproducibility problem
+  link: https://www.sciencebasedmedicine.org/is-there-a-reproducibility-crisis-in-biomedical-science-no-but-there-is-a-reproducibility-problem/
+  date: 2016-06-06 00:00:00
+  tags: [popular news]
+  description: |
+    Most scientists I know get a chuckle out of the Journal of Irreproducible Results (JIR), a humor journal that often parodies scientific papers. Back in the day, we used to chuckle at articles like "Any Eye for an Eye for an Arm and a Leg: Applied Dysfunctional Measurement" and "A Double Blind Efficacy Trial of Placebos, Extra Strength Placebos and Generic Placebos." Unfortunately, these days, reporting on science is giving the impression that the JIR is a little too close to the truth, at least when it comes to reproduciblity, so much so that the issue even has its own name and Wikipedia entry: Replication (or reproducibility) crisis.
+
+- title: SCIEX Announces High Throughput, Industrialized Omics Solutions at ASMS 2016
+  link: http://www.businesswire.com/news/home/20160606005088/en/SCIEX-Announces-High-Throughput-Industrialized-Omics-Solutions
+  date: 2016-06-06 00:00:00
+  tags: [popular news]
+  description: |
+    Advancements in Automation, Reproducibility and Robustness Enables Research to Scale like Never Before. SCIEX, a global leader in life science analytical technologies, today announced their latest proteomics solution advancements, which address the challenges of throughput, reproducibility and robustness faced by Academic Labs working to advance precision medicine.
+
+- title: "Elsewhere in Science: Open access, Dance Your Ph.D., and more"
+  link: http://www.sciencemag.org/careers/2016/06/elsewhere-science-open-access-dance-your-phd-and-more
+  date: 2016-06-03 00:00:00
+  tags: [news article]
+  description: |
+    Here is the past week’s career-related news from across the Science family of publications.
+
+- title: Reproducible Research Resources for Research(ing) Parasites
+  link: http://blogs.biomedcentral.com/gigablog/2016/06/03/reproducible-research-resources-researching-parasites/
+  date: 2016-06-03 00:00:00
+  tags: [news article]
+  description: |
+    Two new research papers on scabies and tapeworms published today showcase a new collaboration with protocols.io. This demonstrates a new way to share scientific methods that allows scientists to better repeat and build upon these complicated studies on difficult-to-study parasites. It also highlights a new means of writing all research papers with citable methods that can be updated over time.
+
+- title: "Reproducible research: A hunt for the truth"
+  link: http://med.stanford.edu/news/all-news/2016/06/reproducible-research-a-hunt-for-the-truth.html
+  date: 2016-06-03 00:00:00
+  tags: [popular news]
+  description: |
+    Researchers write that "reproducibility,"replicability" and several other terms are not used consistently in scientific communication.
+
+- title: CU-Boulder graduate student wants transparent research practice policy
+  link: http://www.dailycamera.com/cu-news/ci_29949880/cu-boulder-graduate-student-wants-transparent-research-practice
+  date: 2016-05-29 00:00:00
+  tags: [popular news]
+  description: |
+    Inspired by a new movement to improve the transparency and reproducibility of research, graduate student John Lurquin wants the University of Colorado to adopt a campus-wide transparent research policy requiring academics to publish data and information about their experiments. Though reproducibility, or the ability to reproduce the results of an experiment, has always been on the minds of researchers, it's been getting more attention recently, thanks to several studies measuring the reliability of published research, said Lurquin, a doctoral student in the department of psychology and neuroscience and an outgoing student body president.
+
+- title: Let's see that again
+  link: http://www.rsc.org/chemistryworld/2016/05/pipeline-reproducibility-derek-lowe-lets-see-again
+  date: 2016-05-27 00:00:00
+  tags: [news article]
+  description: |
+    A few years ago, the topic of whether scientific papers are reproducible or not would have been an odd thing to see in a newspaper. But not any more: both the popular media and the journals themselves have been trying to deal with the topic, amid reports that far too many results can’t be replicated. Large scale efforts have begun to examine key papers in experimental psychology, among other areas. Reports from the biopharma industry about the numbers of interesting biology papers that don’t hold up have stirred alarm as well. But as far as I can tell, chemistry has largely escaped the current rounds of criticism.
+
+- title: "Reproducibility: Crisis or Not?"
+  link: http://blogs.sciencemag.org/pipeline/archives/2016/05/26/reproducibility-crisis-or-not
+  date: 2016-05-26 00:00:00
+  tags: [news article]
+  description: |
+    Here are the results of a Nature survey on reproducibility in the scientific literature. They themselves admit that it’s a "confusing snapshot", but it shows that we're still arguing about what "reproducibility" means. 52% of the responders (over 1500 scientists) said that there was "a significant crisis", though, so this issue is on people’s minds. Interestingly, chemists were among the most confidant in the literature of their own field (physics and engineering as well). At the same time, chemists had the highest proportion of respondents who said that they'd been unable to reproduce someone else's experiment. I don't think that's necessarily a contradiction, though. Chemistry is a field with lower barriers to replication than many others, and we also probably do more replications in general.
+
+- title: Money back guarantees for non-reproducible results?
+  link: http://dx.doi.org/10.1136/bmj.i2770
+  date: 2016-05-24 00:00:00
+  tags: [news article]
+  description: |
+    Money back guarantees are generally unheard of in biomedicine and healthcare. Recently, the US provider Geisenger Health System, in Pennsylvania, started a programme to give patients their money back if they were dissatisfied. That came as quite a surprise. Soon thereafter, the chief medical officer at Merck launched an even bigger one, proposing an "incentive-based approach" to non-reproducible results—what he termed a "reproducibility crisis" that "threatens the entire biomedical research enterprise."
+
+- title: 1,500 scientists lift the lid on reproducibility
+  link: http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
+  date: 2016-05-25 00:00:00
+  tags: [news article]
+  description: |
+    More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research. The data reveal sometimes-contradictory attitudes towards reproducibility. Although 52% of those surveyed agree that there is a significant 'crisis' of reproducibility, less than 31% think that failure to reproduce published results means that the result is probably wrong, and most say that they still trust the published literature.
+
+- title: Contextual sensitivity in scientific reproducibility
+  link: http://www.pnas.org/content/early/2016/05/18/1521897113.full
+  date: 2016-05-24 00:00:00
+  tags: [reproducibility study]
+  description: |
+    Scientific progress requires that findings can be reproduced by other scientists. However, there is widespread debate in psychology (and other fields) about how to interpret failed replications. Many have argued that contextual factors might account for several of these failed replications. We analyzed 100 replication attempts in psychology and found that the extent to which the research topic was likely to be contextually sensitive (varying in time, culture, or location) was associated with replication success. This relationship remained a significant predictor of replication success even after adjusting for characteristics of the original and replication studies that previously had been associated with replication success (e.g., effect size, statistical power). We offer recommendations for psychologists and other scientists interested in reproducibility.
+
+- title: "When Great Minds Think Unlike: Inside Science's 'Replication Crisis'"
+  link: http://www.npr.org/2016/05/24/477921050/when-great-minds-think-unlike-inside-sciences-replication-crisis
+  date: 2016-05-24 00:00:00
+  tags: [popular news]
+  description: |
+    This week, Hidden Brain looks at the "replication crisis" through zooming in on one seminal paper that was the focus of two replication efforts: one succeeded in replicating the original finding, the other failed.
+
+- title: "Research Quality Assurance: A Strategy for Improving Research Reproducibility"
+  link: https://osf.io/29htc/
+  date: 2016-05-24 00:00:00
+  tags: [reproducibility talk]
+  description: |
+    A poster by Rebecca Davies in the field of Veterinary Medicine.
+
+- title: Nature Reproducibility survey
+  link: https://figshare.com/articles/Nature_Reproducibility_survey/3394951
+  date: 2016-05-24 00:00:00
+  tags: [reproducibility report, reproducibility study]
+  description: |
+    Raw data from survey on reproducibility survey run by Nature Publishing Group November 2015, published in Nature June 2016
+
+- title: Webinar@AIMS Increasing Openness and Reproducibility in Agricultural Research
+  link: http://aims.fao.org/activity/blog/webinaraims-increasing-openness-and-reproducibility-agricultural-research
+  date: 2016-05-19 00:00:00
+  tags: [reproducibility talk]
+  description: |
+    There are many actions researchers can take to increase the openness and reproducibility of their work. This introductory webinar from the Center for Open Science is aimed at faculty, staff, and students involved in agricultural research. Participants will gain a foundation for incorporating reproducible, transparent practices into their current workflows.
+
+- title: "Pain and Laboratory Animals: Publication Practices for Better Data Reproducibility and Better Animal Welfare"
+  link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155001
+  date: 2016-05-12 00:00:00
+  tags: [reproducible paper]
+  description: |
+    We report that publication guidelines focus more on other potential sources of bias in experimental results, under-appreciate the potential for pain and pain drugs to skew data, and thus mostly treat pain management as solely an animal welfare concern, in the jurisdiction of animal care and use committees. At the same time, animal welfare regulations do not include guidance on publishing animal data, even though publication is an integral part of the cycle of research and can affect the welfare of animals in studies building on published work, leaving it to journals and authors to voluntarily decide what details of animal use to publish. We suggest that journals, scientists and animal welfare regulators should revise current guidelines and regulations, on treatment of pain and on transparent reporting of treatment of pain, to improve this dual welfare and data-quality deficiency.
+
+- title: Research Reproducibility 2016
+  link: http://metrics.stanford.edu/node/research-reproducibility-2016
+  date: 2016-05-12 00:00:00
+  tags: [research guide]
+  description: |
+    This is a guide from Stanford University outlining methodology, tools, and resources for increasing reproducibility in science.
+
+- title: "\"Reproducibility Symposium\" -- a recap of NYU's Reproducibility Symposium"
+  link: http://theoryandpractice.org/2016/05/Reproducibility-Symposium/#.VyzammOgq5g
+  date: 2016-05-03 00:00:00
+  tags: [reproducibility conference, popular news]
+  description: |
+    Kyle Cranmer, a faculty member in NYU's physics department, distills and describes of the event of NYU's first Reproducibility Symposium on May 3, 2016.
+
+- title: Reproducibility and Relative Validity of a Short Food Frequency Questionnaire in 9–10 Year-Old Children
+  link: http://www.mdpi.com/2072-6643/8/5/271
+  date: 2016-05-07 00:00:00
+  tags: [reproducibility study]
+  description: |
+    The aim of this study was to assess the reproducibility and validity of a non-quantitative 28-item food frequency questionnaire (FFQ). Children aged 9–10 years (n = 50) from three schools in Dunedin, New Zealand, completed the FFQ twice and a four-day estimated food diary (4DEFD) over a two-week period. Intraclass correlation coefficients (ICC) and Spearman’s correlation coefficients (SCC) were used to determine reproducibility and validity of the FFQ, respectively.
+
+- title: John Oliver on scientific studies, statistical significance and reproducibility
+  link: https://www.youtube.com/watch?v=0Rnq1NpHdmw
+  date: 2016-05-08 00:00:00
+  tags: [popular news]
+  description: |
+    In his show Last Week Tonight, John Oliver discusses how and why media outlets so often report untrue or incomplete information as science.
+
+- title: Unconditional data sharing, plus peer review transparency, is key to research reproducibility
+  link: https://thewinnower.com/papers/4314-unconditional-data-sharing-plus-peer-review-transparency-is-key-to-research-reproducibility
+  date: 2016-04-28 00:00:00
+  tags: [popular news, open access]
+  description: |
+    Only mandatory Open Data, not Gold Open Access, will lead to more honest and more reproducible science. Open Science is these days largely about mandatory publishing in Open Access (OA), regardless of the costs to poorer scientists or the universities which already struggle to pay horrendous subscription fees. Meanwhile, publishers openly declare that the so-called Gold (author-pays) OA will be much more expensive than even current subscription rates, yet wealthy western institutions like the Dutch university network VSNU or the German Max Planck Society do not seem troubled by this at all. They seriously expect the publishing oligopoly of Elsevier, SpringerNature and Wiley to lower the costs for Gold OA later on, out of the goodness of their hearts (as this winter’s invitation-only Berlin12 OA conference suggests).
+
+- title: 1st International Workshop on Reproducible Open Science (RepScience2016)
+  link: http://www.tpdl2016.org/repscience2016
+  date: 2016-04-29 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    This Workshop aims at becoming a forum to discuss ideas and advancements towards the revision of current scientific communication practices in order to support Open Science, introduce novel evaluation schemes, and enable reproducibility. As such it candidates as an event fostering collaboration between (i) Library and information scientists working on the identification of new publication paradigms; (ii) ICT scientists involved in the definition of new technical solutions to these issues; (iii) scientists/researchers who actually conduct the research and demand tools and practices for Open Science. The expected results are advancements in the definition of the next generation scientific communication ecosystem, where scientists can publish research results (including the scientific article, the data, the methods, and any “alternative” product that may be relevant to the conducted research) in order to enable reproducibility (effective reuse and decrease of cost of science) and rely on novel scientific reward practices.
+
+- title: "It bears repeating: how scientists are addressing the 'reproducibility problem'"
+  link: http://theconversation.com/it-bears-repeating-how-scientists-are-addressing-the-reproducibility-problem-55369
+  date: 2016-04-25 00:00:00
+  tags: [popular news]
+  description: |
+    Recent reports in the Washington Post and the Economist, among others, raise the concern that relatively few scientists' experimental findings can be replicated. This is worrying: replicating an experiment is a main foundation of the scientific method. As scientists, we build on knowledge gained and published by others. We develop new experiments and questions based on the knowledge we gain from those published reports. If those papers are valid, our work is supported and knowledge advances. On the other hand, if published research is not actually valid, if it can’t be replicated, it delivers only an incidental finding, not scientific knowledge.
+
+- title: Transparency and Reproducibility in Economics Research
+  link: https://bids.berkeley.edu/resources/videos/transparency-and-reproducibility-economics-research
+  date: 2016-04-22 00:00:00
+  tags: [reproducibility talk]
+  description: |
+    There is growing interest in research transparency and reproducibility in economics and other scientific fields. We survey existing work on these topics within economics and discuss the evidence suggesting that publication bias, inability to replicate, and specification searching remain widespread problems in the discipline. We next discuss recent progress in this area, including improved research design, study registration and pre-analysis plans, disclosure standards, and open sharing of data and materials, and draw on experiences in both economics and other social sciences. We discuss areas where consensus is emerging on new practices as well as approaches that remain controversial and speculate about the most effective ways to make economics research more accurate, credible, and reproducible in the future.
+
+- title: Cancer Research Is Broken
+  link: http://www.slate.com/articles/health_and_science/future_tense/2016/04/biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology.html
+  date: 2016-04-19 00:00:00
+  tags: [popular news]
+  description: |
+    There’s a replication crisis in biomedicine—and no one even knows how deep it runs. Many science funders share Parker’s antsiness over all the waste of time and money. In February, the White House announced its plan to put $1 billion toward a similar objective—a “Cancer Moonshot” aimed at making research more techy and efficient. But recent studies of the research enterprise reveal a more confounding issue, and one that won’t be solved with bigger grants and increasingly disruptive attitudes. The deeper problem is that much of cancer research in the lab—maybe even most of it—simply can’t be trusted. The data are corrupt. The findings are unstable. The science doesn’t work.
+
+- title: A practical guide for improving transparency and reproducibility in neuroimaging research
+  link: http://biorxiv.org/content/early/2016/04/12/039354
+  date: 2016-04-12 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    Recent years have seen an increase in alarming signals regarding the lack of replicability in neuroscience, psychology, and other related fields. To avoid a widespread crisis in neuroimaging research and consequent loss of credibility in the public eye, we need to improve how we do science. This article aims to be a practical guide for researchers at any stage of their careers that will help them make their research more reproducible and transparent while minimizing the additional effort that this might require. The guide covers three major topics in open science (data, code, and publications) and offers practical advice as well as highlighting advantages of adopting more open research practices that go beyond improved transparency and reproducibility.
+
+- title: "Checklists vs. checkmate: Reproducibility key to premium surgery success"
+  link: http://www.healio.com/ophthalmology/practice-management/news/print/ocular-surgery-news/%7Bff6cbf13-7a83-4e23-897c-5b5f4bbe2e1f%7D/checklists-vs-checkmate-reproducibility-key-to-premium-surgery-success
+  date: 2016-04-03 00:00:00
+  tags: [popular news]
+  description: |
+    Traditionally, checkmate is a position in the game of chess in which a player’s king is in check, without a way to remove the threat. The king cannot be captured, so the game ends when the king is checkmated. As a premium surgeon, no one ever wants to be checkmated at any stage of the surgical process, from preoperative to intraoperative to postoperative. Other forms of etymology have suggested checkmate to signify being “ambushed,” a feeling many of us have experienced in our surgical careers. A means to avoiding being a checkmated surgeon is creating “checklists” from the time of the first patient encounter until the final postoperative visit. The process of checklists can bring reproducibility to a surgical process that already yields successful outcomes in a premium surgeon’s practice.
+
+- title: "Reproducibility in research results: the challenges of attributing reliability"
+  link: http://blog.scielo.org/en/2016/03/31/reproducibility-in-research-results-the-challenges-of-attributing-reliability/
+  date: 2016-03-31 00:00:00
+  tags: [popular news]
+  description: |
+    Studies indicate, however, that more than half of the experiments involving clinical trials of new drugs and treatments are irreproducible. John Ioannidis at Stanford University, US, goes on saying that most of the search results is actually false. Ioannidis is the author of a mathematical model that predicts that the smaller the sample and less stringent are the experimental methodology, definitions, outcomes and statistical analysis, the greater the probability of error. Furthermore, studies that hold financial and other interests or of great impact are also more prone to false results.
+
+- title: Ten Major Errors in Obesity Research Discussed
+  link: http://www.newswise.com/articles/ten-major-errors-in-obesity-research-discussed
+  date: 2016-03-30 00:00:00
+  tags: [popular news]
+  description: |
+    A paper from investigators at the University of Alabama at Birmingham recently published in Obesity identifies several key statistical errors commonly seen in obesity research with discussions on how to identify and avoid making these mistakes. "Our goal is to provide researchers and reviewers with a tutorial to improve the rigor of the science in future obesity studies,” said Brandon George, Ph.D., statistician in the University of Alabama at Birmingham Office of Energetics. “Investigators who conduct primary research may find the paper useful to read or share with statistical collaborators to obtain a deeper understanding of statistical issues, avoid making the discussed errors, and increase the reproducibility and rigor of the field. Editors, reviewers and consumers will find valuable information allowing them to properly identify these common errors while critically reading the work of others."
+
+- title: "The Signal and the Noise: The Problem of Reproducibility"
+  link: http://cameronneylon.net/blog/the-signal-and-the-noise-the-problem-of-reproducibility/
+  date: 2016-03-20 00:00:00
+  tags: [popular news]
+  description: |
+    Once again, reproducibility is in the news. Most recently we hear that irreproducibility is irreproducible and thus everything is actually fine. The most recent round was kicked off by a criticism of the Reproducibility Project followed by claim and counter claim on whether one analysis makes more sense than the other. I’m not going to comment on that but I want to tease apart what the disagreement is about, because it shows that the problem with reproducibility goes much deeper than whether or not a particular experiment replicates.
+
+- title: Automatic Benchmark Profiling through Advanced Trace Analysis
+  link: https://hal.inria.fr/hal-01292618/document
+  date: 2016-03-24 00:00:00
+  tags: [VisTrails]
+  description: |
+    Benchmarking has proven to be crucial for the investigation of the behavior and performances of a system. However, the choice of relevant benchmarks still remains a challenge. To help the process of comparing and choosing among benchmarks, we propose a solution for automatic benchmark profiling. It computes unified benchmark profiles reflecting benchmarks’ duration, function repartition, stability, CPU efficiency, parallelization and memory usage. It identifies the needed system information for profile computation, collects it from execution traces and produces profiles through efficient and reproducible trace analysis treatments. The paper presents the design, implementation and the evaluation of the approach. The analysis of the kernel trace follows a workflow implemented using the VisTrails tool.
+
+- title: Failure Is Moving Science Forward
+  link: http://fivethirtyeight.com/features/failure-is-moving-science-forward/
+  date: 2016-03-24 00:00:00
+  tags: [popular news]
+  description: |
+    As science grapples with what some have called a reproducibility crisis, replication studies, which aim to reproduce the results of previous studies, have been held up as a way to make science more reliable. It seems like common sense: Take a study and do it again — if you get the same result, that’s evidence that the findings are true, and if the result doesn’t turn up again, they’re false. Yet in practice, it’s nowhere near this simple.
+
+- title: Reproducibility in density functional theory calculations of solids
+  link: http://science.sciencemag.org/content/351/6280/aad3000
+  date: 2016-03-25 00:00:00
+  tags: [reproducibility study]
+  description: |
+    The scrutiny of the scientific community has also turned to research involving computer programs, finding that reproducibility depends more strongly on implementation than commonly thought. These problems are especially relevant for property predictions of crystals and molecules, which hinge on precise computer implementations of the governing equation of quantum physics. We devised a procedure to assess the precision of DFT methods and used this to demonstrate reproducibility among many of the most widely used DFT codes.
+
+- title: myExperiment
+  link: http://www.myexperiment.org/home
+  date: 2015-01-01 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    myExperiment is a collaborative environment where scientists can safely publish their workflows and in silico experiments, share them with groups and find those of others. Workflows, other digital objects and bundles (called Packs) can now be swapped, sorted and searched like photos and videos on the Web.
+
+- title: "The Legal Framework for Reproducible Scientific Research: Licensing and Copyright"
+  link: http://doi.ieeecomputersociety.org/10.1109/MCSE.2009.19
+  date: 2009-01-01 00:00:00
+  tags: [open access]
+  description: |
+    The code, data structures, experimental design and parameters, documentation, and figures are all important for scholarship communication and result replication. The author proposes the reproducible research standard for scientific researchers to use for all components of their scholarship that should encourage reproducible scientific investigation through attribution, facilitate greater collaboration, and promote engagement of the larger community in scientific learning and discovery.
+
+- title: Sweave
+  link: http://www.statistik.lmu.de/~leisch/Sweave/
+  date: 2002-01-01 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    Sweave is a tool that allows to embed the R code for complete data analyses in latex documents, and is automatically packaged in R installations. The purpose is to create dynamic reports, which can be updated automatically if data or analysis change. Instead of inserting a prefabricated graph or table into the report, the master document contains the R code necessary to obtain it. When run through R, all data analysis output (tables, graphs, etc.) is created on the fly and inserted into a final latex document. The report can be automatically updated if data or analysis change, which allows for truly reproducible research. It does not, however, track provenance.
+
+- title: Software Tools to Facilitate Research Programming
+  link: https://purl.stanford.edu/mb510fs4943
+  date: 2012-05-28 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    Ph.D. dissertation, Department of Computer Science, Stanford University, 2012: "By understanding the unique challenges faced during research programming, it becomes possible to apply techniques from dynamic program analysis, mixed-initiative recommendation systems, and OS-level tracing to make research programmers more productive. This dissertation characterizes the research programming process, describes typical challenges faced by research programmers, and presents five software tools that I have developed to address some key challenges."
+
+- title: Our approach to replication in computational science
+  link: http://ivory.idyll.org/blog/replication-i.html
+  date: 2012-04-02 00:00:00
+  tags: [reproducible paper]
+  description: |
+    A blog post from C. Titus Brown on how he and his co-authors were able to make a paper they wrote replicable.
+
+- title: Tools and techniques for computational reproducibility
+  link: http://biorxiv.org/content/early/2016/03/17/022707
+  date: 2016-03-17 00:00:00
+  tags: [reproducibility infrastructure]
+  description: |
+    When reporting research findings, scientists document the steps they followed so that others can verify and build upon the research. When those steps have been described in sufficient detail that others can retrace the steps and obtain similar results, the research is said to be reproducible. Computers play a vital role in many research disciplines and present both opportunities and challenges for reproducibility. With a broad scientific audience in mind, we describe strengths and limitations of each approach, as well as circumstances under which each might be applied. No single strategy is sufficient for every scenario; thus we emphasize that it is often useful to combine approaches.
+
+- title: "Reproducibility: Team up with industry"
+  link: http://www.nature.com/news/reproducibility-team-up-with-industry-1.19551
+  date: 2016-03-16 00:00:00
+  tags: [news article]
+  description: |
+    The scientific community is bustling with projects to make published results more reliable. Efforts are under way to establish checklists, to revamp training in experimental design, and even to fund disinterested scientists to replicate others' experiments. A more efficient strategy would be to rework current incentives to put less emphasis on high-impact publications, but those systems are entrenched, and public funders and universities are ill-prepared for that scale of change. To catalyse change, industry must step up to the plate. I have learned this first hand, as head of the Structural Genomics Consortium (SGC), a research charity funded by business, government and other charities. If more companies contributed funds and expertise to efforts such as ours, I believe it would create a system that rewards science that is both cutting-edge and reproducible.
+
+- title: Many scientific "truths" are, in fact, false
+  link: http://qz.com/638059/many-scientific-truths-are-in-fact-false/
+  date: 2016-03-13 00:00:00
+  tags: [popular news]
+  description: |
+    In 2005, John Ioannidis, a professor of medicine at Stanford University, published a paper, “Why most published research findings are false,” mathematically showing that a huge number of published papers must be incorrect. He also looked at a number of well-regarded medical research findings, and found that, of 34 that had been retested, 41% had been contradicted or found to be significantly exaggerated. Since then, researchers in several scientific areas have consistently struggled to reproduce major results of prominent studies. By some estimates, at least 51%—and as much as 89%—of published papers are based on studies and experiments showing results that cannot be reproduced.
+
+- title: Replication Mirror
+  link: http://www.psi-chology.com/replication-mirror/
+  date: 2016-03-14 00:00:00
+  tags: [replication study]
+  description: |
+    A satirical piece detailing the replication and reproducibility crisis in Psychology.
+
+- title: "The Quest for Reproducible Science: Issues in Research Transparency and Integrity"
+  link: http://www.ala.org/alcts/events/ac/2016/reproduciblescience
+  date: 2016-03-09 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    A pre-conference event of the American Library Association's annual conference: "The credibility of scientific findings is under attack. While this crisis has several causes, none is more common or correctable than the inability to replicate experimental and computational research. This preconference will feature scholars, librarians, and technologists who are attacking this problem through tools and techniques to manage data, enable research transparency, and promote reproducible science. Attendees will learn strategies for fostering and supporting transparent research practices at their institutions."
+
+- title: Evaluating replicability of laboratory experiments in economics
+  link: http://science.sciencemag.org/content/early/2016/03/02/science.aaf0918
+  date: 2016-03-03 00:00:00
+  tags: [popular news, replication study]
+  description: |
+    The reproducibility of scientific findings has been called into question. To contribute data about reproducibility in economics, we replicate 18 studies published in the American Economic Review and the Quarterly Journal of Economics in 2011-2014. All replications follow predefined analysis plans publicly posted prior to the replications, and have a statistical power of at least 90% to detect the original effect size at the 5% significance level. We find a significant effect in the same direction as the original study for 11 replications (61%); on average the replicated effect size is 66% of the original. The reproducibility rate varies between 67% and 78% for four additional reproducibility indicators, including a prediction market measure of peer beliefs.
+
+- title: "Research Software Sustainability: Report on Knowledge Exchange workshop"
+  link: http://repository.jisc.ac.uk/6332/1/Research_Software_Sustainability_Report_on_KE_Workshop_Feb_2016_FINAL.pdf
+  date: 2016-03-03 00:00:00
+  tags: [reproducibility report, reproducibility conference]
+  description: |
+    The report introduces software sustainability, provides definitions, clearly demonstrates that software is not the same as data and illustrates aspects of sustainability in the software lifecycle. The recommendations state that improving software sustainability requires a number of changes: some technical and others societal, some small and others significant. We must start by raising awareness of researchers' reliance on software. This goal will become easier if we recognise the valuable contribution that software makes to research and reward those people who invest their time into developing reliable and reproducible software.
+
+- title: Psychology’s reproducibility problem is exaggerated – say psychologists
+  link: http://www.nature.com/news/psychology-s-reproducibility-problem-is-exaggerated-say-psychologists-1.19498
+  date: 2016-03-03 00:00:00
+  tags: [popular news, replication study]
+  description: |
+    In August 2015, a team of 270 researchers reported the largest ever single-study audit of the scientific literature. Led by Brian Nosek, executive director of the Center for Open Science in Charlottesville, Virginia, the Reproducibility Project attempted to replicate studies in 100 psychology papers. According to one of several measures of reproducibility, just 36% could be confirmed; by another statistical measure, 47% could. Not so fast, says Gilbert. Because of the way the Reproducibility Project was conducted, its results say little about the overall reliability of the psychology papers it tried to validate, he argues. "The number of studies that actually did fail to replicate is about the number you would expect to fail to replicate by chance alone — even if all the original studies had shown true effects."
+
+- title: ReproZip Featured on Library of Congress Blog Post
+  link: https://blogs.loc.gov/digitalpreservation/2016/02/blurred-lines-shapes-and-polygons-part-1-an-ndsr-ny-project-update/
+  date: 2016-02-12 00:00:00
+  tags: [ReproZip, popular news]
+  description: |
+    ReproZip was featured in a post on the Library of Congress's digital preservation blog, the Signal. The author, Genevieve Havemeyer-King, writes "ReproZip is a tool being developed at NYU "aimed at simplifying the process of creating reproducible experiments from command-line executions", and could be something to consider as an alternative to many costly web-archiving services for preservation of internet-based projects and applications."
+
+- title: University of Washington's eScience Institute Guidelines for Reproducible & Open Science
+  link: http://uwescience.github.io/reproducible/guidelines.html
+  date: 2016-03-01 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    Our working definition for reproducible research is that a research result can be replicated by another investigator. Our focus is data science and the reproducibility of computational studies and/or analysis of digital data. This note summarizes best practices to facilitate reproducible research in data science (and computational science more generally). It is expected that all research conducted with funding from the DSE will be performed in accordance with these guidelines to the extent possible.
+
+- title: ACM SIGMOD 2016 Reproducibility Guidelines
+  link: http://db-reproducibility.seas.harvard.edu/
+  date: 2016-03-01 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    SIGMOD Reproducibility has three goals: Highlight the impact of database research papers; Enable easy dissemination of research results; Enable easy sharing of code and experimentation set-ups. In short, the goal is to assist in building culture where sharing results, code, and scripts of database research is the norm rather than the exception. The challenge is to do this efficiently, which means building technical expertise on how to do better research via creating repeatable and shareable research. The SIGMOD Reproducibility Committee is here to help you with this.
+
+- title: Transparency and Openness Promotion (TOP) Guidelines
+  link: https://cos.io/top/
+  date: 2016-03-01 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    Transparency, open sharing, and reproducibility are core features of science, but not always part of daily practice. Journals can increase transparency and reproducibility of research by adopting the TOP Guidelines. TOP includes eight modular standards, each with three levels of increasing stringency. Journals select which of the eight transparency standards they wish to adopt for their journal, and select a level of implementation for the selected standards. These features provide flexibility for adoption depending on disciplinary variation, but simultaneously establish community standards.
+
+- title: Reproducibility of Research Guide by the Eccles Health Sciences Library (EHSL) at University of Utah
+  link: http://campusguides.lib.utah.edu/reproducibility
+  date: 2016-03-01 00:00:00
+  tags: [research guide]
+  description: |
+    This LibGuide from the University of Utah outlines some first steps, tutorials, and toolkits related to making research reproducible, with a strong focus on quantitative and computational research.
+
+- title: "Statistical Challenges in Assessing and Fostering the Reproducibility of Scientific Results: Summary of a Workshop"
+  link: http://www.nap.edu/read/21915/chapter/1
+  date: 2016-03-01 00:00:00
+  tags: [reproducibility conference, reproducibility report]
+  description: |
+    The workshop summarized in this report was designed not to address the social and experimental challenges but instead to focus on the latter issues of improper data management and analysis, inadequate statistical expertise, incomplete data, and difficulties applying sound statistical inference to the available data.
+
+- title: ReproZip Demo Accepted at SIGMOD 2016
+  link: http://vida-nyu.github.io/reprozip/news.html#sigmod-demo-2016
+  date: 2016-02-27 00:00:00
+  tags: [ReproZip, reproducibility talk, reproducibility infrastructure]
+  description: |
+    A ReproZip demo has been accepted at SIGMOD 2016: "ReproZip: Computational Reproducibility With Ease." F. Chirigati, R. Rampin, D. Shasha, and J. Freire.
+
+- title: Shape Modeling International (SMI 2016) Introduces Reproducibility Award
+  link: http://www.geometrysummit.org/smi2016/index.html
+  date: 2016-02-29 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    This year, also SMI will introduce an Award for Reproducibility to be granted to authors of accepted papers who are willing to provide a complete open-source implementation of their algorithm. The reproducibility stamp does not affect the reviewing process or the requirements for your submission to be accepted. The awarded papers will receive an additional 5 to 10 minutes in their presentation to give a live demo and will be recognized during the SMI closing ceremony. More information on the web site soon.
+
+- title: "Janiform Papers Demo (pdbf: portable database files)"
+  link: https://www.youtube.com/watch?v=f4iKwdERXhI&feature=youtu.be
+  date: 2016-02-29 00:00:00
+  tags: [reproducibility infrastructure, reproducible paper]
+  description: |
+    PDBF documents are a hybrid format. They are a valid PDF and a valid HTML page at the same time. You can now optionally add an VirtualBox OVA file with a complete operating system to the PDBF document. Yes, this means that the resulting file is a valid PDF, HTML, and OVA file at the same time. If you change the file extension to PDF and open it with an PDF viewer, you can see the static part of the document.
+
+- title: How Many Replication Studies are Enough?
+  link: http://www.nature.com/news/how-many-replication-studies-are-enough-1.19461
+  date: 2016-02-26 00:00:00
+  tags: [replication study, news article]
+  description: |
+    Researchers on social media ask at what point replication efforts go from useful to wasteful. The problem of irreproducibility in science has gained widespread attention, but one aspect that is discussed less often is how to find the right balance between replicating findings and moving a field forward from well-established ones.
+
+- title: "A Bayesian Perspective on the Reproducibility Project: Psychology"
+  link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794
+  date: 2016-02-26 00:00:00
+  tags: [replication study, reproducible paper]
+  description: |
+    We revisit the results of the recent Reproducibility Project: Psychology by the Open Science Collaboration. We compute Bayes factors—a quantity that can be used to express comparative evidence for an hypothesis but also for the null hypothesis—for a large subset (N = 72) of the original papers and their corresponding replication attempts.
+
+- title: A Practical Guide for Improving transparency and Reproducibility in Neuroimaging Research
+  link: http://dx.doi.org/10.1101/039354
+  date: 2016-02-14 00:00:00
+  tags: [reproducibility guidelines]
+  description: |
+    Recent years have seen an increase in alarming signals about the lack of replicability in neuroscience, psychology, and other related fields. To avoid a widespread crisis in our field and consequent loss of credibility in the public eye, we need to improve how we do science. This article aims to be a practical guide for researchers at any stage of their careers that will help them make their research more reproducible and transparent while minimizing the additional effort that this might require. The guide covers three major topics in open science (data, code, and publications) and offers practical advice as well as highlighting advantages of adopting more open research practices that go beyond improved transparency and reproducibility.
+
+- title: A New Group Is Dedicated To Double-Checking Scientists' Work
+  link: http://www.newsy.com/videos/a-new-group-is-dedicated-to-double-checking-scientists-work/
+  date: 2016-02-12 00:00:00
+  tags: [reproducibility infrastructure, popular news]
+  description: |
+    For the past decade, scientists have been worried about the so-called replication crisis. Enter the Preclinical Reproducibility and Robustness channel. The website launched the first week in February with the goal of publishing the results of replication studies. The journal wants to keep scientists accountable for their work.
+
+- title: BioPolicy Summit tackles reproducibility of science issues
+  link: https://biodesign.asu.edu/news/biopolicy-summit-tackles-reproducibility-science-issues
+  date: 2016-02-12 00:00:00
+  tags: [reproducibility conference, news article, reproducibility talk]
+  description: |
+    The 2016 GBSI Summit—"Research Reproducibility: Innovative Solutions to Drive Quality" welcomed premiere life science thought leaders, including Arizona State University biomarker researcher Joshua LaBaer, MD, PhD, and science correspondent and moderator Richard Harris (currently on leave from National Public Radio as a visiting scholar this spring at Arizona State University), to explore the driving forces and profound impacts behind the issues.
+
+- title: "It’s a kind of magic: how to improve adherence to reporting guidelines"
+  link: http://blogs.biomedcentral.com/bmcseriesblog/2016/02/12/kind-magic-improve-adherence-reporting-guidelines/
+  date: 2016-02-12 00:00:00
+  tags: [popular news, news article, reproducible journal]
+  description: |
+    Finding a relevant reporting guideline for a study can be very difficult. Here we introduce a pilot experiment starting for some of the BMC-series journals which aims to overcome this issue.
+
+- title: "Friday: Reusing Data and Making Your Data Reusable"
+  link: http://data-services.hosting.nyu.edu/updates/lyd16-friday/
+  date: 2016-02-12 00:00:00
+  tags: [research guide]
+  description: |
+    This blog post is apart of the Love Your Data campaign #LYD16, a global and cross-institution awareness campaign for open data, research reproducibility, and research data management. This post features ReproMatch and ReproZip as important tools for achieving reproducibility.
+
+- title: A Noob's Guide to Reproducibility
+  link: http://www.stat.berkeley.edu/~stark/Seminars/reproNE16.htm#1
+  date: 2016-02-10 00:00:00
+  tags: [reproducibility guidelines, reproducibility talk]
+  description: |
+    A presentation by Philip B. Stark of University of California at Berkeley that gives a great 101-style look into what the everyday researcher can do to make their science more reproducible.
+
+- title: Science is "show me," not "trust me"
+  link: http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/
+  date: 2016-02-10 00:00:00
+  tags: [reproducibility guidelines, popular news]
+  description: |
+    A blog post from Philip B. Stark, Associate Dean of the Division of Mathematical and Physical Sciences, UC Berkeley Professor of Statistics, and winner of one of BITSS’ Leamer-Rosenthal Prizes for Open Social Science. This post discuss the core elements of reproducibility; its principles and practices.
+
+- title: Startup unveils tools to improve trial reproducibility
+  link: http://www.mmm-online.com/dataanalytics/startup-unveils-tools-to-improve-trial-reproducibility/article/471977/
+  date: 2016-02-09 00:00:00
+  tags: [reproducibility infrastructure, popular news, news article]
+  description: |
+    Elemental Machines, which develops smart laboratory technology, launched a new suite of tools that that measure environmental variables such as temperature and humidity—both of which are not traditionally accounted for in scientific experiments. By “debugging” the lab environment, the company believes it can improve experimental reproducibility, therefore reducing the time and cost of marketing new drugs and therapies. Elemental Machines recently raised $2.5 million in seed capital to support the development of the new suite of tools, which is called the EM Suite.
+
+- title: Co-founder of Center for Scientific Integrity speaks Feb. 19 about issues in scholarly publishing
+  link: http://www.montana.edu/news/15963/co-founder-of-center-for-scientific-integrity-speaks-feb-19-about-issues-in-scholarly-publishing
+  date: 2016-02-05 00:00:00
+  tags: [open access, reproducibility talk]
+  description: |
+    Adam Marcus, cofounder of Retraction Watch and the Center for Scientific Integrity, will give a free lecture about issues in scholarly science publishing at 4 p.m. Friday, Feb. 19, in 103 Reid Hall at Montana State University.
+
+- title: Misfit Founders Raise $2.5M to 'Debug the Physical World' With New Startup
+  link: http://bostinno.streetwise.co/2016/02/03/misfit-wearables-founders-raise-2-5m-for-elemental-machines/
+  date: 2016-02-03 00:00:00
+  tags: [reproducibility infrastructure, popular news]
+  description: |
+    Elemental Machines, a venture based in Boston and San Francisco, has come out of stealth mode. The startup says it's raised $2.5 million in seed from investors including Founders Fund’s FF Angel, PayPal co-founder Max Levchin and Project 11 Ventures. And now it’s ready to change the way our world does science, providing the infrastructure that will ensure experiment reproducibility for researchers.
+
+- title: "Reproducibility: A tragedy of errors"
+  link: http://www.nature.com/news/reproducibility-a-tragedy-of-errors-1.19264
+  date: 2016-02-03 00:00:00
+  tags: [news article, reproducibility report]
+  description: |
+    Mistakes in peer-reviewed papers are easy to find but hard to fix, report David B. Allison and colleagues: "In the course of assembling weekly lists of articles in our field, we began noticing more peer-reviewed articles containing what we call substantial or invalidating errors. These involve factual mistakes or veer substantially from clearly accepted procedures in ways that, if corrected, might alter a paper's conclusions."
+
+- title: ReproZip Poster Accepted at FORCE2016
+  link: https://www.force11.org/meetings/force2016/program/agenda
+  date: 2016-01-27 00:00:00
+  tags: [ReproZip, reproducibility talk, reproducibility infrastructure]
+  description: |
+    Fernando Chirigati and Remi Rampin's poster "Enhancing Scholarly Communication with ReproZip" was recently accepted at FORCE2016, a conference from FORCE11 a community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing.
+
+- title: GBSI Doubles Down on Research Reproducibility at Annual BioPolicy Summit and Webcast in Washington, DC, February 9th
+  link: http://www.newswise.com/articles/gbsi-doubles-down-on-research-reproducibility-at-annual-biopolicy-summit-and-webcast-in-washington-dc-february-9th
+  date: 2016-01-27 00:00:00
+  tags: [reproducibility conference, news article, reproducibility talk]
+  description: |
+    The Summit will also introduce GBSI’s Reproducibility2020, an action plan for the biomedical research community to significantly improve the quality of research by 2020 targeting: 1) improved validation and standardization of biological reagents; 2) better tools and technologies to expand open access for reporting and sharing protocols and data; and 3) increased training that emphasizes rigorous study design and practice.
+
+- title: Reproducibility from a Mostly Selfish Point of View
+  link: https://discuss.ropensci.org/t/slides-and-some-thoughts-on-a-talk-about-reproducibility/294
+  date: 2016-01-27 00:00:00
+  tags: [popular news, news article, reproducibility talk]
+  description: |
+    A talk given by Noam Ross: "Why was, as the title suggests, primarily focused on the benefits of reproducibility to us, and I proceeded from avoiding negatives (risk avoidance) to creating positives (more impact). In How I tried to be very high-level, talking about major concepts in reproducibility, and then talking generally about the tools that I have used for each, emphasizing that they may not be the right tools for everyone. Then we had a discussion about the most promising areas and tools to start with."
+
+- title: New Shotgun Mass Spec Workflow Could Improve Reproducibility of Protein Quantitation in DDA
+  link: https://www.genomeweb.com/proteomics-protein-research/new-shotgun-mass-spec-workflow-could-improve-reproducibility-protein
+  date: 2016-01-21 00:00:00
+  tags: [reproducibility report, news article, reproducibility infrastructure]
+  description: |
+    Researchers at Sweden's Karolinska Institute and Royal Institute of Technology have developed a new data analysis workflow for shotgun mass spec that could help improve the technique's quantitative reproducibility. Detailed in a paper published this month in Molecular & Cellular Proteomics, the approach uses a new quality scoring system that allows for more reliable recovery of missing data points across multiple mass spec runs.
+
+- title: noWorkflow Demo Video Released
+  link: https://www.youtube.com/watch?v=lyJnbwdArJM
+  date: 2016-01-20 00:00:00
+  tags: [noWorkflow, reproducibility infrastructure]
+  description: |
+    A video demonstrating noWorkflow, a non-intrusive tool that allows researchers to capture a variety of provenance information and utilize the analyses it supports, including graph-based visualization, differencing over provenance trails, and inference queries.
+
+- title: FASEB Issues Recommendations on Reproducibility
+  link: http://www.faseb.org/Resources-for-the-Public/News-Room/Article-Detail-View/tabid/1014/ArticleId/1251/FASEB-Issues-Recommendations-on-Reproducibility.aspx
+  date: 2016-01-14 00:00:00
+  tags: [reproducibility report, news article, reproducibility guidelines]
+  description: |
+    Today the Federation of American Societies for Experimental Biology (FASEB) issued Enhancing Research Reproducibility, a set of recommendations aimed to promote the reproducibility and transparency of biomedical and biological research.
+
+- title: "Lecture: A Noob's Guide to Reproducibility"
+  link: http://bids.berkeley.edu/events/noobs-guide-reproducibility
+  date: 2016-01-11 00:00:00
+  tags: [reproducibility talk]
+  description: |
+    Lecture on January 25, 2016; 4:00pm to 5:00pm; 3110 Etcheverry Hall at Berkely Institute of Data Science. What does it mean to work reproducibly and transparently? Why bother? Whom does it benefit, and how? What will it cost me? What work habits will I need to change? Will I need to learn new tools? What resources help? What's the simplest thing I can do to make my work more reproducible? How can I move my discipline, my institution, and science as a whole towards reproducibility?
+
+- title: "Upcoming Webinar: Scientific Rigor and Data Reproducibility"
+  link: https://www.sfn.org/news-and-calendar/news-and-calendar/news/professional-development/upcoming-webinar-scientific-rigor-and-data-reproducibility
+  date: 2016-01-11 00:00:00
+  tags: [reproducibility talk, reproducibility guidelines, news article, popular article]
+  description: |
+    The topics of scientific rigor and data reproducibility have been increasingly covered in the scientific and mainstream media, and are being addressed by publishers, professional organizations, and funding agencies, including NIH. This webinar – the first in a series titled Training Modules to Enhance Data Reproducibility (TMEDR) – will address topics of scientific rigor as they pertain to pre-clinical neuroscience research.
+
+- title: "R's role in science breakthrough: reproducibility of psychology studies"
+  link: http://blog.revolutionanalytics.com/2016/01/rs-role-in-science-breakthrough-reproducibility-of-psychology-studies.html
+  date: 2016-01-08 00:00:00
+  tags: [popular article, news article, reproducibility infrastructure]
+  description: |
+    R is a natural fit for a reproducibility project like this: as a scripting language, the R script itself provides a reproducible documentation of every step of the process. (Revolution R Open, Microsoft's enhanced R distribution, additionally includes features to facilitate reproducibility when using R packages.) The R script used for the psychology replication project describes and executes the process for checking the results of the papers.
+
+- title: "\"PEOPLE LIKE STORIES\" A SHORT FILM ABOUT REPRODUCIBILITY"
+  link: https://politicalsciencereplication.wordpress.com/2016/01/07/people-like-stories-a-short-film-about-reproducibility/
+  date: 2016-01-07 00:00:00
+  tags: [reproducibility talk, popular news]
+  description: |
+    We need mathematical help to tell the difference between a real discovery and the illusion of one. Fellow of the Royal Society and future President of the Royal Statistical Society, Sir David Spiegelhalter visits Dr Nicole Janz  to discuss reproducibility in scientific publications.
+
+- title: A Proactive Approach to Reproducibility with Evidence-Based Research on Research
+  link: https://www.plos.org/a-proactive-approach-to-reproducibility-with-evidence-based-research-on-research/
+  date: 2016-01-06 00:00:00
+  tags: [reproducible journal, news article]
+  description: |
+    The new Meta-Research Section in PLOS Biology is not the only example of how PLOS strives to improve the scientific endeavor through innovative communication efforts. PLOS has always recognized that publication of studies that reproduce published work or null results, either confirming or refuting the original result, is essential for progress in research. In fact, the largest journal at PLOS, PLOS ONE, is one of only a handful of publications that actively encourage these types of submissions with The Missing Pieces Collection.
+
+- title: Reproducibility Project Named Among Top Scientific Achievements of 2015
+  link: https://www.psychologicalscience.org/index.php/publications/observer/obsonline/reproducibility-project-named-among-top-scientific-achievements-of-2015.html
+  date: 2016-01-05 00:00:00
+  tags: [reproducible journal, replication study]
+  description: |
+    The journal Science has named a major attempt to replicate 100 papers published in top-tier psychology journals as one of the "breakthroughs of the year" for 2015.
+
+- title: Why Scientists Need to Fail
+  link: http://www.psmag.com/nature-and-technology/science-needs-to-fail
+  date: 2015-12-22 00:00:00
+  tags: [popular news]
+  description: |
+    As researchers think about how to improve reproducibility, it's important to remember that failure is a crucial part of the scientific process.
+
+- title: Winning Video from GBSI #authenticate Campaign Will Promote Reproducibility Among Younger Generation of Biomedical Researchers
+  link: http://www.newswise.com/articles/winning-video-from-gbsi-authenticate-campaign-will-promote-reproducibility-among-younger-generation-of-biomedical-researchers
+  date: 2015-12-17 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    The Global Biological Standards Institute (GBSI) today announced the winner of its #authenticate video competition to promote cell authentication in biomedical research is Michael Ge, from West Covina, California.
+
+- title: Reproducibility at SC16 with the Student Cluster Competition
+  link: http://www.nist.gov/itl/ssd/is/upload/NRE-2015-00-SC16SCC_CfP_slide.pdf
+  date: 2015-12-17 00:00:00
+  tags: [reproducibility conference]
+  description: |
+    Replication and reproducibility of experimental computer science results in peer-reviewed paper is gaining relevance in the HPC community. SC, the leading conference in the field, wants to promote and support replication and reproducibility through a new initiative that aims to integrate aspects of past technical papers into the Student Cluster Competition (SCC). SC16 invites authors of technical papers accepted at past SC conferences, including SC15, to submit proposals for case studies based on applications and tests in their SC paper that can be transformed into benchmarks for the SCC. This initiative provides SC authors with the unique opportunity to further promote their published research as an example of replicable and reproducible experimental computer science.
+
+- title: Clinical Genetics Has a Big Problem That's Affecting People's Lives
+  link: http://www.theatlantic.com/science/archive/2015/12/why-human-genetics-research-is-full-of-costly-mistakes/420693/
+  date: 2015-12-16 00:00:00
+  tags: [popular news]
+  description: |
+    Over the last decade, there’s been a lot of talk about reproducibility problems in science — about published results that turn out to be false alarms. In fields like psychology, neuroscience, and cell biology, these errors can send scientists down unproductive paths, waste time and money, and pollute headlines with misleading claims. "But I get much more exercised about reproducibility problems in clinical genetics, because those have massive and real-time consequences for thousands of families," says MacArthur.
+
+- title: Emphasize Sex in Research, orders National Institutes of Health
+  link: http://synapse.ucsf.edu/articles/2015/12/16/emphasize-sex-research-orders-national-institutes-health
+  date: 2015-12-16 00:00:00
+  tags: [popular news, news article, reproducibility guidelines]
+  description: |
+    While experiments may be published even in a top scientific journal, other researchers who attempt to repeat the same experiments under the same conditions often find contradicting results. As a measure of this, a recent study attempted to reproduce psychology publications and successfully replicated only 39 out of 100 studies. It turns out that excluding sex in experimental design may have contributed to reproducibility issues. Furthermore, sex can also have a biological impact on our scientific understanding and influence how well early biological studies translate into advances in human medicine.
+
+- title: "Year in review: Scientists tackle the irreproducibility problem"
+  link: https://www.sciencenews.org/article/year-review-scientists-tackle-irreproducibility-problem
+  date: 2015-12-15 00:00:00
+  tags: [popular news, news article, reproducibility report]
+  description: |
+    Experimental results that don’t hold up to replication have caused consternation among scientists for years, especially in the life and social sciences (SN: 1/24/15, p. 20). In 2015 several research groups examining the issue reported on the magnitude of the irreproducibility problem. The news was not good.
+
+- title: Reproducibility in Medical IVA
+  link: https://osf.io/5afwm/
+  date: 2015-12-09 00:00:00
+  tags: [reproducibility study]
+  description: |
+    Project on Reproducibility and Robustness of the Empirical Instrumental Variables Literature in Medicine.
+
+- title: "Reproducibility: Experimental mismatch in neural circuits"
+  link: http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16323.html
+  date: 2015-12-09 00:00:00
+  tags: [news article, replication study]
+  description: |
+    The finding that acute and chronic manipulations of the same neural circuit can produce different behavioural outcomes poses new questions about how best to analyse these circuits.
+
+- title: Translation, cultural adaptation and reproducibility of the Oxford Shoulder Score questionnaire for Brazil, among patients with rheumatoid arthritis.
+  link: http://www.ncbi.nlm.nih.gov/pubmed/26648280
+  date: 2015-12-08 00:00:00
+  tags: [replication, news article]
+  description: |
+    Although shoulder questionnaires validated for Brazil do exist, none of them are aimed at populations with rheumatic disease. We believe that the Oxford Shoulder Score (OSS) may be useful in this population. The objective of this study was to translate the OSS, adapt it to Brazilian culture and test its reproducibility.
+
+- title: "Letting Out Steam: Reproducibility Problems"
+  link: https://www.digital-science.com/blog/perspectives/letting-out-steam-reproducibility-problems/
+  date: 2015-12-08 00:00:00
+  tags: [news article, popular news]
+  description: |
+    The first part of the STM innovations seminar focused on the problems of reproducibility in science. For some years now, there have been voices of concern noting that when previously reported results are tested, the data very often doesn’t come out the same way. During the seminar, Andrew Hufton of Scientific Data went so far as to state that progress in the pharmaceutical sciences is being held back by lack of reliability in the basic literature.
+
+- title: Big problems for common fMRI thresholding methods
+  link: http://reproducibility.stanford.edu/big-problems-for-common-fmri-thresholding-methods/
+  date: 2015-12-08 00:00:00
+  tags: [news article, reproducibility guidelines]
+  description: |
+    Stanford Center for Reproducible Neuroscience: A new preprint has been posted to the ArXiv that has very important implications and should be required reading for all fMRI researchers.  Anders Eklund, Tom Nichols, and Hans Knutson applied task fMRI analyses to a large number of resting fMRI datasets, in order to identify the empirical corrected “familywise” Type I error rates observed under the null hypothesis for both voxel-wise and cluster-wise inference.  What they found is shocking: While voxel-wise error rates were valid, nearly all cluster-based parametric methods (except for FSL’s FLAME 1) have greatly inflated familywise Type I error rates.  This inflation was worst for analyses using lower cluster-forming thresholds (e.g. p=0.01) compared to higher thresholds, but even with higher thresholds there was serious inflation.  This should be a sobering wake-up call for fMRI researchers, as it suggests that the methods used in a large number of previous publications suffer from exceedingly high false positive rates (sometimes greater than 50%).
+
+- title: How do we fix bad science?
+  link: https://cosmosmagazine.com/society/how-do-we-fix-bad-science
+  date: 2015-12-07 00:00:00
+  tags: [news article, reproducibility report]
+  description: |
+    Independently verifying research can help science regain its credibility, argues Laurie Zoloth. His paper: "Why Most Published Research Findings Are False", was published in August 2005, in PLOS Medicine. It became one of the journal’s most-cited articles. While climate sceptics, anti-vaccination campaigners and the rest of the pseudo-science community have dined out on this paper, arguably it has been a shot in the arm for science.
+
+- title: ReproZip 1.0.3 released
+  link: https://github.com/ViDA-NYU/reprozip/releases/tag/1.0.3
+  date: 2015-12-02 00:00:00
+  tags: [ReproZip]
+  description: |
+    A new version of ReproZip has been released, adding some bugfixes and options to pass environment variables to the experiment.
+
+- title: Cancer reproducibility project scales back ambitions
+  link: http://www.nature.com/news/cancer-reproducibility-project-scales-back-ambitions-1.18938
+  date: 2015-12-02 00:00:00
+  tags: [popular news, news article]
+  description: |
+    The Reproducibility Project: Cancer Biology aims to get a better, quantitative estimate of the reproducibility of important work and to understand the challenges such efforts present. Begun in 2013, the project is run jointly by the Center for Open Science (COS) in Charlottesville, Virginia, and Science Exchange in Palo Alto, California.
+
+- title: "Reproducibility of Research: Get Started"
+  link: http://campusguides.lib.utah.edu/reproducibility
+  date: 2015-12-01 00:00:00
+  tags: [research guide]
+  description: |
+    A research guide from the University of Utah on making research reproducible.
+
+- title: Brian Nosek on the Reproducibility Project
+  link: http://www.econtalk.org/archives/2015/11/brian_nosek_on.html
+  date: 2015-11-16 00:00:00
+  tags: [popular news, reproducibility report]
+  description: |
+    Brian Nosek of the University of Virginia and the Center for Open Science talks with EconTalk host Russ Roberts about the Reproducibility Project.
+
+- title: "Promises, Promises, and Cell Lines: Life Sciences Researchers Talk About the Obvious Solution—Cell-Line Authentication—but They Fail To Implement It"
+  link: http://www.genengnews.com/gen-articles/promises-promises-and-cell-lines/5631/
+  date: 2015-11-15 00:00:00
+  tags: [reproducibility report, news article]
+  description: |
+    According to a 2013 report from the American Association for the Advancement of Science, $115 billion is spent annually in the United States on life science research. Fifty percent of this total is spent on preclinical research, half of which—$28 billion—is not reproducible.
+
+- title: Speaking of Research Integrity
+  link: http://www.the-scientist.com/?articles.view/articleNo/44424/title/Speaking-of-Research-Integrity/
+  date: 2015-11-06 00:00:00
+  tags: [news article, reproducibility report]
+  description: |
+    Panelists discuss reproducibility, data-sharing, and encouraging early-career researchers at this year’s World Science Forum.
+
+- title: ReproZip Demo Tutorial Video
+  link: https://youtu.be/-zLPuwCHXo0
+  date: 2015-11-05 00:00:00
+  tags: [ReproZip]
+  description: |
+    This is a demo video showing how to pack and unpack experiments with ReproZip.
+
+- title: Bioethics and the reproducibility crisis
+  link: http://www.bioedge.org/bioethics/bioethics-and-the-reproducibility-crisis/11632
+  date: 2015-10-31 00:00:00
+  tags: [news article, reproducibility report, replication study]
+  description: |
+    According to the mayor of Chicago, Rahm Emanuel, who is linked to bioethics through his bioethicist brother Ezekiel Emanuel, "You never let a serious crisis go to waste." In this case the crisis is the reproducibility of published results in the biological and medical sciences. According to a recent comment in Nature, "An unpublished 2015 survey by the American Society for Cell Biology found that more than two-thirds of respondents had on at least one occasion been unable to reproduce published results. Biomedical researchers from drug companies have reported that one-quarter or fewer of high-profile papers are reproducible."
+
+- title: Improving the reproducibility of biomedical research
+  link: http://www.bbsrc.ac.uk/news/policy/2015/151029-pr-improving-reproducibility-of-biomedical-research/
+  date: 2015-10-29 00:00:00
+  tags: [news article, reproducibility report]
+  description: |
+    The Academy of Medical Sciences has published a new joint report on how the reproducibility and reliability of research can be improved. Recent reports in the general and scientific media show there is increasing concern within the biomedical research community about the lack of reproducibility of key research findings.
+
+- title: Reproducibility in science — where the MRC comes in
+  link: http://www.insight.mrc.ac.uk/2015/10/29/reproducibility-in-science-where-the-mrc-comes-in/
+  date: 2015-10-29 00:00:00
+  tags: [news article, reproducibility report]
+  description: |
+    The MRC and a group of partner organisations have today published a report and joint statement  about the reproducibility and reliability of research, and what can be done to improve them. Here, Jim Smith, MRC Deputy Chief Executive and Director of Strategy, thinks about how discussions of reproducibility offer us the opportunity to improve the way science is done.
+
+- title: MSDSE Reproducibility Zotero Bibliography
+  link: https://www.zotero.org/groups/msdse-reproducibility
+  date: 2015-10-05 00:00:00
+  tags: [reproducibility bibliography]
+  description: |
+    This group is for sharing reproducibility related citeable resources within the Moore and Sloan Data Science Environments reproducibility working group effort.
+
+- title: "New Study: Scientific Researchers Are Not Always Reliable"
+  link: http://www.utahpeoplespost.com/2015/08/new-study-scientific-researches-are-not-always-reliable/
+  date: 2015-08-29 00:00:00
+  tags: [replication study, news article]
+  description: |
+    Researchers tested the credibility of past investigations reaching the conclusion of a new study: scientific researches are not always reliable. Few of the past studies could be replicated showing that some researches are either too biased or too distinctive to make a statement in history.
+
+- title: The Results of the Reproducibility Project Are In. They’re Not Good.
+  link: http://chronicle.com/article/The-Results-of-the/232695
+  date: 2015-08-28 00:00:00
+  tags: [news article, popular news, replication study]
+  description: |
+    A decade ago, John P.A. Ioannidis published a provocative and much-discussed paper arguing that most published research findings are false. It’s starting to look like he was right.
+
+- title: Massive Study Reports Challenges in Reproducing Published Psychology Findings
+  link: https://news.virginia.edu/content/massive-study-reports-challenges-reproducing-published-psychology-findings
+  date: 2015-08-27 00:00:00
+  tags: [replication study, news article]
+  description: |
+    A study that sought to replicate 100 findings published in three prominent psychology journals has found that, across multiple criteria, independent researchers could replicate less than half of the original findings. In some cases this may call into question the validity of some scientific findings, but it may also point to the difficulty of conducting effective replications and achieving reproducible results.
+
+- title: Reproducibility blues
+  link: https://dx.doi.org/10.15252/embj.201570090
+  date: 2015-04-11 00:00:00
+  tags: [popular news]
+  description: |
+    Research findings advance science only if they are significant, reliable and reproducible. Scientists and journals must publish robust data in a way that renders it optimally reproducible. Reproducibility has to be incentivized and supported by the research infrastructure but without dampening innovation.
+
+- title: Program Seeks to Nurture 'Data Science Culture' at Universities
+  link: http://bits.blogs.nytimes.com/2013/11/12/program-seeks-to-nurture-data-science-culture-at-universities/?_php=true&_type=blogs&smid=fb-share&_r=1
+  date: 2013-11-12 00:00:00
+  tags: [popular news, news article, data science]
+  description: |
+    In collaboration with the University of Washington (UW) and Berkeley, and under the sponsorship of the Moore and Sloan foundations, NYU is working on a new initiative to 'harness the potential of data scientists and big data'. As part of this initiative, we aim to increase awareness of sharing, preservation, provenance, and reproducibility best practices across UW, NYU, Berkeley campuses and encourage their adoption.
+
+- title: Open-Access Deal for Particle Physics
+  link: http://www.nature.com/news/open-access-deal-for-particle-physics-1.11468
+  date: 2012-09-24 00:00:00
+  tags: [open access]
+  description: |
+    The entire field of particle physics is set to switch to open-access publishing, a milestone in the push to make research results freely available to readers.
+
+- title: Junk science? Most preclinical cancer studies don't replicate
+  link: http://www.readthehook.com/103149/junk-science-most-preclinical-cancer-studies-dont-replicate
+  date: 2012-04-06 00:00:00
+  tags: [replication study, news article]
+  description: |
+    When a cancer study is published in a prestigious peer-reviewed journal, the implication is the findings are robust, replicable, and point the way toward eventual treatments. Consequently, researchers scour their colleagues' work for clues about promising avenues to explore. Doctors pore over the pages, dreaming of new therapies coming down the pike. Which makes a new finding that nine out of 10 preclinical peer-reviewed cancer research studies cannot be replicated all the more shocking and discouraging.
+
+- title: The Database Experiments Repository (DBXR) is Online
+  link: http://www.dbxr.org/
+  date: 2012-01-01 00:00:00
+  tags: [reproducible journal, reproducibility infrastructure]
+  description: |
+    This site serves as a repository for experiments related to database research. Currently, it supports the submission and review of results published at PVLDB and ACM Sigmod.
+
+- title: SIGMOD Repeatability Effort
+  link: http://effdas.itu.dk/repeatability/tuning.html
+  date: 2012-01-01 00:00:00
+  tags: [reproducibility infrastructure, reproducible papers, case studies, VisTrails]
+  description: |
+    As part of this project, in collaboration with Philippe Bonnet, we are using (and extending) our infrastructure to support the SIGMOD Repeatability effort. Below are some case studies that illustrate how authors can create provenance-rich and reproducible papers, and how reviewers can both reproduce the experiments and perform workability tests: packaging an experiment on a distributed database system (link in title).
+
+- title: How Bright Promise in Cancer Testing Fell Apart
+  link: http://www.nytimes.com/2011/07/08/health/research/08genes.html
+  date: 2011-07-11 00:00:00
+  tags: [popular news, news article]
+  description: |
+    Research at Duke University in genomics that involved fighting cancer by looking for gene patterns that would determine which drugs would best attack a particular cancer (no more trial-and-error treatment, considered a breakthrough). This research turned out to be wrong, due to flaws in the research (found by statisticians); if the research was reproducible, errors could have been found earlier and the patients could have continued their treatment.
+
+- title: It’s Science, but Not Necessarily Right
+  link: http://www.nytimes.com/2011/06/26/opinion/sunday/26ideas.html?_r=2
+  date: 2011-06-25 00:00:00
+  tags: [popular news, news article]
+  description: |
+    NY article discussing the issues with scientific reproducibility: "Why? One simple answer is that it takes a lot of time to look back over other scientists’ work and replicate their experiments. Scientists are busy people, scrambling to get grants and tenure. As a result, papers that attract harsh criticism may nonetheless escape the careful scrutiny required if they are to be refuted."
+
+- title: Galois Conjugates of Topological Phases
+  link: http://arxiv.org/abs/1106.3267
+  date: 2011-06-16 00:00:00
+  tags: [reproducible paper, VisTrails]
+  description: |
+    Professor Matthias Troyer (ETH Zurich) and his collaborators have published a number of papers whose results are fully reproducible. He is using VisTrails to both carry out the experiments and to package them for publication.
+
+- title: "The ALPS Project Release 2.0: Open Source Software for Strongly Correlated Systems"
+  link: http://arxiv.org/pdf/1101.2646.pdf
+  date: 2011-05-23 00:00:00
+  tags: [reproducible paper, VisTrails]
+  description: |
+    Professor Matthias Troyer (ETH Zurich) and his collaborators have published a number of papers whose results are fully reproducible. He is using VisTrails to both carry out the experiments and to package them for publication.
+
+- title: Reproducible Research in the Journal of Biostatistics
+  link: http://magazine.amstat.org/blog/2011/01/01/scipolicyjan11
+  date: 2011-01-01 00:00:00
+  tags: [reproducible journal]
+  description: |
+    The journal Biostatistics has an associate editor for reproducibility who can assign grades of merit to conditionally accepted papers: D: data are available, C: code is available, and R: the AE could run the code and reproduce the results without much effort.
+
+- title: Nobel Laureate Retracts Two Papers Unrelated to Her Prize
+  link: http://www.nytimes.com/2010/09/24/science/24retraction.html?_r=1&emc=eta1
+  date: 2010-09-23 00:00:00
+  tags: [retraction]
+  description: |
+    Linda B. Buck, who shared the 2004 Nobel Prize in Physiology or Medicine for deciphering the workings of the sense of smell, has retracted two scientific papers after she and her colleagues were unable to repeat the findings.
+
