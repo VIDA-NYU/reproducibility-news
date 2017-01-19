@@ -9,13 +9,7 @@ A Survey of Current Reproducibility Practices in Linguistics Publications
 https://scholarspace.manoa.hawaii.edu/bitstream/10125/43567/1/Poster_Gawne_Berez-Kroeker_Kelly_Heston.pdf
 2017-01-18
 reproducibility report
-This project considers the role of reproducibility in increasing verification and accountability in linguistic research. An
-analysis of over 370 journal articles, dissertations, and grammars from a ten-year span is taken as a sample of
-current practices in the field. These are critiqued on the basis of transparency of data source, data collection
-methods, analysis, and storage. While we find examples of transparent reporting, much of the surveyed research
-does not include key metadata, methodological information, or citations that are resolvable to the data on which the
-analyses are based. This has implications for reproducibility and hence accountability, hallmarks of social science
-research which are currently under-represented in linguistic research.
+This project considers the role of reproducibility in increasing verification and accountability in linguistic research. An analysis of over 370 journal articles, dissertations, and grammars from a ten-year span is taken as a sample of current practices in the field. These are critiqued on the basis of transparency of data source, data collection methods, analysis, and storage. While we find examples of transparent reporting, much of the surveyed research does not include key metadata, methodological information, or citations that are resolvable to the data on which the analyses are based. This has implications for reproducibility and hence accountability, hallmarks of social science research which are currently under-represented in linguistic research.
 
 
 Opening the Publication Process with Executable Research Compendia
