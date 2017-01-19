@@ -1,3 +1,30 @@
+Cancer reproducibility project releases first results
+http://www.nature.com/news/cancer-reproducibility-project-releases-first-results-1.21304
+2017-01-18
+reproducible paper, news article
+The Reproducibility Project: Cancer Biology launched in 2013 as an ambitious effort to scrutinize key findings in 50 cancer papers published in Nature, Science, Cell and other high-impact journals. It aims to determine what fraction of influential cancer biology studies are probably sound — a pressing question for the field. In 2012, researchers at the biotechnology firm Amgen in Thousand Oaks, California, announced that they had failed to replicate 47 of 53 landmark cancer papers2. That was widely reported, but Amgen has not identified the studies involved.
+
+
+A Survey of Current Reproducibility Practices in Linguistics Publications 
+https://scholarspace.manoa.hawaii.edu/bitstream/10125/43567/1/Poster_Gawne_Berez-Kroeker_Kelly_Heston.pdf
+2017-01-18
+reproducibility report
+This project considers the role of reproducibility in increasing verification and accountability in linguistic research. An
+analysis of over 370 journal articles, dissertations, and grammars from a ten-year span is taken as a sample of
+current practices in the field. These are critiqued on the basis of transparency of data source, data collection
+methods, analysis, and storage. While we find examples of transparent reporting, much of the surveyed research
+does not include key metadata, methodological information, or citations that are resolvable to the data on which the
+analyses are based. This has implications for reproducibility and hence accountability, hallmarks of social science
+research which are currently under-represented in linguistic research.
+
+
+Opening the Publication Process with Executable Research Compendia
+https://doi.org/10.1045/january2017-nuest
+2017-01-16
+reproducible paper
+A strong movement towards openness has seized science. Open data and methods, open source software, Open Access, open reviews, and open research platforms provide the legal and technical solutions to new forms of research and publishing. However, publishing reproducible research is still not common practice. Reasons include a lack of incentives and a missing standardized infrastructure for providing research material such as data sets and source code together with a scientific paper. Therefore we first study fundamentals and existing approaches. On that basis, our key contributions are the identification of core requirements of authors, readers, publishers, curators, as well as preservationists and the subsequent description of an executable research compendium (ERC). It is the main component of a publication process providing a new way to publish and access computational research. ERCs provide a new standardisable packaging mechanism which combines data, software, text, and a user interface description. We discuss the potential of ERCs and their challenges in the context of user requirements and the established publication processes. We conclude that ERCs provide a novel potential to find, explore, reuse, and archive computer-based research.
+
+
 Supporting Data Reproducibility at NCI Using the Provenance Capture System
 http://www.dlib.org/dlib/january17/wang/01wang.html
 2017-01-16
