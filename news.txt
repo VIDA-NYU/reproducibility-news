@@ -1,3 +1,24 @@
+Cancer scientists are having trouble replicating groundbreaking research
+http://www.vox.com/science-and-health/2017/1/23/14324326/replication-science-is-hard
+2017-01-23
+popular news
+Take the latest findings from the large-scale Reproducibility Project: Cancer Biology. Here, researchers focused on reproducing experiments from the highest-impact papers about cancer biology published from 2010 to 2012. They shared their results in five papers in the journal ELife last week — and not one of their replications definitively confirmed the original results. The findings echoed those of another landmark reproducibility project, which, like the cancer biology project, came from the Center for Open Science. This time, the researchers replicated major psychology studies — and only 36 percent of them confirmed the original conclusions.
+
+
+Why Should Scientific Results Be Reproducible?
+http://www.pbs.org/wgbh/nova/next/body/reproducibility-explainer/
+2017-01-19
+popular news
+Since 2005, when Stanford University professor John Ioannidis published his paper “Why Most Published Findings Are False” in PLOS Medicine, reports have been mounting of studies that are false, misleading, and/or irreproducible. Two major pharmaceutical companies each took a sample of “landmark” cancer biology papers and only were able to validate the findings of 6% and 11%, respectively. A similar attempt to validate 70 potential drugs targets for treating amytrophic lateral sclerosis in mice came up with zero positive results. In psychology, an effort to replicate 100 peer-reviewed studies successfully reproduced the results for only 39. While most replication efforts have focused on biomedicine, health, and psychology, a recent survey of over 1,500 scientists from various fields suggests that the problem is widespread. What originally began as a rumor among scientists has become a heated debate garnering national attention. The assertion that many published scientific studies cannot be reproduced has been covered in nearly every major newspaper, featured in TED talks, and discussed on televised late night talk shows.
+
+
+Enabling Reproducibility for Small and Large Scale Research Data Sets
+http://www.dlib.org/dlib/january17/proell/01proell.html
+2017-01-18
+reproducible paper
+A large portion of scientific results is based on analysing and processing research data. In order for an eScience experiment to be reproducible, we need to able to identify precisely the data set which was used in a study. Considering evolving data sources this can be a challenge, as studies often use subsets which have been extracted from a potentially large parent data set. Exporting and storing subsets in multiple versions does not scale with large amounts of data sets. For tackling this challenge, the RDA Working Group on Data Citation has developed a framework and provides a set of recommendations, which allow identifying precise subsets of evolving data sources based on versioned data and timestamped queries. In this work, we describe how this method can be applied in small scale research data scenarios and how it can be implemented in large scale data facilities having access to sophisticated data infrastructure. We describe how the RDA approach improves the reproducibility of eScience experiments and we provide an overview of existing pilots and use cases in small and large scale settings.
+
+
 Cancer reproducibility project releases first results
 http://www.nature.com/news/cancer-reproducibility-project-releases-first-results-1.21304
 2017-01-18
