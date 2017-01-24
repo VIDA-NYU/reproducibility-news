@@ -1,3 +1,17 @@
+Reproducibility in cancer biology: Making sense of replications
+https://elifesciences.org/content/6/e23383
+2017-01-24
+replication study
+The first results from the Reproducibility Project: Cancer Biology suggest that there is scope for improving reproducibility in pre-clinical cancer research.
+
+
+Reproducibility in cancer biology: Mixed outcomes for computational predictions
+https://elifesciences.org/content/6/e22661
+2017-01-24
+replication study
+Experimental efforts to validate the output of a computational model that predicts new uses for existing drugs highlights the inherently complex nature of cancer biology.
+
+
 Cancer scientists are having trouble replicating groundbreaking research
 http://www.vox.com/science-and-health/2017/1/23/14324326/replication-science-is-hard
 2017-01-23
