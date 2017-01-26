@@ -1,3 +1,10 @@
+BOOK LAUNCH: The Practice of Reproducible Research
+https://events.berkeley.edu/?event_ID=106379&date=2017-01-27&tab=academic
+2017-01-26
+reproducibility report
+This symposium will serve as the launch event for our new open, online book, titled The Practice of Reproducible Research. The book contains a collection of 31 case studies in reproducible research practices written by scientists and engineers working in the data-intensive sciences. Each case study presents the specific approach that the author used to achieve reproducibility in a real-world research project, including a discussion of the overall project workflow, major challenges, and key tools and practices used to increase the reproducibility of the research.
+
+
 Reproducibility in cancer biology: Making sense of replications
 https://elifesciences.org/content/6/e23383
 2017-01-24
