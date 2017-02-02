@@ -1,3 +1,17 @@
+BIDS Apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods
+http://biorxiv.org/content/early/2017/01/29/079145
+2017-02-02
+reproducible paper
+The rate of progress in human neurosciences is limited by the inability to easily apply a wide range of analysis methods to the plethora of different datasets acquired in labs around the world. In this work, we introduce a framework for creating, testing, versioning and archiving portable applications for analyzing neuroimaging data organized and described in compliance with the Brain Imaging Data Structure (BIDS). The portability of these applications (BIDS Apps) is achieved by using container technologies that encapsulate all binary and other dependencies in one convenient package. BIDS Apps run on all three major operating systems with no need for complex setup and configuration and thanks to the richness of the BIDS standard they require little manual user input. Previous containerized data processing solutions were limited to single user environments and not compatible with most multi-tenant High Performance Computing systems. BIDS Apps overcome this limitation by taking advantage of the Singularity container technology. As a proof of concept, this work is accompanied by 22 ready to use BIDS Apps, packaging a diverse set of commonly used neuroimaging algorithms.
+
+
+JoVE Builds on Ten Years of Making Science Clearer, More Reproducible
+http://www.prweb.com/releases/2017/01/prweb14012037.htm
+2017-02-02
+news article
+JoVE, the leading creator and publisher of video solutions that increase productivity in scientific research and education, today announced 2017 plans to mark the Company’s 10th anniversary. This year-long initiative will include the introduction of new Engineering and the Physical Sciences Collections within JoVE Science Education. JoVE will launch ten major initiatives, including a new JoVE Unlimited pricing formula, enhanced web experience, and establish a number of grants to advance scientific research and education.
+
+
 BOOK LAUNCH: The Practice of Reproducible Research
 https://events.berkeley.edu/?event_ID=106379&date=2017-01-27&tab=academic
 2017-01-26
