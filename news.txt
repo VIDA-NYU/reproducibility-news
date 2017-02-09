@@ -1,3 +1,31 @@
+Reproducibility analysis of the scientific workflows
+http://lib.uni-obuda.hu/sites/lib.uni-obuda.hu/files/BanatiAnna_ertekezes2016.pdf
+2017-02-09
+reproducible paper
+In this dissertation I deal with the requirements and the analysis of the reproducibility. I set out methods based on provenance data to handle or eliminate the unavailable or changing descriptors in order to be able reproduce an – in other way – non-reproducible scientific workflow. In this way I intend to support the scientist’s community in designing and creating reproducible scientific workflows.
+
+
+Home Healthcare Transparent Toxicology: Towards improved reproducibility and data reusability
+http://www.biospectrumasia.com/biospectrum/opinion/224708/transparent-toxicology-towards-improved-reproducibility-reusability
+2017-02-08
+news article
+The concept of reproducibility is one of the foundations of scientific practice and the bedrock by which scientific validity can be established. However, the extent to which reproducibility is being achieved in the sciences is currently under question. Several studies have shown that much peer-reviewed scientific literature is not reproducible. One crucial contributor to the obstruction of reproducibility is the lack of transparency of original data and methods. Reproducibility, the ability of scientific results and conclusions to be independently replicated by independent parties, potentially using different tools and approaches, can only be achieved if data and methods are fully disclosed. 
+
+
+Video: Singularity – Containers for Science, Reproducibility, and HPC
+http://insidehpc.com/2017/02/video-singularity-containers-science-reproducibility-hpc/
+2017-02-07
+reproducibility infrastructure
+Explore how Singularity liberates non-privileged users and host resources (such as interconnects, resource managers, file systems, accelerators …) allowing users to take full control to set-up and run in their native environments. This talk explores Singularity how it combines software packaging models with minimalistic containers to create very lightweight application bundles which can be simply executed and contained completely within their environment or be used to interact directly with the host file systems at native speeds. A Singularity application bundle can be as simple as containing a single binary application or as complicated as containing an entire workflow and is as flexible as you will need.
+
+
+Data Science Environments partners publish reproducibility book
+http://escience.washington.edu/new-reproducibility-book-published
+2017-02-04
+news article
+Researchers from the UW’s eScience Institute, New York University Center for Data Science and Berkeley Institute for Data Science (BIDS) have authored a new book titled The Practice of Reproducible Research. Representatives from the three universities, all Moore-Sloan Data Science Environments partners, joined on January 27, 2017, at a symposium hosted by BIDS. There, speakers discussed the book’s content, including case studies, lessons learned and the potential future of reproducible research practices.
+
+
 BIDS Apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods
 http://biorxiv.org/content/early/2017/01/29/079145
 2017-02-02
