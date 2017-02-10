@@ -1,3 +1,24 @@
+Computational Analysis of Lifespan Experiment Reproducibility
+http://biorxiv.org/content/early/2017/02/09/107417.article-info
+2017-02-09
+reproducible paper
+Independent reproducibility is essential to the generation of scientific knowledge. Optimizing experimental protocols to ensure reproducibility is an important aspect of scientific work. Genetic or pharmacological lifespan extensions are generally small compared to the inherent variability in mean lifespan even in isogenic populations housed under identical conditions. This variability makes reproducible detection of small but real effects experimentally challenging. In this study, we aimed to determine the reproducibility of C. elegans lifespan measurements under ideal conditions, in the absence of methodological errors or environmental or genetic background influences. To accomplish this, we generated a parametric model of C. elegans lifespan based on data collected from 5,026 wild-type N2 animals. We use this model to predict how different experimental practices, effect sizes, number of animals, and how different ‘shapes’ of survival curves affect the ability to reproduce real longevity effects. We find that the chances of reproducing real but small effects are exceedingly low and would require substantially more animals than are commonly used. Our results indicate that many lifespan studies are underpowered to detect reported changes and that, as a consequence, stochastic variation alone can account for many failures to reproduce longevity results. As a remedy, we provide power of detection tables that can be used as guidelines to plan experiments with statistical power to reliably detect real changes in lifespan and limit spurious false positive results. These considerations will improve best-practices in designing lifespan experiment to increase reproducibility.
+
+
+Using the Nextflow framework for reproducible in-silico omics analyses across clusters and clouds
+https://peerj.com/preprints/2796.pdf
+2017-02-08
+reproducible paper, reproducibility infrastructure
+Reproducibility has become one of biology’s most pressing issues. This impasse has been fueled by the combined reliance on increasingly complex data analysis methods and the exponential growth of biological datasets. When considering the installation, deployment and maintenance of bioinformatic pipelines, an even more challenging picture emerges due to the lack of community standards. The effect of limited standards on reproducibility is amplified by the very diverse range of computational platforms and configurations on which these applications are expected to be applied (workstations, clusters, HPC, clouds, etc.). With no established standard at any level, diversity cannot be taken for granted.
+
+
+Is software reproducibility possible and practical?
+https://danielskatzblog.wordpress.com/2017/02/07/is-software-reproducibility-possible-and-practical/
+2017-02-07
+reproducibility talk
+This blog is based on part of a talk I gave in January 2017, and the thinking behind it, in turn, is based on my view of a series of recent talks and blogs, and how they might be fit together. The short summary is that general software reproducibly is hard at best, and may not be practical except in special cases.
+
+
 Reproducibility analysis of the scientific workflows
 http://lib.uni-obuda.hu/sites/lib.uni-obuda.hu/files/BanatiAnna_ertekezes2016.pdf
 2017-02-09
