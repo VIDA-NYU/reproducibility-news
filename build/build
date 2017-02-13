@@ -23,7 +23,7 @@ def main():
 
     entries = []
 
-    for entry in itertools.islice(list_entries('news.txt'), MAX_ENTRIES):
+    for entry in itertools.islice(list_entries('news.yaml'), MAX_ENTRIES):
         entries.append({
             'title': escape(entry['title']),
             'link': escape(entry['link']),
