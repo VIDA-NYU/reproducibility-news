@@ -1,3 +1,24 @@
+Using Docker Containers to Extend Reproducibility Architecture for the NASA Earth Exchange (NEX)
+https://ntrs.nasa.gov/search.jsp?R=20170001275
+2017-02-11
+reproducible paper
+NASA Earth Exchange (NEX) is a data, supercomputing and knowledge collaboratory that houses NASA satellite, climate and ancillary data where a focused community can come together to address large-scale challenges in Earth sciences. As NEX has been growing into a petabyte-size platform for analysis, experiments and data production, it has been increasingly important to enable users to easily retrace their steps, identify what datasets were produced by which process chains, and give them ability to readily reproduce their results. This can be a tedious and difficult task even for a small project, but is almost impossible on large processing pipelines. We have developed an initial reproducibility and knowledge capture solution for the NEX, however, if users want to move the code to another system, whether it is their home institution cluster, laptop or the cloud, they have to find, build and install all the required dependencies that would run their code. This can be a very tedious and tricky process and is a big impediment to moving code to data and reproducibility outside the original system. The NEX team has tried to assist users who wanted to move their code into OpenNEX on Amazon cloud by creating custom virtual machines with all the software and dependencies installed, but this, while solving some of the issues, creates a new bottleneck that requires the NEX team to be involved with any new request, updates to virtual machines and general maintenance support. In this presentation, we will describe a solution that integrates NEX and Docker to bridge the gap in code-to-data migration. The core of the solution is saemi-automatic conversion of science codes, tools and services that are already tracked and described in the NEX provenance system, to Docker - an open-source Linux container software. Docker is available on most computer platforms, easy to install and capable of seamlessly creating and/or executing any application packaged in the appropriate format. We believe this is an important step towards seamless process deployment in heterogeneous environments that will enhance community access to NASA data and tools in a scalable way, promote software reuse, and improve reproducibility of scientific results.
+
+
+Facilitating reproducible research by investigating computational metadata
+http://ieeexplore.ieee.org/abstract/document/7840958/?reload=true
+2017-02-11
+reproducible paper
+Computational workflows consist of a series of steps in which data is generated, manipulated, analysed and transformed. Researchers use tools and techniques to capture the provenance associated with the data to aid reproducibility. The metadata collected not only helps in reproducing the computation but also aids in comparing the original and reproduced computations. In this paper, we present an approach, "Why-Diff", to analyse the difference between two related computations by changing the artifacts and how the existing tools "YesWorkflow" and "NoWorkflow" record the changed artifacts.
+
+
+Challenges of archiving and preserving born-digital news applications
+http://journals.sagepub.com/doi/abs/10.1177/0340035216686355
+2017-02-11
+reproducible paper
+Born-digital news content is increasingly becoming the format of the first draft of history. Archiving and preserving this history is of paramount importance to the future of scholarly research, but many technical, legal, financial, and logistical challenges stand in the way of these efforts. This is especially true for news applications, or custom-built websites that comprise some of the most sophisticated journalism stories today, such as the “Dollars for Docs” project by ProPublica. Many news applications are standalone pieces of software that query a database, and this significant subset of apps cannot be archived in the same way as text-based news stories, or fully captured by web archiving tools such as Archive-It. As such, they are currently disappearing. This paper will outline the various challenges facing the archiving and preservation of born-digital news applications, as well as outline suggestions for how to approach this important work.
+
+
 Computational Analysis of Lifespan Experiment Reproducibility
 http://biorxiv.org/content/early/2017/02/09/107417.article-info
 2017-02-09
