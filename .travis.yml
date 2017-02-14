@@ -6,6 +6,7 @@ install:
   - pip install jinja2 PyYAML
 script:
   - "build/build && if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then build/upload; fi"
+  - "if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then build/tweet; fi"
 notifications:
   email:
     - remirampin@gmail.com
