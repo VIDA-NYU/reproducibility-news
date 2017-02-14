@@ -15,7 +15,7 @@ def main():
     csv_file_raw = open('target/news.csv', 'wb')
     csv_file = csv.writer(csv_file_raw)
 
-    for entry in list_entries('news.txt'):
+    for entry in list_entries('news.yaml'):
         csv_file.writerow([entry['title'].encode('utf-8'),
                            entry['link'].encode('utf-8'),
                            format_date(entry['date']).encode('utf-8'),

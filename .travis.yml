@@ -3,7 +3,7 @@ python:
   - 2.7
 sudo: false
 install:
-  - pip install jinja2
+  - pip install jinja2 PyYAML
 script:
   - "build/build && if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then build/upload; fi"
 notifications:
