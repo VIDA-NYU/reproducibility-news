@@ -12,6 +12,9 @@ def list_entries(filename):
                                      key, nb))
                     sys.exit(1)
 
+            entry['title'] = entry['title'].strip()
+            entry['link'] = entry['link'].strip()
+            entry['description'] = entry['description'].strip()
             if not entry['tags']:
                 entry['tags'] = []
 
