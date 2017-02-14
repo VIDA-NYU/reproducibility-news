@@ -5,6 +5,7 @@ import io
 import itertools
 from jinja2 import Environment, FileSystemLoader
 import os
+import sys
 import time
 from xml.sax.saxutils import escape
 
@@ -23,7 +24,19 @@ def main():
 
     entries = []
 
+    seen_titles = set()
+    seen_links = set()
+
     for entry in itertools.islice(list_entries('news.yaml'), MAX_ENTRIES):
+        if entry['title'] in seen_titles:
+            sys.stderr.write("Error: duplicated title: %s\n" % entry['title'])
+            sys.exit(1)
+        seen_titles.add(entry['title'])
+        if entry['link'] in seen_links:
+            sys.stderr.write("Error: duplicated link: %s\n" % entry['link'])
+            sys.exit(1)
+        seen_links.add(entry['link'])
+
         entries.append({
             'title': escape(entry['title']),
             'link': escape(entry['link']),
