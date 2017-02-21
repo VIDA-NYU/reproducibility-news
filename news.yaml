@@ -1,5 +1,32 @@
 ---
 title: |
+  GBSI reports encouraging progress toward improved research reproducibility by year 2020
+link: https://phys.org/news/2017-02-gbsi-year.html
+date: 2017-02-19 00:00:00
+tags: [news article]
+description: |
+  One year after the Global Biological Standards Institute (GBSI) issued its Reproducibility2020 challenge and action plan for the biomedical research community, the organization reports encouraging progress toward the goal to significantly improve the quality of preclinical biological research by year 2020. "Reproducibility2020 Report: Progress and Priorities," posted today on bioRxiv, identifies action and impact that has been achieved by the life science research community and outlines priorities going forward. The report is the first comprehensive review of the steps being taken to improve reproducibility since the issue became more widely known in 2012.
+
+---
+title: |
+  Supporting accessibility and reproducibility in language research in the Alveo virtual laboratory
+link: http://www.sciencedirect.com/science/article/pii/S0885230816302583
+date: 2017-02-18 00:00:00
+tags: [reproducible paper]
+description: |
+  Reproducibility is an important part of scientific research and studies published in speech and language research usually make some attempt at ensuring that the work reported could be reproduced by other researchers. This paper looks at the current practice in the field relating to the citation and availability of both data and software methods. It is common to use widely available shared datasets in this field which helps to ensure that studies can be reproduced; however a brief survey of recent papers shows a wide range of styles of citation of data only some of which clearly identify the exact data used in the study. Similarly, practices in describing and sharing software artefacts vary considerably from detailed descriptions of algorithms to linked repositories. The Alveo Virtual Laboratory is a web based platform to support research based on collections of text, speech and video. Alveo provides a central repository for language data and provides a set of services for discovery and analysis of data. We argue that some of the features of the Alveo platform may make it easier for researchers to share their data more precisely and cite the exact software tools used to develop published results. Alveo makes use of ideas developed in other areas of science and we discuss these and how they can be applied to speech and language research.
+
+---
+title: |
+  New Tools for Content Innovation and Data Sharing: Enhancing Reproducibility and Rigor in Biomechanics Research
+link: http://www.sciencedirect.com/science/article/pii/S0021929017300763
+date: 2017-02-18 00:00:00
+tags: [reproducible paper]
+description: |
+  We are currently in one of the most exciting times for science and engineering as we witness unprecedented growth computational and experimental capabilities to generate new data and models. To facilitate data and model sharing, and to enhance reproducibility and rigor in biomechanics research, the Journal of Biomechanics has introduced a number of tools for Content Innovation to allow presentation, sharing, and archiving of methods, models, and data in our articles. The tools include an Interactive Plot Viewer, 3D Geometric Shape and Model Viewer, Virtual Microscope, Interactive MATLAB Figure Viewer, and Audioslides. Authors are highly encouraged to make use of these in upcoming journal submissions.
+
+---
+title: |
   Advancing meta-research through data sharing and transparency
 link: http://blogs.biomedcentral.com/on-medicine/2017/02/15/advancing-meta-research-through-data-sharing-and-transparency/
 date: 2017-02-15 00:00:00
