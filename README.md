@@ -11,22 +11,27 @@ Please, do not hesitate to provide news about your own work by opening a Pull Re
 RSS Format
 ==========
 
-The feed is generated from a simple text file, `news.txt`, that you can [edit here](https://github.com/ViDA-NYU/reproducibility-news/edit/master/news.txt). The format is as follow:
+The feed is generated from a YAML file, `news.yaml`, that you can [edit here](https://github.com/ViDA-NYU/reproducibility-news/edit/master/news.yaml). The format is as follow:
 
 ```
-Title
-Link
-Date
-Tags 
-Description
--- two lines between items --
+---
+title: |
+  Some meaningful title here (will be tweeted out)
+link: link to the original article or publication
+date: 2017-02-21 00:00:00
+tags: [reproducibility talk]
+description: |
+  Multi-line description here. Will show up in RSS readers.
+  Like the title field, be careful not to forget the indentation.
 
-
-New ReproZip Version
-https://vida-nyu.github.io/reprozip/
-2015-12-02
-ReproZip, reproducibility infrastructure
-A new version of ReproZip has been released.
+---
+title: |
+  Other entry
+link: other link
+date: 2016-01-12 00:00:00
+tags: [data science, news article]
+description: |
+  Another entry.
 ```
 
 RSS Tags
