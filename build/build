@@ -27,7 +27,7 @@ def main():
     seen_titles = set()
     seen_links = set()
 
-    for entry in itertools.islice(list_entries('news.yaml'), MAX_ENTRIES):
+    for i, entry in enumerate(list_entries('news.yaml')):
         if entry['title'] in seen_titles:
             sys.stderr.write("Error: duplicated title: %s\n" % entry['title'])
             sys.exit(1)
@@ -37,13 +37,14 @@ def main():
             sys.exit(1)
         seen_links.add(entry['link'])
 
-        entries.append({
-            'title': escape(entry['title']),
-            'link': escape(entry['link']),
-            'date': escape(format_date(entry['date'])),
-            'tags': [escape(tag) for tag in entry['tags']],
-            'description': escape(entry['description']),
-        })
+        if i < MAX_ENTRIES:
+            entries.append({
+                'title': escape(entry['title']),
+                'link': escape(entry['link']),
+                'date': escape(format_date(entry['date'])),
+                'tags': [escape(tag) for tag in entry['tags']],
+                'description': escape(entry['description']),
+            })
 
     template = template_env.get_template('feed.rss.tpl')
 
