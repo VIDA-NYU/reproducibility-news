@@ -729,15 +729,6 @@ description: |
 
 ---
 title: |
-  BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods
-link: http://biorxiv.org/content/early/2016/10/05/079145
-date: 2016-10-04 00:00:00
-tags: [reproducible paper]
-description: |
-  In this work, we introduce a framework for creating, testing, versioning and archiving portable applications for analyzing neuroimaging data organized and described in compliance with the Brain Imaging Data Structure (BIDS). The portability of these applications (BIDS Apps) is achieved by using container technologies that encapsulate all binary and other dependencies in one convenient package. BIDS Apps run on all three major operating systems with no need for complex setup and configuration and thanks to the richness of the BIDS standard they require little manual user input. Previous containerized data processing solutions were limited to single user environments and not compatible with most multi tenant High Performance Computing systems. BIDS Apps overcome this limitation by taking advantage of the Singularity container technology. As a proof of concept, this work is accompanied by 18 ready to use BIDS Apps, packaging a diverse set of commonly used neuroimaging algorithms.
-
----
-title: |
   The Solution to Science's Replication Crisis
 link: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2835131
 date: 2016-10-03 00:00:00
@@ -1080,15 +1071,6 @@ description: |
 
 ---
 title: |
-  1,500 scientists lift the lid on reproducibility
-link: http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
-date: 2016-08-08 00:00:00
-tags: [reproducibility report]
-description: |
-  More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.
-
----
-title: |
   Standardized Mixed-Meal Tolerance and Arginine Stimulation Tests Provide Reproducible and Complementary Measures ofb-cell Function: Results From the Foundation for the National Institutes of Health Biomarkers Consortium Investigative Series
 link: http://dx.doi.org/10.2337/dc15-0931
 date: 2016-08-02 00:00:00
@@ -1329,15 +1311,6 @@ date: 2016-06-10 00:00:00
 tags: [reproducible paper]
 description: |
   Functional brain hubs are key integrative regions in brain networks. Recently, brain hubs identified through resting-state fMRI have emerged as interesting targets to increase understanding of the relationships between large-scale functional networks and psychopathology. However, few studies have directly addressed the replicability and consistency of the hub regions identified and their association with symptoms. Here, we used the eigenvector centrality (EVC) measure obtained from graph analysis of two large, independent population-based samples of children and adolescents (7-15 years old; total N=652; 341 subjects for site 1 and 311 for site 2) to evaluate the replicability of hub identification. Subsequently, we tested the association between replicable hub regions and psychiatric symptoms. We identified a set of hubs consisting of the anterior medial prefrontal cortex and inferior parietal lobule/intraparietal sulcus (IPL/IPS). Moreover, lower EVC values in the right IPS were associated with psychiatric symptoms in both samples. Thus, low centrality of the IPS was a replicable sign of potential vulnerability to mental disorders in children. The identification of critical and replicable hubs in functional cortical networks in children and adolescents can foster understanding of the mechanisms underlying mental disorders.
-
----
-title: |
-  Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research - full programme
-link: https://figshare.com/articles/Alan_Turing_Institute_Symposium_on_Reproducibility_for_Data-Intensive_Research_-_full_programme_6-7_April_2016/3422998
-date: 2016-06-10 00:00:00
-tags: [reproducibility conference]
-description: |
-  Full programme and speaker biographies for the Alan Turing Institute Symposium on Data-Intensive Research, held 6-7 April 2016
 
 ---
 title: |
@@ -2193,15 +2166,6 @@ date: 2015-12-02 00:00:00
 tags: [popular news, news article]
 description: |
   The Reproducibility Project: Cancer Biology aims to get a better, quantitative estimate of the reproducibility of important work and to understand the challenges such efforts present. Begun in 2013, the project is run jointly by the Center for Open Science (COS) in Charlottesville, Virginia, and Science Exchange in Palo Alto, California.
-
----
-title: |
-  Reproducibility of Research: Get Started
-link: http://campusguides.lib.utah.edu/reproducibility
-date: 2015-12-01 00:00:00
-tags: [research guide]
-description: |
-  A research guide from the University of Utah on making research reproducible.
 
 ---
 title: |
