@@ -1,5 +1,32 @@
 ---
 title: |
+  HESML: a scalable ontology-based semantic similarity measures library with a set of reproducible experiments and a replication dataset
+link: http://www.sciencedirect.com/science/article/pii/S0306437916303246
+date: 2017-02-27 00:00:00
+tags: [reproducible paper, ReproZip]
+description: |
+  This work is a detailed companion reproducibility paper of the methods and experiments proposed in three previous works by Lastra-Díaz and García-Serrano, which introduce a set of reproducible experiments on word similarity based on HESML and ReproZip with the aim of exactly reproducing the experimental surveys in the aforementioned works. This work introduces a new representation model for taxonomies called PosetHERep, and a Java software library called Half-Edge Semantic Measures Library (HESML) based on it, which implements most ontology-based semantic similarity measures and Information Content (IC) models based on WordNet reported in the literature.
+
+---
+title: |
+  Reproducibility of biomedical research – The importance of editorial vigilance
+link: http://www.sciencedirect.com/science/article/pii/S2214753517300049
+date: 2017-02-27 00:00:00
+tags: [reproducible paper]
+description: |
+  Many journal editors are a failing to implement their own authors’ instructions, resulting in the publication of many articles that do not meet basic standards of transparency, employ unsuitable data analysis methods and report overly optimistic conclusions. This problem is particularly acute where quantitative measurements are made and results in the publication of papers that lack scientific rigor and contributes to the concerns with regard to the reproducibility of biomedical research. This hampers research areas such as biomarker identification, as reproducing all but the most striking changes is challenging and translation to patient care rare.
+
+---
+title: |
+  Reproducibility Data: The SAPA Personality Inventory: An empirically-derived, hierarchically-organized self-report personality assessment model
+link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y72Z1J
+date: 2017-02-27 00:00:00
+tags: [reproducible paper]
+description: |
+  Unlike most other SAPA datasets available on Dataverse, these data are specifically tied to the reproducible manuscript entitled "The SAPA Personality Inventory: An empirically-derived, hierarchically-organized self-report personality assessment model." Most of these files are images that should be downloaded and organized in the same location as the source .Rnw file. A few files contain data that have already been processed (and could be independently re-created using code in the .Rnw file) - these are included to shorten the processing time needed to reproduce the original document. The raw data files for most of the analyses are stored in 3 separate locations, 1 for each of the 3 samples. These are: Exploratory sample - doi:10.7910/DVN/SD7SVE Replication sample - doi:10.7910/DVN/3LFNJZ Confirmatory sample - doi:10.7910/DVN/I8I3D3 . If you have any questions about reproducing the file, please first consult the instructions in the Preface of the PDF version. Note that the .Rnw version of the file includes many annotations that are not visible in the PDF version (https://sapa-project.org/research/SPI/SPIdevelopment.pdf) and which may also be useful. If you still have questions, feel free to email me directly. Note that it is unlikely that I will be able to help with technical issues that do not relate of R, Knitr, Sweave, and LaTeX.
+
+---
+title: |
   Most scientists 'can't replicate studies by their peers'
 link: http://www.bbc.com/news/science-environment-39054778
 date: 2017-02-24 00:00:00
