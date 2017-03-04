@@ -1,5 +1,23 @@
 ---
 title: |
+  Reproducible Data Analysis in Jupyter
+link: https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/
+date: 2017-03-03 00:00:00
+tags: [case studies, reproducibility guidelines, reproducibility infrastructure]
+description: |
+  Jupyter notebooks provide a useful environment for interactive exploration of data. A common question I get, though, is how you can progress from this nonlinear, interactive, trial-and-error style of exploration to a more linear and reproducible analysis based on organized, packaged, and tested code. This series of videos presents a case study in how I personally approach reproducible data analysis within the Jupyter notebook.
+
+---
+title: |
+  Publishing a reproducible paper
+link: https://figshare.com/articles/Publishing_a_reproducible_paper/4720996
+date: 2017-03-03 00:00:00
+tags: [reproducibility talk]
+description: |
+ Adolescence is a period of human brain growth and high incidence of mental health disorders. In 2016 the Neuroscience in Psychiatry Network published a study of adolescent brain development which showed that the hubs of the structural connectome are late developing and are found in association cortex (http://dx.doi.org/10.1073/pnas.1601745113). Furthermore these regions are enriched for genes related to schizophrenia. In this presentation Dr Kirstie Whitaker will demonstrate how this work is supported by open data and analysis code, and that the results replicate in two independent cohorts of teenagers. She will encourage Brainhack-Global participants to take steps towards ensuring that their work meets these standards for open and reproducible science in 2017 and beyond.
+
+---
+title: |
   HESML: a scalable ontology-based semantic similarity measures library with a set of reproducible experiments and a replication dataset
 link: http://www.sciencedirect.com/science/article/pii/S0306437916303246
 date: 2017-02-27 00:00:00
