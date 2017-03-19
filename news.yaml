@@ -1,5 +1,50 @@
 ---
 title: |
+  A very simple, re-executable neuroimaging publication
+link: https://f1000research.com/articles/6-124/v1
+date: 2017-03-19 00:00:00
+tags: [reproducible paper]
+description: |
+  Reproducible research is a key element of the scientific process. Re-executability of neuroimaging workflows that lead to the conclusions arrived at in the literature has not yet been sufficiently addressed and adopted by the neuroimaging community. In this paper, we document a set of procedures, which include supplemental additions to a manuscript, that unambiguously define the data, workflow, execution environment and results of a neuroimaging analysis, in order to generate a verifiable re-executable publication. Re-executability provides a starting point for examination of the generalizability and reproducibility of a given finding.
+  
+---
+title: |
+  Reproducibility of computational workflows is automated using continuous analysis
+link: http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3780.html
+date: 2017-03-19 00:00:00
+tags: [reproducible paper]
+description: |
+  Replication, validation and extension of experiments are crucial for scientific progress. Computational experiments are scriptable and should be easy to reproduce. However, computational analyses are designed and run in a specific computing environment, which may be difficult or impossible to match using written instructions. We report the development of continuous analysis, a workflow that enables reproducible computational analyses. Continuous analysis combines Docker, a container technology akin to virtual machines, with continuous integration, a software development technique, to automatically rerun a computational analysis whenever updates or improvements are made to source code or data. This enables researchers to reproduce results without contacting the study authors. Continuous analysis allows reviewers, editors or readers to verify reproducibility without manually downloading and rerunning code and can provide an audit trail for analyses of data that cannot be shared.
+
+---
+title: |
+  Federating heterogeneous datasets to enhance data sharing and experiment reproducibility
+link: link to the original article or publication
+date: 2017-03-19 00:00:00
+tags: [reproducible paper]
+description: |
+  Recent studies have demonstrated the difficulties to replicate scientific findings and/or experiments published in past.1 The effects seen in the replicated experiments were smaller than previously reported. Some of the explanations for these findings include the complexity of the experimental design and the pressure on researches to report positive findings. The International Committee of Medical Journal Editors (ICMJE) suggests that every study considered for publication must submit a plan to share the de-identified patient data no later than 6 months after publication. There is a growing demand to enhance the management of clinical data, facilitate data sharing across institutions and also to keep track of the data from previous experiments. The ultimate goal is to assure the reproducibility of experiments in the future. This paper describes Shiny-tooth, a web based application created to improve clinical data acquisition during the clinical trial; data federation of such data as well as morphological data derived from medical images; Currently, this application is being used to store clinical data from an osteoarthritis (OA) study. This work is submitted to the SPIE Biomedical Applications in Molecular, Structural, and Functional Imaging conference.
+
+---
+title: |
+  Reproducibility and Practical Adoption of GEOBIA with Open-Source Software in Docker Containers
+link: http://www.mdpi.com/2072-4292/9/3/290
+date: 2017-03-18 00:00:00
+tags: [reproducible paper]
+description: |
+  Geographic Object-Based Image Analysis (GEOBIA) mostly uses proprietary software,but the interest in Free and Open-Source Software (FOSS) for GEOBIA is growing. This interest stems not only from cost savings, but also from benefits concerning reproducibility and collaboration. Technical challenges hamper practical reproducibility, especially when multiple software packages are required to conduct an analysis. In this study, we use containerization to package a GEOBIA workflow in a well-defined FOSS environment. We explore the approach using two software stacks to perform an exemplary analysis detecting destruction of buildings in bi-temporal images of a conflict area. The analysis combines feature extraction techniques with segmentation and object-based analysis to detect changes using automatically-defined local reference values and to distinguish disappeared buildings from non-target structures. The resulting workflow is published as FOSS comprising both the model and data in a ready to use Docker image and a user interface for interaction with the containerized workflow. The presented solution advances GEOBIA in the following aspects: higher transparency of methodology; easier reuse and adaption of workflows; better transferability between operating systems; complete description of the software environment; and easy application of workflows by image analysis experts and non-experts. As a result, it promotes not only the reproducibility of GEOBIA, but also its practical adoption.
+  
+---
+title: |
+  Reproducibility in biomarker research and clinical development: a global challenge
+link: http://www.futuremedicine.com/doi/full/10.2217/bmm-2017-0024
+date: 2017-03-18 00:00:00
+tags: [reproducible paper]
+description: |
+  According to a recent survey conducted by the journal Nature, a large percentage of scientists agrees we live in times of irreproducibility of research results [1]. They believe that much of what is published just cannot be trusted. While the results of the survey may be biased toward respondents with interest in the area of reproducibility, a concern is recognizable. Goodman et al. discriminate between different aspects of reproducibility and dissect the term into ‘material reproducibility’ (provision of sufficient information to enable repetition of the procedures), ‘results reproducibility’ (obtaining the same results from an independent study; formerly termed ‘replicability’) and ‘inferential reproducibility’ (drawing the same conclusions from separate studies) [2]. The validity of data is threatened by many issues, among others by poor utility of public information, poor protocols and design, lack of standard analytical, clinical practices and knowledge, conflict of interest and other biases, as well as publication strategy.
+
+---
+title: |
   The science 'reproducibility crisis' – and what can be done about it
 link: https://theconversation.com/the-science-reproducibility-crisis-and-what-can-be-done-about-it-74198
 date: 2017-03-16 00:00:00
