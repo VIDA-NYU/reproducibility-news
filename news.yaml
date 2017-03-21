@@ -1,5 +1,14 @@
 ---
 title: |
+  Taking on chemistry's reproducibility problem
+link: https://www.chemistryworld.com/news/taking-on-chemistrys-reproducibility-problem/3006991.article
+date: 2017-03-21 00:00:00
+tags: [news article]
+description: |
+  Not a week passes without reproducibility in science – or the lack of it – hitting the headlines. Although much of the criticism is directed at the biomedical sciences or psychology, many of the same problems also pervade the chemical sciences.
+  
+---
+title: |
   A very simple, re-executable neuroimaging publication
 link: https://f1000research.com/articles/6-124/v1
 date: 2017-03-19 00:00:00
@@ -19,7 +28,7 @@ description: |
 ---
 title: |
   Federating heterogeneous datasets to enhance data sharing and experiment reproducibility
-link: link to the original article or publication
+link: http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2612413
 date: 2017-03-19 00:00:00
 tags: [reproducible paper]
 description: |
