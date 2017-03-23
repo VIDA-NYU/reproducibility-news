@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/ViDA-NYU/reproducibility-news.svg?branch=master)]
-(https://travis-ci.org/ViDA-NYU/reproducibility-news)
+[![Build Status](https://travis-ci.org/ViDA-NYU/reproducibility-news.svg?branch=master)](https://travis-ci.org/ViDA-NYU/reproducibility-news)
 
 Reproducibility news
 ====================
