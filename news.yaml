@@ -1,5 +1,23 @@
 ---
 title: |
+  AI buzzwords explained: scientific workflows
+link: https://dl.acm.org/citation.cfm?id=3067683
+date: 2017-03-23 00:00:00
+tags: [reproducible paper]
+description: |
+  The reproducibility of scientific experiments is crucial for corroborating, consolidating and reusing new scientific discoveries. However, the constant pressure for publishing results (Fanelli, 2010) has removed reproducibility from the agenda of many researchers: in a recent survey published in Nature (with more than 1500 scientists) over 70% of the participants recognize to have failed to reproduce the work from another colleague at some point in time (Baker, 2016). Analyses from psychology and cancer biology show reproducibility rates below 40% and 10% respectively (Collaboration, 2015) (Begley & Lee, 2012). As a consequence, retractions of publications have occurred in the last years in several disciplines (Marcus & Oransky, 2014) (Rockoff, 2015), and the general public is now skeptical about scientific studies on topics like pesticides, depression drugs or flu pandemics (American, 2010).
+  
+---
+title: |
+  The role of the IACUC in ensuring research reproducibility
+link: https://www.ncbi.nlm.nih.gov/pubmed/28328872
+date: 2017-03-22 00:00:00
+tags: [reproducible paper]
+description: |
+  There is a "village" of people impacting research reproducibility, such as funding panels, the IACUC and its support staff, institutional leaders, investigators, veterinarians, animal facilities, and professional journals. IACUCs can contribute to research reproducibility by ensuring that reviews of animal use requests, program self-assessments and post-approval monitoring programs are sufficiently thorough, the animal model is appropriate for testing the hypothesis, animal care and use is conducted in a manner that is compliant with external and institutional requirements, and extraneous variables are minimized. The persons comprising the village also must have a shared vision that guards against reproducibility problems while simultaneously avoids being viewed as a burden to research. This review analyzes and discusses aspects of the IACUC's "must do" and "can do" activities that impact the ability of a study to be reproduced. We believe that the IACUC, with support from and when working synergistically with other entities in the village, can contribute to minimizing unintended research variables and strengthen research reproducibility.
+  
+---
+title: |
   Taking on chemistry's reproducibility problem
 link: https://www.chemistryworld.com/news/taking-on-chemistrys-reproducibility-problem/3006991.article
 date: 2017-03-21 00:00:00
