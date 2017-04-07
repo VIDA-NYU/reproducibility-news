@@ -1,5 +1,14 @@
 ---
 title: |
+  Structuring supplemental materials in support of reproducibility
+link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1205-3
+date: 2017-04-07 00:00:00
+tags: [reproducible paper]
+description: |
+  Supplements are increasingly important to the scientific record, particularly in genomics. However, they are often underutilized. Optimally, supplements should make results findable, accessible, interoperable, and reusable (i.e., “FAIR”). Moreover, properly off-loading to them the data and detail in a paper could make the main text more readable. We propose a hierarchical organization for supplements, with some parts paralleling and “shadowing” the main text and other elements branching off from it, and we suggest a specific formatting to make this structure explicit. Furthermore, sections of the supplement could be presented in multiple scientific “dialects”, including machine-readable and lay-friendly formats.
+
+---
+title: |
   AI buzzwords explained: scientific workflows
 link: https://dl.acm.org/citation.cfm?id=3067683
 date: 2017-03-23 00:00:00
