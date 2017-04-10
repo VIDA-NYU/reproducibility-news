@@ -7,8 +7,6 @@ tags: [reproducibility study]
 description: |
   In summary, my little experiment has shown that reproducibility of Python scripts requires preserving the original environment, which fortunately is not so difficult over a time span of four years, at least if everything you need is part of the Anaconda distribution. I am not sure I would have had the patience to reinstall everything from source, given an earlier bad experience. The purely computational part of my code was even surprisingly robust under updates in its dependencies. But the plotting code wasn’t, as matplotlib has introduced backwards-incompatible changes in a widely used function. Clearly the matplotlib team prepared this carefully, introducing a deprecation warning before introducing the breaking change. For properly maintained client code, this can probably be dealt with.
 
-
-
 ---
 title: |
   Structuring supplemental materials in support of reproducibility
