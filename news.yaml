@@ -1,15 +1,6 @@
 ---
 title: |
   Progress toward openness, transparency, and reproducibility in cognitive neuroscience
-link: https://www.ncbi.nlm.nih.gov/pubmed/28464561?dopt=Abstract
-date: 2017-05-04 00:00:00
-tags: [reproducible paper]
-description: |
-  Accumulating evidence suggests that many findings in psychological science and cognitive neuroscience may prove difficult to reproduce; statistical power in brain imaging studies is low and has not improved recently; software errors in analysis tools are common and can go undetected for many years; and, a few large-scale studies notwithstanding, open sharing of data, code, and materials remain the rare exception. At the same time, there is a renewed focus on reproducibility, transparency, and openness as essential core values in cognitive neuroscience. The emergence and rapid growth of data archives, meta-analytic tools, software pipelines, and research groups devoted to improved methodology reflect this new sensibility. We review evidence that the field has begun to embrace new open research practices and illustrate how these can begin to address problems of reproducibility, statistical power, and transparency in ways that will ultimately accelerate discovery.
-
----
-title: |
-  Progress toward openness, transparency, and reproducibility in cognitive neuroscience
 link: https://osf.io/5veew/
 date: 2017-04-20 00:00:00
 tags: [reproducible paper]
