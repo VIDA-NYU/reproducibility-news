@@ -1,5 +1,41 @@
 ---
 title: |
+  The Challenges of Reproducibility In Data Scarce Fields
+link: https://www.dataone.org/webinars/challenges-reproducibility-data-scarce-fields
+date: 2017-05-31 00:00:00
+tags: [reproducibility talk]
+description: |
+  A webinar on the challenges of reproducibility in data scarce fields. 
+  
+---
+title: |
+  RCE Podcast Looks at Reproducibility of Scientific Results
+link: http://insidehpc.com/2017/05/rce-podcast-looks-reproducibility-scientific-results/
+date: 2017-05-31 00:00:00
+tags: [news article, reproducibility talk]
+description: |
+  In this RCE Podcast, Brock Palen and Jeff Squyres discuss Reproducible Neuroscience with RCE Podcast Chris Gorgolewski from Stanford. "In recent years there has been increasing concern about the reproducibility of scientific results. Because scientific research represents a major public investment and is the basis for many decisions that we make in medicine and society, it is essential that we can trust the results. Our goal is to provide researchers with tools to do better science. Our starting point is in the field of neuroimaging, because that’s the domain where our expertise lies."
+
+---
+title: |
+  Open Research/Open Data Forum: Transparency, Sharing, and Reproducibility in Scholarship
+link: https://vtechworks.lib.vt.edu/handle/10919/77859
+date: 2017-05-31 00:00:00
+tags: [reproducibility talk]
+description: |
+  Join our panelists for a discussion on challenges and opportunities related to sharing and using open data in research, including meeting funder and journal guidelines.
+  
+---
+title: |
+  Improving the Reproducibility of Scientific Applications with Execution Environment Specification
+link: http://ccl.cse.nd.edu/research/papers/meng-thesis.pdf
+date: 2017-05-31 00:00:00
+tags: [reproducibility thesis]
+description: |
+  This work makes its contribution by demonstrating the importance of execution environments for the reproducibility of scientific applications and differentiating execution environment specifications, which should be lightweight, persistent and deployable, from various tools used to create execution environments, which may experience frequent changes due to technological evolution. It proposes two preservation approaches and prototypes for the purposes of both result verification and research extension, and provides recommendations on how to build reproducible scientific applications from the start.
+  
+---
+title: |
   Improving research through reproducibility
 link: https://www.continuum.umn.edu/2017/05/improving-research-reproducibility/
 date: 2017-05-19 00:00:00
