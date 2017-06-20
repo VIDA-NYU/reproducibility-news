@@ -1,5 +1,23 @@
 ---
 title: |
+  Reproducibility in Machine Learning-Based Studies: An Example of Text Mining
+link: https://openreview.net/pdf?id=By4l2PbQ-
+date: 2017-06-20 00:00:00
+tags: [reproducible paper]
+description: |
+  Reproducibility is an essential requirement for computational studies including those based on machine learning techniques. However, many machine learning studies are either not reproducible or are difficult to reproduce. In this paper, we consider what information about text mining studies is crucial to successful reproduction of such studies. We identify a set of factors that affect reproducibility based on our experience of attempting to reproduce six studies proposing text mining techniques for the automation of the citation screening stage in the systematic review process. Subsequently, the reproducibility of 30 studies was evaluated based on the presence or otherwise of information relating to the factors. While the studies provide useful reports of their results, they lack information on access to the dataset in the form and order as used in the original study (as against raw data), the software environment used, randomization control and the implementation of proposed techniques. In order to increase the chances of being reproduced, researchers should ensure that details about and/or access to information about these factors are provided in their reports.
+
+---
+title: |
+  trackr: A Framework for Enhancing Discoverability and Reproducibility of Data Visualizations and Other Artifacts in R
+link: https://arxiv.org/pdf/1706.04440.pdf
+date: 2017-06-15 00:00:00
+tags: [reproducible paper]
+description: |
+  Research is an incremental, iterative process, with new results relying and building upon previous ones. Scientists need to find, retrieve, understand, and verify results in order to confidently extend them, even when the results are their own. We present the trackr framework for organizing, automatically annotating, discovering, and retrieving results. We identify sources of automatically extractable metadata for computational results, and we define an extensible system for organizing, annotating, and searching for results based on these and other metadata. We present an opensource implementation of these concepts for plots, computational artifacts, and woven dynamic reports generated in the R statistical computing language.
+
+---
+title: |
   The Challenges of Reproducibility In Data Scarce Fields
 link: https://www.dataone.org/webinars/challenges-reproducibility-data-scarce-fields
 date: 2017-05-31 00:00:00
