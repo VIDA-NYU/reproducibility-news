@@ -7,7 +7,7 @@ install:
 script:
   - "build/build && if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then build/upload; fi"
   - "if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then build/tweet; fi"
-after_success: "curl -s -X POST -H \"Content-Type: application/json\" -H \"Accept: application/json\" -H \"Travis-API-Version: 3\" -H \"Authorization: token $TOKEN_TRAVIS\" -d '{\"request\": {\"branch\": \"master\", \"message\": \"reproducibility-news updated\"}}' https://api.travis-ci.org/repo/ViDA-NYU%2Freproducible-science/requests"
+after_success: "if [ $TRAVIS_BRANCH = master ] && [ $TRAVIS_PULL_REQUEST = false ]; then curl -s -X POST -H \"Content-Type: application/json\" -H \"Accept: application/json\" -H \"Travis-API-Version: 3\" -H \"Authorization: token $TOKEN_TRAVIS\" -d '{\"request\": {\"branch\": \"master\", \"message\": \"reproducibility-news updated\"}}' https://api.travis-ci.org/repo/ViDA-NYU%2Freproducible-science/requests; fi"
 notifications:
   email:
     recipients:
