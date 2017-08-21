@@ -1,3 +1,23 @@
+---
+title: |
+  noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts
+link: http://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf
+date: 2017-08-20 20:52:44
+tags: [reproducible paper]
+description: |
+  We present noWorkflow, an open-source tool that systematically and transparently collects provenance from Python scripts, including data about the script execution and how the script evolves over time. During the demo, we will show how noWorkflow collects and manages provenance, as well as how it supports the analysis of computational experiments.We will also encourage attendees to use noWorkflow for their own scripts.
+  
+---
+title: |
+  Using ReproZip for Reproducibility and Library Services
+link: https://osf.io/5tm8d/
+date: 2017-08-18 00:00:00
+tags: [reproducible paper, ReproZip]
+description: |
+  Achieving research reproducibility is challenging in many ways: there are social and cultural obstacles as well as a constantly changing technical landscape that makes replicating and reproducing research difficult. Users face challenges in reproducing research across different operating systems, in using different versions of software across long projects and among collaborations, and in using publicly available work. The dependencies required to reproduce the computational environments in which research happens can be exceptionally hard to track – in many cases, these dependencies are hidden or nested too deeply to discover, and thus impossible to install on a new machine, which means adoption remains low. 
+  In this paper, we present ReproZip, an open source tool to help overcome the technical difficulties involved in preserving and replicating research, applications, databases, software, and more. We examine the current use cases of ReproZip, ranging from digital humanities to machine learning. We also explore potential library use cases for ReproZip, particularly in digital libraries and archives, liaison librarianship, and other library services. We believe that libraries and archives can leverage ReproZip to deliver more robust reproducibility services, repository services, as well as enhanced discoverability and preservation of research materials, applications, software, and computational environments.
+
+---
 title: |
   Science Reproducibility Taxonomy
 link: https://figshare.com/articles/Science_Reproducibility_Taxonomy/5248273
