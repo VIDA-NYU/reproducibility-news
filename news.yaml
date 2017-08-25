@@ -1,5 +1,14 @@
 ---
 title: |
+  The Recomputation Manifesto
+link: https://arxiv.org/abs/1304.3674
+date: 2017-08-25 00:00:00
+tags: [reproducible paper]
+description: |
+  Replication of scientific experiments is critical to the advance of science. Unfortunately, the discipline of Computer Science has never treated replication seriously, even though computers are very good at doing the same thing over and over again. Not only are experiments rarely replicated, they are rarely even replicable in a meaningful way. Scientists are being encouraged to make their source code available, but this is only a small step. Even in the happy event that source code can be built and run successfully, running code is a long way away from being able to replicate the experiment that code was used for. I propose that the discipline of Computer Science must embrace replication of experiments as standard practice. I propose that the only credible technique to make experiments truly replicable is to provide copies of virtual machines in which the experiments are validated to run. I propose that tools and repositories should be made available to make this happen. I propose to be one of those who makes it happen.
+
+---
+title: |
   noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts
 link: http://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf
 date: 2017-08-20 20:52:44
