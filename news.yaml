@@ -1,5 +1,23 @@
 ---
 title: |
+  open science, software, reproducibility, Galaxy
+link: https://f1000research.com/slides/6-1575
+date: 2017-09-03 00:00:00
+tags: [reproducibility talk]
+description: |
+  Fairly high-level entry slides presented to the members of intercollegiate graduate program in Bioinformatics and Genomics at The Pennsylvania State University.
+
+---
+title: |
+  Enabling reproducible real-time quantitative PCR research: the RDML package
+link: https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btx528/4095640/Enabling-reproducible-real-time-quantitative-PCR?redirectedFrom=fulltext
+date: 2017-09-01 00:00:00
+tags: [reproducible paper]
+description: |
+  eproducibility, a cornerstone of research, requires defined data formats, which include the set-up and output of experiments. The Real-time PCR Data Markup Language (RDML) is a recommended standard of the Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) guidelines. Despite the popularity of the RDML format for analysis of qPCR data, handling of RDML files is not yet widely supported in all PCR curve analysis softwares. Results: This study describes the open source RDML package for the statistical computing language R.RDML is compatible with RDML versions ≤ 1.2 and provides functionality to (i) import RDML data; (ii) extract sample information (e.g., targets, concentration); (iii) transform data to various formats of the R environment; (iv) generate human readable run summaries; and (v) to create RDML files from user data. In addition, RDML offers a graphical user interface to read, edit and create RDML files.
+
+---
+title: |
   American Geophysical Union Coalition Receives Grant to Advance Open and FAIR Data Standards in the Earth and Space Sciences
 link: http://markets.businessinsider.com/news/stocks/American-Geophysical-Union-Coalition-Receives-Grant-to-Advance-Open-and-FAIR-Data-Standards-in-the-Earth-and-Space-Sciences-607529
 date: 2017-08-30 00:00:00
