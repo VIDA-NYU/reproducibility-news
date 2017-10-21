@@ -1,5 +1,23 @@
 ---
 title: |
+  A survey on provenance: What for? What form? What from?
+link: http://ceur-ws.org/Vol-1878/article-06.pdf
+date: 2017-10-21 00:00:00
+tags: [reproducible paper]
+description: |
+  Provenance refers to any information describing the production process of an end product, which can be anything from a piece of digital data to a physical object. While this survey focuses on the former type of end product, this definition still leaves room for many different interpretations of and approaches to provenance. These are typically motivated by different application domains for provenance (e.g., accountability, reproducibility, process debugging) and varying technical requirements such as runtime, scalability, or privacy. As a result, we observe a wide variety of provenance types and provenance-generating methods. This survey provides an overview of the research field of provenance, focusing on what provenance is used for (what for?), what types of provenance have been defined and captured for the different applications (what form?), and which resources and system requirements impact the choice of deploying a particular provenance solution (what from?). For each of these three key questions, we provide a classification and review the state of the art for each class. We conclude with a summary and possible future research challenges.
+
+---
+title: |
+  Jug: Software for parallel reproducible computation in Python
+link: http://luispedro.org/files/JugPaper.pdf
+date: 2017-10-21 00:00:00
+tags: [reproducible paper]
+description: |
+  As computational pipelines become a bigger part of science, it is important to ensure that the results are reproducible, a concern which has come to the fore in recent years. All developed software should be able to be run automatically without any user intervention. In addition to being valuable to the wider community, which may wish to reproduce or extend a published analysis, reproducible research practices allow for better control over the project by the original authors themselves. For example, keeping a non-executable record of parameters and command line arguments leads to error-prone analysis and opens up the possibility that, when the results are to be written up for publication, the researcher will no longer be able to even completely describe the process that led to them. For large projects, the use of multiple computational cores (either in a multi-core machine or distributed across a compute cluster) is necessary to obtain results in a useful time frame. Furthermore, it is often the case that, as the project evolves, it becomes necessary to save intermediate results while down-stream analyses are designed (or redesigned) and implemented. Under many frameworks, this causes having a single point of entry for the computation becomes increasingly difficult. Jug is a software framework which addresses these issues by caching intermediate results  and distributing the computational work as tasks across a network. Jug is written in Python without the use of compiled modules, is completely crossplatform, and available as free software under the liberal MIT license.
+
+---
+title: |
   Utilising Semantic Web Ontologies To Publish Experimental Workflows
 link: http://ceur-ws.org/Vol-1878/article-06.pdf
 date: 2017-09-14 00:00:00
