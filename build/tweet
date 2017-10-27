@@ -70,7 +70,7 @@ def tweet(entries):
     for entry in entries:
         time.sleep(60)
         text = "%s %s" % (shorten(entry['title']), entry['link'])
-        sys.stderr.write("TWEET: %s\n" % text)
+        sys.stderr.write(("TWEET: %s\n" % text).encode('utf-8'))
         api.update_status(text)
 
 def main():
