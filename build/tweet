@@ -31,7 +31,7 @@ alphanum = frozenset(
     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
 
 
-def shorten(text, length=115):
+def shorten(text, length=255):
     """Truncate the text if it is too long.
     """
     if len(text) > length:
