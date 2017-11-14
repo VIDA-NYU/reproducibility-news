@@ -1,5 +1,32 @@
 ---
 title: |  
+  THE DISMAL SCIENCE REMAINS DISMAL, SAY SCIENTISTS
+link: https://www.wired.com/story/econ-statbias-study/
+date: 2017-11-14 00:00:00
+tags: [popular news]
+description: |
+  The paper inhales more than 6,700 individual pieces of research, all meta-analyses that themselves encompass 64,076 estimates of economic outcomes. That’s right: It’s a meta-meta-analysis. And in this case, Doucouliagos never meta-analyzed something he didn’t dislike. Of the fields covered in this corpus, half were statistically underpowered—the studies couldn’t show the effect they said they did. And most of the ones that were powerful enough overestimated the size of the effect they purported to show. Economics has a profound effect on policymaking and understanding human behavior. For a science, this is, frankly, dismal.
+
+---
+title: |  
+  The reproducibility challenge – what researchers need
+link: http://septentrio.uit.no/index.php/SCS/article/view/4257
+date: 2017-11-14 00:00:00
+tags: [reproducibility guidelines]
+description: |
+  Within the Open Science discussions, the current call for “reproducibility” comes from the raising awareness that results as presented in research papers are not as easily reproducible as expected, or even contradicted those original results in some reproduction efforts. In this context, transparency and openness are seen as key components to facilitate good scientific practices, as well as scientific discovery. As a result, many funding agencies now require the deposit of research data sets, institutions improve the training on the application of statistical methods, and journals begin to mandate a high level of detail on the methods and materials used. How can researchers be supported and encouraged to provide that level of transparency? An important component is the underlying research data, which is currently often only partly available within the article. At Elsevier we have therefore been working on journal data guidelines which clearly explain to researchers when and how they are expected to make their research data available. Simultaneously, we have also developed the corresponding infrastructure to make it as easy as possible for researchers to share their data in a way that is appropriate in their field. To ensure researchers get credit for the work they do on managing and sharing data, all our journals support data citation in line with the FORCE11 data citation principles – a key step in the direction of ensuring that we address the lack of credits and incentives which emerged from the Open Data analysis (Open Data - the Researcher Perspective https://www.elsevier.com/about/open-science/research-data/open-data-report ) recently carried out by Elsevier together with CWTS. Finally, the presentation will also touch upon a number of initiatives to ensure the reproducibility of software, protocols and methods. With STAR methods, for instance, methods are submitted in a Structured, Transparent, Accessible Reporting format; this approach promotes rigor and robustness, and makes reporting easier for the author and replication easier for the reader.
+
+---
+title: |  
+  LHC PARAMETER REPRODUCIBILITY
+link: https://inspirehep.net/record/1635348/files/1635044_45-52.pdf
+date: 2017-11-14 00:00:00
+tags: [reproducible paper]
+description: |
+  This document reviews the stability of the main LHC operational parameters, namely orbit, tune, coupling and chromaticity. The analysis will be based on the LSA settings, measured parameters and real-time trims. The focus will be set on ramp and high energy reproducibility as they are more diflicult to assess and correct on a daily basis for certain parameters like chromaticity and coupling. The reproducibility of the machine in collision will be analysed in detail, in particular the beam offsets at the IPS since the ever decreasing beam sizes at the IPs make beam steering at the IP more and mode delicate.
+
+---
+title: |  
   Code and Data for the Social Sciences: A Practitioner’s Guide
 link: https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf
 date: 2017-11-13 00:00:00
