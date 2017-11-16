@@ -1,5 +1,14 @@
 ---
 title: |  
+  Utilising Semantic Web Ontologies To publish Experimental Workflows
+link: https://pdfs.semanticscholar.org/d480/3552b1e460c2acaf3848ad360db186257a61.pdf
+date: 2017-11-16 00:00:00
+tags: [reproducible paper]
+description: |
+  Reproducibility in experiments is necessary to verify claims and to reuse prior work in experiments that advance research. However, the traditional model of publication validates research claims through peer-review without taking reproducibility into account. Workflows encapsulate experiment descriptions and components and are suitable for representing reproducibility. Additionally, they can be published alongside traditional patterns as a form of documentation for the experiment which can be combined with linked open data. For reproducibility utilising published datasets, it is necessary to declare the conditions or restrictions for permissible reuse. In this paper, we take a look at the state of workflow reproducibility through a browser based tool and a corresponding study to identify how workflows might be combined with traditional forms of documentation and publication. We also discuss the licensing aspects for data in workflows and how it can be annotated using linked open data ontologies.
+
+---
+title: |  
   THE DISMAL SCIENCE REMAINS DISMAL, SAY SCIENTISTS
 link: https://www.wired.com/story/econ-statbias-study/
 date: 2017-11-14 00:00:00
