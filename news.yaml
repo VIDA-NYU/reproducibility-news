@@ -1,5 +1,14 @@
 ---
 title: |  
+  EnosStack: A LAMP-like stack for the experimenter
+link: https://hal.inria.fr/hal-01689726/document
+date: 2018-01-29 00:00:00
+tags: [reproducible paper]
+description: |
+  Reproducibility and repeatability dramatically increase the value of scientific experiments, but remain two challenging goals for the experimenters. Similar to the LAMP stack that considerably eased the web developers life, in this paper, we advocate the need of an analogous software stack to help the experimenters making reproducible research. We propose the EnosStack, an open source software stack especially designed for reproducible scientific experiments. EnosStack enables to easily describe experimental workflows meant to be re-used, while abstracting the underlying infrastructure running them. Being able to switch experiments from a local to a real testbed deployment greatly lower code development and validation time. We describe the abstractions that have driven its design, before presenting a real experiment we deployed on Grid'5000 to illustrate its usefulness. We also provide all the experiment code, data and results to the community.
+
+---
+title: |  
   Building capacity to encourage research reproducibility and #MakeResearchTrue
 link: http://jmla.mlanet.org/ojs/jmla/article/view/273/584
 date: 2018-01-14 00:00:00
