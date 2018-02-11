@@ -1,5 +1,14 @@
 ---
 title: |  
+  Re-Thinking Reproducibility as a Criterion for Research Quality
+link: http://philsci-archive.pitt.edu/14352/1/Reproducibility_2018_SL.pdf
+date: 2018-02-11 00:00:00
+tags: [reproducible paper]
+description: |
+  A heated debate surrounds the significance of reproducibility as an  indicator for research quality and reliability, with  many commentators linking a  "crisis of reproducibility" to the rise of fraudulent, careless and unreliable practices of knowledge production. Through the analysis of discourse and practices across research fields, I point out that reproducibility is not only interpreted in different ways, but also serves a variety of epistemic functions depending on the research at hand. Given such variation, I argue that the uncritical pursuit of reproducibility as an overarching epistemic value is misleading and potentially damaging to scientific advancement. Requirements for reproducibility, however they are interpreted, are one of many available means to securere liable research outcomes. Furthermore, there are cases wherethe focus on enhancing reproducibility turns out not to foster high-quality research. Scientific communities and Open Science advocates should learn from inferential reasoning from irreproducible data, and promoteincentives for all researchers to explicitly and publicly discuss (1) their methodological commitments, (2) the ways in which they learn from mistakes and problems in everyday practice, and (3) the strategies they use to choose which research component of any project needs to be preserved in the long term, and how.
+
+---
+title: |  
   EnosStack: A LAMP-like stack for the experimenter
 link: https://hal.inria.fr/hal-01689726/document
 date: 2018-01-29 00:00:00
