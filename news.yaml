@@ -1,5 +1,23 @@
 ---
 title: |  
+  Utilizing Provenance in Reusable Research Objects
+link: http://www.mdpi.com/2227-9709/5/1/14/htm
+date: 2018-03-13 00:00:00
+tags: [reproducible paper]
+description: |
+   Science is conducted collaboratively, often requiring the sharing of knowledge about computational experiments. When experiments include only datasets, they can be shared using Uniform Resource Identifiers (URIs) or Digital Object Identifiers (DOIs). An experiment, however, seldom includes only datasets, but more often includes software, its past execution, provenance, and associated documentation. The Research Object has recently emerged as a comprehensive and systematic method for aggregation and identification of diverse elements of computational experiments. While a necessary method, mere aggregation is not sufficient for the sharing of computational experiments. Other users must be able to easily recompute on these shared research objects. Computational provenance is often the key to enable such reuse. In this paper, we show how reusable research objects can utilize provenance to correctly repeat a previous reference execution, to construct a subset of a research object for partial reuse, and to reuse existing contents of a research object for modified reuse. We describe two methods to summarize provenance that aid in understanding the contents and past executions of a research object. The first method obtains a process-view by collapsing low-level system information, and the second method obtains a summary graph by grouping related nodes and edges with the goal to obtain a graph view similar to application workflow. Through detailed experiments, we show the efficacy and efficiency of our algorithms.
+
+---
+title: |  
+  Provenance and the Different Flavors of Computational Reproducibility
+link: http://sites.computer.org/debull/A18mar/A18MAR-CD.pdf#page=17
+date: 2018-03-13 00:00:00
+tags: [reproducible paper]
+description: |
+  While reproducibility has been a requirement in natural sciences for centuries, computational experiments have not followed the same standard. Often, there is insufficient information to reproduce computational results described in publications, and in the recent past, this has led to many retractions. Although scientists are aware of the numerous benefits of reproducibility, the perceived amount of work to make results reproducible is a significant disincentive. Fortunately, much of the information needed to reproduce an experiment can be obtained by systematically capturing its provenance. In this paper, we give an overview of different types of provenance and how they can be used to support reproducibility. We also describe a representative set of provenance tools and approaches that make it easy to create reproducible experiments.
+
+---
+title: |  
   Re-Thinking Reproducibility as a Criterion for Research Quality
 link: http://philsci-archive.pitt.edu/14352/1/Reproducibility_2018_SL.pdf
 date: 2018-02-11 00:00:00
