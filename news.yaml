@@ -1,5 +1,14 @@
 ---
 title: |  
+  Developer Interaction Traces backed by IDE Screen Recordings from Think aloud Sessions
+link: http://swat.polymtl.ca/~foutsekh/docs/MSR-Aiko-Trace.pdf
+date: 2018-04-10 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+  There are two well-known difficulties to test and interpret methodologies for mining developer interaction traces: first, the lack of enough large datasets needed by mining or machine learning approaches to provide reliable results; and second, the lack of "ground truth" or empirical evidence that can be used to triangulate the results, or to verify their accuracy and correctness. Moreover, relying solely on interaction traces limits our ability to take into account contextual factors that can affect the applicability of mining techniques in other contexts, as well hinders our ability to fully understand the mechanics behind observed phenomena. The data presented in this paper attempts to alleviate these challenges by providing 600+ hours of developer interaction traces, from which 26+ hours are backed with video recordings of the IDE screen and developer’s comments. This data set is relevant to researchers interested in investigating program comprehension, and those who are developing techniques for interaction traces analysis and mining.
+  
+---
+title: |  
   Reproducibility does not imply, innovation speeds up, and epistemic diversity optimizes discovery of truth in a model-centric meta-scientific framework
 link: https://arxiv.org/pdf/1803.10118.pdf
 date: 2018-04-01 00:00:00
