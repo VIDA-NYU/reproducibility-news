@@ -1,5 +1,23 @@
 ---
 title: |  
+  The state of reproducibility in the computational geosciences
+link: https://eartharxiv.org/kzu8e/
+date: 2018-04-16 00:00:00
+tags: [reproducible paper]
+description: |
+  Figures are essential outputs of computational geoscientific research, e.g. maps and time series showing the results of spatiotemporal analyses. They also play a key role in open reproducible research, where public access is provided to paper, data, and source code to enable reproduction of the reported results. This scientific ideal is rarely practiced as studies, e.g. in biology have shown. In this article, we report on a series of studies to evaluate open reproducible research in the geosciences from the perspectives of authors and readers. First, we asked geoscientists what they understand by open reproducible research and what hinders its realisation. We found there is disagreement amongst authors, and a lack of openness impedes the adoption by authors and readers alike. However, reproducible research also includes the ability to achieve the same results requiring not only accessible but executable source code. Hence, to further examine the reader’s perspective, we searched for open access papers from the geosciences that have code/data attached (in R) and executed the analysis. We encountered several technical issues while executing the code and found differences between the original and reproduced figures. Based on these findings, we propose guidelines for authors to address these.
+
+---
+title: |  
+  Estimating the Reproducibility of Experimental Philosophy
+link: https://psyarxiv.com/sxdah
+date: 2018-04-16 00:00:00
+tags: [reproducible paper]
+description: |
+  For scientific theories grounded in empirical data, replicability is a core principle, for at least two reasons. First, unless we accept to have scientific theories rest on the authority of a small number of researchers, empirical studies should be replicable, in the sense that its methods and procedure should be detailed enough for someone else to conduct the same study. Second, for empirical results to provide a solid foundation for scientific theorizing, they should also be replicable, in the sense that most attempts at replicating the original study that produced them would yield similar results. The XPhi Replicability Project is primarily concerned with replicability in the second sense, that is: the replicability of results. In the past year, several projects have shed doubt on the replicability of key findings in psychology, and most notably social psychology. Because the methods of experimental philosophy have often been close to the ones used in social psychology, it is only natural to wonder to which extent the results experimental philosophers ground their theory are replicable. The aim of the XPhi Replicability Project is precisely to reach a reliable estimate of the replicability of empirical results in experimental philosophy. To this end, several research teams across the world will replicate around 40 studies in experimental philosophy, some among the most cited, others drawn at random. The results of the project will be published in a special issue of the Review of Philosophy and Psychology dedicated to the topic of replicability in cognitive science.
+
+---
+title: |  
   Developer Interaction Traces backed by IDE Screen Recordings from Think aloud Sessions
 link: http://swat.polymtl.ca/~foutsekh/docs/MSR-Aiko-Trace.pdf
 date: 2018-04-10 00:00:00
