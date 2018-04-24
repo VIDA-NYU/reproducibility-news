@@ -1,11 +1,11 @@
 ---
 title: |  
-   reproducible-paper 
-link: https://gitlab.com/makhlaghi/reproducible-paper
-date: 2018-04-18 00:00:00
-tags: [reproducibility infrastructure]
+   Computational Reproducibility at Exascale 2017 (CRE2017)
+link: https://sc17.supercomputing.org/presentation/?id=wksp144&sess=sess132
+date: 2018-04-24 00:00:00
+tags: [reproducibility conference]
 description: |
-  This project contains a fully working template for a high-level research reproduction pipeline, or reproducible paper, as defined in the link below.
+  Reproducibility is an important concern in all areas of computation. As such, computational reproducibility is receiving increasing interest from a variety of parties who are concerned with different aspects of computational reproducibility. Computational reproducibility encompasses several concerns including the sharing of code and data, as well as reproducible numerical results which may depend on operating system, tools, levels of parallelism, and numerical effects. In addition, the publication of reproducible computational results motivates a host of computational reproducibility concerns that arise from the fundamental notion of reproducibility of scientific results that has normally been restricted to experimental science. This workshop combines the Numerical Reproducibility at Exascale Workshops (conducted in 2015 and 2016 at SC) and the panel on Reproducibility held at SC16 (originally a BOF at SC15) to address several different issues in reproducibility that arise when computing at exascale. The workshop will include issues of numerical reproducibility as well as approaches and best practices to sharing and running code.
 
 ---
 title: |  
