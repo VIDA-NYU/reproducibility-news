@@ -1,5 +1,14 @@
 ---
 title: |  
+   Dealing with the reproducibility crisis: what can ECRs do about it? 
+link: http://blogs.plos.org/thestudentblog/2018/04/27/dealing-with-the-reproducibility-crisis-what-can-ecrs-do-about-it/
+date: 2018-04-27 00:00:00
+tags: [popular news]
+description: |
+   Unless you’ve been living under a rock (no judgment, by the way), I’m sure you’ve heard about the reproducibility crisis in scientific research. In 2016, two posts on this blog covered what the main causes of irreproducibility are and what can be done, and how we can reform scientific publishing to value integrity. To briefly recap, a study published in PLOS biology noted that half of preclinical research is not reproducible. The estimated price tag on this irreproducibility is alarming—a whopping $28 billion. In my opinion, however, the most troubling cost of this crisis is its impact on public trust in science.
+
+---
+title: |  
    Computational Reproducibility at Exascale 2017 (CRE2017)
 link: https://sc17.supercomputing.org/presentation/?id=wksp144&sess=sess132
 date: 2018-04-24 00:00:00
