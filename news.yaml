@@ -1,5 +1,14 @@
 ---
 title: |  
+   Reflections on the Future of Research Curation and Research Reproducibility 
+link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8347157
+date: 2018-05-01 00:00:00
+tags: [reproducibility report]
+description: |
+  In the years since the launch of the World Wide Web in 1993, there have been profoundly transformative changes to the entire concept of publishing—exceeding all the previous combined technical advances of the centuries following the introduction of movable type in medieval Asia around the year 10001 and the subsequent large-scale commercialization of printing several centuries later by J. Gutenberg (circa 1440). Periodicals in print—from daily newspapers to scholarly journals—are now quickly disappearing, never to return, and while no publishing sector has been unaffected, many scholarly journals are almost unrecognizable in comparison with their counterparts of two decades ago. To say that digital delivery of the written word is fundamentally different is a huge understatement. Online publishing permits inclusion of multimedia and interactive content that add new dimensions to what had been available in print-only renderings. As of this writing, the IEEE portfolio of journal titles comprises 59 online only2 (31%) and 132 that are published in both print and online. The migration from print to online is more stark than these numbers indicate because of the 132 periodicals that are both print and online, the print runs are now quite small and continue to decline. In short, most readers prefer to have their subscriptions fulfilled by digital renderings only.
+
+---
+title: |  
    Dealing with the reproducibility crisis: what can ECRs do about it? 
 link: http://blogs.plos.org/thestudentblog/2018/04/27/dealing-with-the-reproducibility-crisis-what-can-ecrs-do-about-it/
 date: 2018-04-27 00:00:00
