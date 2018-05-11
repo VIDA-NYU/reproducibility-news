@@ -1,5 +1,41 @@
 ---
 title: |  
+   Evaluating Reproducibility in Computational Biology Research
+link: https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1682&context=honorsprojects
+date: 2018-05-11 00:00:00
+tags: [replication study]
+description: |
+   For my Honors Senior Project, I read five research papers in the field of computational biology and attempted to reproduce the results. However, for the most part, this proved a challenge, as many details vital to utilizing relevant software and data had been excluded. Using Geir Kjetil Sandve's paper "Ten Simple Rules for Reproducible Computational Research" as a guide, I discuss how authors of these five papers did and did not obey these rules of reproducibility and how this affected my ability to reproduce their results.
+
+---
+title: |  
+  Systematic reviews and evidence synthesis 
+link: https://crln.acrl.org/index.php/crlnews/article/view/16967/18703
+date: 2018-05-11 00:00:00
+tags: [reproducibility bibliography]
+description: |
+   While comprehensive and expert searching may be part of the traditional aspects of academic librarianship, systematic reviews also require transparency and reproducibility of search methodology. This work is supported by use of reporting guidelines and related librarian expertise. This guide provides resources that are useful to librarians assisting with systematic reviews in a broad range of disciplines outside the biomedical sciences. Because the bulk of published literature on systematic reviews is concentrated in the health sciences, some resources are subject-specific in title, but have broader applications.
+
+---
+title: |  
+   Climate Science Can Be More Transparent, Researchers Say
+link: https://www.scientificamerican.com/article/climate-science-can-be-more-transparent-researchers-say/
+date: 2018-05-11 00:00:00
+tags: [popular news]
+description: |
+   Top climate scientists say their field can improve its transparency. A group of researchers presented their findings on reproducibility in climate science to the National Academies of Sciences, Engineering and Medicine yesterday as part of a monthslong examination of scientific transparency.
+
+---
+title: |  
+   Scientific Research: Reproducibility and Bias in Chemistry
+link: https://www.decodedscience.org/scientific-research-reproducibility-bias-chemistry/62997
+date: 2018-05-11 00:00:00
+tags: [popular news]
+description: |
+   When scientists are able to recreate earlier research results, published by other scientists, the research is considered reproducible. But what happens when the results don’t match? It means that the initial research is non-reproducible. Reproducibility, or non-reproducibility, of scientific experiments seems straightforward; it implies that an experimental result is either valid or invalid. In fact, researchers affiliated with Stanford University, Tufts University, and University of Ioannina in Greece concluded in 2005 that a majority of all research findings are false. How do those invalid results end up in scientific papers? A group of Stanford researchers concluded that, in many cases, bias is to blame.
+
+---
+title: |  
    Use Cases of Computational Reproducibility for Scientific Workflows at Exascale
 link: https://arxiv.org/pdf/1805.00967.pdf
 date: 2018-05-05 00:00:00
