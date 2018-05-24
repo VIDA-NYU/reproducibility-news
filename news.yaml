@@ -1,5 +1,14 @@
 ---
 title: |  
+   Before reproducibility must come preproducibility
+link: https://www.nature.com/articles/d41586-018-05256-0
+date: 2018-05-24 00:00:00
+tags: [popular news]
+description: |
+   The lack of standard terminology means that we do not clearly distinguish between situations in which there is not enough information to attempt repetition, and those in which attempts do not yield substantially the same outcome. To reduce confusion, I propose an intuitive, unambiguous neologism: ‘preproducibility’. An experiment or analysis is preproducible if it has been described in adequate detail for others to undertake it. Preproducibility is a prerequisite for reproducibility, and the idea makes sense across disciplines.
+
+---
+title: |  
    Facilitating Reproducibility and Collaboration with Literate Programming
 link: https://hdekk.github.io/escience2018/
 date: 2018-05-13 00:00:00
