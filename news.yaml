@@ -1,5 +1,23 @@
 ---
 title: |  
+  Replication and Reproducibility in Cross-Cultural Psychology
+link: http://journals.sagepub.com/doi/abs/10.1177/0022022117744892
+date: 2018-05-26 00:00:00
+tags: [reproducible paper]
+description: |
+   Replication is the scientific gold standard that enables the confirmation of research findings. Concerns related to publication bias, flexibility in data analysis, and high-profile cases of academic misconduct have led to recent calls for more replication and systematic accumulation of scientific knowledge in psychological science. This renewed emphasis on replication may pose specific challenges to cross-cultural research due to inherent practical difficulties in emulating an original study in other cultural groups. The purpose of the present article is to discuss how the core concepts of this replication debate apply to cross-cultural psychology. Distinct to replications in cross-cultural research are examinations of bias and equivalence in manipulations and procedures, and that targeted research populations may differ in meaningful ways. We identify issues in current psychological research (analytic flexibility, low power) and possible solutions (preregistration, power analysis), and discuss ways to implement best practices in cross-cultural replication attempts.
+   
+---
+title: |  
+   Transparency on scientific instruments
+link: http://embor.embopress.org/content/early/2018/05/22/embr.201845853
+date: 2018-05-26 00:00:00
+tags: [reproducible paper]
+description: |
+   Scientific instruments are at the heart of the scientific process, from 17th‐century telescopes and microscopes, to modern particle colliders and DNA sequencing machines. Nowadays, most scientific instruments in biomedical research come from commercial suppliers [1], [2], and yet, compared to the biopharmaceutical and medical devices industries, little is known about the interactions between scientific instrument makers and academic researchers. Our research suggests that this knowledge gap is a cause for concern.
+
+---
+title: |  
    Before reproducibility must come preproducibility
 link: https://www.nature.com/articles/d41586-018-05256-0
 date: 2018-05-24 00:00:00
