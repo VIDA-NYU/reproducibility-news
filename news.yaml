@@ -1,5 +1,23 @@
 ---
 title: |  
+  The Crisis of Reproducibility, the Denominator Problem and the Scientific Role of Multi-Scale Modeling
+link: https://www.preprints.org/manuscript/201805.0308/v2
+date: 2018-05-29 00:00:00
+tags: [reproducible paper]
+description: |
+  The "Crisis of Reproducibility" has received considerable attention both within the scientific community and without. While factors associated with scientific culture and practical practice are most often invoked, I propose that the Crisis of Reproducibility is ultimately a failure of generalization with a fundamental scientific basis in the methods used for biomedical research. The Denominator Problem describes how limitations intrinsic to the two primary approaches of biomedical research, clinical studies and pre-clinical experimental biology, lead to an inability to effectively characterize the full extent of biological heterogeneity, which compromises the task of generalizing acquired knowledge. Drawing on the example of the unifying role of theory in the physical sciences, I propose that multi-scale mathematical and dynamic computational models, when mapped to the modular structure of biological systems, can serve a unifying role as formal representations of what is conserved and similar from one biological context to another. This ability to explicitly describe the generation of heterogeneity from similarity addresses the Denominator Problem and provides a scientific response to the Crisis of Reproducibility. 
+
+---
+title: |  
+  The 'end of the expert': why science needs to be above criticism
+link: https://www.repository.cam.ac.uk/handle/1810/276106
+date: 2018-05-29 00:00:00
+tags: [reproducible paper]
+description: |
+  In 1942, Robert Merton wrote that "Incipient and actual attacks upon the integrity of science" meant that science needed to "restate its objectives, seek out its rationale". Some 77 years later we are similarly in an environment where “the people of this country have had enough of experts". It is essential that science is able to withstand rigorous scrutiny to avoid being dismissed, pilloried or ignored. Transparency and reproducibility in the scientific process is a mechanism to meet this challenge and good research data management is a fundamental factor in this.
+
+---
+title: |  
   Replication and Reproducibility in Cross-Cultural Psychology
 link: http://journals.sagepub.com/doi/abs/10.1177/0022022117744892
 date: 2018-05-26 00:00:00
