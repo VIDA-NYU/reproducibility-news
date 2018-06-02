@@ -1,5 +1,23 @@
 ---
 title: |  
+  Have researchers increased reporting of outliers in response to the reproducibility crisis?
+link: https://osf.io/jq8eu
+date: 2018-06-02 00:00:00
+tags: [reproducible paper]
+description: |
+  Psychology is currently experiencing a "renaissance" where the replication and reproducibility of published reports are at the forefront of conversations in the field. While researchers have worked to discuss possible problems and solutions, work has yet to uncover how this new culture may have altered reporting practices in the social sciences. As outliers can bias both descriptive and inferential statistics, the search for these data points is essential to any analysis using these parameters. We quantified the rates of reporting of outliers within psychology at two time points: 2012 when the replication crisis was born, and 2017, after the publication of reports concerning replication, questionable research practices, and transparency. A total of 2235 experiments were identified and analyzed, finding an increase in reporting of outliers from only 15.7% of experiments mentioning outliers in 2012 to 25.0% in 2017. We investigated differences across years given the psychological field or statistical analysis that experiment employed. Further, we inspected whether outliers mentioned are whole participant observations or data points, and what reasons authors gave for stating the observation was deviant. We conclude that while report rates are improving overall, there is still room for improvement in the reporting practices of psychological scientists which can only aid in strengthening our science.
+  
+---
+title: |  
+  Sharing and Preserving Computational Analyses for Posterity with encapsulator
+link: http://tfjmp.org/files/publications/cise-2018.pdf
+date: 2018-06-02 00:00:00
+tags: [reproducible paper]
+description: |
+  Open  data  and  open-source  software  may be  part  of  the  solution  to  sciences  reproducibility crisis,   but   they   are   insufficient   to   guarantee   reproducibility. Requiring minimal end-user expertise, encapsulator creates a "time capsule" with reproducible code (right now, only supporting R code) in a self-contained computational environment. encapsulator provides end-users with a fully-featured desktop environment for reproducible research.
+
+---
+title: |  
   The Crisis of Reproducibility, the Denominator Problem and the Scientific Role of Multi-Scale Modeling
 link: https://www.preprints.org/manuscript/201805.0308/v2
 date: 2018-05-29 00:00:00
