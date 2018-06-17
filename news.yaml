@@ -1,5 +1,41 @@
 ---
 title: |  
+  Enabling the Verification of Computational Results: An Empirical Evaluation of Computational Reproducibility
+link: https://dl.acm.org/citation.cfm?doid=3214239.3214242
+date: 2018-06-16 00:00:00
+tags: [reproducible paper]
+description: |
+  The ability to independently regenerate published computational claims is widely recognized as a key component of scientific reproducibility. In this article we take a narrow interpretation of this goal, and attempt to regenerate published claims from author-supplied information, including data, code, inputs, and other provided specifications, on a different computational system than that used by the original authors. We are motivated by Claerbout and Donoho's exhortation of the importance of providing complete information for reproducibility of the published claim. We chose the Elsevier journal, the Journal of Computational Physics, which has stated author guidelines that encourage the availability of computational digital artifacts that support scholarly findings. In an IRB approved study at the University of Illinois at Urbana-Champaign (IRB #17329) we gathered artifacts from a sample of authors who published in this journal in 2016 and 2017. We then used the ICERM criteria generated at the 2012 ICERM workshop "Reproducibility in Computational and Experimental Mathematics" to evaluate the sufficiency of the information provided in the publications and the ease with which the digital artifacts afforded computational reproducibility. We find that, for the articles for which we obtained computational artifacts, we could not easily regenerate the findings for 67% of them, and we were unable to easily regenerate all the findings for any of the articles. We then evaluated the artifacts we did obtain (55 of 306 articles) and find that the main barriers to computational reproducibility are inadequate documentation of code, data, and workflow information (70.9%), missing code function and setting information, and missing licensing information (75%). We recommend improvements based on these findings, including the deposit of supporting digital artifacts for reproducibility as a condition of publication, and verification of computational findings via re-execution of the code when possible.
+
+---
+title: |  
+  Improving Reproducibility of Distributed Computational Experiments
+link: https://dl.acm.org/citation.cfm?doid=3214239.3214241
+date: 2018-06-16 00:00:00
+tags: [reproducible paper]
+description: |
+  Conference and journal publications increasingly require experiments associated with a submitted article to be repeatable. Authors comply to this requirement by sharing all associated digital artifacts, i.e., code, data, and environment configuration scripts. To ease aggregation of the digital artifacts, several tools have recently emerged that automate the aggregation of digital artifacts by auditing an experiment execution and building a portable container of code, data, and environment. However, current tools only package non-distributed computational experiments. Distributed computational experiments must either be packaged manually or supplemented with sufficient documentation. In this paper, we outline the reproducibility requirements of distributed experiments using a distributed computational science experiment involving use of message-passing interface (MPI), and propose a general method for auditing and repeating distributed experiments. Using Sciunit we show how this method can be implemented. We validate our method with initial experiments showing application re-execution runtime can be improved by 63% with a trade-off of longer run-time on initial audit execution.
+
+---
+title: |  
+  Popper Pitfalls
+link: https://dl.acm.org/citation.cfm?doid=3214239.3214243
+date: 2018-06-16 00:00:00
+tags: [reproducible paper]
+description: |
+  We describe the four publications we have tried to make reproducible and discuss how each paper has changed our workflows, practices, and collaboration policies. The fundamental insight is that paper artifacts must be made reproducible from the start of the project; artifacts are too difficult to make reproducible when the papers are (1) already published and (2) authored by researchers that are not thinking about reproducibility. In this paper, we present the best practices adopted by our research laboratory, which was sculpted by the pitfalls we have identified for the Popper convention. We conclude with a "call-to-arms" for the community focused on enhancing reproducibility initiatives for academic conferences, industry environments, and national laboratories. We hope that our experiences will shape a best practices guide for future reproducible papers.
+
+---
+title: |   
+  Supporting Long-term Reproducible Software Execution
+link: https://dl.acm.org/citation.cfm?doid=3214239.3214245
+date: 2018-06-16 00:00:00
+tags: [reproducible paper]
+description: |
+  A recent widespread realization that software experiments are not as easily replicated as once believed brought software execution preservation to the science spotlight. As a result, scientists, institutions, and funding agencies have recently been pushing for the development of methodologies and tools that preserve software artifacts. Despite current efforts, long term reproducibility still eludes us. In this paper, we present the requirements for software execution preservation and discuss how to improve long-term reproducibility in science. In particular, we discuss the reasons why preserving binaries and pre-built execution environments is not enough and why preserving the ability to replicate results is not the same as preserving software for reproducible science. Finally, we show how these requirements are supported by Occam, an open curation framework that fully preserves software and its dependencies from source to execution, promoting transparency, longevity, and re-use. Specifically, Occam provides the ability to automatically deploy workflows in a fully-functional environment that is able to not only run them, but make them easily replicable.
+
+---
+title: |  
   Have researchers increased reporting of outliers in response to the reproducibility crisis?
 link: https://osf.io/jq8eu
 date: 2018-06-02 00:00:00
