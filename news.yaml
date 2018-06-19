@@ -1,5 +1,23 @@
 ---
 title: |  
+  The RAMP framework: from reproducibility to transparency in the design and optimization of scientific workflows 
+link: hhttps://openreview.net/pdf?id=Syg4NHz4eQ
+date: 2018-06-19 00:00:00
+tags: [reproducible paper]
+description: |
+  The RAMP (Rapid Analytics and Model Prototyping) is a software and project management tool developed by the Paris-Saclay Center for Data Science. The original goal was to accelerate the adoption of high-quality data science solutions for domain science problems by running rapid collaborative prototyping sessions. Today it is a full-blown data science project management tool promoting reproducibility, fair and transparent model evaluation, and democratization of data science.  We have used the framework for setting up and solving about twenty scientific problems, for organizing scientific sub-communities around these events, and for training novice data scientists.
+
+---
+title: |  
+  Three Dimensions of Reproducibility in Natural Language Processing
+link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5998676/
+date: 2018-06-19 00:00:00
+tags: [reproducible paper]
+description: |
+  Despite considerable recent attention to problems with reproducibility of scientific research, there is a striking lack of agreement about the definition of the term. That is a problem, because the lack of a consensus definition makes it difficult to compare studies of reproducibility, and thus to have even a broad overview of the state of the issue in natural language processing. This paper proposes an ontology of reproducibility in that field. Its goal is to enhance both future research and communication about the topic, and retrospective meta-analyses. We show that three dimensions of reproducibility, corresponding to three kinds of claims in natural language processing papers, can account for a variety of types of research reports. These dimensions are reproducibility of a conclusion, of a finding, and of a value. Three biomedical natural language processing papers by the authors of this paper are analyzed with respect to these dimensions.
+
+---
+title: |  
   Enabling the Verification of Computational Results: An Empirical Evaluation of Computational Reproducibility
 link: https://dl.acm.org/citation.cfm?doid=3214239.3214242
 date: 2018-06-16 00:00:00
