@@ -972,7 +972,7 @@ link: https://figshare.com/articles/Publishing_a_reproducible_paper/4720996
 date: 2017-03-03 00:00:00
 tags: [reproducibility talk]
 description: |
- Adolescence is a period of human brain growth and high incidence of mental health disorders. In 2016 the Neuroscience in Psychiatry Network published a study of adolescent brain development which showed that the hubs of the structural connectome are late developing and are found in association cortex (http://dx.doi.org/10.1073/pnas.1601745113). Furthermore these regions are enriched for genes related to schizophrenia. In this presentation Dr Kirstie Whitaker will demonstrate how this work is supported by open data and analysis code, and that the results replicate in two independent cohorts of teenagers. She will encourage Brainhack-Global participants to take steps towards ensuring that their work meets these standards for open and reproducible science in 2017 and beyond.
+ Adolescence is a period of human brain growth and high incidence of mental health disorders. In 2016 the Neuroscience in Psychiatry Network published a study of adolescent brain development which showed that the hubs of the structural connectome are late developing and are found in association cortex (https://doi.org/10.1073/pnas.1601745113). Furthermore these regions are enriched for genes related to schizophrenia. In this presentation Dr Kirstie Whitaker will demonstrate how this work is supported by open data and analysis code, and that the results replicate in two independent cohorts of teenagers. She will encourage Brainhack-Global participants to take steps towards ensuring that their work meets these standards for open and reproducible science in 2017 and beyond.
 
 ---
 title: |
@@ -1805,7 +1805,7 @@ description: |
 ---
 title: |
   Never Waste a Good Crisis: Confronting Reproducibility in Translational Research
-link: http://dx.doi.org/10.1016/j.cmet.2016.08.006
+link: https://doi.org/10.1016/j.cmet.2016.08.006
 date: 2016-09-14 00:00:00
 tags: [news article]
 description: |
@@ -1958,7 +1958,7 @@ description: |
 ---
 title: |
   Empowering Multi-Cohort Gene Expression Analysis to Increase Reproducibility
-link: http://dx.doi.org/10.1101/071514
+link: https://doi.org/10.1101/071514
 date: 2016-08-25 00:00:00
 tags: [reproducibility study]
 description: |
@@ -2048,7 +2048,7 @@ description: |
 ---
 title: |
   Standardized Mixed-Meal Tolerance and Arginine Stimulation Tests Provide Reproducible and Complementary Measures ofb-cell Function: Results From the Foundation for the National Institutes of Health Biomarkers Consortium Investigative Series
-link: http://dx.doi.org/10.2337/dc15-0931
+link: https://doi.org/10.2337/dc15-0931
 date: 2016-08-02 00:00:00
 tags: [reproducible paper]
 description: |
@@ -2057,7 +2057,7 @@ description: |
 ---
 title: |
   A statistical definition for reproducibility and replicability
-link: http://dx.doi.org/10.1101/066803
+link: https://doi.org/10.1101/066803
 date: 2016-07-31 00:00:00
 tags: [reproducibility guidelines]
 description: |
@@ -2210,7 +2210,7 @@ description: |
 ---
 title: |
   Reproducibility Data for: Direct and Indirect Welfare Chauvinism as Party Strategies
-link: http://dx.doi.org/10.7910/DVN/ZLFP3A
+link: https://doi.org/10.7910/DVN/ZLFP3A
 date: 2016-06-29 00:00:00
 tags: [reproducible paper]
 description: |
@@ -2372,7 +2372,7 @@ description: |
 ---
 title: |
   Money back guarantees for non-reproducible results?
-link: http://dx.doi.org/10.1136/bmj.i2770
+link: https://doi.org/10.1136/bmj.i2770
 date: 2016-05-24 00:00:00
 tags: [news article]
 description: |
@@ -2606,7 +2606,7 @@ description: |
 ---
 title: |
   The Legal Framework for Reproducible Scientific Research: Licensing and Copyright
-link: http://doi.ieeecomputersociety.org/10.1109/MCSE.2009.19
+link: https://web.stanford.edu/%7Evcs/papers/LFRSR12012008.pdf
 date: 2009-01-01 00:00:00
 tags: [open access]
 description: |
@@ -2813,7 +2813,7 @@ description: |
 ---
 title: |
   A Practical Guide for Improving transparency and Reproducibility in Neuroimaging Research
-link: http://dx.doi.org/10.1101/039354
+link: https://doi.org/10.1101/039354
 date: 2016-02-14 00:00:00
 tags: [reproducibility guidelines]
 description: |
@@ -3245,7 +3245,7 @@ description: |
 ---
 title: |
   Reproducibility blues
-link: https://dx.doi.org/10.15252/embj.201570090
+link: https://doi.org/10.15252/embj.201570090
 date: 2015-04-11 00:00:00
 tags: [popular news]
 description: |
