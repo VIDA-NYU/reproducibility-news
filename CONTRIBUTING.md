@@ -5,7 +5,7 @@ We would absolutely love any pull requests to contribute materials to our RSS fe
 ## Best Practices for Contributing
 * Make sure that the resource you are suggesting isn't already in the feed.
 * Make sure the resource you are suggesting is open access. This means that anyone should be able to access, read, and/or download it without having to pay money or login.
-* Be sure to add at least one tag to the resource. You can find a list of tags in the README file in this repository.
+* Be sure to add at least one tag to the resource. You can find a [list of tags in the README file](README.md#rss-tags) in this repository.
 
 ## Workflow
 If you'd like to contribute, then you need to edit the news.yaml file in the reproducibility-news GitHub repository. Use this link to go to directly edit the file: https://github.com/ViDA-NYU/reproducibility-news/edit/master/news.yaml. If you click that, GitHub will ask you to fork the repository to make changes to the file like so:
