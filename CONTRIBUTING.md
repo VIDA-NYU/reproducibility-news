@@ -10,7 +10,7 @@ We would absolutely love any pull requests to contribute materials to our RSS fe
 ## Workflow
 If you'd like to contribute, then you need to edit the news.yaml file in the reproducibility-news GitHub repository. Use this link to go to directly edit the file: https://github.com/ViDA-NYU/reproducibility-news/edit/master/news.yaml. If you click that, GitHub will ask you to fork the repository to make changes to the file like so:
 
-![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow.png)
+![](https://github.com/ViDA-NYU/reproducible-science/blob/master/images/workflow.png)
 
 Afterward, you'll be redirected to directly edit the file (in a repository in your account). Edit the news.yaml file by adding this template at the top of the file:
 
@@ -26,19 +26,19 @@ Afterward, you'll be redirected to directly edit the file (in a repository in yo
 
 You should at least change the title, date (when the resource was created), tags (you must have one, but can have many separated by a comma in the square brackets), and a brief description. The description can be multi-line or one line.
 
-![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow1.png)
+![](https://github.com/ViDA-NYU/reproducible-science/blob/master/images/workflow1.png)
 
 Please make sure you that you have two lines between the description of the current entry and the title of the next entry. After you are finished, at the bottom of the web page you should see a space to add a descriptive message about your changes, and a button that says 'Propose file change'. After you write your concise, descriptive message about your changes, click that button!
 
-![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow2.png)
+![](https://github.com/ViDA-NYU/reproducible-science/blob/master/images/workflow2.png)
 
 This will initiate a pull request -- meaning, you'll be asking us to integrate your resource into the canonical feed. All you need to do is click the 'Create pull request' button:
 
-![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow3.png)
+![](https://github.com/ViDA-NYU/reproducible-science/blob/master/images/workflow3.png)
 
 And you'll be asked to add a bit more description and rename the title of the pull request (all optional but recommended). Please make sure you check 'Allow edits from maintainers' before you submit your pull request.
 
-![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow4.png)
+![](https://github.com/ViDA-NYU/reproducible-science/blob/master/images/workflow4.png)
 
 ## That's it!
 
