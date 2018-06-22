@@ -1,9 +1,9 @@
 # Contributing
 
-We would absolutely love any pull requests to contribute materials to our RSS feed of curated materials about reproducibility. If you add resources to our feed, the contributions will be tweeted out via the [@ReproFeed](https://twitter.com/ReproFeed) twitter bot, and added to the directory on [reproduciblescience.org](https://reproduciblescience.org/directory).
+We would absolutely love any pull requests to contribute materials to our RSS feed of curated materials about reproducibility. If you add resources to our feed, the contributions will be tweeted out via the [@ReproFeed](https://twitter.com/ReproFeed) twitter bot and added to the directory on [reproduciblescience.org](https://reproduciblescience.org/directory).
 
 ## Best Practices for Contributing
-* Make sure that the resource you are suggesting isn't already in the feed. 
+* Make sure that the resource you are suggesting isn't already in the feed.
 * Make sure the resource you are suggesting is open access. This means that anyone should be able to access, read, and/or download it without having to pay money or login.
 * Be sure to add at least one tag to the resource. You can find a list of tags in the README file in this repository.
 
@@ -12,7 +12,7 @@ If you'd like to contribute, then you need to edit the news.yaml file in the rep
 
 ![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow.png)
 
-Afterwards, you'll be redirected to directly edit the file (in a repository in your account). Edit the news.yaml file by adding this template at the top of the file:
+Afterward, you'll be redirected to directly edit the file (in a repository in your account). Edit the news.yaml file by adding this template at the top of the file:
 
      ---
      title: |
@@ -24,7 +24,7 @@ Afterwards, you'll be redirected to directly edit the file (in a repository in y
        Multi-line description here. Will show up in RSS readers.
        Like the title field, be careful not to forget the indentation (2 spaces).
 
-You should at least change the title, date (when the resource was created), tags (you must have one, but can have many separated by a comma in the square brackets), and brief description. The description can be multi-line or one line.
+You should at least change the title, date (when the resource was created), tags (you must have one, but can have many separated by a comma in the square brackets), and a brief description. The description can be multi-line or one line.
 
 ![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow1.png)
 
@@ -32,7 +32,7 @@ Please make sure you that you have two lines between the description of the curr
 
 ![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow2.png)
 
-This will initiate a pull request -- meaning, you'll be asking us to integrate your resource into the canonical feed. All you need to do is click the 'Create pull request' button: 
+This will initiate a pull request -- meaning, you'll be asking us to integrate your resource into the canonical feed. All you need to do is click the 'Create pull request' button:
 
 ![](https://github.com/VickySteeves/reproducible-science/blob/master/images/workflow3.png)
 
@@ -42,4 +42,4 @@ And you'll be asked to add a bit more description and rename the title of the pu
 
 ## That's it!
 
-Thanks for your contribution! We will do our best to get to your pull request in as timely a manner as possible. 
+Thanks for your contribution! We will do our best to get to your pull request in as timely a manner as possible.
