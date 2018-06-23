@@ -1,5 +1,23 @@
 ---
 title: |  
+  Teaching computational reproducibility for neuroimaging
+link: https://arxiv.org/pdf/1806.06145.pdf
+date: 2018-06-23 00:00:00
+tags: [reproducible paper]
+description: |
+  We describe a project-based introduction to reproducible and collaborative neuroimaging analysis. Traditional teaching on neuroimaging usually consists of a series of lectures that emphasize the big picture rather than the foundations on which the techniques are based. The lectures are often paired with practical workshops in which students run imaging analyses using the graphical interface of specific neu-roimaging software packages. Our experience suggests that this combination leaves the student with asuperficial understanding of the underlying ideas, and an informal, inefficient, and inaccurate approach to  analysis.   To  address  these  problems,  we  based  our  course  around a substantial  open-ended  group project.  This allowed us to teach:  (a) computational tools to ensure computationally reproducible work,such as the Unix command line, structured code, version control, automated testing, and code reviewand (b) a clear understanding of the statistical techniques used for a basic analysis of a single run in an MRI scanner.  The emphasis we put on the group project showed the importance of standard computational tools for accuracy, efficiency, and collaboration.  The projects were broadly successful in engagingstudents in working reproducibly on real scientific questions.  We propose that a course on this modelshould be the foundation for future programs in neuroimaging.  We believe it will also serve as a modelfor teaching efficient and reproducible research in other fields of computational science
+ 
+---
+title: |  
+  YAMP: a containerised workflow enabling reproducibility in metagenomics research
+link: https://watermark.silverchair.com/giy072.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAdIwggHOBgkqhkiG9w0BBwagggG_MIIBuwIBADCCAbQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM9e5qZs5DsbcT7x6rAgEQgIIBhSLDG-1fl8D5GYdRDo-2wBE35B-JUWT1SELphgsGS_7CBSCg9GQc7B81NfOMex-RSvfwHbIBIbz5nksrXpTSpkpqjAMuzfrTNxDmLykrRHKT77Aor9BJNfACV3E2eOy1GXT6B08kbo77o85nn8G8vdSE9Qf7Dv-ACvv2bEi07bZrQ2WPC14oEFIOWKmorKXrhIcQrI7CrU3MyoypLWGhEsLh4BnTgSbs13V4yTpI7FbPur6wUMVBP81cru_Ud33rwrH4GKKADD8RYRMMwuN3RU_ZSl-XVDe2ph6RBw6KPfnA_imkXp8SRjPfsy5xieC8JJo4RqnQKsrMp895HOc3OI5nD0gyPJqWpPqqBOdDGb5hPaFpBfT_bJidP6xsIrQP9zleZAHSsEewOPfDOzCnycVPoJIhcyWCpTu3McLAu3IRny3XZKa2EtxvgRR9Tgcm7s-WHYh1MxvlabnKaboJE08SiPCr_T6CCKEkUhTovpwja1NrmhuQM5HYPY9ZRjrPd4-Nt2xG
+date: 2018-06-19 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+  YAMP is a user-friendly workflow that enables the analysis of whole shotgun metagenomic data while using containerisation to ensure computational reproducibility and facilitate collaborative research. YAMP can be executed on any UNIX-like system, and offers seamless support for multiple job schedulers as well as for Amazon AWS cloud. Although YAMP has been developed to be ready-to-use by non-experts, bioinformaticians will appreciate its flexibility, modularisation, and simple customisation. The YAMP script, parameters, and documentation are available at https://github.com/alesssia/YAMP.
+
+---
+title: |  
   The RAMP framework: from reproducibility to transparency in the design and optimization of scientific workflows 
 link: https://openreview.net/pdf?id=Syg4NHz4eQ
 date: 2018-06-19 00:00:00
