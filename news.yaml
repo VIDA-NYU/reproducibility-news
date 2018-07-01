@@ -1,5 +1,14 @@
 ---
 title: |  
+  How to Read a Research Compendium
+link: https://arxiv.org/pdf/1806.09525.pdf
+date: 2018-06-30 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+  Researchers spend a great deal of time reading research papers. Keshav (2012) provides a three-pass method to researchers to improve their reading skills. This article extends Keshav's method for reading a research compendium. Research compendia are an increasingly used form of publication, which packages not only the research paper's text and figures, but also all data and software for better reproducibility. We introduce the existing conventions for research compendia and suggest how to utilise their shared properties in a structured reading process. Unlike the original, this article is not build upon a long history but intends to provide guidance at the outset of an emerging practice. 
+
+---
+title: |  
   Teaching computational reproducibility for neuroimaging
 link: https://arxiv.org/pdf/1806.06145.pdf
 date: 2018-06-23 00:00:00
