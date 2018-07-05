@@ -1,5 +1,14 @@
 ---
 title: |  
+  DataPackageR: Reproducible data preprocessing, standardization and sharing using R/Bioconductor for collaborative data analysis
+link: https://gatesopenresearch.org/articles/2-31/v1
+date: 2018-07-05 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+   A central tenet of reproducible research is that scientific results are published along with the underlying data and software code necessary to reproduce and verify the findings. A host of tools and software have been released that facilitate such work-flows and scientific journals have increasingly demanded that code and primary data be made available with publications. There has been little practical advice on implementing reproducible research work-flows for large ’omics’ or systems biology data sets used by teams of analysts working in collaboration. In such instances it is important to ensure all analysts use the same version of a data set for their analyses. Yet, instantiating relational databases and standard operating procedures can be unwieldy, with high "startup" costs and poor adherence to procedures when they deviate substantially from an analyst’s usual work-flow. Ideally a reproducible research work-flow should fit naturally into an individual’s existing work-flow, with minimal disruption. Here, we provide an overview of how we have leveraged popular open source tools, including Bioconductor, Rmarkdown, git version control, R, and specifically R’s package system combined with a new tool DataPackageR, to implement a lightweight reproducible research work-flow for preprocessing large data sets, suitable for sharing among small-to-medium sized teams of computational scientists. Our primary contribution is the DataPackageR tool, which decouples time-consuming data processing from data analysis while leaving a traceable record of how raw data is processed into analysis-ready data sets. The software ensures packaged data objects are properly documented and performs checksum verification of these along with basic package version management, and importantly, leaves a record of data processing code in the form of package vignettes. Our group has implemented this work-flow to manage, analyze and report on pre-clinical immunological trial data from multi-center, multi-assay studies for the past three years. 
+
+---
+title: |  
   How to Read a Research Compendium
 link: https://arxiv.org/pdf/1806.09525.pdf
 date: 2018-06-30 00:00:00
