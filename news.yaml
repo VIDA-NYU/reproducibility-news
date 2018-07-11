@@ -1,5 +1,14 @@
 ---
 title: |  
+  Software Reproducibility: How to put it into practice?
+link: https://osf.io/z48cm/
+date: 2018-07-11 00:00:00
+tags: [reproducible paper]
+description: |
+  On 24 May 2018, Maria Cruz, Shalini Kurapati, and Yasemin Türkyilmaz-van der Velden led a workshop titled “Software Reproducibility: How to put it into practice?”, as part of the event Towards cultural change in data management - data stewardship in practice held at TU Delft, the Netherlands. There were 17 workshop participants, including researchers, data stewards, and research software engineers. Here we describe the rationale of the workshop, what happened on the day, key discussions and insights, and suggested next steps.
+
+---
+title: |  
   DataPackageR: Reproducible data preprocessing, standardization and sharing using R/Bioconductor for collaborative data analysis
 link: https://gatesopenresearch.org/articles/2-31/v1
 date: 2018-07-05 00:00:00
