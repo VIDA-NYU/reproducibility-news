@@ -46,7 +46,7 @@ def shorten(text, length=255):
 def has_been_tweeted(last_tweets, entry):
     """Find whether this entry is present in the list of latest tweets.
     """
-    text = shorten(entry['title'])
+    text = shorten(entry['title'], 115)
 
     pattern = ['^']
     for c in text:
