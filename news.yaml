@@ -1,5 +1,23 @@
 ---
 title: |  
+  Using Provenance for Generating Automatic Citations
+link: https://www.usenix.org/system/files/conference/tapp2018/tapp2018-paper-ton-that.pdf
+date: 2018-07-12 00:00:00
+tags: [reproducible paper]
+description: |
+  When computational experiments include only datasets, they could be shared through the Uniform Resource Identifiers (URIs) or Digital Object Identifiers (DOIs) which point to these resources. However, experiments seldom include only datasets, but most often also include software, execution results, provenance, and other associated documentation. The Research Object has recently emerged as a comprehensive and systematic method for aggregation and identification of diverse elements of computational experiments. While an entire Research Object may be citable using a URI or a DOI, it is often desirable to cite specific sub-components of a research object to help identify, authorize, date, and retrieve the published sub-components of these objects. In this paper, we present an approach to automatically generate citations for sub-components of research objects by using the object’s recorded provenance traces. The generated citations can be used "as is" or taken as suggestions that can be grouped and combined to produce higher level citations.
+
+---
+title: |  
+  Variable Bibliographic Database Access Could Limit Reproducibility 
+link: https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biy074/5050469
+date: 2018-07-12 00:00:00
+tags: [reproducible paper]
+description: |
+  Bibliographic databases provide access to scientific literature through targeted queries. The most common uses of these services, aside from accessing scientific literature for personal use, are to find relevant citations for formal surveys of scientific literature, such as systematic reviews or meta-analysis, or to estimate the number of publications on a certain topic as a measure of sampling effort. Bibliographic search tools vary in the level of access to the scientific literature they allow. For instance, Google Scholar is a bibliographic search engine which allows users to find (but not necessarily access) scientific literature for no charge, whereas other services, such as Web of Science, are subscription based, allowing access to full texts of academic works at costs that can exceed $100,000 annually for large universities (Goodman 2005). One of the most commonly used bibliographic databases, Clarivate Analytics–produced Web of Science, offers tailored subscriptions to their citation indexing service. This flexibility allows subscriptions and resulting access to be tailored to the needs of researchers at the institution (Goodwin 2014). However, there are issues created by this differential access, which we discuss further below.
+
+---
+title: |  
   Software Reproducibility: How to put it into practice?
 link: https://osf.io/z48cm/
 date: 2018-07-11 00:00:00
