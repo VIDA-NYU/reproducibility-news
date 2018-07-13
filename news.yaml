@@ -1,5 +1,41 @@
 ---
 title: |  
+  Institutional Framework and Responsibilities: Facing Open Science’s challenges and assuring quality of research
+link: https://www.repository.cam.ac.uk/handle/1810/276203
+date: 2018-07-13 00:00:00
+tags: [reproducibility talk]
+description: |
+  This presentation to LERU workshop: Nurturing a Culture of Responsible Research in the Era of Open Science considered the issue of the credibility of science being in question in a 'post-truth' world and how reproducibility is adding to the problem. Open Science offers a solution, but it is not easy to implement, particularly by research institutions. The main issues relate to language used in the open space, that solutions look different to different disciplines, that researchers are often feeling "under siege" and that we need to reward good open practice.
+
+---
+title: |  
+  Reproducible science: What, why, how
+link: https://digital.csic.es/handle/10261/145975
+date: 2018-07-13 00:00:00
+tags: [reproducible paper]
+description: |
+  Most scientific papers are not reproducible: it is really hard, if not impossible, to understand how results are derived from data, and being able to regenerate them in the future (even by the same researchers). However, traceability and reproducibility of results are indispensable elements of highquality science, and an increasing requirement of many journals and funding sources. Reproducible studies include code able to regenerate results from the original data. This practice not only provides a perfect record of the whole analysis but also reduces the probability of errors and facilitates code reuse, thus accelerating scientific progress. But doing reproducible science also brings many benefits to the individual researcher, including saving time and effort, improved collaborations, and higher quality and impact of final publications. In this article we introduce reproducible science, why it is important, and how we can improve the reproducibility of our work. We introduce principles and tools for data management, analysis, version control, and software management that help us achieve reproducible workflows in the context of ecology.
+
+---
+title: |  
+  A Primer on the ‘Reproducibility Crisis’ and Ways to Fix It
+link: https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8462.12262
+date: 2018-07-13 00:00:00
+tags: [reproducible paper]
+description: |
+  This article uses the framework of Ioannidis (2005) to organise a discussion of issues related to the ‘reproducibility crisis’. It then goes on to use that framework to evaluate various proposals to fix the problem. Of particular interest is the ‘post‐study probability’, the probability that a reported research finding represents a true relationship. This probability is inherently unknowable. However, a number of insightful results emerge if we are willing to make some conjectures about reasonable parameter values. Among other things, this analysis demonstrates the important role that replication can play in improving the signal value of empirical research.
+
+---
+title: |  
+  A Statistical Model to Investigate the Reproducibility Rate Based on Replication Experiments
+link: https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12273
+date: 2018-07-13 00:00:00
+tags: [reproducible paper]
+description: |
+  The reproducibility crisis, that is, the fact that many scientific results are difficult to replicate, pointing to their unreliability or falsehood, is a hot topic in the recent scientific literature, and statistical methodologies, testing procedures and p‐values, in particular, are at the centre of the debate. Assessment of the extent of the problem–the reproducibility rate or the false discovery rate–and the role of contributing factors are still an open problem. Replication experiments, that is, systematic replications of existing results, may offer relevant information on these issues. We propose a statistical model to deal with such information, in particular to estimate the reproducibility rate and the effect of some study characteristics on its reliability. We analyse data from a recent replication experiment in psychology finding a reproducibility rate broadly coherent with other assessments from the same experiment. Our results also confirm the expected role of some contributing factor (unexpectedness of the result and room for bias) while they suggest that the similarity between original study and the replica is not so relevant, thus mitigating some criticism directed to replication experiments.
+
+---
+title: |  
   Using Provenance for Generating Automatic Citations
 link: https://www.usenix.org/system/files/conference/tapp2018/tapp2018-paper-ton-that.pdf
 date: 2018-07-12 00:00:00
