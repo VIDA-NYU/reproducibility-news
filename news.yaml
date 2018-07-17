@@ -1,5 +1,32 @@
 ---
 title: |  
+  Preserving Workflow Reproducibility: The RePlay-DH Client as a Tool for Process Documentation
+link: http://www.lrec-conf.org/proceedings/lrec2018/pdf/707.pdf
+date: 2018-07-17 00:00:00
+tags: [reproducible paper]
+description: |
+  In this  paper  we  present  a  software  tool  for  elicitation  and  management  of  process  metadata.   It  follows  our  previously  published design idea of an assistant for researchers that aims at minimizing the additional effort required for producing a sustainable workflow documentation.   With  the  ever-growing  number  of  linguistic  resources  available,  it  also  becomes  increasingly  important  to  provide proper  documentation  to  make  them  comparable  and  to  allow  meaningful  evaluations  for  specific  use  cases.   The  often  prevailing practice  of  post  hoc  documentation  of  resource  generation  or  research  processes  bears  the  risk  of  information  loss.   Not  only  does detailed documentation of a process aid in achieving reproducibility, it also increases usefulness of the documented work for others as a cornerstone of good scientific practice.  Time pressure together with the lack of simple documentation methods leads to workflow documentation in practice being an arduous and often neglected task. Our tool ensures a clean documentation for common workflows in natural language processing and digital humanities. Additionally, it can easily be integrated into existing institutional infrastructures.
+
+---
+title: |  
+  Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability
+link: http://journals.sagepub.com/doi/abs/10.1177/2515245918754485
+date: 2018-07-17 00:00:00
+tags: [reproducible paper]
+description: |
+  This article provides recommendations for writing empirical journal articles that enable transparency, reproducibility, clarity, and memorability. Recommendations for transparency include preregistering methods, hypotheses, and analyses; submitting registered reports; distinguishing confirmation from exploration; and showing your warts. Recommendations for reproducibility include documenting methods and results fully and cohesively, by taking advantage of open-science tools, and citing sources responsibly. Recommendations for clarity include writing short paragraphs, composed of short sentences; writing comprehensive abstracts; and seeking feedback from a naive audience. Recommendations for memorability include writing narratively; embracing the hourglass shape of empirical articles; beginning articles with a hook; and synthesizing, rather than Mad Libbing, previous literature.
+
+---
+title: |  
+   A Guide to Reproducibility in Preclinical Research
+link: https://europepmc.org/abstract/med/29995667
+date: 2018-07-17 00:00:00
+tags: [reproducible paper]
+description: |
+   Many have raised concerns about the reproducibility of biomedical research. In this Perspective, the authors address this "reproducibility crisis" by distilling discussions around reproducibility into a simple guide to facilitate understanding of the topic.Reproducibility applies both within and across studies. The following questions address reproducibility within studies: "Within a study, if the investigator repeats the data management and analysis will she get an identical answer?" and "Within a study, if someone else starts with the same raw data, will she draw a similar conclusion?" Contrastingly, the following questions address reproducibility across studies: "If someone else tries to repeat an experiment as exactly as possible, will she draw a similar conclusion?" and "If someone else tries to perform a similar study, will she draw a similar conclusion?"Many elements of reproducibility from clinical trials can be applied to preclinical research (e.g., changing the culture of preclinical research to focus more on transparency and rigor). For investigators, steps toward improving reproducibility include specifying data analysis plans ahead of time to decrease selective reporting, more explicit data management and analysis protocols, and increasingly detailed experimental protocols, which allow others to repeat experiments. Additionally, senior investigators should take greater ownership of the details of their research (e.g., implementing active laboratory management practices, such as random audits of raw data [or at least reduced reliance on data summaries], more hands-on time overseeing experiments, and encouraging a healthy skepticism from all contributors). These actions will support a culture where rigor + transparency = reproducibility.This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal. 
+
+---
+title: |  
   Institutional Framework and Responsibilities: Facing Open Science’s challenges and assuring quality of research
 link: https://www.repository.cam.ac.uk/handle/1810/276203
 date: 2018-07-13 00:00:00
