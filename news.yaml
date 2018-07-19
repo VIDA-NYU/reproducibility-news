@@ -1,5 +1,14 @@
 ---
 title: |  
+  The value of universally available raw NMR data for transparency, reproducibility, and integrity in natural product research†
+link: https://pubs.rsc.org/en/content/articlehtml/2018/np/c7np00064b
+date: 2018-07-19 00:00:00
+tags: [reproducible paper]
+description: |
+  With contributions from the global natural product (NP) research community, and continuing the Raw Data Initiative, this review collects a comprehensive demonstration of the immense scientific value of disseminating raw nuclear magnetic resonance (NMR) data, independently of, and in parallel with, classical publishing outlets. A comprehensive compilation of historic to present-day cases as well as contemporary and future applications show that addressing the urgent need for a repository of publicly accessible raw NMR data has the potential to transform natural products (NPs) and associated fields of chemical and biomedical research. The call for advancing open sharing mechanisms for raw data is intended to enhance the transparency of experimental protocols, augment the reproducibility of reported outcomes, including biological studies, become a regular component of responsible research, and thereby enrich the integrity of NP research and related fields.
+
+---
+title: |  
   Preserving Workflow Reproducibility: The RePlay-DH Client as a Tool for Process Documentation
 link: http://www.lrec-conf.org/proceedings/lrec2018/pdf/707.pdf
 date: 2018-07-17 00:00:00
