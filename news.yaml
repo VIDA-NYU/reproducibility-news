@@ -1,5 +1,14 @@
 ---
 title: |  
+   The State of Sustainable Research Software: Results from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)
+link: https://arxiv.org/pdf/1807.07387.pdf
+date: 2018-07-24 00:00:00
+tags: [reproducibility report]
+description: |
+  This article summarizes motivations, organization, and activities of the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1) held in Manchester, UK in September 2017. The WSSSPE series promotes sustainable research software by positively impacting principles and best practices, careers, learning, and credit. This article discusses the Code of Conduct, idea papers, position papers, experience papers, demos, and lightning talks presented during the workshop. The main part of the article discusses the speed-blogging groups that formed during the meeting, along with the outputs of those sessions. 
+
+---
+title: |  
   The value of universally available raw NMR data for transparency, reproducibility, and integrity in natural product research†
 link: https://pubs.rsc.org/en/content/articlehtml/2018/np/c7np00064b
 date: 2018-07-19 00:00:00
