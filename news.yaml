@@ -1,5 +1,14 @@
 ---
 title: |  
+    Assessment of the impact of shared brain imaging data on the scientific literature
+link: https://europepmc.org/abstract/med/30026557
+date: 2018-07-26 00:00:00
+tags: [reproducible paper]
+description: |
+    Data sharing is increasingly recommended as a means of accelerating science by facilitating collaboration, transparency, and reproducibility. While few oppose data sharing philosophically, a range of barriers deter most researchers from implementing it in practice. To justify the significant effort required for sharing data, funding agencies, institutions, and investigators need clear evidence of benefit. Here, using the International Neuroimaging Data-sharing Initiative, we present a case study that provides direct evidence of the impact of open sharing on brain imaging data use and resulting peer-reviewed publications. We demonstrate that openly shared data can increase the scale of scientific studies conducted by data contributors, and can recruit scientists from a broader range of disciplines. These findings dispel the myth that scientific findings using shared data cannot be published in high-impact journals, suggest the transformative power of data sharing for accelerating science, and underscore the need for implementing data sharing universally. 
+
+---
+title: |  
    The State of Sustainable Research Software: Results from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)
 link: https://arxiv.org/pdf/1807.07387.pdf
 date: 2018-07-24 00:00:00
