@@ -1,14 +1,5 @@
 ---
 title: |  
-     A survey on provenance: What for? What form? What from
-link: https://www.ipvs.uni-stuttgart.de/export/sites/default/ipvs/abteilungen/de/abteilung/mitarbeiter/Melanie.Herschel_infos/resources/provenance_survey_VLDB_journal.pdf
-date: 2018-08-07 00:00:00
-tags: [reproducible paper]
-description: |
-    Provenance refers to any information describing the production process of an end product, which can be anything from a piece of digital data to a physical object. While this survey focuses on the former type of end product, this definition still leaves room for many different interpretations of and approaches to provenance. These are typically motivated by different application domains for provenance (e.g., accountability, reproducibility, process debugging) and varying technical requirements such as runtime, scalability, or privacy. As a result, we observe a wide variety of provenance types and provenance-generating methods. This survey provides an overview of the research field of provenance, focusing on what provenance is used for (what for?), what types of provenance have been defined and captured for the different applications (what form?), and which resources and system requirements impact the choice of deploying a particular provenance solution (what from?). For ach of these three key questions, we provide a classification and review the state of the art for each class. We conclude with a summary and possible future research challenges.
-
----
-title: |  
      Building research evidence towards reproducibility of animal research 
 link: http://blogs.plos.org/everyone/2018/08/06/arrive-rct
 date: 2018-08-07 00:00:00
