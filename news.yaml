@@ -1,5 +1,14 @@
 ---
 title: |  
+     ReproServer: Making Reproducibility Easier and Less Intensive
+link: https://arxiv.org/abs/1808.01406
+date: 2018-08-12 00:00:00
+tags: [reproducible paper, ReproZip]
+description: |
+     Reproducibility in the computational sciences has been stymied because of the complex and rapidly changing computational environments in which modern research takes place. While many will espouse reproducibility as a value, the challenge of making it happen (both for themselves and testing the reproducibility of others' work) often outweigh the benefits. There have been a few reproducibility solutions designed and implemented by the community. In particular, the authors are contributors to ReproZip, a tool to enable computational reproducibility by tracing and bundling together research in the environment in which it takes place (e.g. one's computer or server). In this white paper, we introduce a tool for unpacking ReproZip bundles in the cloud, ReproServer. ReproServer takes an uploaded ReproZip bundle (.rpz file) or a link to a ReproZip bundle, and users can then unpack them in the cloud via their browser, allowing them to reproduce colleagues' work without having to install anything locally. This will help lower the barrier to reproducing others' work, which will aid reviewers in verifying the claims made in papers and reusing previously published research. 
+
+---
+title: |  
      Building research evidence towards reproducibility of animal research 
 link: http://blogs.plos.org/everyone/2018/08/06/arrive-rct
 date: 2018-08-07 00:00:00
