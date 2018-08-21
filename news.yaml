@@ -1,5 +1,23 @@
 ---
 title: |  
+     Practical guidelines for rigor and reproducibility in preclinical and clinical studies on cardioprotection
+link: https://link.springer.com/article/10.1007/s00395-018-0696-8
+date: 2018-08-21 00:00:00
+tags: [reproducible paper]
+description: |
+     We refer to the recent guidelines for experimental models of myocardial ischemia and infarction [279], and aim to provide now practical guidelines to ensure rigor and reproducibility in preclinical and clinical studies on cardioprotection. In line with the above guidelines [279], we define rigor as standardized state-of-the-art design, conduct and reporting of a study, which is then a prerequisite for reproducibility, i.e. replication of results by another laboratory when performing exactly the same experiment.
+
+---
+title: |  
+     Editorial: Data repositories, registries, and standards in the search for valid and reproducible biomarkers 
+link: https://onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.12962
+date: 2018-08-21 00:00:00
+tags: [reproducible paper]
+description: |
+     The paucity of major scientific breakthroughs leading to new or improved treatments, and the inability to identify valid and reproducible biomarkers that improve clinical management, has produced a crisis in confidence in the validity of our pathogenic theories and the reproducibility of our research findings. This crisis in turn has driven changes in standards for research methodologies and prompted calls for the creation of open‐access data repositories and the preregistration of research hypotheses. Although we should embrace the creation of repositories and registries, and the promise for greater statistical power, reproducibility, and generalizability of research findings they afford, we should also recognize that they alone are no substitute for sound design in minimizing study confounds, and they are no guarantor of faith in the validity of our pathogenic theories, findings, and biomarkers. One way, and maybe the only sure way, of knowing that we have a valid understanding of brain processes and disease mechanisms in human studies is by experimentally manipulating variables and predicting its effects on outcome measures and biomarkers.
+
+---
+title: |  
      ReproServer: Making Reproducibility Easier and Less Intensive
 link: https://arxiv.org/abs/1808.01406
 date: 2018-08-12 00:00:00
