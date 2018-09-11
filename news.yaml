@@ -1,5 +1,33 @@
 ---
 title: |  
+     Issues in Reproducible Simulation Research
+link: https://link.springer.com/article/10.1007/s11538-018-0496-1
+date: 2018-09-11 00:00:00
+tags: [reproducible paper]
+description: |
+     In recent years, serious concerns have arisen about reproducibility in science. Estimates of the cost of irreproducible preclinical studies range from 28 billion USD per year in the USA alone (Freedman et al. in PLoS Biol 13(6):e1002165, 2015) to over 200 billion USD per year worldwide (Chalmers and Glasziou in Lancet 374:86–89, 2009). The situation in the social sciences is not very different: Reproducibility in psychological research, for example, has been estimated to be below 50% as well (Open Science Collaboration in Science 349:6251, 2015). Less well studied is the issue of reproducibility of simulation research. A few replication studies of agent-based models, however, suggest the problem for computational modeling may be more severe than for laboratory experiments (Willensky and Rand in JASSS 10(4):2, 2007; Donkin et al. in Environ Model Softw 92:142–151, 2017; Bajracharya and Duboz in: Proceedings of the symposium on theory of modeling and simulation—DEVS integrative M&S symposium, pp 6–11, 2013). In this perspective, we discuss problems of reproducibility in agent-based simulations of life and social science problems, drawing on best practices research in computer science and in wet-lab experiment design and execution to suggest some ways to improve simulation research practice.
+
+---
+title: |  
+     Reproducibility study of a PDEVS model application to fire spreading
+link: https://dl.acm.org/citation.cfm?id=3275411
+date: 2018-09-11 00:00:00
+tags: [reproducible paper,reproducibility infrastructure]
+description: |
+     The results of a scientific experiment have to be reproduced to be valid. The scientific method is well known in experimental sciences but it is not always the case for computer scientists. Recent publications and studies has shown that there is a significant reproducibility crisis in Biology and Medicine. This problem has also been demonstrated for hundreds of publications in computer science where only a limited set of publication results could be reproduced. In this paper we present the reproducibility challenge and we examine the reproducibility of a Parallel Discrete Event System Specification (PDEVS) model with two different execution frameworks.
+
+     
+---
+title: |  
+     Classification of Provenance Triples for Scientific Reproducibility: A Comparative Evaluation of Deep Learning Models in the ProvCaRe Project
+link: https://link.springer.com/chapter/10.1007/978-3-319-98379-0_3
+date: 2018-09-11 00:00:00
+tags: [reproducible paper,reproducibility infrastructure]
+description: |
+     Scientific reproducibility is key to the advancement of science as researchers can build on sound and validated results to design new research studies. However, recent studies in biomedical research have highlighted key challenges in scientific reproducibility as more than 70% of researchers in a survey of more than 1500 participants were not able to reproduce results from other groups and 50% of researchers were not able to reproduce their own experiments. Provenance metadata is a key component of scientific reproducibility and as part of the Provenance for Clinical and Health Research (ProvCaRe) project, we have: (1) identified and modeled important provenance terms associated with a biomedical research study in the S3 model (formalized in the ProvCaRe ontology); (2) developed a new natural language processing (NLP) workflow to identify and extract provenance metadata from published articles describing biomedical research studies; and (3) developed the ProvCaRe knowledge repository to enable users to query and explore provenance of research studies using the S3 model. However, a key challenge in this project is the automated classification of provenance metadata extracted by the NLP workflow according to the S3 model and its subsequent querying in the ProvCaRe knowledge repository. In this paper, we describe the development and comparative evaluation of deep learning techniques for multi-class classification of structured provenance metadata extracted from biomedical literature using 12 different categories of provenance terms represented in the S3 model. We describe the application of the Long Term Short Memory (LSTM) network, which has the highest classification accuracy of 86% in our evaluation, to classify more than 48 million provenance triples in the ProvCaRe knowledge repository (available at: https://provcare.case.edu/).
+     
+---
+title: |  
      The reproducibility opportunity
 link: https://www.nature.com/articles/s41562-018-0398-0
 date: 2018-09-04 00:00:00
