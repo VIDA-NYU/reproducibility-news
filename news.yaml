@@ -1,5 +1,14 @@
 ---
 title: |  
+     Simple changes of individual studies can improve the reproducibility of the biomedical scientific process as a whole
+link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202762
+date: 2018-09-11 00:00:00
+tags: [reproducible paper]
+description: |
+     We developed a new probabilistic model to assess the impact of recommendations rectifying the reproducibility crisis (by publishing both positive and 'negative' results and increasing statistical power) on competing objectives, such as discovering causal relationships, avoiding publishing false positive results, and reducing resource consumption. In contrast to recent publications our model quantifies the impact of each single suggestion not only for an individual study but especially their relation and consequences for the overall scientific process. We can prove that higher-powered experiments can save resources in the overall research process without generating excess false positives. The better the quality of the pre-study information and its exploitation, the more likely this beneficial effect is to occur. Additionally, we quantify the adverse effects of both neglecting good practices in the design and conduct of hypotheses-based research, and the omission of the publication of 'negative' findings. Our contribution is a plea for adherence to or reinforcement of the good scientific practice and publication of 'negative' findings.
+
+---
+title: |  
      Issues in Reproducible Simulation Research
 link: https://link.springer.com/article/10.1007/s11538-018-0496-1
 date: 2018-09-11 00:00:00
