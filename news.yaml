@@ -1,5 +1,23 @@
 ---
 title: |  
+     Exploration of reproducibility issues in scientometric research
+link: https://openaccess.leidenuniv.nl/bitstream/handle/1887/65315/STI2018_paper_113.pdf?sequence=1
+date: 2018-09-21 00:00:00
+tags: [reproducible paper]
+description: |
+     In scientometrics, we have not yet had an intensive debate about the reproducibility of research published in our field, although concerns about  a  lack  of  reproducibility  have occasionally surfaced (see e.g. Glänzel & Schöpflin 1994 and Van den Besselaar et al. 2017), and the need to improve the reproducibility is used as an important argument for open citation data  (see www.issi-society.org/open-citations-letter/).  We  initiated  a  first  discussion  about reproducibility  in  scientometrics  with  a  workshop  at  ISSI  2017  in  Wuhan. One of the outcomes was the sense that scientific fields differ with regard to the type and pervasiveness of  threats to the reproducibility  of  their  published  research,  last  but  not  least  due  to  their differences in modes of knowledge production, such as confirmatory versus exploratory study designs, and differences in methods and empirical objects. 
+
+---
+title: |  
+     Reproducibility and Replicability in a Fast-paced Methodological World
+link: https://psyarxiv.com/cnq4d/
+date: 2018-09-21 00:00:00
+tags: [reproducible paper]
+description: |
+     Methodological developments and software implementations progress in increasingly faster time-frames. The introduction and widespread acceptance of pre-print archived reports and open-source software make state-of-the-art statistical methods readily accessible to researchers. At the same time, researchers more and more emphasize that their results should be reproducible (using the same data obtaining the same results), which is a basic requirement for assessing the replicability (obtaining similar results in new data) of results. While the age of fast-paced methodology greatly facilitates reproducibility, it also undermines it in ways not often realized by researchers. The goal of this paper is to make researchers aware of these caveats. I discuss sources of limited replicability and reproducibility in both the development of novel statistical methods and their implementation in software routines. Novel methodology comes with many researcher degrees of freedom, and new understanding comes with changing standards over time.  In software-development, reproducibility may be impacted due to software developing and changing over time, a problem that is greatly magnified by large dependency-trees between software-packages. The paper concludes with a list of recommendations for both developers and users of new methods to improve reproducibility of results.
+
+---
+title: |  
      Simple changes of individual studies can improve the reproducibility of the biomedical scientific process as a whole
 link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202762
 date: 2018-09-11 00:00:00
