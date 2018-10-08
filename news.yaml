@@ -1,5 +1,23 @@
 ---
 title: |  
+      The Brazilian Reproducibility Initiative: a systematic assessment of Brazilian biomedical science
+link: https://osf.io/ahf7t/
+date: 2018-10-08 00:00:00
+tags: [reproducible paper]
+description: |
+      With concerns over research reproducibility on the rise, systematic replications of published science have become an important tool to estimate the replicability of findings in specific areas. Nevertheless, such initiatives are still uncommon in biomedical science, and have never been performed at a national level. The Brazilian Reproducibility Initiative is a multicenter, systematic effort to assess the reproducibility of the country’s biomedical research by replicating between 50 and 100 experiments from Brazilian life sciences articles. The project will focus on a set of common laboratory methods, performing each experiment in multiple institutions across the country, with the reproducibility of published findings analyzed in the light of interlaboratory variability. The results, due in 2021, will allow us not only to estimate the reproducibility of Brazilian biomedical science, but also to investigate if there are aspects of the published literature that can be used to predict it.
+
+---
+title: |  
+      Towards Reproducible and Reusable Deep Learning Systems Research Artifacts
+link: https://openreview.net/pdf?id=Ske-2Gyk9X
+date: 2018-10-08 00:00:00
+tags: [reproducible paper]
+description: |
+      This paper discusses results and insights from the 1st ReQuEST workshop, a collective effort to promote reusability, portability and reproducibility of deep learning research artifacts within the Architecture/PL/Systems communities. ReQuEST (Reproducible Quality-Efficient Systems Tournament) exploits the open-source. Collective Knowledge framework (CK) to unify benchmarking, optimization, and co-design of deep learning systems implementations and exchange results via a live multi-objective scoreboard. Systems evaluated under ReQuEST are diverse and include an FPGA-based accelerator, optimized deep learning libraries for x86 and ARM systems, and distributed inference in Amazon Cloud and over a cluster of Raspberry Pis. We finally discuss limitations to our approach, and how we plan improve upon those limitations for the upcoming SysML artifact evaluation effort.
+
+---
+title: |  
       Predicting computational reproducibility of data analysis pipelines in large population studies using collaborative filtering
 link: https://arxiv.org/abs/1809.10139
 date: 2018-10-03 00:00:00
