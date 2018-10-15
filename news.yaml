@@ -1,5 +1,14 @@
 ---
 title: |  
+      Reference environments: A universal tool for reproducibility in computational biology
+link: https://arxiv.org/pdf/1810.03766.pdf
+date: 2018-10-15 00:00:00
+tags: [reproducible paper]
+description: |
+      The drive for reproducibility in the computational sciences has provoked discussion and effort across a broad range of perspectives: technological, legislative/policy, education, and publishing. Discussion on these topics is not new, but the need to adopt standards for reproducibility of claims made based on computational results is now clear to researchers, publishers and policymakers alike. Many technologies exist to support and promote reproduction of computational results: containerisation tools like Docker, literate programming approaches such as Sweave, knitr, iPython or cloud environments like Amazon Web Services. But these technologies are tied to specific programming languages (e.g. Sweave/knitr to R; iPython to Python) or to platforms (e.g. Docker for 64-bit Linux environments only). To date, no single approach is able to span the broad range of technologies and platforms represented in computational biology and biotechnology. To enable reproducibility across computational biology, we demonstrate an approach and provide a set of tools that is suitable for all computational work and is not tied to a particular programming language or platform. We present published examples from a series of papers in different areas of computational biology, spanning the major languages and technologies in the field (Python/R/MATLAB/Fortran/C/Java). Our approach produces a transparent and flexible process for replication and recomputation of results. Ultimately, its most valuable aspect is the decoupling of methods in computational biology from their implementation. Separating the 'how' (method) of a publication from the 'where' (implementation) promotes genuinely open science and benefits the scientific community as a whole. 
+
+---
+title: |  
       The Brazilian Reproducibility Initiative: a systematic assessment of Brazilian biomedical science
 link: https://osf.io/ahf7t/
 date: 2018-10-08 00:00:00
