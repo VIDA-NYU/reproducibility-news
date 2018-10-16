@@ -1,5 +1,23 @@
 ---
 title: |  
+      Responding to the growing issue of research reproducibility
+link: https://avs.scitation.org/doi/pdf/10.1116/1.5049141
+date: 2018-10-16 00:00:00
+tags: [reproducible paper]
+description: |
+      An increasing number of studies, surveys, and editorials highlight experimental and computational reproducibility and replication issues that appear to pervade most areas of modern science. This perspective examines some of the multiple and complex causes of what has been called a "reproducibility crisis," which can impact materials, interface/(bio)interphase, and vacuum sciences. Reproducibility issues are not new to science, but they are now appearing in new forms requiring innovative solutions. Drivers include the increasingly multidiscipline, multimethod nature of much advanced science, increased complexity of the problems and systems being addressed, and the large amounts and multiple types of experimental and computational data being collected and analyzed in many studies. Sustained efforts are needed to address the causes of reproducibility problems that can hinder the rate of scientific progress and lower public and political regard for science. The initial efforts of the American Vacuum Society to raise awareness of a new generation of reproducibility challenges and provide tools to help address them serve as examples of mitigating actions that can be undertaken.
+
+---
+title: |  
+       Building a Reproducible Machine Learning Pipeline
+link: https://arxiv.org/abs/1810.04570v1
+date: 2018-10-16 00:00:00
+tags: [reproducible paper]
+description: |
+      Reproducibility of modeling is a problem that exists for any machine learning practitioner, whether in industry or academia. The consequences of an irreproducible model can include significant financial costs, lost time, and even loss of personal reputation (if results prove unable to be replicated). This paper will first discuss the problems we have encountered while building a variety of machine learning models, and subsequently describe the framework we built to tackle the problem of model reproducibility. The framework is comprised of four main components (data, feature, scoring, and evaluation layers), which are themselves comprised of well defined transformations. This enables us to not only exactly replicate a model, but also to reuse the transformations across different models. As a result, the platform has dramatically increased the speed of both offline and online experimentation while also ensuring model reproducibility. 
+
+---
+title: |  
       Reference environments: A universal tool for reproducibility in computational biology
 link: https://arxiv.org/pdf/1810.03766.pdf
 date: 2018-10-15 00:00:00
