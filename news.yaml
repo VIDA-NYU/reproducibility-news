@@ -1,5 +1,41 @@
 ---
 title: |  
+      The Rule of Two: A Star Wars Edict or a Method of Reproducibility and Quality?
+link: https://www.preprints.org/manuscript/201810.0357/v1
+date: 2018-10-23 00:00:00
+tags: [reproducible paper]
+description: |
+       In recent years, biomedical research has faced increased scrutiny over issues related to reproducibility and quality in scientific findings(1-3). In response to this scrutiny, funding institutions and journals have implemented top-down policies for grant and manuscript review. While a positive step forward, the long-term merit of these policies is questionable given their emphasis on completing a check-list of items instead of a fundamental re-assessment of how scientific investigation is conducted. Moreover, the top-down style of management used to institute these policies can be argued as being ineffective in engaging the scientific workforce to act upon these issues. To meet current and future biomedical needs, new investigative methods that emphasize collective-thinking, teamwork, shared knowledge and cultivate change from the bottom-up are warranted. Here, a perspective on a new approach to biomedical investigation within the individual laboratory that emphasizes collaboration and quality is discussed. 
+
+---
+title: |  
+      Editorial:  Revised Guidelines to Enhance the Rigor and Reproducibility of Research Published in American Physiological Society Journals
+link: https://www.physiology.org/doi/pdf/10.1152/ajpregu.00274.2018
+date: 2018-10-23 00:00:00
+tags: [news article]
+description: |
+      A challenge in modern research is the common inability to repeat novel findings published in even the most “impact-heavy” journals. In the great majority of instances, this may simply be due to a failure of the published manuscripts to include—and the publisher to require— comprehensive information on experimental design, methods, reagents, or the in vitro and in vivo systems under study. Failure to accurately reproduce all environmental influences on an experiment, particularly those using animals, also contributes to inability to repeat novel findings. The most common reason for failures of reproducibility may well bein the rigor and transparency with which methodology is described by authors. Another reason may be the reluctance by more established investigators to break with traditional methods of data presentation. However, one size does not fit all when it comes to data presentation, particularly because of the wide variety of data formats presented in individual disciplines represented by journals. Thus, some flexibility needs to be allowed. The American Physiological Society (APS) has made available guidelines for transparent reporting that it recommends all authors follow(https://www.physiology.org/author-info.promoting-transparent-reporting) (https://www.physiology.org/author-info.experimental-details-to-report). These are just some of the efforts being made to facilitate the communication of discovery in a transparent manner, which complement what has been a strength of the discipline for many years—the ability of the scientists and scientific literature to self-correct (8).
+
+---
+title: |  
+      Teaching Computational Reproducibility for Neuroimaging
+link: https://www.frontiersin.org/articles/10.3389/fnins.2018.00727/full
+date: 2018-10-23 00:00:00
+tags: [reproducible paper]
+description: |
+      We describe a project-based introduction to reproducible and collaborative neuroimaging analysis. Traditional teaching on neuroimaging usually consists of a series of lectures that emphasize the big picture rather than the foundations on which the techniques are based. The lectures are often paired with practical workshops in which students run imaging analyses using the graphical interface of specific neuroimaging software packages. Our experience suggests that this combination leaves the student with a superficial understanding of the underlying ideas, and an informal, inefficient, and inaccurate approach to analysis. To address these problems, we based our course around a substantial open-ended group project. This allowed us to teach: (a) computational tools to ensure computationally reproducible work, such as the Unix command line, structured code, version control, automated testing, and code review and (b) a clear understanding of the statistical techniques used for a basic analysis of a single run in an MR scanner. The emphasis we put on the group project showed the importance of standard computational tools for accuracy, efficiency, and collaboration. The projects were broadly successful in engaging students in working reproducibly on real scientific questions. We propose that a course on this model should be the foundation for future programs in neuroimaging. We believe it will also serve as a model for teaching efficient and reproducible research in other fields of computational science.
+
+---
+title: |  
+      Experimental deception: Science, performance, and reproducibility
+link: https://psyarxiv.com/93p45/
+date: 2018-10-23 00:00:00
+tags: [reproducible paper]
+description: |
+      Experimental deception has not been seriously examined in terms of its impact on reproducible science. I demonstrate, using data from the Open Science Collaboration’s Reproducibility Project (2015), that experiments involving deception have a higher probability of not replicating and have smaller effect sizes compared to experiments that do not have deception procedures. This trend is possibly due to missing information about the context and performance of agents in the studies in which the original effects were generated, leading to either compromised internal validity, or an incomplete specification and control of variables in replication studies. Of special interest are the mechanisms by which deceptions are implemented and how these present challenges for the efficient transmission of critical information from experimenter to participant. I rehearse possible frameworks that might form the basis of a future research program on experimental deception and make some recommendations as to how such a program might be initiated.
+
+---
+title: |  
       University researchers push for better research methods
 link: http://www.mndaily.com/article/2018/10/n-university-researchers-push-for-better-research-methods
 date: 2018-10-16 00:00:00
