@@ -1,5 +1,14 @@
 ---
 title: |  
+      To Clean or Not to Clean: Document Preprocessing and Reproducibility
+link: https://dl.acm.org/citation.cfm?id=3242180
+date: 2018-11-01 00:00:00
+tags: [reproducible paper]
+description: |
+      Web document collections such as WT10G, GOV2, and ClueWeb are widely used for text retrieval experiments. Documents in these collections contain a fair amount of non-content-related markup in the form of tags, hyperlinks, and so on. Published articles that use these corpora generally do not provide specific details about how this markup information is handled during indexing. However, this question turns out to be important: Through experiments, we find that including or excluding metadata in the index can produce significantly different results with standard IR models. More importantly, the effect varies across models and collections. For example, metadata filtering is found to be generally beneficial when using BM25, or language modeling with Dirichlet smoothing, but can significantly reduce retrieval effectiveness if language modeling is used with Jelinek-Mercer smoothing. We also observe that, in general, the performance differences become more noticeable as the amount of metadata in the test collections increase. Given this variability, we believe that the details of document preprocessing are significant from the point of view of reproducibility. In a second set of experiments, we also study the effect of preprocessing on query expansion using RM3. In this case, once again, we find that it is generally better to remove markup before using documents for query expansion.
+
+---
+title: |  
       The Rule of Two: A Star Wars Edict or a Method of Reproducibility and Quality?
 link: https://www.preprints.org/manuscript/201810.0357/v1
 date: 2018-10-23 00:00:00
