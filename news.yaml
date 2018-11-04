@@ -1,5 +1,14 @@
 ---
 title: |  
+      Replicability or reproducibility? On the replication crisis in computational neuroscience and sharing only relevant detail
+link: https://link.springer.com/article/10.1007/s10827-018-0702-z
+date: 2018-11-01 00:00:00
+tags: [reproducible paper]
+description: |
+      Replicability and reproducibility of computational models has been somewhat understudied by “the replication movement.” In this paper, we draw on methodological studies into the replicability of psychological experiments and on the mechanistic account of explanation to analyze the functions of model replications and model reproductions in computational neuroscience. We contend that model replicability, or independent researchers' ability to obtain the same output using original code and data, and model reproducibility, or independent researchers' ability to recreate a model without original code, serve different functions and fail for different reasons. This means that measures designed to improve model replicability may not enhance (and, in some cases, may actually damage) model reproducibility. We claim that although both are undesirable, low model reproducibility poses more of a threat to long-term scientific progress than low model replicability. In our opinion, low model reproducibility stems mostly from authors' omitting to provide crucial information in scientific papers and we stress that sharing all computer code and data is not a solution. Reports of computational studies should remain selective and include all and only relevant bits of code.
+
+---
+title: |  
       To Clean or Not to Clean: Document Preprocessing and Reproducibility
 link: https://dl.acm.org/citation.cfm?id=3242180
 date: 2018-11-01 00:00:00
