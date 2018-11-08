@@ -1,5 +1,32 @@
 ---
 title: |  
+      Conducting Replication Studies With Confidence
+link: https://www.healio.com/nursing/journals/jne/2018-11-57-11/%7B304888b9-6291-4a92-b4e4-2d5910e85110%7D/conducting-replication-studies-with-confidence
+date: 2018-11-08 00:00:00
+tags: [reproducible paper]
+description: |
+      Although essential to the development of a robust evidence base for nurse educators, the concepts of replication and reproducibility have received little attention in the nursing education literature. In this Methodology Corner installment, the concepts of study replication and reproducibility are explored in depth. In designing, conducting, and documenting the findings of studies in nursing education, researchers are encouraged to make design choices that improve study replicability and reproducibility of study findings. [J Nurs Educ. 2018;57(11):638–640.] There has been considerable discussion in the professional literature about questionable research practices that raise doubt about the credibility of research findings (Shrout & Rodgers, 2018) and that limit reproducibility of research findings (Shepherd, Peratikos, Rebeiro, Duda, & McCowan, 2017). This discussion has led to what scientists term as a replication crisis (Goodman, Fanelli, & Ioannidis, 2016). Although investigators in various disciplines have provided suggestions to address this crisis (Alvarez, Key, & Núñez, 2018; Goodman et al., 2016; Shrout & Rodgers, 2018), similar discussions or reports of replication within nursing education literature are limited, despite a call for replication studies (Morin, 2016). Consequently, the focus of this article is on replication and reproducibility. The topic is important, given that the hallmark of good science is being able to replicate or reproduce findings (Morin, 2016). Replication serves to provide “stability in our knowledge of nature” (Schmidt, 2009, p. 92).
+
+---
+title: |  
+      Software to improve transfer and reproducibility of cell culture methods  
+link: https://www.future-science.com/doi/pdf/10.2144/btn-2018-0062
+date: 2018-11-08 00:00:00
+tags: [reproducible paper]
+description: |
+        Cell culture is a vital component of laboratories throughout the scientifi c community, yet the absence of standardized protocols and documentation practice challenges laboratory effi ciency and scientific reproducibility. We examined the effectiveness of a cloud-based software application, CultureTrax ®  as a tool for standardizing and transferring a complex cell culture protocol. The software workfl ow and template were used to electronically format a cardiomyocyte differentiation protocol and share a digitally executable copy with a different lab user. While the protocol was unfamiliar to the recipient, they executed the experiment by solely using CultureTrax and successfully derived cardiomyocytes from human induced pluripotent stem cells. This software tool significantly reduced the time and resources required to effectively transfer and implement a  novel protocol.
+
+---
+title: |  
+      Practical Data Curation for Reproducibility
+link: https://osf.io/preprints/lissa/fp8cd
+date: 2018-11-08 00:00:00
+tags: [reproducibility talk]
+description: |
+      This presentation will review incentives for researchers to engage in reproducibility and data sharing practices and offer practical solutions for metadata, file handling, preservation, and licensing issues. It will focus on pragmatic motivations and methods for integrating reproducibility concepts into existing processes.
+
+---
+title: |  
       Replicability or reproducibility? On the replication crisis in computational neuroscience and sharing only relevant detail
 link: https://link.springer.com/article/10.1007/s10827-018-0702-z
 date: 2018-11-01 00:00:00
