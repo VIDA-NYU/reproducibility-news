@@ -1,4 +1,13 @@
 ---
+title: |  
+      A Model-Centric Analysis of Openness, Replication, and Reproducibility
+link: https://arxiv.org/abs/1811.04525
+date: 2018-11-14 00:00:00
+tags: [reproducible paper]
+description: |
+  The literature on the reproducibility crisis presents several putative causes for the proliferation of irreproducible results, including HARKing, p-hacking and publication bias. Without a theory of reproducibility, however, it is difficult to determine whether these putative causes can explain most irreproducible results. Drawing from an historically informed conception of science that is open and collaborative, we identify the components of an idealized experiment and analyze these components as a precursor to develop such a theory. Openness, we suggest, has long been intuitively proposed as a solution to irreproducibility. However, this intuition has not been validated in a theoretical framework. Our concern is that the under-theorizing of these concepts can lead to flawed inferences about the (in)validity of experimental results or integrity of individual scientists. We use probabilistic arguments and examine how openness of experimental components relates to reproducibility of results. We show that there are some impediments to obtaining reproducible results that precede many of the causes often cited in literature on the reproducibility crisis. For example, even if erroneous practices such as HARKing, p-hacking, and publication bias were absent at the individual and system level, reproducibility may still not be guaranteed. 
+
+---
 title: |
       Reproducible Publications at AGILE Conferences
 link: https://agile-online.org/agile-actions/current-initiatives/reproducible-publications-at-agile-conferences
