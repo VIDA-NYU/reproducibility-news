@@ -1,5 +1,14 @@
 ---
 title: |  
+     Papers with code. Sorted by stars. Updated weekly.
+link: https://github.com/zziz/pwc
+date: 2018-12-11 00:00:00
+tags: [reproducibility talk]
+description: |
+     A long list of papers with link to the code that supports the papers.
+
+---
+title: |  
      "I want to do the right thing but..."
 link: https://www3.ntu.edu.sg/conference/RIC/Slides/6C_SHAPES_CBmE%20slides_I_want_to_do_the_right_thing_but....pdf
 date: 2018-12-11 00:00:00
