@@ -1,5 +1,23 @@
 ---
 title: |  
+     Semantic workflows for benchmark challenges:Enhancing comparability, reusability and reproducibility
+link: https://psb.stanford.edu/psb-online/proceedings/psb19/srivastava.pdf
+date: 2018-12-17 00:00:00
+tags: [reproducible paper]
+description: |
+     WINGS enables researchers to submit complete semantic  workflows  as  challenge  submissions.    By  submitting  entries  as  workflows,  it  then becomes possible to compare not just the results and performance of a challenger, but also the methodology employed.  This is particularly important when dozens of challenge entries may use nearly  identical  tools,  but  with  only  subtle  changes  in  parameters  (and  radical  differences  in results). WINGS uses a component driven workflow design and offers intelligent parameter and data selectionby reasoning  aboutdata  characteristics.
+
+---
+title: |  
+     Analysis validation has been neglected in the Age of Reproducibility
+link: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000070
+date: 2018-12-17 00:00:00
+tags: [reproducible paper]
+description: |
+     Increasingly complex statistical models are being used for the analysis of biological data. Recent commentary has focused on the ability to compute the same outcome for a given dataset (reproducibility). We argue that a reproducible statistical analysis is not necessarily valid because of unique patterns of nonindependence in every biological dataset. We advocate that analyses should be evaluated with known-truth simulations that capture biological reality, a process we call “analysis validation.” We review the process of validation and suggest criteria that a validation project should meet. We find that different fields of science have historically failed to meet all criteria, and we suggest ways to implement meaningful validation in training and practice.
+
+---
+title: |  
      Papers with code. Sorted by stars. Updated weekly.
 link: https://github.com/zziz/pwc
 date: 2018-12-11 00:00:00
