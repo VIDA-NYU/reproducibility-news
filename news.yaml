@@ -1,5 +1,23 @@
 ---
 title: |  
+     A Practical Roadmap for Provenance Capture and Data Analysis in Spark-based Scientific Workflows
+link: https://sc18.supercomputing.org/proceedings/workshops/workshop_files/ws_works111s2-file1.pdf
+date: 2018-12-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Whenever   high-performance   computing   applications meet data-intensive scalable systems, an attractive approach is  the  use  of  Apache  Spark  for  the  management  of  scientific workflows.  Spark  provides  several  advantages  such  as  being widely  supported  and  granting  efficient  in-memory  data  management  for  large-scale  applications.  However,  Spark  still  lacks support for data tracking and workflow provenance. Additionally, Spark’s  memory  management  requires  accessing  all  data  movements  between  the  workflow  activities.  Therefore,  the  running of  legacy  programs  on  Spark  is  interpreted  as  a  "black-box" activity, which prevents the capture and analysis of implicit data movements. Here, we present SAMbA, an Apache Spark extension for  the  gathering  of  prospective  and  retrospective  provenance and  domain  data  within  distributed  scientific  workflows.  Our approach  relies  on  enveloping  both  RDD  structure  and  data contents  at  runtime  so  that (i) RDD-enclosure  consumed  and produced   data   are   captured   and   registered   by SAMbA in   a structured way, and (ii) provenance data can be queried during and  after  the  execution  of  scientific  workflows.  By  following the  W3C  PROV  representation,  we  model  the  roles  of  RDD regarding  prospective  and  retrospective  provenance  data.  Our solution  provides  mechanisms  for  the  capture  and  storage  of provenance data without jeopardizing Spark’s performance. The provenance  retrieval  capabilities  of  our  proposal  are  evaluated in  a  practical  case  study,  in  which  data  analytics  are  provided by  several SAMbA parameterizations.
+
+---
+title: |  
+     Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging
+link: https://osf.io/u78a6/
+date: 2018-12-29 00:00:00
+tags: [reproducible paper]
+description: |
+     There has been a recent major upsurge in the concerns about reproducibility in many areas of science. Within the neuroimaging domain, one approach is to promote reproducibility is to target the re-executability of the publication. The information supporting such re-executability can enable the detailed examination of how an initial finding generalizes across changes in the processing approach, and sampled population, in a controlled scientific fashion. ReproNim: A Center for Reproducible Neuroimaging Computation is a recently funded initiative that seeks to facilitate the ‘last mile’ implementations of core re-executability tools in order to reduce the accessibility barrier and increase adoption of standards and best practices at the neuroimaging research laboratory level. In this report, we summarize the overall approach and tools we have developed in this domain.
+
+---
+title: |  
      Semantic workflows for benchmark challenges:Enhancing comparability, reusability and reproducibility
 link: https://psb.stanford.edu/psb-online/proceedings/psb19/srivastava.pdf
 date: 2018-12-17 00:00:00
