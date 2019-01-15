@@ -1,5 +1,14 @@
 ---
 title: |  
+     A Reaction Norm Perspective on Reproducibility
+link: https://www.biorxiv.org/content/biorxiv/early/2019/01/07/510941.full.pdf
+date: 2019-01-15 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility in biomedical research,  and more specifically in preclinical animal research, has been seriously questioned.  Several cases of spectacular failures to replicate findings published in the primary scientific literature have led to a perceived reproducibility crisis.  Diverse threats to reproducibility have been proposed, including lack of scientific rigour, low  statistical  power,  publication  bias,  analytical  flexibility  and  fraud. An important aspect that is generally overlooked is the lack of external validity caused by rigorous standardization of both the animals and the environment.  Here,  we argue that a reaction norm approach to pheno- typic variation, acknowledging gene-by-environment interactions, can help us seeing reproducibility of animal experiments in a new light.  We illustrate how dominating environmental effects can affect inference and effect size estimates of studies and how elimination of dominant factors through standardization  affects  the  nature  of  the  expected  phenotype  variation. We do this by introducing a construct that we dubbed the reaction norm of small effects.  Finally, we discuss the consequences of a reaction norm of small effects for statistical analysis, specifically for random effect latent variable models and the random lab model.
+
+---
+title: |  
      The Costs of Reproducibility
 link: https://www.sciencedirect.com/science/article/pii/S0896627318310390
 date: 2019-01-08 00:00:00
