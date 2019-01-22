@@ -1,5 +1,41 @@
 ---
 title: |  
+     Ten simple rules on how to create open access and reproducible molecular simulations of biological systems
+link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006649
+date: 2019-01-22 00:00:00
+tags: [reproducible paper]
+description: |
+     These 10 simple rules should not be limited to molecular dynamics but also include Monte Carlo simulations, quantum mechanics calculations, molecular docking, and any other computational methods involving computations on biological molecules.
+
+---
+title: |  
+     The Reproducibility of Economics Research: A Case Study
+link: https://hautahi.com/static/docs/Replication_aejae.pdf
+date: 2019-01-22 00:00:00
+tags: [reproducible paper]
+description: |
+     Published reproductions or replications of economics research are rare.  However, recent years have seen increased  recognition  of  the  important  role  of  replication  in  the  scientific  endeavor.   We  describe  and present  the  results  of  a  large  reproduction  exercise  in  which  we  assess  the  reproducibility  of  research articles published in the American Economic Journal:  Applied Economics over the last decade.  69 of 162 eligible replication attempts successfuly replicated the article’s analysis 42.6%.  A further 68 (42%) were at least partially successful.  A total of 98 out of 303 (32.3%) relied on confidential or proprietary data, and were thus not reproducible by this project.  We also conduct several bibliometric analyses of reproducible vs. non-reproducible articles.
+     
+---
+title: |  
+     The Dagstuhl Beginners Guide to Reproducibility for Experimental Networking Research
+link: https://vaibhavbajpai.com/documents/papers/proceedings/dagstuhl-reproducibility-guidelines-ccr-2019.pdf
+date: 2019-01-22 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility is one of the key characteristics of good science, but hard to achieve for experimental disciplines like Internet measurements and networked systems. This guide provides advice to researchers, particularly those new to the field, on designing experiments so that their work is more likely to be reproducible and to serve as a foundation for follow-on work by others.
+
+---
+title: |  
+     Is it Safe to Dockerize my Database Benchmark?
+link: https://dbermbach.github.io/publications/2019-sac-dads.pdf
+date: 2019-01-22 00:00:00
+tags: [reproducible paper]
+description: |
+     Docker seems to be an attractive solution for cloud database benchmarking as it simplifies the setup process through pre-built images that are portable and simple to maintain. However, the usage of Docker for benchmarking is only valid if there is no effect on measurement results. Existing work has so far only focused on the performance overheads that Docker directly induces for specific applications. In this paper, we have studied indirect effects of dockerization on the results of database benchmarking. Among others, our results clearly show that containerization has a measurable and non-constant influence on measurement results and should, hence, only be used after careful analysis.
+
+---
+title: |  
      A Reaction Norm Perspective on Reproducibility
 link: https://www.biorxiv.org/content/biorxiv/early/2019/01/07/510941.full.pdf
 date: 2019-01-15 00:00:00
