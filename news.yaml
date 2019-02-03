@@ -1,5 +1,14 @@
 ---
 title: |  
+     The reproducibility crisis in the age of digital medicine
+link: https://www.nature.com/articles/s41746-019-0079-z
+date: 2019-02-02 00:00:00
+tags: [news article]
+description: |
+     As databases of medical information are growing, the cost of analyzing data is falling, and computer scientists, engineers, and investment are flooding into the field, digital medicine is subject to increasingly hyperbolic claims. Every week brings news of advances: superior algorithms that can predict clinical events and disease trajectory, classify images better than humans, translate clinical texts, and generate sensational discoveries around new risk factors and treatment effects. Yet the excitement about digital medicine—along with the technologies like the ones that enable a million people to watch a major event—poses risks for its robustness. How many of those new findings, in other words, are likely to be reproducible?
+     
+---
+title: |  
      Ten simple rules on how to create open access and reproducible molecular simulations of biological systems
 link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006649
 date: 2019-01-22 00:00:00
