@@ -1,5 +1,32 @@
 ---
 title: |  
+     How to increase reproducibility and transparency in your research
+link: https://blogs.egu.eu/geolog/2019/02/01/reproducibility-and-transparency-in-research/
+date: 2019-02-09 00:00:00
+tags: [news article]
+description: |
+     Contemporary science faces many challenges in publishing results that are reproducible. This is due to increased usage of data and digital technologies as well as heightened demands for scholarly communication. These challenges have led to widespread calls for more research transparency, accessibility, and reproducibility from the science community. This article presents current findings and solutions to these problems, including recent new software that makes writing submission-ready manuscripts for journals of Copernicus Publications a lot easier.
+
+---
+title: |  
+     Facilitating Replication and Reproducibility in Team Science: The 'projects' R Package
+link: https://www.biorxiv.org/content/biorxiv/early/2019/02/04/540542.full.pdf1
+date: 2019-02-09 00:00:00
+tags: [reproducible paper]
+description: |
+     The contemporary scientific community places a growing emphasis on the reproducibility of research. The projects R package is a free, open-source endeavor created in the interest of facilitating reproducible research workflows. It adds to existing software tools for reproducible research and introduces several practical features that are helpful for scientists and their collaborative research teams. For each individual project, it supplies an intuitive framework for storing raw and cleaned study data sets, and provides script templates for protocol creation, data cleaning, data analysis and manuscript development. Internal databases of project and author information are generated and displayed, and manuscript title pages containing author lists and their affiliations are automatically generated from the internal database. File management tools allow teams to organize multiple projects. When used on a shared file system, multiple researchers can harmoniously contribute to the same project in a less punctuated manner, reducing the frequency of misunderstandings and the need for status updates.
+
+---
+title: |  
+     The Brazilian Reproducibility Initiative
+link: https://cdn.elifesciences.org/articles/41602/elife-41602-v1.pdf
+date: 2019-02-09 00:00:00
+tags: [reproducible paper]
+description: |
+     Most efforts to estimate the reproducibility of published findings have focused on specific areas of research, even though science is usually assessed and funded on a regional or national basis. Here we describe a project to assess the reproducibility of findings in biomedical science published by researchers based in Brazil. The Brazilian Reproducibility Initiative is a systematic, multi-center effort to repeatbetween 60 and 100 experiments: theproject will focus on a set of common laboratory methods, repeating each experiment in three different laboratories. The results, due in 2021, will allow us to estimate the level of reproducibility of biomedical sciencein Brazil, and to investigate what the published literature can tell us about the reproducibility ofresearch in a given area.
+     
+---
+title: |  
      The reproducibility crisis in the age of digital medicine
 link: https://www.nature.com/articles/s41746-019-0079-z
 date: 2019-02-02 00:00:00
