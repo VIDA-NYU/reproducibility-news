@@ -1,5 +1,23 @@
 ---
 title: |  
+     Big Idea for a Big Challenge: Influencing Reproducibility on an Institutional Scale
+link: https://dc.uthsc.edu/cgi/viewcontent.cgi?article=1003&context=scmla
+date: 2019-02-19 00:00:00
+tags: [reproducibility talk]
+description: |
+     Presentation about the reproducibility initiative at the University of Utah. 
+
+---
+title: |  
+     The ReproRubric: Evaluation Criteria for the Reproducibility of Computational Analyses
+link: https://osf.io/thvef/
+date: 2019-02-19 00:00:00
+tags: [reproducible paper]
+description: |
+     The computational reproducibility of analytic results has been discussed and evaluated in many different scientific disciplines, all of which have one finding in common: analytic results are far too often not reproducible.  There are numerous examples of reproducibility guidelines for various applications, however, a comprehensive assessment tool for evaluating the individual components of the research pipeline was unavailable.  To address this need, COS developed the ReproRubric, which defines multiple Tiers of reproducibility based on criteria established for each critical stage of the typical research workflow - from initial design of the experiment through final reporting of the results.
+
+---
+title: |  
      How to increase reproducibility and transparency in your research
 link: https://blogs.egu.eu/geolog/2019/02/01/reproducibility-and-transparency-in-research/
 date: 2019-02-09 00:00:00
