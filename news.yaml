@@ -1,5 +1,23 @@
 ---
 title: |  
+     Reproducibility and Reuse of Experiments in eScience: Workflows, Ontologies and Scripts
+link: http://repositorio.unicamp.br/bitstream/REPOSIP/333317/1/Carvalho_LucasAugustoMontalvaoCosta_D.pdf
+date: 2019-03-03 00:00:00
+tags: [reproducible paper]
+description: |
+     Scripts and Scientific Workflow Management Systems (SWfMSs) are common approachesthat have been used to automate the execution flow of processes and data analysis in scien-tific (computational) experiments. Although widely used in many disciplines, scripts arehard to understand, adapt, reuse, and reproduce. For this reason, several solutions havebeen proposed to aid experiment reproducibility for script-based environments. However,they neither allow to fully document the experiment nor do they help when third partieswant to reuse just part of the code. SWfMSs, on the other hand, help documentationand reuse by supporting scientists in the design and execution of their experiments, whichare specified and run as interconnected (reusable) workflow components (a.k.a. buildingblocks). While workflows are better than scripts for understandability and reuse, they stillrequire additional documentation. During experiment design, scientists frequently createworkflow variants, e.g., by changing workflow components.  Reuse and reproducibilityrequire understanding and tracking variant provenance, a time-consuming task. This the-sis aims to support reproducibility and reuse of computational experiments.  To meetthese challenges, we address two research problems: (1) understanding a computationalexperiment, and (2) extending a computational experiment. Our work towards solvingthese problems led us to choose workflows and ontologies to answer both problems. Themain contributions of this thesis are thus: (i) to present the requirements for the con-version of script to reproducible research; (ii) to propose a methodology that guides thescientists through the process of conversion of script-based experiments into reproducibleworkflow research objects; (iii) to design and implement features for quality assessmentof computational experiments; (iv) to design and implement W2Share, a framework tosupport the conversion methodology, which exploits tools and standards that have beendeveloped by the scientific community to promote reuse and reproducibility; (v) to designand implement OntoSoft-VFF, a framework for capturing information about software andworkflow components to support scientists manage workflow exploration and evolution.Our work is showcased via use cases in Molecular Dynamics, Bioinformatics and WeatherForecasting
+
+---
+title: |  
+     Assessing data availability and research reproducibility in hydrology and water resources
+link: https://www.nature.com/articles/sdata201930
+date: 2019-03-03 00:00:00
+tags: [reproducible paper]
+description: |
+     There is broad interest to improve the reproducibility of published research. We developed a survey tool to assess the availability of digital research artifacts published alongside peer-reviewed journal articles (e.g. data, models, code, directions for use) and reproducibility of article results. We used the tool to assess 360 of the 1,989 articles published by six hydrology and water resources journals in 2017. Like studies from other fields, we reproduced results for only a small fraction of articles (1.6% of tested articles) using their available artifacts. We estimated, with 95% confidence, that results might be reproduced for only 0.6% to 6.8% of all 1,989 articles. Unlike prior studies, the survey tool identified key bottlenecks to making work more reproducible. Bottlenecks include: only some digital artifacts available (44% of articles), no directions (89%), or all artifacts available but results not reproducible (5%). The tool (or extensions) can help authors, journals, funders, and institutions to self-assess manuscripts, provide feedback to improve reproducibility, and recognize and reward reproducible articles as examples for others.
+
+---
+title: |  
      Big Idea for a Big Challenge: Influencing Reproducibility on an Institutional Scale
 link: https://dc.uthsc.edu/cgi/viewcontent.cgi?article=1003&context=scmla
 date: 2019-02-19 00:00:00
