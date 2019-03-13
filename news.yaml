@@ -1,5 +1,14 @@
 ---
 title: |  
+     A demonstration of modularity, reuse, reproducibility, portability and scalability for modeling and simulation of cardiac electrophysiology using Kepler Workflows
+link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006856
+date: 2019-03-13 00:00:00
+tags: [reproducible paper]
+description: |
+     Multi-scale computational modeling is a major branch of computational biology as evidenced by the US federal interagency Multi-Scale Modeling Consortium and major international projects. It invariably involves specific and detailed sequences of data analysis and simulation, often with multiple tools and datasets, and the community recognizes improved modularity, reuse, reproducibility, portability and scalability as critical unmet needs in this area. Scientific workflows are a well-recognized strategy for addressing these needs in scientific computing. While there are good examples if the use of scientific workflows in bioinformatics, medical informatics, biomedical imaging and data analysis, there are fewer examples in multi-scale computational modeling in general and cardiac electrophysiology in particular. Cardiac electrophysiology simulation is a mature area of multi-scale computational biology that serves as an excellent use case for developing and testing new scientific workflows. In this article, we develop, describe and test a computational workflow that serves as a proof of concept of a platform for the robust integration and implementation of a reusable and reproducible multi-scale cardiac cell and tissue model that is expandable, modular and portable. The workflow described leverages Python and Kepler-Python actor for plotting and pre/post-processing. During all stages of the workflow design, we rely on freely available open-source tools, to make our workflow freely usable by scientists.
+
+---
+title: |  
      Reproducibility and Reuse of Experiments in eScience: Workflows, Ontologies and Scripts
 link: http://repositorio.unicamp.br/bitstream/REPOSIP/333317/1/Carvalho_LucasAugustoMontalvaoCosta_D.pdf
 date: 2019-03-03 00:00:00
