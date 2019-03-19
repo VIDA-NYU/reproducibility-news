@@ -1,5 +1,14 @@
 ---
 title: |  
+     From the Wet Lab to the Web Lab: A Paradigm Shift in Brain Imaging Research
+link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6405692/
+date: 2019-03-19 00:00:00
+tags: [reproducible paper]
+description: |
+     Web technology has transformed our lives, and has led to a paradigm shift in the computational sciences. As the neuroimaging informatics research community amasses large datasets to answer complex neuroscience questions, we find that the web is the best medium to facilitate novel insights by way of improved collaboration and communication. Here, we review the landscape of web technologies used in neuroimaging research, and discuss future applications, areas for improvement, and the limitations of using web technology in research. Fully incorporating web technology in our research lifecycle requires not only technical skill, but a widespread culture change; a shift from the small, focused "wet lab" to a multidisciplinary and largely collaborative "web lab."
+
+---
+title: |  
      Designing for Reproducibility: A Qualitative Study of Challenges and Opportunities in High Energy Physics
 link: https://arxiv.org/pdf/1903.05875.pdf
 date: 2019-03-19 00:00:00
