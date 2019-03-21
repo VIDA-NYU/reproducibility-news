@@ -1,5 +1,14 @@
 ---
 title: |  
+     Successes and struggles with computational reproducibility: Lessons from the Fragile Families Challenge
+link: https://osf.io/preprints/socarxiv/g3pdb/
+date: 2019-03-21 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility is fundamental to science, and an important component of reproducibility is computational reproducibility: the ability of a researcher to recreate the results in a published paper using the original author's raw data and code. Although most people agree that computational reproducibility is important, it is still difficult to achieve in practice. In this paper, we describe our approach to enabling computational reproducibility for the 12 papers in this special issue of Socius about the Fragile Families Challenge. Our approach draws on two tools commonly used by professional software engineers but not widely used by academic researchers: software containers (e.g., Docker) and cloud computing (e.g., Amazon Web Services). These tools enabled us to standardize the computing environment around each submission, which will ease computational reproducibility both today and in the future. Drawing on our successes and struggles, we conclude with recommendations to authors and journals.
+
+---
+title: |  
      From the Wet Lab to the Web Lab: A Paradigm Shift in Brain Imaging Research
 link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6405692/
 date: 2019-03-19 00:00:00
