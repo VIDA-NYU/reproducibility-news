@@ -1,5 +1,23 @@
 ---
 title: |  
+     The battle for reproducibility over storytelling
+link: https://psyarxiv.com/shryx/
+date: 2019-03-25 00:00:00
+tags: [reproducible paper]
+description: |
+     This issue of Cortex plays host to a lively debate about the reliability of cognitive neuroscience research. Across seven Discussion Forum pieces, scientists representing a range of backgrounds and career levels reflect on whether the "reproducibility crisis" – or "credibility revolution" (Vazire, 2018; Munafò et al., 2017) – that has achieved such prominence in psychology has extended into cognitive neuroscience. If so, they ask, what is the underlying cause and how can we solve it?
+
+---
+title: |  
+     Study on automatic citation screening in systematic reviews: reporting, reproducibility and complexity
+link: http://eprints.keele.ac.uk/6073/1/OlorisadePhD2019.pdf
+date: 2019-03-25 00:00:00
+tags: [reproducible paper]
+description: |
+     Research into text mining based tool support for citation screening in systematic reviews is growing. The field has not experienced much independent validation. It is anticipated that more transparency in studies will increase reproducibility and in-depth understanding leading to the maturation of the field. The citation screen tool presented aims to support research transparency, reproducibility and timely evolution of sustainable tools.
+
+---
+title: |  
      Successes and struggles with computational reproducibility: Lessons from the Fragile Families Challenge
 link: https://osf.io/preprints/socarxiv/g3pdb/
 date: 2019-03-21 00:00:00
