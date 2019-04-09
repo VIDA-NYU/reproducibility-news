@@ -1,5 +1,23 @@
 ---
 title: |  
+     Encouraging Reproducibility in Scientific Research of theInternet
+link: http://drops.dagstuhl.de/opus/volltexte/2019/10347/pdf/dagrep_v008_i010_p041_18412.pdf
+date: 2019-04-09 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility of research in Computer Science (CS) and in the field of networking in particularis a well-recognized problem.  For several reasons, including the sensitive and/or proprietarynature of some Internet measurements, the networking research community pays limited attentionto the of reproducibility of results, instead tending to accept papers that appear plausible.This article summarises a 2.5 day long Dagstuhl seminar on Encouraging Reproducibility inScientific Research of the Internet held in October 2018. The seminar discussed challenges toimproving reproducibility of scientific Internet research, and developed a set of recommendationsthat we as a community can undertake to initiate a cultural change toward reproducibility ofour work. It brought together people both from academia and industry to set expectations andformulate concrete recommendations for reproducible research. This iteration of the seminar wasscoped to computer networking research, although the outcomes are likely relevant for a broaderaudience from multiple interdisciplinary fields.
+
+---
+title: |  
+     Data Repositories For Research Reproducibility 
+link: https://augusta.openrepository.com/bitstream/handle/10675.2/622251/Data%20Repositories%20For%20Reproducibility.pdf?sequence=1
+date: 2019-04-09 00:00:00
+tags: [reproducibility talk]
+description: |
+     A presentation that gives an overview of data reproducibility, data reproducibility components and challenges, data reproducibility initiatives, data journals and repositories, university library resources, all within the scope of the health sciences, social sciences, and the arts and humanities disciplines.
+
+---
+title: |  
      The battle for reproducibility over storytelling
 link: https://psyarxiv.com/shryx/
 date: 2019-03-25 00:00:00
