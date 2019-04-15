@@ -1,6 +1,15 @@
 ---
 title: |  
-     Encouraging Reproducibility in Scientific Research of theInternet
+     Rigor, Reproducibility, and Responsibility: A Quantum of Solace
+link: https://www.cmghjournal.org/article/S2352-345X(19)30032-3/pdf
+date: 2019-04-15 00:00:00
+tags: [reproducible paper]
+description: |
+     Lack of reproducibility in biomedical science is aserious and growing issue. Two publications, in 2011 and 2012, along with other analyses, documented failures to replicate key findings and other fundamental flaws in high-visibility research articles. This triggered action among funding bodies, journals, and other change-agents. Here, I examine well-recognized and underrecognized factors that contribute to experimental failure andsuggest individual and community approaches that can be used to attack these factors and eschew the SPECTRE of irreproducibility.
+
+---
+title: |  
+     Encouraging Reproducibility in Scientific Research of the Internet
 link: http://drops.dagstuhl.de/opus/volltexte/2019/10347/pdf/dagrep_v008_i010_p041_18412.pdf
 date: 2019-04-09 00:00:00
 tags: [reproducible paper]
