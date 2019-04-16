@@ -1,5 +1,14 @@
 ---
 title: |  
+     Open and Reproducible Research on Open Science Framework
+link: https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpet.32
+date: 2019-04-16 00:00:00
+tags: [reproducible paper]
+description: |
+     By implementing more transparent research practices, authors have the opportunity to stand out and showcase work that is more reproducible, easier to build upon, and more credible. Scientists gain by making work easier to share and maintain within their own laboratories, and the scientific community gains by making underlying data or research materials more available for confirmation or making new discoveries. The following protocol gives authors step‐by‐step instructions for using the free and open source Open Science Framework (OSF) to create a data management plan, preregister their study, use version control, share data and other research materials, or post a preprint for quick and easy dissemination.
+
+---
+title: |  
      Rigor, Reproducibility, and Responsibility: A Quantum of Solace
 link: https://www.cmghjournal.org/article/S2352-345X(19)30032-3/pdf
 date: 2019-04-15 00:00:00
