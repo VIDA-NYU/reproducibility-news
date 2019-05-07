@@ -1,11 +1,29 @@
 ---
 title: |  
+      A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks
+link: http://www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf
+date: 2019-05-07 00:00:00
+tags: [reproducible paper]
+description: |
+      Jupyter  Notebooks  have  been  widely  adopted  by many different communities, both in science and industry. They support  the  creation  of  literate  programming  documents  that combine  code,  text,  and  execution  results  with  visualizations and  all  sorts  of  rich  media.  The  self-documenting  aspects  andthe  ability  to  reproduce  results  have  been  touted  as  significant benefits  of  notebooks.  At  the  same  time,  there  has  been  growing  criticism  that  the  way  notebooks  are  being  used  leads  to unexpected behavior, encourage poor coding practices, and that their results can be hard to reproduce. To understand good and bad  practices  used  in  the  development  of  real  notebooks,  we studied 1.4 million notebooks from GitHub. We present a detailed analysis  of  their  characteristics  that  impact  reproducibility.  We also propose a set of best practices that can improve the rate of reproducibility and discuss open challenges that require further research  and  development.
+      
+---
+title: |  
+      Towards minimum reporting standards for life scientists
+link: https://osf.io/preprints/metaarxiv/9sm4x/
+date: 2019-05-07 00:00:00
+tags: [reproducible paper]
+description: |
+      Transparency in reporting benefits scientific communication on many levels. While specific needs and expectations vary across fields, the effective use of research findings relies on the availability of core information about research materials, data, and analysis. In December 2017, a working group of journal editors and experts in reproducibility convened to create the “minimum standards” working group. This working group aims to devise a set of minimum expectations that journals could ask their authors to meet, and will draw from the collective experience of journals implementing a range of different approaches designed to enhance reporting and reproducibility (e.g. STAR Methods), existing life science checklists (e.g. the Nature Research reporting summary), and the results of recent meta-research studying the efficacy of such interventions (e.g. Macleod et al. 2017; Han et al. 2017).
+
+---
+title: |  
       Replication Redux: The Reproducibility Crisis and the Case of Deworming
 link: https://econpapers.repec.org/paper/wbkwbrwps/8835.htm
 date: 2019-05-06 00:00:00
 tags: [reproducible paper]
 description: |
-      In 2004, a landmark study showed that an inexpensive medication to treat parasitic worms could improve health and school attendance for millions of children in many developing countries. Eleven years later, a headline in the Guardian reported that this treatment, deworming, had been"debunked."The pronouncement followed an effort to replicate and re-analyze the original study, as well as an update to a systematic review of the effects of deworming. This story made waves amidst discussion of a reproducibility crisis in some of the social sciences. This paper explores what it means to"replicate"and"reanalyze"a study, both in general and in the specific case of deworming. The paper reviews the broader replication efforts in economics, then examines the key findings of the original deworming paper in light of the"replication,""reanalysis,"and"systematic review."The paper also discusses the nature of the link between this single paper's findings, other papers'findings, and any policy recommendations about deworming. This example provides a perspective on the ways replication and reanalysis work, the strengths and weaknesses of systematic reviews, and whether there is, in fact, a reproducibility crisis in economics. 
+      In 2004, a landmark study showed that an inexpensive medication to treat parasitic worms could improve health and school attendance for millions of children in many developing countries. Eleven years later, a headline in the Guardian reported that this treatment, deworming, had been "debunked."The pronouncement followed an effort to replicate and re-analyze the original study, as well as an update to a systematic review of the effects of deworming. This story made waves amidst discussion of a reproducibility crisis in some of the social sciences. This paper explores what it means to"replicate"and"reanalyze"a study, both in general and in the specific case of deworming. The paper reviews the broader replication efforts in economics, then examines the key findings of the original deworming paper in light of the "replication," "reanalysis," and "systematic review."The paper also discusses the nature of the link between this single paper's findings, other papers' findings, and any policy recommendations about deworming. This example provides a perspective on the ways replication and reanalysis work, the strengths and weaknesses of systematic reviews, and whether there is, in fact, a reproducibility crisis in economics. 
       
 ---
 title: |  
