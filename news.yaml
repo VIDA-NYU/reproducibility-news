@@ -1,5 +1,23 @@
 ---
 title: |  
+      Methodological Reporting Behavior, Sample Sizes, and Statistical Power in Studies of Event- Related Potentials: Barriers to Reproducibility and Replicability
+link: https://psyarxiv.com/kgv9z
+date: 2019-05-09 00:00:00
+tags: [reproducible paper]
+description: |
+      Methodological reporting guidelines for studies of event-related potentials (ERPs) were updated in Psychophysiology in 2014. These guidelines facilitate the communication of key methodological parameters (e.g., preprocessing steps). Failing to report key parameters represents a barrier to replication efforts, and difficultly with replicability increases in the presence of small sample sizes and low statistical power. We assessed whether guidelines are followed and estimated the average sample size and power in recent research. Reporting behavior, sample sizes, and statistical designs were coded for 150 randomly-sampled articles from five high-impact journals that frequently publish ERP studies from 2011 to 2017. An average of 63% of guidelines were reported, and reporting behavior was similar across journals, suggesting that gaps in reporting is a shortcoming of the field rather than any specific journal. Publication of the guidelines paper had no impact on reporting behavior, suggesting that editors and peer reviewers are not enforcing these recommendations. The average sample size per group was 21. Statistical power was conservatively estimated as .72-.98 for a large effect size, .35-.73 for a medium effect, and .10-.18 for a small effect. These findings indicate that failing to report key guidelines is ubiquitous and that ERP studies are only powered to detect large effects. Such low power and insufficient following of reporting guidelines represent substantial barriers to replication efforts. The methodological transparency and replicability of studies can be improved by the open sharing of processing code and experimental tasks and by a priori sample size calculations to ensure adequately powered studies.
+
+---
+title: |  
+      Empirical examination of the replicability of associations between brain structure and psychological variables
+link: https://elifesciences.org/articles/43464
+date: 2019-05-09 00:00:00
+tags: [reproducible paper]
+description: |
+      Linking interindividual differences in psychological phenotype to variations in brain structure is an old dream for psychology and a crucial question for cognitive neurosciences. Yet, replicability of the previously-reported ‘structural brain behavior’ (SBB)-associations has been questioned, recently. Here, we conducted an empirical investigation, assessing replicability of SBB among heathy adults. For a wide range of psychological measures, the replicability of associations with gray matter volume was assessed. Our results revealed that among healthy individuals 1) finding an association between performance at standard psychological tests and brain morphology is relatively unlikely 2) significant associations, found using an exploratory approach, have overestimated effect sizes and 3) can hardly be replicated in an independent sample. After considering factors such as sample size and comparing our findings with more replicable SBB-associations in a clinical cohort and replicable associations between brain structure and non-psychological phenotype, we discuss the potential causes and consequences of these findings.
+
+---
+title: |  
       A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks
 link: http://www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf
 date: 2019-05-07 00:00:00
