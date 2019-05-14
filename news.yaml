@@ -1,5 +1,14 @@
 ---
 title: |  
+      Automatic generation of provenance metadataduring execution of scientific workflows
+link: http://ceur-ws.org/Vol-2357/paper8.pdf
+date: 2019-05-14 00:00:00
+tags: [reproducible paper]
+description: |
+      Data processing in data intensive scientific fields likebioinformatics  is  automated  to  a  great  extent.  Among  others,automation  is  achieved  with  workflow  engines  that  execute  anexplicitly  stated  sequence  of  computations.  Scientists  can  usethese workflows through science gateways or they develop themby  their  own.  In  both  cases  they  may  have  to  preprocess  their raw  data  and  also  may  want  to  further  process  the  workflowoutput.  The  scientist  has  to  take  care  about  provenance  of  thewhole  data  processing  pipeline.  This  is  not  a  trivial  task  dueto the diverse set of computational tools and environments usedduring the transformation of raw data to the final results. Thuswe  created  a  metadata  schema  to  provide  provenance  for  dataprocessing  pipelines  and  implemented  a  tool  that  creates  this metadata during the execution of typical scientific computations.
+
+---
+title: |  
       Methodological Reporting Behavior, Sample Sizes, and Statistical Power in Studies of Event- Related Potentials: Barriers to Reproducibility and Replicability
 link: https://psyarxiv.com/kgv9z
 date: 2019-05-09 00:00:00
