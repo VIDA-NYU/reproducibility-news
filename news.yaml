@@ -1,5 +1,23 @@
 ---
 title: |  
+      A Roadmap for Computational Communication Research
+link: https://osf.io/preprints/socarxiv/4dhfk/
+date: 2019-05-25 00:00:00
+tags: [reproducible paper]
+description: |
+      Computational Communication Research (CCR) is a new open access journal dedicated to publishing high quality computational research in communication science. This editorial introduction describes the role that we envision for the journal.  First, we explain what computational communication science is and why a new journal is needed for this subfield.  Then, we elaborate on the type of research this journal seeks to publish, and stress the need for transparent and reproducible science.  The relation between theoretical development and computational analysis is discussed, and we argue for the value of null-findings and risky research in additive science. Subsequently, the (experimental) two-phase review process is described. In this process,  after the first double-blind review phase, an editor can signal that they intend to publish the article conditional on satisfactory revisions. This starts the second review phase, in which authors and reviewers are no longer required to be anonymous and the authors are encouraged to publish a preprint to their article which will be linked as working paper from the journal. Finally, we introduce the four articles that, together with this Introduction, form the inaugural issue.
+
+---
+title: |  
+      A response to O. Arandjelovic's critique of "The reproducibility of research and the misinterpretation of p-values"
+link: https://arxiv.org/ftp/arxiv/papers/1905/1905.08338.pdf
+date: 2019-05-25 00:00:00
+tags: [reproducible paper]
+description: |
+      The main criticism of my piece in ref (2) seems to be that my calculations rely on testing a point null hypothesis, i.e. the hypothesis that the true effect size is zero. He objects to my contention that the true effect size can be zero, "just give the same pill to both groups", on the grounds that two pills can't be exactly identical. He then says "I understand that this criticism may come across as frivolous semantic pedantry of no practical consequence: of course that the author meant to say 'pills with the same contents' as everybody would have understood". Yes, that is precisely how it comes across to me. I shall try to explain in more detail why I think that this criticism has little substance. 
+
+---
+title: |  
       Analysis of Open Data and Computational Reproducibility in Registered Reports in Psychology
 link: https://psyarxiv.com/fk8vh
 date: 2019-05-24 00:00:00
