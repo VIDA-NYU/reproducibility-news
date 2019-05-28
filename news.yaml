@@ -1,5 +1,14 @@
 ---
 title: |  
+     The importance of standards for sharing of computational models and data
+link: https://psyarxiv.com/q3rnx
+date: 2019-05-28 00:00:00
+tags: [reproducible paper]
+description: |
+      The Target Article by Lee et al. (2019) highlights the ways in which ongoing concerns about research reproducibility extend to model-based approaches in cognitive science. Whereas Lee et al. focus primarily on the importance of research practices to improve model robustness, we propose that the transparent sharing of model specifications, including their inputs and outputs, is also essential to improving the reproducibility of model-based analyses. We outline an ongoing effort (within the context of the Brain Imaging Data Structure community) to develop standards for the sharing of the structure of computational models and their outputs.
+
+---
+title: |  
       A Roadmap for Computational Communication Research
 link: https://osf.io/preprints/socarxiv/4dhfk/
 date: 2019-05-25 00:00:00
