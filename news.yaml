@@ -1,5 +1,14 @@
 ---
 title: |  
+     Automated Documentation of End-to-End Experiments in Data Science
+link: https://sergred.github.io/files/phd.proposal.reds.icde.pdf
+date: 2019-06-11 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility plays a crucial role in experimentation. However, the modern research ecosystem and the underlying frameworks are constantly evolving and thereby making it extremely difficult to reliably reproduce scientific artifacts such as  data, algorithms, trained models and visual-izations. We therefore aim to design a novel system for assisting data scientists with rigorous end-to-end documentation of data-oriented experiments. Capturing data lineage, metadata, andother artifacts helps  reproducing and sharing experimental results. We summarize this challenge as automated documentation of  data science experiments. We aim at reducing manualoverhead for experimenting researchers, and intend to create a novel approach in dataflow and metadata tracking based on the analysis of the experiment source code. The envisioned system will accelerate the research process in general, andenable capturing fine-grained meta information by deriving a declarative representation of data science experiments.
+
+---
+title: |  
      Open Science for Computational Science and for Computer Science
 link: http://oceanrep.geomar.de/46540/1/2019-05-08SotonWAIS.pdf
 date: 2019-06-04 00:00:00
