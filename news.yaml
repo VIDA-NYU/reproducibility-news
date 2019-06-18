@@ -1,5 +1,14 @@
 ---
 title: |  
+     A Link is not Enough – Reproducibility of Data
+link: https://link.springer.com/content/pdf/10.1007%2Fs13222-019-00317-8.pdf
+date: 2019-06-18 00:00:00
+tags: [reproducible paper]
+description: |
+     Although many works in the database community use open data in their experimental evaluation, repeating the empirical results of previous works remains a challenge. This holds true even if the source code or binaries of the tested algorithms are available. In this paper, we argue that providing access to the raw, original datasets is not enough. Real-world datasets are rarely processed without modification. Instead, the data is adapted to the needs of the experimental evaluation in the data preparation process. We showcase that the details of the data preparation process matter and subtle differences during data conversion can have a large impact on the outcome of runtime results. We introduce a data reproducibility model, identify three levels of data reproducibility, report about our own experience, and exemplify our best practices.
+     
+---
+title: |  
      Automated Documentation of End-to-End Experiments in Data Science
 link: https://sergred.github.io/files/phd.proposal.reds.icde.pdf
 date: 2019-06-11 00:00:00
