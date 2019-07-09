@@ -1,5 +1,14 @@
 ---
 title: |  
+    Can topic models be used in research evaluations? Reproducibility, validity, and reliability when compared with semantic maps
+link: https://academic.oup.com/rev/advance-article/doi/10.1093/reseval/rvz015/5528521
+date: 2019-07-09 00:00:00
+tags: [reproducible paper]
+description: |
+     We replicate and analyze the topic model which was commissioned to King’s College and Digital Science for the Research Evaluation Framework (REF 2014) in the United Kingdom: 6,638 case descriptions of societal impact were submitted by 154 higher-education institutes. We compare the Latent Dirichlet Allocation (LDA) model with Principal Component Analysis (PCA) of document-term matrices using the same data. Since topic models are almost by definition applied to text corpora which are too large to read, validation of the results of these models is hardly possible; furthermore the models are irreproducible for a number of reasons. However, removing a small fraction of the documents from the sample—a test for reliability—has on average a larger impact in terms of decay on LDA than on PCA-based models. The semantic coherence of LDA models outperforms PCA-based models. In our opinion, results of the topic models are statistical and should not be used for grant selections and micro decision-making about research without follow-up using domain-specific semantic maps.
+
+---
+title: |  
      Novelty in science should not come at the cost of reproducibility
 link: https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/febs.14965
 date: 2019-07-05 00:00:00
