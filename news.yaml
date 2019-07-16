@@ -1,5 +1,26 @@
 ---
 title: |  
+    Reproducible Execution of POSIX Programs with DiOS
+link: https://arxiv.org/pdf/1907.03356.pdf
+date: 2019-07-16 00:00:00
+tags: [reproducible paper]
+description: |
+    Literature reviews play a key role in information systems (IS) research by describing, understanding, testing, and explaining the constructs and theories within a particular topic area. In recent years, various commentaries, debates, and editorials in the field’s top journals have highlighted the importance of systematicity and transparency in creating trustworthy literature reviews. Although also recognized as being important, the characteristic of reproducibility of IS literature reviews has not received nearly the same level of attention. This paper seeks to contribute to the ongoing discussion on the elements required for high quality IS literature reviews by clarifying the role of reproducibility. In doing so, we find that the concept of reproducibility has been misunderstood in much of the guidance to authors of IS literature reviews. Based on this observation, we make several suggestions for clarifying the terminology and identifying when reproducibility is desirable and feasible within IS literature reviews.
+
+---
+title: |  
+    (Re)considering the Concept of Reproducibility of Information Systems Literature Reviews
+link: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1153&context=amcis2019
+date: 2019-07-16 00:00:00
+tags: [reproducible paper]
+description: |
+         In this paper, we describe DiOS, a lightweight model operating system which can be used to execute programs that make use of POSIX APIs. Such executions are fully reproducible: running the same program with the same inputs twice will result in two exactly identical instruction traces, even if the program uses threads for parallelism.
+    DiOS is implemented almost entirely in portable C and C++: although its primary platform is DiVM, a verification-oriented virtual machine, it can be configured to also run in KLEE, a symbolic executor. Finally, it can be compiled into machine code to serve as a user-mode kernel.
+    Additionally, DiOS is modular and extensible. Its various components can be combined to match both the capabilities of the underlying platform and to provide services required by a particular program. New components can be added to cover additional system calls or APIs.
+    The experimental evaluation has two parts. DiOS is first evaluated as a component of a program verification platform based on DiVM. In the second part, we consider its portability and modularity by combining it with the symbolic executor KLEE. 
+
+---
+title: |  
     Can topic models be used in research evaluations? Reproducibility, validity, and reliability when compared with semantic maps
 link: https://academic.oup.com/rev/advance-article/doi/10.1093/reseval/rvz015/5528521
 date: 2019-07-09 00:00:00
