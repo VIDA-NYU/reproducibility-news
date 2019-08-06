@@ -1,5 +1,23 @@
 ---
 title: |  
+    Meta-analysis for families of experiments in software engineering: a systematic review and reproducibility and validity assessment
+link: https://link.springer.com/article/10.1007/s10664-019-09747-0
+date: 2019-08-06 00:00:00
+tags: [reproducible paper]
+description: |
+    To identify families of experiments that used meta-analysis, to investigate their methods for effect size construction and aggregation, and to assess the reproducibility and validity of their results. We performed a systematic review (SR) of papers reporting families of experiments in high quality software engineering journals, that attempted to apply meta-analysis. We attempted to reproduce the reported meta-analysis results using the descriptive statistics and also investigated the validity of the meta-analysis process. Out of 13 identified primary studies, we reproduced only five. Seven studies could not be reproduced. One study which was correctly analyzed could not be reproduced due to rounding errors. When we were unable to reproduce results, we provide revised meta-analysis results. To support reproducibility of analyses presented in our paper, it is complemented by the reproducer R package. Meta-analysis is not well understood by software engineering researchers. To support novice researchers, we present recommendations for reporting and meta-analyzing families of experiments and a detailed example of how to analyze a family of 4-group crossover experiments.
+
+---
+title: |  
+    A reproducible survey on word embeddings and ontology-based methods for word similarity: Linear combinations outperform the state of the art
+link: https://www.sciencedirect.com/science/article/pii/S0952197619301745
+date: 2019-08-0600:00:00
+tags: [reproducible paper]
+description: |
+    Human similarity and relatedness judgements between concepts underlie most of cognitive capabilities, such as categorisation, memory, decision-making and reasoning. For this reason, the proposal of methods for the estimation of the degree of similarity and relatedness between words and concepts has been a very active line of research in the fields of artificial intelligence, information retrieval and natural language processing among others. Main approaches proposed in the literature can be categorised in two large families as follows: (1) Ontology-based semantic similarity Measures (OM) and (2) distributional measures whose most recent and successful methods are based on Word Embedding (WE) models. However, the lack of a deep analysis of both families of methods slows down the advance of this line of research and its applications. This work introduces the largest, reproducible and detailed experimental survey of OM measures and WE models reported in the literature which is based on the evaluation of both families of methods on a same software platform, with the aim of elucidating what is the state of the problem. We show that WE models which combine distributional and ontology-based information get the best results, and in addition, we show for the first time that a simple average of two best performing WE models with other ontology-based measures or WE models is able to improve the state of the art by a large margin. In addition, we provide a very detailed reproducibility protocol together with a collection of software tools and datasets as supplementary material to allow the exact replication of our results.
+
+---
+title: |  
     Towards Replication in Computational Cognitive Modeling: A Machine Learning Perspective
 link: https://psyarxiv.com/9y72b
 date: 2019-08-05 00:00:00
