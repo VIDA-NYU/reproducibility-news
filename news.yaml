@@ -1,5 +1,14 @@
 ---
 title: |  
+    I Saw You in the Crowd: Credibility, Reproducibility and Meta-Utility
+link: https://osf.io/preprints/socarxiv/aex5z
+date: 2019-08-13 00:00:00
+tags: [reproducible paper]
+description: |
+    Crowdsourcing enables novel forms of research and knowledge production. It uses cyberspace to collect diverse research participants, coordinate projects and keep costs low. Recently social scientists began crowdsourcing their peers to engage in mass research targeting a specific topic. This enables meta-analysis of many analysts’ results obtained from a single crowdsourced research project, leading to exponential gains in credibility and scientific utility. Initial applications demonstrate positive returns for both original and replication research using various research instruments, and secondary or experimental data. It can provide more reliable Bayesian priors for selecting models and is an untapped mode of theory production that greatly benefit social science. Finally, in addition to the credibility and reproducibility gains, crowdsourcing embodies many core values of the Open Science Movement because it promotes community and equality among scientists.
+
+---
+title: |  
     Meta-analysis for families of experiments in software engineering: a systematic review and reproducibility and validity assessment
 link: https://link.springer.com/article/10.1007/s10664-019-09747-0
 date: 2019-08-06 00:00:00
