@@ -1,5 +1,32 @@
 ---
 title: |  
+     Reproducible research into human semiochemical cues and pheromones: learning from psychology’s renaissance 
+link: https://europepmc.org/abstract/ppr/ppr89452
+date: 2019-08-26 00:00:00
+tags: [reproducible paper]
+description: |
+     As with other mammals, smell in the form of semiochemicals is likely to influence the behaviour of humans, as olfactory cues to emotions, health, and mate choice. A subset of semiochemicals, pheromones, chemical signals within a species, have been identified in many mammal species. As mammals, we may have pheromones too. Sadly, the story of molecules claimed to be ‘putative human pheromones’ is a classic example of bad science carried out by good scientists. Much of human semiochemicals research including work on ‘human pheromones’ and olfactory cues comes within the field of psychology. Thus, the research is highly likely to be affected by the ‘reproducibility crisis’ in psychology and other life sciences. Psychology researchers have responded with proposals to enable better, more reliable science, with an emphasis on enhancing reproducibility. A key change is the adoption of study pre-registration which will also reduce publication bias. Human semiochemicals research would benefit from adopting these proposals. 
+
+---
+title: |  
+     On the Index of Repeatability: Estimation and Sample Size Requirements 
+link: https://www.scirp.org/journal/paperinformation.aspx?paperid=94439
+date: 2019-08-26 00:00:00
+tags: [reproducible paper]
+description: |
+     Background: Repeatability is a statement on the magnitude of measurement error. When biomarkers are used for disease diagnoses, they should be measured accurately. Objectives: We derive an index of repeatability based on the ratio of two variance components. Estimation of the index is derived from the one-way Analysis of Variance table based on the one-way random effects model. We estimate the large sample variance of the estimator and assess its adequacy using bootstrap methods. An important requirement for valid estimation of repeatability is the availability of multiple observations on each subject taken by the same rater and under the same conditions. Methods: We use the delta method to derive the large sample variance of the estimate of repeatability index. The question related to the number of required repeats per subjects is answered by two methods. In first methods we estimate the number of repeats that minimizes the variance of the estimated repeatability index, and the second determine the number of repeats needed under cost-constraints. Results and Novel Contribution: The situation when the measurements do not follow Gaussian distribution will be dealt with. It is shown that the required sample size is quite sensitive to the relative cost. We illustrate the methodologies on the Serum Alanine-aminotransferase (ALT) available from hospital registry data for samples of males and females. Repeatability is higher among females in comparison to males. 
+
+---
+title: |  
+    Lack of Reproducibility in Addiction Medicine
+link: https://psyarxiv.com/9htca/
+date: 2019-08-26 00:00:00
+tags: [reproducible paper]
+description: |
+    Background and aims: Credible research emphasizes transparency, openness, and reproducibility. These characteristics are fundamental to promoting and maintaining research integrity. This aim of this study was to evaluate the current state of transparency and reproducibility in the field of addiction science. Design: Cross-sectional design Measurements:  This study used the National Library of Medicine catalog to search for all journals using the subject terms tag: Substance-Related Disorders [ST]. Journals were then searched via PubMed in the timeframe of January 1, 2014 to December 31, 2018 and 300 publications were randomly selected. A pilot-tested Google form containing reproducibility/transparency characteristics was used for data extraction by two investigators who performed this process in a duplicate and blinded fashion.  Findings: Slightly more than half of the publications were open access (152/293, 50.7%). Few publications had pre-registration (7/244, 2.87%), material availability (2/237, 1.23%), protocol availability (3/244 ,0.80%), data availability (28/244, 11.48%), and analysis script availability (2/244, 0.82%). Most publications provided a conflict of interest statement (221/293, 75.42%) and funding sources (268/293, 91.47%). One replication study was reported (1/244, 0.04%). Few publications were cited (64/238, 26.89%) and 0 were excluded from meta-analyses and/or systematic reviews. Conclusion: Our study found that current practices that promote transparency and reproducibility are lacking, and thus, there is much room for improvement. First, investigators should preregister studies prior to commencement. Researchers should also make the materials, data, analysis script publicly available. To foster reproducibility, individuals should remain transparent about funding sources for the project and financial conflicts of interest. Research stakeholders should work together toward improved solutions on these matters. With these protections in place, the field of addiction medicine can lead in dissemination of information necessary to treat patients.
+
+---
+title: |  
     I Saw You in the Crowd: Credibility, Reproducibility and Meta-Utility
 link: https://osf.io/preprints/socarxiv/aex5z
 date: 2019-08-13 00:00:00
