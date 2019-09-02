@@ -1,5 +1,32 @@
 ---
 title: |  
+     Survey on Scientific Shared Resource Rigor and Reproducibility
+link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6657953/
+date: 2019-09-02 00:00:00
+tags: [reproducible paper]
+description: |
+     Shared scientific resources, also known as core facilities, support a significant portion of the research conducted at biomolecular research institutions. The Association of Biomolecular Resource Facilities (ABRF) established the Committee on Core Rigor and Reproducibility (CCoRRe) to further its mission of integrating advanced technologies, education, and communication in the operations of shared scientific resources in support of reproducible research. In order to first assess the needs of the scientific shared resource community, the CCoRRe solicited feedback from ABRF members via a survey. The purpose of the survey was to gain information on how U.S. National Institutes of Health (NIH) initiatives on advancing scientific rigor and reproducibility influenced current services and new technology development. In addition, the survey aimed to identify the challenges and opportunities related to implementation of new reporting requirements and to identify new practices and resources needed to ensure rigorous research. The results revealed a surprising unfamiliarity with the NIH guidelines. Many of the perceived challenges to the effective implementation of best practices (i.e., those designed to ensure rigor and reproducibility) were similarly noted as a challenge to effective provision of support services in a core setting. Further, most cores routinely use best practices and offer services that support rigor and reproducibility. These services include access to well-maintained instrumentation and training on experimental design and data analysis as well as data management. Feedback from this survey will enable the ABRF to build better educational resources and share critical best-practice guidelines. These resources will become important tools to the core community and the researchers they serve to impact rigor and transparency across the range of science and technology.
+
+---
+title: |  
+     Reproducibility dataset for a large experimental survey on word embeddings and ontology-based methods for word similarity
+link: https://www.sciencedirect.com/science/article/pii/S2352340919307875?via%3Dihub
+date: 2019-09-02 00:00:00
+tags: [reproducible paper, ReproZip]
+description: |
+     This data article introduces a reproducibility dataset with the aim of allowing the exact replication of all experiments, results and data tables introduced in our companion paper (Lastra-Díaz et al., 2019), which introduces the largest experimental survey on ontology-based semantic similarity methods and Word Embeddings (WE) for word similarity reported in the literature. The implementation of all our experiments, as well as the gathering of all raw data derived from them, was based on the software implementation and evaluation of all methods in HESML library (Lastra-Díaz et al., 2017), and their subsequent recording with Reprozip (Chirigati et al., 2016). Raw data is made up by a collection of data files gathering the raw word-similarity values returned by each method for each word pair evaluated in any benchmark. Raw data files was processed by running a R-language script with the aim of computing all evaluation metrics reported in (Lastra-Díaz et al., 2019), such as Pearson and Spearman correlation, harmonic score and statistical significance p-values, as well as to generate automatically all data tables shown in our companion paper. Our dataset provides all input data files, resources and complementary software tools to reproduce from scratch all our experimental data, statistical analysis and reported data. Finally, our reproducibility dataset provides a self-contained experimentation platform which allows to run new word similarity benchmarks by setting up new experiments including other unconsidered methods or word similarity benchmarks.
+
+---
+title: |  
+     SciPipe: A workflow library for agile development ofcomplex and dynamic bioinformatics pipelines
+link: http://www.diva-portal.org/smash/get/diva2:1242254/FULLTEXT02.pdf
+date: 2019-09-02 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+     Background:The complex nature of biological data has driven the development of specialized software tools. Scientificworkflow management systems simplify the assembly of such tools into pipelines, assist with job automation, and aidreproducibility of analyses. Many contemporary workflow tools are specialized or not designed for highly complexworkflows, such as with nested loops, dynamic scheduling, and parametrization, which is common in, e.g., machinelearning.Findings:SciPipe is a workflow programming library implemented in the programming language Go, for managingcomplex and dynamic pipelines in bioinformatics, cheminformatics, and other fields. SciPipe helps in particular withworkflow constructs common in machine learning, such as extensive branching, parameter sweeps, and dynamicscheduling and parametrization of downstream tasks. SciPipe builds on flow-based programming principles to supportagile development of workflows based on a library of self-contained, reusable components. It supports running subsets ofworkflows for improved iterative development and provides a data-centric audit logging feature that saves a full audit tracefor every output file of a workflow, which can be converted to other formats such as HTML, TeX, and PDF on demand. Theutility of SciPipe is demonstrated with a machine learning pipeline, a genomics, and a transcriptomics pipeline.Conclusions:SciPipe provides a solution for agile development of complex and dynamic pipelines, especially in machinelearning, through a flexible application programming interface suitable for scientists used to programming or scripting.
+
+---
+title: |  
      Foregrounding data curation to foster reproducibility of workflows and scientific data reuse
 link: http://hdl.handle.net/2142/105288
 date: 2019-08-27 00:00:00
