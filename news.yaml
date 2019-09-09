@@ -1,5 +1,23 @@
 ---
 title: |  
+     Exploring Reproducibility and FAIR Principles in Data Science Using Ecological Niche Modeling as a Case Study
+link: https://arxiv.org/pdf/1909.00271.pdf
+date: 2019-09-09 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility is a fundamental requirement of the scientific process since it enables outcomes to be replicated and verified. Computational scientific experiments can benefit from improved reproducibility for many reasons, including validation of results and reuse by other scientists. However, designing reproducible experiments remains a challenge and hence the need for developing methodologies and tools that can support this process. Here, we propose a conceptual model for reproducibility to specify its main attributes and properties, along with a framework that allows for computational experiments to be findable, accessible, interoperable, and reusable. We present a case study in ecological niche modeling to demonstrate and evaluate the implementation of this framework. 
+
+---
+title: |  
+     Reproducible Research in Geoinformatics: Concepts, Challenges and Benefits
+link: http://drops.dagstuhl.de/opus/volltexte/2019/11100/pdf/LIPIcs-COSIT-2019-8.pdf
+date: 2019-09-09 00:00:00
+tags: [reproducible paper]
+description: |
+      Geoinformatics deals with spatial and temporal information and its analysis. Research in this field often follows established practices of first developing computational solutions for specific spatiotemporal problems and then publishing the results and insights in a (static) paper, e.g. as a PDF. Not every detail can be included in such a paper, and particularly, the complete set of computational steps are frequently left out. While this approach conveys key knowledge to other researchers it makes it difficult to effectively re-use and reproduce the reported results. In this vision paper, we propose an alternative approach to carry out and report research in Geoinformatics. It is based on (computational) reproducibility, promises to make re-use and reproduction more effective, and creates new opportunities for further research. We report on experiences with executable research compendia (ERCs) as alternatives to classic publications in Geoinformatics, and we discuss how ERCs combined with a supporting research infrastructure can transform how we do research in Geoinformatics. We point out which challenges this idea entails and what new research opportunities emerge, in particular for the COSIT community. 
+
+---
+title: |  
      Survey on Scientific Shared Resource Rigor and Reproducibility
 link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6657953/
 date: 2019-09-02 00:00:00
