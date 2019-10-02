@@ -1,5 +1,32 @@
 ---
 title: |  
+     containerit: Generating Dockerfiles for reproducible research with R
+link: https://www.theoj.org/joss-papers/joss.01603/10.21105.joss.01603.pdf
+date: 2019-10-02 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+     containerit packages R script/session/workspace and all dependencies as a Docker container by automagically generating a suitable Dockerfile. The package’s website is https://o2r.info/containerit/.
+
+---
+title: |  
+     A checklist for maximizing reproducibility of ecological niche models
+link: https://www.nature.com/articles/s41559-019-0972-5
+date: 2019-09-23 00:00:00
+tags: [reproducible paper]
+description: |
+     Reporting specific modelling methods and metadata is essential to the reproducibility of ecological studies, yet guidelines rarely exist regarding what information should be noted. Here, we address this issue for ecological niche modelling or species distribution modelling, a rapidly developing toolset in ecology used across many aspects of biodiversity science. Our quantitative review of the recent literature reveals a general lack of sufficient information to fully reproduce the work. Over two-thirds of the examined studies neglected to report the version or access date of the underlying data, and only half reported model parameters. To address this problem, we propose adopting a checklist to guide studies in reporting at least the minimum information necessary for ecological niche modelling reproducibility, offering a straightforward way to balance efficiency and accuracy. We encourage the ecological niche modelling community, as well as journal reviewers and editors, to utilize and further develop this framework to facilitate and improve the reproducibility of future work. The proposed checklist framework is generalizable to other areas of ecology, especially those utilizing biodiversity data, environmental data and statistical modelling, and could also be adopted by a broader array of disciplines.
+
+---
+title: |  
+     Semantic Web Technologies for Data Curation and Provenance
+link: https://cfmetrologie.edpsciences.org/articles/metrology/pdf/2019/01/metrology_cim2019_26002.pdf
+date: 2019-09-20 00:00:00
+tags: [reproducible paper]
+description: |
+     The Reproducibility issue even if not a crisis, is still a major problem in the world of science and engineering. Within metrology, making measurements at the limits that science allows for, inevitably, factors not originally considered relevant can be very relevant. Who did the measurement? How exactly did they do it? Was a mistake made? Was the equipment working correctly? All these factors can influence the outputs from a measurement process. In this work we investigate the use of Semantic Web technologies as a strategic basis on which to capture provenance meta-data and the data curation processes that will lead to a better understanding of issues affecting reproducibility.
+
+---
+title: |  
      Exploring Reproducibility and FAIR Principles in Data Science Using Ecological Niche Modeling as a Case Study
 link: https://arxiv.org/pdf/1909.00271.pdf
 date: 2019-09-09 00:00:00
