@@ -42,16 +42,6 @@ description: |
 
 ---
 title: |  
-     The hard road to reproducibility
-link: https://science.sciencemag.org/content/354/6308/142
-date: 2016-10-07 00:00:00
-tags: [news article, reproducibility infrastructure]
-description: |
-     A paper reporting experiences related to reproducible research in a research group.
-
-
----
-title: |  
      containerit: Generating Dockerfiles for reproducible research with R
 link: https://www.theoj.org/joss-papers/joss.01603/10.21105.joss.01603.pdf
 date: 2019-10-02 00:00:00
