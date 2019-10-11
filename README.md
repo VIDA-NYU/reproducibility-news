@@ -49,7 +49,7 @@ RSS Tags
 | reproducibility guidelines | guidelines for reproducibility |
 | reproducibility infrastructure | reports/articles/papers on building reproducibility infrastructure |
 | reproducibility report | reports by governing bodies on reproducibility of a field's work |
-| reproducibility study | studies that seek to reproduce resarch |
+| reproducibility study | studies that seek to reproduce research |
 | reproducibility talk | talks and presentations about reproducibility |
 | reproducible journal | journals that work towards reproducibility efforts (requiring submissions to be reproducible, etc. |
 | reproducible paper | papers that are considered reproducible |
