@@ -1,5 +1,57 @@
 ---
 title: |  
+     Praxis of Reproducible Computational Science
+link: https://www.authorea.com/users/34995/articles/329429-praxis-of-reproducible-computational-science?commit=dd5f139fb642ca8c958a701d0c2e05dcc01c9fd8
+date: 2018-10-11 00:00:00
+tags: [reproducibility infrastructure, reproducibility bibliography]
+description: |
+     Among the top challenges of reproducible computational science are the following: 1) creation, curation, usage, and publication of research software; 
+     2) acceptance, adoption, and standardization of open-science practices; and 3) misalignment with academic incentive structures and institutional 
+     processes for career progression. I will mainly address the first two here, proposing a praxis of reproducible computational science.
+
+
+---
+title: |  
+     Reproducible and replicable CFD: it's harder than you think
+link: https://arxiv.org/pdf/1605.04339.pdf
+date: 2016-10-15 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+     Completing a full replication study of our previously published findings on bluff-body aerodynamics was harder than we thought. Despite the fact that we have good reproducible-research practices, sharing our code and data openly. Here's what we learned from three years, four CFD codes and hundreds of runs.
+
+
+---
+title: |  
+     Terminologies for Reproducible Research
+link: https://arxiv.org/pdf/1802.03311.pdf
+date: 2018-02-09 00:00:00
+tags: [reproducibility bibliography]
+description: |
+     A paper which analyzes terminologies related to reproducible research -- exploring differences and patterns among them -- aiming to resolve some contradictions.
+
+
+---
+title: |  
+     Reproducible Research for Computing in Science & Engineering
+link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8090467
+date: 2017-10-31 00:00:00
+tags: [reproducibility infrastructure]
+description: |
+     The editors of the new track for reproducible research outline the parameters for future peer review, submission, and access, highlighting the magazine’s previous work in this field and some of the challenges still to come.
+
+
+---
+title: |  
+     The hard road to reproducibility
+link: https://science.sciencemag.org/content/354/6308/142
+date: 2016-10-07 00:00:00
+tags: [news article, reproducibility infrastructure]
+description: |
+     A paper reporting experiences related to reproducible research in a research group.
+
+
+---
+title: |  
      containerit: Generating Dockerfiles for reproducible research with R
 link: https://www.theoj.org/joss-papers/joss.01603/10.21105.joss.01603.pdf
 date: 2019-10-02 00:00:00
