@@ -1,5 +1,14 @@
 ---
 title: |  
+     Sharing and Preserving Computational Analyses for Posterity with encapsulator 
+link: https://research-information.bristol.ac.uk/files/186140896/1803.05808.pdf
+date: 2018-10-12 00:00:00
+tags: [reproducible paper]
+description: |
+     Open data and open source software might be part of the solution to sciences reproducibility crisis, but they are insufficient to guarantee reproducibility. Requiring minimal end-user expertise, the encapsulator system creates a time capsule with reproducible code in a self-contained computational environment. encapsulator provides end users with a fully featured desktop environment for reproducible research.
+
+---
+title: |  
      Praxis of Reproducible Computational Science
 link: https://www.authorea.com/users/34995/articles/329429-praxis-of-reproducible-computational-science?commit=dd5f139fb642ca8c958a701d0c2e05dcc01c9fd8
 date: 2018-10-11 00:00:00
