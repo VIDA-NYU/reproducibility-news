@@ -1,14 +1,20 @@
 ---
 title: |  
+     Investigating the Reproducibility of Meta-Analyses in Psychology
+link: https://psyarxiv.com/g5ryh
+date: 2018-10-23 00:00:00
+tags: [reproducible paper]
+description: |
+     To determine the reproducibility of psychological meta-analyses, we investigated whether we could reproduce 500 primary study effect sizes drawn from 33 published meta-analyses based on the information given in the meta-analyses, and whether recomputations of primary study effect sizes altered the overall results of the meta-analysis.
+
+---
+title: |  
      Praxis of Reproducible Computational Science
 link: https://www.authorea.com/users/34995/articles/329429-praxis-of-reproducible-computational-science?commit=dd5f139fb642ca8c958a701d0c2e05dcc01c9fd8
 date: 2018-10-11 00:00:00
 tags: [reproducibility infrastructure, reproducibility bibliography]
 description: |
-     Among the top challenges of reproducible computational science are the following: 1) creation, curation, usage, and publication of research software; 
-     2) acceptance, adoption, and standardization of open-science practices; and 3) misalignment with academic incentive structures and institutional 
-     processes for career progression. I will mainly address the first two here, proposing a praxis of reproducible computational science.
-
+     Among the top challenges of reproducible computational science are the following: 1) creation, curation, usage, and publication of research software; 2) acceptance, adoption, and standardization of open-science practices; and 3) misalignment with academic incentive structures and institutional processes for career progression. I will mainly address the first two here, proposing a praxis of reproducible computational science.
 
 ---
 title: |  
