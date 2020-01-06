@@ -1,5 +1,68 @@
 ---
 title: |  
+   The Unfairness of Popularity Bias in Music Recommendation: A Reproducibility Study
+link: https://arxiv.org/abs/1912.04696
+date: 2019-12-10 00:00:00
+tags: [reproducible paper]
+description: |
+   Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepresented in recommendations. The recent work of Abdollahpouri et al. in the context of movie recommendations has shown that this popularity bias leads to unfair treatment of both long-tail items as well as users with little interest in popular items. In this paper, we reproduce the analyses of Abdollahpouri et al. in the context of music recommendation. Specifically, we investigate three user groups from the LastFM music platform that are categorized based on how much their listening preferences deviate from the most popular music among all LastFM users in the dataset: (i) low-mainstream users, (ii) medium-mainstream users, and (iii) high-mainstream users. In line with Abdollahpouri et al., we find that state-of-the-art recommendation algorithms favor popular items also in the music domain. However, their proposed Group Average Popularity metric yields different results for LastFM than for the movie domain, presumably due to the larger number of available items (i.e., music artists) in the LastFM dataset we use. Finally, we compare the accuracy results of the recommendation algorithms for the three user groups and find that the low-mainstreaminess group significantly receives the worst recommendations. 
+
+---
+title: |  
+   Publishing computational research -- A review of infrastructures for reproducible and transparent scholarly communication
+link: https://arxiv.org/abs/2001.00484
+date: 2020-01-03 00:00:00
+tags: [reproducible paper]
+description: |
+   Funding agencies increasingly ask applicants to include data and software management plans into proposals. In addition, the author guidelines of scientific journals and conferences more often include a statement on data availability, and some reviewers reject unreproducible submissions. This trend towards open science increases the pressure on authors to provide access to the source code and data underlying the computational results in their scientific papers. Still, publishing reproducible articles is a demanding task and not achieved simply by providing access to code scripts and data files. Consequently, several projects develop solutions to support the publication of executable analyses alongside articles considering the needs of the aforementioned stakeholders. The key contribution of this paper is a review of applications addressing the issue of publishing executable computational research results. We compare the approaches across properties relevant for the involved stakeholders, e.g., provided features and deployment options, and also critically discuss trends and limitations. The review can support publishers to decide which system to integrate into their submission process, editors to recommend tools for researchers, and authors of scientific papers to adhere to reproducibility principles. 
+
+---
+title: |  
+   Introducing a Framework for Open and Reproducible Research Training (FORRT)
+link: https://osf.io/bnh7p
+date: 2019-12-19 00:00:00
+tags: [reproducible paper]
+description: |
+   Current norms for the teaching and mentoring of higher education are rooted in obsolete practices of bygone eras. Improving the transparency and rigor of science is the responsibility of all who engage in it. Ongoing attempts to improve research credibility have, however, neglected an essential aspect of the academic cycle: the training of researchers and consumers of research. Principled teaching and mentoring involve imparting students with an understanding of research findings in light of epistemic uncertainty, and moreover, an appreciation of best practices in the production of knowledge. We introduce a Framework for Open and Reproducible Research Training (FORRT). Its main goal is to provide educators with a pathway towards the incremental adoption of principled teaching and mentoring practices, including open and reproducible research. FORRT will act as an initiative to support instructors, collating existing teaching pedagogies and materials to be reused and adapted for use within new and existing courses. Moreover, FORRT can be used as a tool to benchmark the current level of training students receive across six clusters of open and reproducible research practices: 'reproducibility and replicability knowledge', 'conceptual and statistical knowledge', 'reproducible analyses', 'preregistration', 'open data and materials', and 'replication research'. FORRT will strive to be an advocate for the establishment of principled teaching and mentorship as a fourth pillar of a true scientific utopia.[working document here: https://tinyurl.com/FORRTworkingDOC]
+
+---
+title: |  
+   Reproducibility, Preservation, and Access to Research with ReproZip and ReproServer
+link: https://osf.io/preprints/lissa/mgvxq/
+date: 2019-12-11 00:00:00
+tags: [reproducible paper]
+description: |
+   The adoption of reproducibility remains low, despite incentives becoming increasingly common in different domains, conferences, and journals. The truth is, reproducibility is technically difficult to achieve due to the complexities of computational environments. To address these technical challenges, we created ReproZip, an open-source tool that automatically packs research along with all the necessary information to reproduce it, including data files, software, OS version, and environment variables. Everything is then bundled into an rpz file, which users can use to reproduce the work with ReproZip and a suitable unpacker (e.g.: using Vagrant or Docker). The rpz file is general and contains rich metadata: more unpackers can be added as needed, better guaranteeing long-term preservation. However, installing the unpackers can still be burdensome for secondary users of ReproZip bundles. In this paper, we will discuss how ReproZip and our new tool, ReproServer, can be used together to facilitate access to well-preserved, reproducible work. ReproServer is a web application that allows users to upload or provide a link to a ReproZip bundle, and then interact with/reproduce the contents from the comfort of their browser. Users are then provided a persistent link to the unpacked work on ReproServer which they can share with reviewers or colleagues.
+
+---
+title: |  
+   Opportunities for increased reproducibility and replicability of developmental cognitive neuroscience
+link: https://psyarxiv.com/fxjzt/
+date: 2018-12-18 00:00:00
+tags: [reproducible paper]
+description: |
+   Recently, many workflows and tools that aim to increase the reproducibility and replicability of research findings have been suggested. In this review, we discuss the opportunities that these efforts offer for the field of developmental cognitive neuroscience. We focus on issues broadly related to statistical power and to flexibility and transparency in data analyses. Critical considerations relating to statistical power include challenges in recruitment and testing of young populations, how to increase the value of studies with small samples, and the opportunities and challenges related to working with large-scale datasets. Developmental studies also involve challenges such as choices about age groupings, modelling across the lifespan, the analyses of longitudinal changes, and neuroimaging data that can be processed and analyzed in a multitude of ways. Flexibility in data acquisition, analyses and description may thereby greatly impact results. We discuss methods for improving transparency in developmental cognitive neuroscience, and how preregistration of studies can improve methodological rigor in the field. While outlining challenges and issues that may arise before, during, and after data collection, solutions and resources are highlighted aiding to overcome some of these. Since the number of useful tools and techniques is ever-growing, we highlight the fact that many practices can be implemented stepwise.
+
+---
+title: |  
+   Use of study design principles would increase the reproducibility of reviews in conservation biology
+link: https://www.sciencedirect.com/science/article/pii/S0006320719315551
+date: 2020-01-03 00:00:00
+tags: [reproducible paper]
+description: |
+   Despite the importance of reviews and syntheses in advancing our understanding of the natural world and informing conservation policy, they frequently are not conducted with the same careful methods as primary studies. This discrepancy can lead to controversy over review conclusions because the methods employed to gather evidence supporting the conclusions are not reproducible. To illustrate this problem, we assessed whether the methods of reviews involved in two recent controversies met the common scientific standard of being reported in sufficient detail to be repeated by an independent researcher. We found that none of the reviews were repeatable by this standard. Later stages of the review process, such as quantitative analyses, were generally described well, but the more fundamental, data-gathering stage was not fully described in any of the reviews. To address the irreproducibility of review conclusions, we believe that ecologists and conservation biologists should recognize that literature searches for reviews are a data gathering exercise and apply the same rigorous study design principles and reporting standards that they would use for primary studies.
+
+---
+title: |  
+   The reconfigurable maze provides flexible, scalable, reproducible and repeatable tests
+link: https://www.sciencedirect.com/science/article/pii/S2589004219305322
+date: 2018-12-19 00:00:00
+tags: [reproducible paper]
+description: |
+   Multiple mazes are routinely used to test the performance of animals because each has disadvantages inherent to its shape. However, the maze shape cannot be flexibly and rapidly reproduced in a repeatable and scalable way in a single environment. Here, to overcome the lack of flexibility, scalability, reproducibility and repeatability, we develop a reconfigurable maze system that consists of interlocking runways and an array of accompanying parts. It allows experimenters to rapidly and flexibly configure a variety of maze structures along the grid pattern in a repeatable and scalable manner. Spatial navigational behavior and hippocampal place coding were not impaired by the interlocking mechanism. As a proof-of-principle demonstration, we demonstrate that the maze morphing induces location remapping of the spatial receptive field. The reconfigurable maze thus provides flexibility, scalability, repeatability, and reproducibility, therefore facilitating consistent investigation into the neuronal substrates for learning and memory and allowing screening for behavioral phenotypes.
+
+---
+title: |  
    A deafening silence: a lack of data and reproducibility in published bioacoustics research?
 link: https://bdj.pensoft.net/article/36783/
 date: 2018-11-03 00:00:00
