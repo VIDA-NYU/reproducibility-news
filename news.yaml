@@ -1,8 +1,17 @@
 ---
 title: |  
+    Leveraging Container Technologies in a GIScience Project: A Perspective from Open Reproducible Research 
+link: https://www.mdpi.com/2220-9964/9/3/138
+date: 2020-02-29 00:00:00
+tags: [reproducible paper]
+description: |
+    Scientific reproducibility is essential for the advancement of science. It allows the results of previous studies to be reproduced, validates their conclusions and develops new contributions based on previous research. Nowadays, more and more authors consider that the ultimate product of academic research is the scientific manuscript, together with all the necessary elements (i.e., code and data) so that others can reproduce the results. However, there are numerous difficulties for some studies to be reproduced easily (i.e., biased results, the pressure to publish, and proprietary data). In this context, we explain our experience in an attempt to improve the reproducibility of a GIScience project. According to our project needs, we evaluated a list of practices, standards and tools that may facilitate open and reproducible research in the geospatial domain, contextualising them on Peng’s reproducibility spectrum. Among these resources, we focused on containerisation technologies and performed a shallow review to reflect on the level of adoption of these technologies in combination with OSGeo software. Finally, containerisation technologies proved to enhance the reproducibility and we used UML diagrams to describe representative work-flows deployed in our GIScience project. 
+
+---
+title: |  
    Improving the reproducibility of science
 link: https://osf.io/rftyx/
-date: 2019-02-04 00:00:00
+date: 2020-02-04 00:00:00
 tags: [reproducible paper]
 description: |
    Reproducibility Notes - a new series of articles that will highlight topics related to the production of robust, effective and reproducible science.
@@ -11,7 +20,7 @@ description: |
 title: |  
    The Unfairness of Popularity Bias in Music Recommendation: A Reproducibility Study
 link: https://arxiv.org/abs/1912.04696
-date: 2019-12-10 00:00:00
+date: 2020-12-10 00:00:00
 tags: [reproducible paper]
 description: |
    Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepresented in recommendations. The recent work of Abdollahpouri et al. in the context of movie recommendations has shown that this popularity bias leads to unfair treatment of both long-tail items as well as users with little interest in popular items. In this paper, we reproduce the analyses of Abdollahpouri et al. in the context of music recommendation. Specifically, we investigate three user groups from the LastFM music platform that are categorized based on how much their listening preferences deviate from the most popular music among all LastFM users in the dataset: (i) low-mainstream users, (ii) medium-mainstream users, and (iii) high-mainstream users. In line with Abdollahpouri et al., we find that state-of-the-art recommendation algorithms favor popular items also in the music domain. However, their proposed Group Average Popularity metric yields different results for LastFM than for the movie domain, presumably due to the larger number of available items (i.e., music artists) in the LastFM dataset we use. Finally, we compare the accuracy results of the recommendation algorithms for the three user groups and find that the low-mainstreaminess group significantly receives the worst recommendations. 
