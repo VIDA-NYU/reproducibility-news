@@ -1,5 +1,14 @@
 ---
 title: |  
+    Assessing the impact of introductory programming workshops on the computational reproducibility of biomedical workflows
+link: https://www.biorxiv.org/content/10.1101/2020.03.09.983429v1
+date: 2020-03-16 00:00:00
+tags: [reproducible paper]
+description: |
+    Introduction: As biomedical research becomes more data-intensive, computational reproducibility is a growing area of importance. Unfortunately, many biomedical researchers have not received formal computational training and often struggle to produce results that can be reproduced using the same data, code, and methods. Programming workshops can be a tool to teach new computational methods, but it is not always clear whether researchers are able to use their new skills to make their work more computationally reproducible. Methods: This mixed methods study consisted of in-depth interviews with 14 biomedical researchers before and after participation in an introductory programming workshop. During the interviews, participants described their research workflows and responded to a quantitative checklist measuring reproducible behaviors. The interview data was analyzed using a thematic analysis approach, and the pre and post workshop checklist scores were compared to assess the impact of the workshop on computational reproducibility of the researchers' workflows. Results: Pre and post scores on a checklist of reproducible behaviors did not increase in a statistically significant manner. The qualitative interviews revealed that several participants had made small changes to their workflows including switching to open source programming languages for their data cleaning, analysis, and visualization. Overall many of the participants indicated higher levels of programming literacy and an interest in further training. Factors that enabled change included supportive environments and an immediate research need, while barriers included collaborators that were resistant to new tools and a lack of time. Conclusion: While none of the participants completely changed their workflows, many of them did incorporate new practices, tools, or methods that helped make their work more reproducible and transparent to other researchers. This indicate that programming workshops now offered by libraries and other organizations contribute to computational reproducibility training for researchers
+
+---
+title: |  
     A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility
 link: https://arxiv.org/abs/2002.11626
 date: 2020-03-02 00:00:00
