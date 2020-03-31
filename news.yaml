@@ -1,5 +1,14 @@
 ---
 title: |  
+    Toward Enabling Reproducibility for Data-Intensive Research Using the Whole Tale Platform
+link: https://doi.org/10.3233/APC200107
+date: 2020-03-31 00:00:00
+tags: [reproducible paper]
+description: |
+    Whole Tale http://wholetale.org is a web-based, open-source platform for reproducible research supporting the creation, sharing, execution, and verification of "Tales" for the scientific research community. Tales are executable research objects that capture the code, data, and environment along with narrative and workflow information needed to re-create computational results from scientific studies. Creating reproducible research objects that enable reproducibility, transparency, and re-execution for computational experiments requiring significant compute resources or utilizing massive data is an especially challenging open problem. We describe opportunities, challenges, and solutions to facilitating reproducibility for data-and compute-intensive research, that we call "Tales at Scale," using the Whole Tale computing platform.We highlight challenges and solutions in frontend responsiveness needs, gaps in current middleware design and implementation, network restrictions, containerization, and data access. Finally, we discuss challenges in packaging computational experiment implementations for portable data-intensive Tales and outline future work.
+
+---
+title: |  
     Assessing the impact of introductory programming workshops on the computational reproducibility of biomedical workflows
 link: https://www.biorxiv.org/content/10.1101/2020.03.09.983429v1
 date: 2020-03-16 00:00:00
