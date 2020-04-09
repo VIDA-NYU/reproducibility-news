@@ -1,5 +1,14 @@
 ---
 title: |  
+    Reproducible Software Environment: a tool enabling computational reproducibility in geospace sciences and facilitating collaboration
+link: https://www.swsc-journal.org/articles/swsc/full_html/2020/01/swsc190063/swsc190063.html
+date: 2020-04-09 00:00:00
+tags: [reproducible paper]
+description: |
+    The Reproducible Software Environment (Resen) is an open-source software tool enabling computationally reproducible scientific results in the geospace science community. Resen was developed as part of a larger project called the Integrated Geoscience Observatory (InGeO), which aims to help geospace researchers bring together diverse datasets from disparate instruments and data repositories, with software tools contributed by instrument providers and community members. The main goals of InGeO are to remove barriers in accessing, processing, and visualizing geospatially resolved data from multiple sources using methodologies and tools that are reproducible. The architecture of Resen combines two mainstream open source software tools, Docker and JupyterHub, to produce a software environment that not only facilitates computationally reproducible research results, but also facilitates effective collaboration among researchers. In this technical paper, we discuss some challenges for performing reproducible science and a potential solution via Resen, which is demonstrated using a case study of a geospace event. Finally we discuss how the usage of mainstream, open-source technologies seems to provide a sustainable path towards enabling reproducible science compared to proprietary and closed-source software.
+
+---
+title: |  
     Toward Enabling Reproducibility for Data-Intensive Research Using the Whole Tale Platform
 link: https://doi.org/10.3233/APC200107
 date: 2020-03-31 00:00:00
