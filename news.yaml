@@ -1,5 +1,15 @@
 ---
 title: |  
+    Neural Citation Recommendation: A Reproducibility Study
+link: http://ceur-ws.org/Vol-2591/paper-07.pdf
+date: 2020-04-14 00:00:00
+tags: [reproducible paper]
+description: |
+    Context-aware citation recommendation is used to overcome the process of manually searching for relevant citations by automatically recommending suitable papers as citations for a specified input text. In this paper, we examine the reproducibility of a state-of-the-art approach to context-aware citation recommendation, namely the neural citationnetwork (NCN) by Ebesu and Fang. We re-implement the network and run evaluations on both RefSeer, the originally used data set, and arXiv CS, as an additional data set. We provide insights on how the different hyperparameters of the neural network affect the model performance of the NCN and thus can be used to improve the model’s performance. In this way, we contribute to making citation recommendation approaches and their evaluations more transparent and creating more effective neural network-based models in the future.
+
+---
+---
+title: |  
     Reproducible Software Environment: a tool enabling computational reproducibility in geospace sciences and facilitating collaboration
 link: https://www.swsc-journal.org/articles/swsc/full_html/2020/01/swsc190063/swsc190063.html
 date: 2020-04-09 00:00:00
