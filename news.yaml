@@ -1,5 +1,14 @@
 ---
 title: |  
+    Analytic reproducibility in articles receiving open data badges at Psychological Science: An observational study    
+link: https://osf.io/preprints/metaarxiv/h35wt/
+date: 2020-07-18 00:00:00
+tags: [reproducible paper]
+description: |
+    For any scientific report, repeating the original analyses upon the original data should yield the original outcomes. We evaluated analytic reproducibility in 25 Psychological Science articles awarded open data badges between 2014-2015. Initially, 16 (64%, 95% confidence interval [43,81]) articles contained at least one “major numerical discrepancy” (>10% difference) prompting us to request input from original authors. Ultimately, target values were reproducible without author involvement for 9 (36% [20,59]) articles; reproducible with author involvement for 6 (24% [8,47]) articles; not fully reproducible with no substantive author response for 3 (12% [0,35]) articles; and not fully reproducible despite author involvement for 7 (28% [12,51]) articles. Overall, 37 major numerical discrepancies remained out of 789 checked values (5% [3,6]), but original conclusions did not appear affected. Non-reproducibility was primarily caused by unclear reporting of analytic procedures. These results highlight that open data alone is not sufficient to ensure analytic reproducibility.
+
+---
+title: |  
     Reproducible Software Environment: a tool enabling computational reproducibility in geospace sciences and facilitating collaboration
 link: https://www.swsc-journal.org/articles/swsc/full_html/2020/01/swsc190063/swsc190063.html
 date: 2020-04-09 00:00:00
