@@ -1,5 +1,14 @@
 ---
 title: |  
+    Mapping the discursive dimensions of the reproducibility crisis: A mixed methods analysis    
+link: https://osf.io/preprints/metaarxiv/sbv3q
+date: 2020-08-30 00:00:00
+tags: [reproducible paper]
+description: |
+    Addressing issues with the reproducibility of results is critical for scientific progress, but conflicting ideas about the sources of and solutions to irreproducibility are a barrier to change. Prior work has attempted to address this problem by creating analytical definitions of reproducibility. We take a novel empirical, mixed methods approach to understanding variation in reproducibility conversations, which yields a map of the discursive dimensions of these conversations. This analysis demonstrates that concerns about the incentive structure of science, the transparency of methods and data, and the need to reform academic publishing form the core of reproducibility discussions. We also identify three clusters of discussion that are distinct from the main group: one focused on reagents, another on statistical methods, and a final cluster focused the heterogeneity of the natural world. Although there are discursive differences between scientific and popular articles, there are no strong differences in how scientists and journalists write about the reproducibility crisis. Our findings show that conversations about reproducibility have a clear underlying structure, despite the broad scope and scale of the crisis. Our map demonstrates the value of using qualitative methods to identify the bounds and features of reproducibility discourse, and identifies distinct vocabularies and constituencies that reformers should engage with to promote change.
+
+---
+title: |  
     Analytic reproducibility in articles receiving open data badges at Psychological Science: An observational study    
 link: https://osf.io/preprints/metaarxiv/h35wt/
 date: 2020-07-18 00:00:00
