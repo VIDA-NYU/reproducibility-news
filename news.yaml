@@ -1,5 +1,14 @@
 ---
 title: |  
+     How FAIR are plant sciences in the twenty-first century? The pressing need for reproducibility in plant ecology and evolution 
+link: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.2597
+date: 2021-12-15 00:00:00
+tags: [reproducible paper]
+description: |
+     The need for open, reproducible science is of growing concern in the twenty-first century, with multiple initiatives like the widely supported FAIR principles advocating for data to be Findable, Accessible, Interoperable and Reusable. Plant ecological and evolutionary studies are not exempt from the need to ensure that the data upon which their findings are based are accessible and allow for replication in accordance with the FAIR principles. However, it is common that the collection and curation of herbarium specimens, a foundational aspect of studies involving plants, is neglected by authors. Without publicly available specimens, huge numbers of studies that rely on the field identification of plants are fundamentally not reproducible. We argue that the collection and public availability of herbarium specimens is not only good botanical practice but is also fundamental in ensuring that plant ecological and evolutionary studies are replicable, and thus scientifically sound. Data repositories that adhere to the FAIR principles must make sure that the original data are traceable to and re-examinable at their empirical source. In order to secure replicability, and adherence to the FAIR principles, substantial changes need to be brought about to restore the practice of collecting and curating specimens, to educate students of their importance, and to properly fund the herbaria which house them.
+
+---
+title: |  
      Double Trouble? The Communication Dimension of the Reproducibility Crisis in Experimental Psychology and Neuroscience    
 link: http://philsci-archive.pitt.edu/18119/
 date: 2020-09-23 00:00:00
