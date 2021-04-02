@@ -1,5 +1,14 @@
 ---
 title: |  
+     CODECHECK: an Open Science initiative for the independent execution of computations underlying research articles during peer review to improve reproducibility 
+link: https://f1000research.com/articles/10-253
+date: 2021-04-01 00:00:00
+tags: [reproducible paper]
+description: |
+     The traditional scientific paper falls short of effectively communicating computational research.  To help improve this situation, we propose a system by which the computational workflows underlying research articles are checked. The CODECHECK system uses open infrastructure and tools and can be integrated into review and publication processes in multiple ways. We describe these integrations along multiple dimensions (importance, who, openness, when). In collaboration with academic publishers and conferences, we demonstrate CODECHECK with 25 reproductions of diverse scientific publications. These CODECHECKs show that asking for reproducible workflows during a collaborative review can effectively improve executability. While CODECHECK has clear limitations, it may represent a building block in Open Science and publishing ecosystems for improving the reproducibility, appreciation, and, potentially, the quality of non-textual research artefacts. The CODECHECK website can be accessed here: https://codecheck.org.uk/. 
+
+---
+title: |  
      How FAIR are plant sciences in the twenty-first century? The pressing need for reproducibility in plant ecology and evolution 
 link: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.2597
 date: 2021-12-15 00:00:00
