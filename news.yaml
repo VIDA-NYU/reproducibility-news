@@ -1,5 +1,14 @@
 ---
 title: |  
+     Science Capsule - Capturing the Data Life Cycle
+link: https://joss.theoj.org/papers/10.21105/joss.02484
+date: 2021-06-21 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+     Science Capsule is free open source software that allows researchers to automatically capture their end-to-end workflows including the scripts, data, and execution environment. Science Capsule monitors the workflow environment to capture the provenance at runtime. It provides a timeline view and a web interface to represent the workflow and data life cycle, and the associated provenance information. Science Capsule also leverages container technologies toprovide a lightweight, executable package of the scripts and required dependencies, ensuring portability and reproducibility.
+
+---
+title: |  
      CODECHECK: an Open Science initiative for the independent execution of computations underlying research articles during peer review to improve reproducibility 
 link: https://f1000research.com/articles/10-253
 date: 2021-04-01 00:00:00
