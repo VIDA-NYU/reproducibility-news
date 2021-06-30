@@ -1,5 +1,41 @@
 ---
 title: |  
+     A computational reproducibility study of PLOS ONE articles featuring longitudinal data analyses
+link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251194
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Computational reproducibility is a corner stone for sound and credible research. Especially in complex statistical analyses—such as the analysis of longitudinal data—reproducing results is far from simple, especially if no source code is available. In this work we aimed to reproduce analyses of longitudinal data of 11 articles published in PLOS ONE. Inclusion criteria were the availability of data and author consent. We investigated the types of methods and software used and whether we were able to reproduce the data analysis using open source software. Most articles provided overview tables and simple visualisations. Generalised Estimating Equations (GEEs) were the most popular statistical models among the selected articles. Only one article used open source software and only one published part of the analysis code. Replication was difficult in most cases and required reverse engineering of results or contacting the authors. For three articles we were not able to reproduce the results, for another two only parts of them. For all but two articles we had to contact the authors to be able to reproduce the results. Our main learning is that reproducing papers is difficult if no code is supplied and leads to a high burden for those conducting the reproductions. Open data policies in journals are good, but to truly boost reproducibility we suggest adding open code policies.
+
+---
+title: |  
+     A meta-review of transparency and reproducibility-related reporting practices in published meta-analyses on clinical psychological interventions (2000–2020)
+link: https://link.springer.com/article/10.3758/s13428-021-01644-z
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Meta-analysis is a powerful and important tool to synthesize the literature about a research topic. Like other kinds of research, meta-analyses must be reproducible to be compliant with the principles of the scientific method. Furthermore, reproducible meta-analyses can be easily updated with new data and reanalysed applying new and more refined analysis techniques. We attempted to empirically assess the prevalence of transparency and reproducibility-related reporting practices in published meta-analyses from clinical psychology by examining a random sample of 100 meta-analyses. Our purpose was to identify the key points that could be improved, with the aim of providing some recommendations for carrying out reproducible meta-analyses. We conducted a meta-review of meta-analyses of psychological interventions published between 2000 and 2020. We searched PubMed, PsycInfo and Web of Science databases. A structured coding form to assess transparency indicators was created based on previous studies and existing meta-analysis guidelines. We found major issues concerning: completely reproducible search procedures report, specification of the exact method to compute effect sizes, choice of weighting factors and estimators, lack of availability of the raw statistics used to compute the effect size and of interoperability of available data, and practically total absence of analysis script code sharing. Based on our findings, we conclude with recommendations intended to improve the transparency, openness, and reproducibility-related reporting practices of meta-analyses in clinical psychology and related areas.
+
+---
+title: |  
+     Verifiable Badging System for Scientific Data Reproducibility
+link: https://www.sciencedirect.com/science/article/pii/S2096720921000105
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility can be defined as the ability of a researcher to use materials, procedures or knowledge from a scientific study to obtain results same as that of the original investigator. It can be considered as one of the basic requirements to ensure that a given research finding is accurate and acceptable.This paper presents a new layered approach that allows scientific researchers to provide a) data to fellow researchers to validate research and b) proofs of research quality to funding agencies, without revealing sensitive details associated with the same. We conclude that by integrating smart contracts, blockchain technology, and self-sovereign identity into an automated system, it is possible to assert the quality of scientific materials and validate the peer review process without the need of a central authority.
+
+---
+title: |  
+     The perception of reproducibility in a small cohort of scientists in Europe 
+link: https://epistemehealth.com/index.php/nab/article/view/20
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility is an essential feature of all scientific outcomes. Scientific evidence can only reach its true status as reliable if replicated, but the results of well-conducted replication studies face an uphill battle to be performed, and little attention and dedication have been put into publishing the results of replication attempts. Therefore, we asked a small cohort of researchers about their attempts to replicate results from other groups, as well as from their own laboratories, and their general perception of the issues concerning reproducibility in their field. We also asked how they perceive the venues, i.e. journals, to communicate and discuss the results of these attempts. To this aim we pre-registered and shared a questionnaire among scientists at diverse levels. The results indicate that, in general, replication attempts of their own protocols are quite successful (with over 80% reporting not or rarely having problems with their own protocols). Although the majority of respondents tried to replicate a study or experiment from other labs (75.4%), the median successful rate was scored at 3 (in a 1-5 scale), while the median for the general estimation of replication success in their field was found to be 5 (in a 1-10 scale). The majority of respondents (70.2%) also perceive journals as unwelcoming of replication studies.
+
+---
+title: |  
      Science Capsule - Capturing the Data Life Cycle
 link: https://joss.theoj.org/papers/10.21105/joss.02484
 date: 2021-06-21 00:00:00
