@@ -1,5 +1,32 @@
 ---
 title: |  
+     Reproducibility in Conference Proceedings: An Analysis of Three Candidate Papers
+link: https://zenodo.org/record/4459877
+date: 2021-07-05 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility is a key characteristic of scientific findings as results need to be repeatable in scientific practise. Despite this, papers in data science often struggle in this area. In this work we investigate reproducibility focusing on the paper "FA*IR: A Fair Top-k Ranking Algorithm". Additionally, we give reasoning why two other candidate papers examined in detail have not been chosen for reproduction.
+
+---
+title: |  
+     Fostering Reproducibility, Reusability, and Technology Transfer in Health Informatics
+link: https://www.sciencedirect.com/science/article/pii/S2589004221007719
+date: 2021-07-05 00:00:00
+tags: [reproducible paper]
+description: |
+     Computational methods can transform healthcare. In particular, health informatics with artificial intelligence has shown tremendous potential when applied in various fields of medical research and opened a new era for precision medicine. The development of reusable biomedical software for research or clinical practice is time-consuming and requires rigorous compliance with quality requirements as defined by international standards. However, research projects rarely implement such measures, hindering smooth technology transfer into the research community or manufacturers as well as reproducibility and reusability. Here, we present a guideline for quality management systems (QMS) for academic organizations incorporating the essential components while confining the requirements to an easily manageable effort. It provides a starting point to implement a QMS tailored to specific needs effortlessly and greatly facilitates technology transfer in a controlled manner, thereby supporting reproducibility and reusability. Ultimately, the emerging standardized workflows can pave the way for an accelerated deployment in clinical practice.
+
+---
+title: |  
+      Tool-based Support for the FAIR Principles for Control Theoretic Results: The "Automatic Control Knowledge Repository" 
+link: http://stccj.ucv.ro/index.php/stccj/article/view/11
+date: 2021-07-05 00:00:00
+tags: [reproducible paper]
+description: |
+     In 2016 a collection of guiding principles for the management of scientific data was proposed by a consortium of scientists and organizations under the acronym FAIR (Findability, Accessibility, Interoperability, Reusability). As many other disciplines, control theory also is affected by the (mostly unintended) disregard of these principles and to some degree also suffers from a reproducibility crisis. The specific situation for that discipline, however, is more related to software, than to classical numerical data. In particular, since computational methods like simulation, numeric approximation or computer algebra play an important role, the reproducibility of results relies on implementation details, which are typically out of scope for written papers.
+
+---
+title: |  
      A computational reproducibility study of PLOS ONE articles featuring longitudinal data analyses
 link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251194
 date: 2021-06-29 00:00:00
