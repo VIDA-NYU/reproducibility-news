@@ -7,7 +7,6 @@ tags: [reproducible paper]
 description: |
      Software reproducibility is important for re-usability and the cumulative progress of research. An important manifestation of unreproducible software is the changed outcome of software builds over time. While enhancing code reuse, the use of open-source dependency packages hosted on centralized repositories such as PyPI can have adverse effects on build reproducibility. Frequent updates to these packages often cause their latest versions to have breaking changes for applications using them. Large Python applications risk their historical builds becoming unreproducible due to the widespread usage of Python dependencies, and the lack of uniform practices for dependency version specification. Manually fixing dependency errors requires expensive developer time and effort, while automated approaches face challenges of parsing unstructured build logs, finding transitive dependencies, and exploring an exponential search space of dependency versions. In this paper, we investigate how open-source Python projects specify dependency versions, and how their reproducibility is impacted by dependency packages. We propose a tool PyDFix to detect and fix unreproducibility in Python builds caused by dependency errors. PyDFix is evaluated on two bug datasets BugSwarm and BugsInPy, both of which are built from real-world open-source projects. PyDFix analyzes a total of 2,702 builds, identifying 1,921 (71.1%) of them to be unreproducible due to dependency errors. From these, PyDFix provides a complete fix for 859 (44.7%) builds, and partial fixes for an additional 632 (32.9%) builds.
 
-
 ---
 title: |  
      Improving the reproducibility of findings by updating research methodology
@@ -88,6 +87,15 @@ date: 2021-04-01 00:00:00
 tags: [reproducible paper]
 description: |
      The traditional scientific paper falls short of effectively communicating computational research.  To help improve this situation, we propose a system by which the computational workflows underlying research articles are checked. The CODECHECK system uses open infrastructure and tools and can be integrated into review and publication processes in multiple ways. We describe these integrations along multiple dimensions (importance, who, openness, when). In collaboration with academic publishers and conferences, we demonstrate CODECHECK with 25 reproductions of diverse scientific publications. These CODECHECKs show that asking for reproducible workflows during a collaborative review can effectively improve executability. While CODECHECK has clear limitations, it may represent a building block in Open Science and publishing ecosystems for improving the reproducibility, appreciation, and, potentially, the quality of non-textual research artefacts. The CODECHECK website can be accessed here: https://codecheck.org.uk/. 
+
+---
+title: |  
+    Neural Citation Recommendation: A Reproducibility Study
+link: http://ceur-ws.org/Vol-2591/paper-07.pdf
+date: 2020-04-14 00:00:00
+tags: [reproducible paper]
+description: |
+    Context-aware citation recommendation is used to overcome the process of manually searching for relevant citations by automatically recommending suitable papers as citations for a specified input text. In this paper, we examine the reproducibility of a state-of-the-art approach to context-aware citation recommendation, namely the neural citationnetwork (NCN) by Ebesu and Fang. We re-implement the network and run evaluations on both RefSeer, the originally used data set, and arXiv CS, as an additional data set. We provide insights on how the different hyperparameters of the neural network affect the model performance of the NCN and thus can be used to improve the model’s performance. In this way, we contribute to making citation recommendation approaches and their evaluations more transparent and creating more effective neural network-based models in the future.
 
 ---
 title: |  
