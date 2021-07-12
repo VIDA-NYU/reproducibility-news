@@ -1,5 +1,95 @@
 ---
 title: |  
+     Fixing dependency errors for Python build reproducibility
+link: https://doi.org/10.1145/3460319.3464797
+date: 2021-07-12 00:00:00
+tags: [reproducible paper]
+description: |
+     Software reproducibility is important for re-usability and the cumulative progress of research. An important manifestation of unreproducible software is the changed outcome of software builds over time. While enhancing code reuse, the use of open-source dependency packages hosted on centralized repositories such as PyPI can have adverse effects on build reproducibility. Frequent updates to these packages often cause their latest versions to have breaking changes for applications using them. Large Python applications risk their historical builds becoming unreproducible due to the widespread usage of Python dependencies, and the lack of uniform practices for dependency version specification. Manually fixing dependency errors requires expensive developer time and effort, while automated approaches face challenges of parsing unstructured build logs, finding transitive dependencies, and exploring an exponential search space of dependency versions. In this paper, we investigate how open-source Python projects specify dependency versions, and how their reproducibility is impacted by dependency packages. We propose a tool PyDFix to detect and fix unreproducibility in Python builds caused by dependency errors. PyDFix is evaluated on two bug datasets BugSwarm and BugsInPy, both of which are built from real-world open-source projects. PyDFix analyzes a total of 2,702 builds, identifying 1,921 (71.1%) of them to be unreproducible due to dependency errors. From these, PyDFix provides a complete fix for 859 (44.7%) builds, and partial fixes for an additional 632 (32.9%) builds.
+
+---
+title: |  
+     Improving the reproducibility of findings by updating research methodology
+link: hhttps://link.springer.com/article/10.1007/s11135-021-01196-6
+date: 2021-07-12 00:00:00
+tags: [reproducible paper]
+description: |
+     The literature discusses causes of low reproducibility of scientific publications. Our article adds another main cause—uncritical adherence to accepted research procedures. This is evident in: (1) anachronistically requiring researchers to base themselves on theoretical background even if the studies cited were not tested for reproducibility; (2) conducting studies suffering from a novelty effect bias; (3) forcing researchers who use data mining methods and field-based theory, with no preliminary theoretical rationale, to present a theoretical background that allegedly guided their work—as a precondition for publication of their findings. It is possible to increase research validity in relation to the above problems by the following means: (1) Conducting a longitudinal study on the same participants and only on them; (2) Trying to shorten the time period between laboratory experiments and those on humans, based on cost–benefit considerations, anchored in ethical norms; (3) Reporting the theoretical background in a causal modular format; (4) Giving incentives to those who meet the above criteria while moderating the pressure for fast output.
+
+---
+title: |  
+     Fostering Reproducibility, Reusability, and Technology Transfer in Health Informatics
+link: https://www.sciencedirect.com/science/article/pii/S2589004221007719
+date: 2021-07-05 00:00:00
+tags: [reproducible paper]
+description: |
+     Computational methods can transform healthcare. In particular, health informatics with artificial intelligence has shown tremendous potential when applied in various fields of medical research and opened a new era for precision medicine. The development of reusable biomedical software for research or clinical practice is time-consuming and requires rigorous compliance with quality requirements as defined by international standards. However, research projects rarely implement such measures, hindering smooth technology transfer into the research community or manufacturers as well as reproducibility and reusability. Here, we present a guideline for quality management systems (QMS) for academic organizations incorporating the essential components while confining the requirements to an easily manageable effort. It provides a starting point to implement a QMS tailored to specific needs effortlessly and greatly facilitates technology transfer in a controlled manner, thereby supporting reproducibility and reusability. Ultimately, the emerging standardized workflows can pave the way for an accelerated deployment in clinical practice.
+
+---
+title: |  
+      Tool-based Support for the FAIR Principles for Control Theoretic Results: The "Automatic Control Knowledge Repository" 
+link: http://stccj.ucv.ro/index.php/stccj/article/view/11
+date: 2021-07-05 00:00:00
+tags: [reproducible paper]
+description: |
+     In 2016 a collection of guiding principles for the management of scientific data was proposed by a consortium of scientists and organizations under the acronym FAIR (Findability, Accessibility, Interoperability, Reusability). As many other disciplines, control theory also is affected by the (mostly unintended) disregard of these principles and to some degree also suffers from a reproducibility crisis. The specific situation for that discipline, however, is more related to software, than to classical numerical data. In particular, since computational methods like simulation, numeric approximation or computer algebra play an important role, the reproducibility of results relies on implementation details, which are typically out of scope for written papers.
+
+---
+title: |  
+     A computational reproducibility study of PLOS ONE articles featuring longitudinal data analyses
+link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251194
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Computational reproducibility is a corner stone for sound and credible research. Especially in complex statistical analyses—such as the analysis of longitudinal data—reproducing results is far from simple, especially if no source code is available. In this work we aimed to reproduce analyses of longitudinal data of 11 articles published in PLOS ONE. Inclusion criteria were the availability of data and author consent. We investigated the types of methods and software used and whether we were able to reproduce the data analysis using open source software. Most articles provided overview tables and simple visualisations. Generalised Estimating Equations (GEEs) were the most popular statistical models among the selected articles. Only one article used open source software and only one published part of the analysis code. Replication was difficult in most cases and required reverse engineering of results or contacting the authors. For three articles we were not able to reproduce the results, for another two only parts of them. For all but two articles we had to contact the authors to be able to reproduce the results. Our main learning is that reproducing papers is difficult if no code is supplied and leads to a high burden for those conducting the reproductions. Open data policies in journals are good, but to truly boost reproducibility we suggest adding open code policies.
+
+---
+title: |  
+     A meta-review of transparency and reproducibility-related reporting practices in published meta-analyses on clinical psychological interventions (2000–2020)
+link: https://link.springer.com/article/10.3758/s13428-021-01644-z
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Meta-analysis is a powerful and important tool to synthesize the literature about a research topic. Like other kinds of research, meta-analyses must be reproducible to be compliant with the principles of the scientific method. Furthermore, reproducible meta-analyses can be easily updated with new data and reanalysed applying new and more refined analysis techniques. We attempted to empirically assess the prevalence of transparency and reproducibility-related reporting practices in published meta-analyses from clinical psychology by examining a random sample of 100 meta-analyses. Our purpose was to identify the key points that could be improved, with the aim of providing some recommendations for carrying out reproducible meta-analyses. We conducted a meta-review of meta-analyses of psychological interventions published between 2000 and 2020. We searched PubMed, PsycInfo and Web of Science databases. A structured coding form to assess transparency indicators was created based on previous studies and existing meta-analysis guidelines. We found major issues concerning: completely reproducible search procedures report, specification of the exact method to compute effect sizes, choice of weighting factors and estimators, lack of availability of the raw statistics used to compute the effect size and of interoperability of available data, and practically total absence of analysis script code sharing. Based on our findings, we conclude with recommendations intended to improve the transparency, openness, and reproducibility-related reporting practices of meta-analyses in clinical psychology and related areas.
+
+---
+title: |  
+     Verifiable Badging System for Scientific Data Reproducibility
+link: https://www.sciencedirect.com/science/article/pii/S2096720921000105
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility can be defined as the ability of a researcher to use materials, procedures or knowledge from a scientific study to obtain results same as that of the original investigator. It can be considered as one of the basic requirements to ensure that a given research finding is accurate and acceptable.This paper presents a new layered approach that allows scientific researchers to provide a) data to fellow researchers to validate research and b) proofs of research quality to funding agencies, without revealing sensitive details associated with the same. We conclude that by integrating smart contracts, blockchain technology, and self-sovereign identity into an automated system, it is possible to assert the quality of scientific materials and validate the peer review process without the need of a central authority.
+
+---
+title: |  
+     The perception of reproducibility in a small cohort of scientists in Europe 
+link: https://epistemehealth.com/index.php/nab/article/view/20
+date: 2021-06-29 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility is an essential feature of all scientific outcomes. Scientific evidence can only reach its true status as reliable if replicated, but the results of well-conducted replication studies face an uphill battle to be performed, and little attention and dedication have been put into publishing the results of replication attempts. Therefore, we asked a small cohort of researchers about their attempts to replicate results from other groups, as well as from their own laboratories, and their general perception of the issues concerning reproducibility in their field. We also asked how they perceive the venues, i.e. journals, to communicate and discuss the results of these attempts. To this aim we pre-registered and shared a questionnaire among scientists at diverse levels. The results indicate that, in general, replication attempts of their own protocols are quite successful (with over 80% reporting not or rarely having problems with their own protocols). Although the majority of respondents tried to replicate a study or experiment from other labs (75.4%), the median successful rate was scored at 3 (in a 1-5 scale), while the median for the general estimation of replication success in their field was found to be 5 (in a 1-10 scale). The majority of respondents (70.2%) also perceive journals as unwelcoming of replication studies.
+
+---
+title: |  
+     Science Capsule - Capturing the Data Life Cycle
+link: https://joss.theoj.org/papers/10.21105/joss.02484
+date: 2021-06-21 00:00:00
+tags: [reproducible paper, reproducibility infrastructure]
+description: |
+     Science Capsule is free open source software that allows researchers to automatically capture their end-to-end workflows including the scripts, data, and execution environment. Science Capsule monitors the workflow environment to capture the provenance at runtime. It provides a timeline view and a web interface to represent the workflow and data life cycle, and the associated provenance information. Science Capsule also leverages container technologies toprovide a lightweight, executable package of the scripts and required dependencies, ensuring portability and reproducibility.
+
+---
+title: |  
+     CODECHECK: an Open Science initiative for the independent execution of computations underlying research articles during peer review to improve reproducibility 
+link: https://f1000research.com/articles/10-253
+date: 2021-04-01 00:00:00
+tags: [reproducible paper]
+description: |
+     The traditional scientific paper falls short of effectively communicating computational research.  To help improve this situation, we propose a system by which the computational workflows underlying research articles are checked. The CODECHECK system uses open infrastructure and tools and can be integrated into review and publication processes in multiple ways. We describe these integrations along multiple dimensions (importance, who, openness, when). In collaboration with academic publishers and conferences, we demonstrate CODECHECK with 25 reproductions of diverse scientific publications. These CODECHECKs show that asking for reproducible workflows during a collaborative review can effectively improve executability. While CODECHECK has clear limitations, it may represent a building block in Open Science and publishing ecosystems for improving the reproducibility, appreciation, and, potentially, the quality of non-textual research artefacts. The CODECHECK website can be accessed here: https://codecheck.org.uk/. 
+
+---
+title: |  
     Neural Citation Recommendation: A Reproducibility Study
 link: http://ceur-ws.org/Vol-2591/paper-07.pdf
 date: 2020-04-14 00:00:00
@@ -8,6 +98,41 @@ description: |
     Context-aware citation recommendation is used to overcome the process of manually searching for relevant citations by automatically recommending suitable papers as citations for a specified input text. In this paper, we examine the reproducibility of a state-of-the-art approach to context-aware citation recommendation, namely the neural citationnetwork (NCN) by Ebesu and Fang. We re-implement the network and run evaluations on both RefSeer, the originally used data set, and arXiv CS, as an additional data set. We provide insights on how the different hyperparameters of the neural network affect the model performance of the NCN and thus can be used to improve the model’s performance. In this way, we contribute to making citation recommendation approaches and their evaluations more transparent and creating more effective neural network-based models in the future.
 
 ---
+title: |  
+     How FAIR are plant sciences in the twenty-first century? The pressing need for reproducibility in plant ecology and evolution 
+link: https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.2597
+date: 2021-12-15 00:00:00
+tags: [reproducible paper]
+description: |
+     The need for open, reproducible science is of growing concern in the twenty-first century, with multiple initiatives like the widely supported FAIR principles advocating for data to be Findable, Accessible, Interoperable and Reusable. Plant ecological and evolutionary studies are not exempt from the need to ensure that the data upon which their findings are based are accessible and allow for replication in accordance with the FAIR principles. However, it is common that the collection and curation of herbarium specimens, a foundational aspect of studies involving plants, is neglected by authors. Without publicly available specimens, huge numbers of studies that rely on the field identification of plants are fundamentally not reproducible. We argue that the collection and public availability of herbarium specimens is not only good botanical practice but is also fundamental in ensuring that plant ecological and evolutionary studies are replicable, and thus scientifically sound. Data repositories that adhere to the FAIR principles must make sure that the original data are traceable to and re-examinable at their empirical source. In order to secure replicability, and adherence to the FAIR principles, substantial changes need to be brought about to restore the practice of collecting and curating specimens, to educate students of their importance, and to properly fund the herbaria which house them.
+
+---
+title: |  
+     Double Trouble? The Communication Dimension of the Reproducibility Crisis in Experimental Psychology and Neuroscience    
+link: http://philsci-archive.pitt.edu/18119/
+date: 2020-09-23 00:00:00
+tags: [reproducible paper]
+description: |
+    Most discussions of the reproducibility crisis focus on its epistemic aspect: the fact that the scientific community fails to follow some norms of scientific investigation, which leads to high rates of irreproducibility via a high rate of false positive findings. The purpose of this paper is to argue that there is a heretofore underappreciated and understudied dimension to the reproducibility crisis in experimental psychology and neuroscience that may prove to be at least as important as the epistemic dimension. This is the communication dimension. The link between communication and reproducibility is immediate: independent investigators would not be able to recreate an experiment whose design or implementation were inadequately described. I exploit evidence of a replicability and reproducibility crisis in computational science, as well as research into quality of reporting to support the claim that a widespread failure to adhere to reporting standards, especially the norm of descriptive completeness, is an important contributing factor in the current reproducibility crisis in experimental psychology and neuroscience.
+
+---
+title: |  
+    Mapping the discursive dimensions of the reproducibility crisis: A mixed methods analysis    
+link: https://osf.io/preprints/metaarxiv/sbv3q
+date: 2020-08-30 00:00:00
+tags: [reproducible paper]
+description: |
+    Addressing issues with the reproducibility of results is critical for scientific progress, but conflicting ideas about the sources of and solutions to irreproducibility are a barrier to change. Prior work has attempted to address this problem by creating analytical definitions of reproducibility. We take a novel empirical, mixed methods approach to understanding variation in reproducibility conversations, which yields a map of the discursive dimensions of these conversations. This analysis demonstrates that concerns about the incentive structure of science, the transparency of methods and data, and the need to reform academic publishing form the core of reproducibility discussions. We also identify three clusters of discussion that are distinct from the main group: one focused on reagents, another on statistical methods, and a final cluster focused the heterogeneity of the natural world. Although there are discursive differences between scientific and popular articles, there are no strong differences in how scientists and journalists write about the reproducibility crisis. Our findings show that conversations about reproducibility have a clear underlying structure, despite the broad scope and scale of the crisis. Our map demonstrates the value of using qualitative methods to identify the bounds and features of reproducibility discourse, and identifies distinct vocabularies and constituencies that reformers should engage with to promote change.
+
+---
+title: |  
+    Analytic reproducibility in articles receiving open data badges at Psychological Science: An observational study    
+link: https://osf.io/preprints/metaarxiv/h35wt/
+date: 2020-07-18 00:00:00
+tags: [reproducible paper]
+description: |
+    For any scientific report, repeating the original analyses upon the original data should yield the original outcomes. We evaluated analytic reproducibility in 25 Psychological Science articles awarded open data badges between 2014-2015. Initially, 16 (64%, 95% confidence interval [43,81]) articles contained at least one “major numerical discrepancy” (>10% difference) prompting us to request input from original authors. Ultimately, target values were reproducible without author involvement for 9 (36% [20,59]) articles; reproducible with author involvement for 6 (24% [8,47]) articles; not fully reproducible with no substantive author response for 3 (12% [0,35]) articles; and not fully reproducible despite author involvement for 7 (28% [12,51]) articles. Overall, 37 major numerical discrepancies remained out of 789 checked values (5% [3,6]), but original conclusions did not appear affected. Non-reproducibility was primarily caused by unclear reporting of analytic procedures. These results highlight that open data alone is not sufficient to ensure analytic reproducibility.
+
 ---
 title: |  
     Reproducible Software Environment: a tool enabling computational reproducibility in geospace sciences and facilitating collaboration
