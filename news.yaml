@@ -1,5 +1,41 @@
 ---
 title: |  
+     MLDev: Data Science Experiment Automation and Reproducibility Software
+link: https://arxiv.org/abs/2107.12322
+date: 2021-08-04 00:00:00
+tags: [reproducible paper]
+description: |
+     In this paper we explore the challenges of automating experiments in data science. We propose an extensible experiment model as a foundation for integration of different open source tools for running research experiments. We implement our approach in a prototype open source MLDev software package and evaluate it in a series of experiments yielding promising results. Comparison with other state-of-the-art tools signifies novelty of our approach. 
+
+---
+title: |  
+     A new method for testing reproducibility in systematic reviews was developed, but needs more testing
+link: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01342-6
+date: 2021-08-04 00:00:00
+tags: [reproducible paper]
+description: |
+     We have developed an approach to test reproducibility retrospectively while focusing on the whole conduct of an SR instead of single steps of it. We replicated the literature searches and drew a 25% random sample followed by study selection, data extraction, and risk of bias (ROB) assessments performed by two reviewers independently. These results were compared narratively with the original review. We were not able to fully reproduce the original search resulting in minor differences in the number of citations retrieved. The biggest disagreements were found in study selection. The most difficult section to be reproduced was the RoB assessment due to the lack of reporting clear criteria to support the judgement of RoB ratings, although agreement was still found to be satisfactory. Our approach as well as other approaches needs to undergo testing and comparison in the future as the area of testing for reproducibility of SRs is still in its infancy.
+
+---
+title: |  
+     Reproducibility challenges in the search for antibacterial compounds from nature
+link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255437
+date: 2021-08-04 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility of reported antibacterial activities of plant extracts has long remained questionable. Although plant-related factors should be well considered in serious pharmacognostic research, they are often not addressed in many research papers. Here we highlight the challenges in reproducing antibacterial activities of plant extracts. Plants with reported antibacterial activities of interest were obtained from a literature review. Antibacterial activities against Escherichia coli and Klebsiella pneumoniae were tested using extracts’ solutions in 10% DMSO and acetone. Compositions of working solutions from both solvents were established using LC-MS analysis. Moreover, the availability of details likely to affect reproducibility was evaluated in articles which reported antibacterial activities of studied plants. Inhibition of bacterial growth at MIC of 256–1024 μg/mL was observed in only 15.4% of identical plant species. These values were 4–16-fold higher than those reported earlier. Further, 18.2% of related plant species had MICs of 128–256 μg/mL. Besides, 29.2% and 95.8% of the extracts were soluble to sparingly soluble in 10% DMSO and acetone, respectively. Extracts’ solutions in both solvents showed similar qualitative compositions, with differing quantities of corresponding phytochemicals. Details regarding seasons and growth state at collection were missing in 65% and 95% of evaluated articles, respectively. Likewise, solvents used to dissolve the extracts were lacking in 30% of the articles, whereas 40% of them used unidentified bacterial isolates. Reproducibility of previously reported activities from plants’ extracts is a multi-factorial aspect. Thus, collective approaches are necessary in addressing the highlighted challenges.
+
+---
+title: |  
+     Advancing Reproducibility in Environmental Modeling: Integration of Open Repositories, Process Containerizations, and Seamless Workflows
+link: https://libraopen.lib.virginia.edu/public_view/73666459f
+date: 2021-08-04 00:00:00
+tags: [reproducible paper]
+description: |
+     There is growing acknowledgment and awareness of the reproducibility challenge facing computational environmental modeling. To overcome this challenge, data sharing using open, online repositories that meet the FAIR (Findable, Accessible, Interoperable, and Reusable) guiding principles is recognized as a minimum standard to reproduce computational research. Even with these data sharing guidelines and well-documented workflows, it remains challenging to reproduce computational models due to complexities like inconsistent computational environments or difficulties in dealing with large datasets that prevent seamless, end-to-end modeling. Containerization technologies have been put forward as a means for addressing these problems by encapsulating computational environments, yet domain science researchers are often unclear about which containerization approach and technology is best for achieving a given modeling objective. Thus, to meet FAIR principles, researchers need clear guidelines for encapsulating seamless modeling workflows, especially for environmental modeling use cases that require large datasets. Toward these aims, this dissertation presents three studies to address current limitations of reproducibility in environmental modeling. The first study presents a framework for integrating three key components to improve reproducibility within modern computational environmental modeling: 1) online repositories for data and model sharing, 2) computational environments along with containerization technology and Jupyter notebooks for capturing reproducible modeling workflows, and 3) Application Programming Interfaces (APIs) for intuitive programmatic control of simulation models. The second study focuses on approaches for containerizing computational processes and suggests best practices and guidance for which approach is most appropriate to achieve specific modeling objectives when simulating environmental systems. The third study focuses on open and reproducible seamless environmental modeling workflows, especially when creating and sharing interoperable and reusable large-extent spatial datasets as model input. Key research contributions across these three studies are as follows. 1) Integration of online repositories for data and model sharing, computational environments along with containerization technology for capturing software dependencies, and workflows using model APIs and notebooks for model simulations creates a powerful system more open and reproducible environmental modeling. 2) Considering the needs and purposes of research and educational projects, and applying the appropriate containerization approach for each use case, makes computational research more reliable and efficient. 3) Sharing interoperable and reusable large-extent spatial datasets through open data repositories for model input supports seamless environmental modeling where data and processes can be reused across multiple applications. Finally, the methods developed and insights gained in this dissertation not only advance reliable and efficient computational reproducibility in environmental modeling, but also serve as best practices and guidance for achieving reproducibility in engineering practice and other scientific fields that rely on computational modeling.
+
+---
+title: |  
      Fixing dependency errors for Python build reproducibility
 link: https://doi.org/10.1145/3460319.3464797
 date: 2021-07-12 00:00:00
