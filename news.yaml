@@ -1,5 +1,14 @@
 ---
 title: |  
+     EnosLib: A Library for Experiment-Driven Research in Distributed Computing 
+link: https://hal.inria.fr/hal-03324177/document
+date: 2021-08-28 00:00:00
+tags: [reproducible paper]
+description: |
+     Despite the importance of experiment-driven research in the distributed computing community, there has been little progress in helping researchers conduct their experiments. In most cases, they have to achieve tedious and time-consuming development and instrumentation activities to deal with the specifics of testbeds and the system under study. In order to relieve researchers of the burden of those efforts, we have developed ENOSLIB: a Python library that takes into account best experimentation practices and leverages modern toolkits on automatic deployment and configuration systems. ENOSLIB helps researchers not only in the process of developing their experimental artifacts, but also in running them over different infrastructures. To demonstrate the relevance of our library, we discuss three experimental engines built on top of ENOSLIB, and used to conduct empirical studies on complex software stacks between 2016 and 2019 (database systems, communication buses and OpenStack). By introducing ENOSLIB, our goal is to gather academic and industrial actors of our community around a library that aggregates everyday experiment-driven research operations. A library that has been already adopted by open-source projects and members of the scientific community thanks to its ease of use and extension.
+
+---
+title: |  
      MLDev: Data Science Experiment Automation and Reproducibility Software
 link: https://arxiv.org/abs/2107.12322
 date: 2021-08-04 00:00:00
