@@ -1,5 +1,14 @@
 ---
 title: |  
+     Quantifying Reproducibility in NLP and ML
+link: https://arxiv.org/abs/2109.01211
+date: 2021-09-12 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility has become an intensely debated topic in NLP and ML over recent years, but no commonly accepted way of assessing reproducibility, let alone quantifying it, has so far emerged. The assumption has been that wider scientific reproducibility terminology and definitions are not applicable to NLP/ML, with the result that many different terms and definitions have been proposed, some diametrically opposed. In this paper, we test this assumption, by taking the standard terminology and definitions from metrology and applying them directly to NLP/ML. We find that we are able to straightforwardly derive a practical framework for assessing reproducibility which has the desirable property of yielding a quantified degree of reproducibility that is comparable across different reproduction studies. 
+
+---
+title: |  
      EnosLib: A Library for Experiment-Driven Research in Distributed Computing 
 link: https://hal.inria.fr/hal-03324177/document
 date: 2021-08-28 00:00:00
