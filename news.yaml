@@ -1,5 +1,14 @@
 ---
 title: |  
+     The Effect of Replications on Citation Patterns: Evidence From a Large-Scale Reproducibility Project
+link: https://journals.sagepub.com/doi/pdf/10.1177/09567976211005767
+date: 2021-09-20 00:00:00
+tags: [reproducible paper]
+description: |
+     Replication of existing research is often referred to as one of the cornerstones of modern science. In this study, I tested whether the publication of independent replication attempts affects the citation patterns of the original studies. Investigating 95 replications conducted in the context of the Reproducibility Project: Psychology, I found little evidence for an adjustment of citation patterns in response to the publication of these independent replication attempts. This finding was robust to the choice of replication criterion, various model specifications, and the composition of the contrast group. I further present some suggestive evidence that shifts in the underlying composition of supporting and disputing citations have likely been small. I conclude with a review of the evidence in favor of the remaining explanations and discuss the potential consequences of these findings for the workings of the scientific process.
+
+---
+title: |  
      Quantifying Reproducibility in NLP and ML
 link: https://arxiv.org/abs/2109.01211
 date: 2021-09-12 00:00:00
