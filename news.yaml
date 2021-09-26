@@ -1,5 +1,32 @@
 ---
 title: |  
+     The ReproGen Shared Task on Reproducibility of Human Evaluations in NLG: Overview and Results
+link: https://aclanthology.org/2021.inlg-1.24.pdf
+date: 2021-09-26 00:00:00
+tags: [reproducible paper]
+description: |
+     The NLP field has recently seen a substantial increase in work related to reproducibility of results, and more generally in recognition of the importance of having shared definitions and practices relating to evaluation. Much of the work on reproducibility has so far focused on metric scores, with reproducibility of human evaluation results receiving far less attention. As part of a research programme designed to develop theory and practice of reproducibility assessment in NLP, we organised the first shared task on reproducibility of human evaluations, ReproGen 2021. This paper describes the shared task in detail, summarises results from each of the reproduction studies submitted, and provides further comparative analysis of the results. Out of nine initial team registrations, we received submissions from four teams. Meta-analysis of the four reproduction studies revealed varying degrees of reproducibility, and allowed very tentative first conclusions about what types of evaluation tend to have better reproducibility.
+
+---
+title: |  
+      Improving rigor and reproducibility in nonhuman primate research 
+link: https://pubmed.ncbi.nlm.nih.gov/34541703/
+date: 2021-09-26 00:00:00
+tags: [reproducible paper]
+description: |
+     Nonhuman primates (NHPs) are a critical component of translational/preclinical biomedical research due to the strong similarities between NHP and human physiology and disease pathology. In some cases, NHPs represent the most appropriate, or even the only, animal model for complex metabolic, neurological, and infectious diseases. The increased demand for and limited availability of these valuable research subjects requires that rigor and reproducibility be a prime consideration to ensure the maximal utility of this scarce resource. Here, we discuss a number of approaches that collectively can contribute to enhanced rigor and reproducibility in NHP research.
+
+---
+title: |  
+      Reproducibility Study: Comparing Rewinding and Fine-tuning in Neural Network Pruning 
+link: https://ui.adsabs.harvard.edu/abs/2021arXiv210909670M/abstract
+date: 2021-09-26 00:00:00
+tags: [reproducible paper]
+description: |
+      Scope of reproducibility: We are reproducing Comparing Rewinding and Fine-tuning in Neural Networks from arXiv:2003.02389. In this work the authors compare three different approaches to retraining neural networks after pruning: 1) fine-tuning, 2) rewinding weights as in arXiv:1803.03635 and 3) a new, original method involving learning rate rewinding, building upon Lottery Ticket Hypothesis. We reproduce the results of all three approaches, but we focus on verifying their approach, learning rate rewinding, since it is newly proposed and is described as a universal alternative to other methods. We used CIFAR10 for most reproductions along with additional experiments on the larger CIFAR100, which extends the results originally provided by the authors. We have also extended the list of tested network architectures to include Wide ResNets. The new experiments led us to discover the limitations of learning rate rewinding which can worsen pruning results on large architectures. Results: We were able to reproduce the exact results reported by the authors in all originally reported scenarios. However, extended results on larger Wide Residual Networks have demonstrated the limitations of the newly proposed learning rate rewinding -- we observed a previously unreported accuracy degradation for low sparsity ranges. Nevertheless, the general conclusion of the paper still holds and was indeed reproduced. 
+
+---
+title: |  
      The Effect of Replications on Citation Patterns: Evidence From a Large-Scale Reproducibility Project
 link: https://journals.sagepub.com/doi/pdf/10.1177/09567976211005767
 date: 2021-09-20 00:00:00
