@@ -27,6 +27,15 @@ description: |
 
 ---
 title: |  
+     Toward Reusable Science with Readable Code and Reproducibility
+link: https://arxiv.org/abs/2109.10387
+date: 2021-09-21 00:00:00
+tags: [reproducible paper]
+description: |
+     An essential part of research and scientific communication is researchers' ability to reproduce the results of others. While there have been increasing standards for authors to make data and code available, many of these files are hard to re-execute in practice, leading to a lack of research reproducibility. This poses a major problem for students and researchers in the same field who cannot leverage the previously published findings for study or further inquiry. To address this, we propose an open-source platform named RE3 that helps improve the reproducibility and readability of research projects involving R code. Our platform incorporates assessing code readability with a machine learning model trained on a code readability survey and an automatic containerization service that executes code files and warns users of reproducibility errors. This process helps ensure the reproducibility and readability of projects and therefore fast-track their verification and reuse. 
+
+---
+title: |  
      The Effect of Replications on Citation Patterns: Evidence From a Large-Scale Reproducibility Project
 link: https://journals.sagepub.com/doi/pdf/10.1177/09567976211005767
 date: 2021-09-20 00:00:00
