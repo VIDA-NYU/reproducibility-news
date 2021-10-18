@@ -1,5 +1,14 @@
 ---
 title: |  
+     Capturing and semantically describing provenance to tell the story of R scripts
+link: https://www.lncc.br/~lgadelha/publications/eScience2021.pdf
+date: 2021-10-18 00:00:00
+tags: [reproducible paper]
+description: |
+     Reproducibility is a topic that has received significant attention in recent years. Despite being considered a fundamental factor in the scientific process, recent surveys have shown the difficulty of reproducing already published works, which impacts scientists’ ability to verify, validate, and reuse research findings. Recording provenance data is one of the approaches that can help to mitigate the challenges involved in the reproducibility process. When semantically well defined, provenance can describe the entire process involved in producing a given result. Additionally, the use of semantic web technologies can allow for the provenance data to be machine-actionable. With a focus on computational experiments, this work presents a package for collecting and describing provenance data from R scripts using the REPRODUCE-ME ontology to describe the path taken to produce results. We describe the package implementation process and demonstrate how it can help describe the story of experiments defined as R scripts to support reproducibility.
+
+---
+title: |  
      The ReproGen Shared Task on Reproducibility of Human Evaluations in NLG: Overview and Results
 link: https://aclanthology.org/2021.inlg-1.24.pdf
 date: 2021-09-26 00:00:00
