@@ -1,5 +1,14 @@
 ---
 title: |  
+      Immediate Feedback for Students to Solve Notebook Reproducibility Problems in the Classroom
+link: https://hal.archives-ouvertes.fr/hal-03378094
+date: 2021-10-19 00:00:00
+tags: [reproducible paper]
+description: |
+     Jupyter notebooks have gained popularity in educational settings. In France, it is one of the tools used by teachers in post-secondary classes to teach programming. When students complete their assignments, they send their notebooks to the teacher for feedback or grading. However, the teacher may not be able to reproduce the results contained in the notebooks. Indeed, students rely on the non-linearity of notebooks to write and execute code cells in an arbitrary order. Conversely, teachers are not aware of this implicit execution order and expect to reproduce the results by running the cells linearly from top to bottom. These two modes of usage conflict, making it difficult for teachers to evaluate their students' work. This article investigates the use of immediate visual feedback to alleviate the issue of non-reproducibility of students' notebooks. We implemented a Jupyter plug-in called Notebook Reproducibility Monitor (NoRM) that pinpoints the non-reproducible cells of a notebook under modifications. To evaluate the benefits of this approach, we perform a controlled study with 37 students on a programming assignment, followed by a focus group. Our results show that the plug-in significantly improves the reproducibility of notebooks without sacrificing the productivity of students.
+
+---
+title: |  
      Capturing and semantically describing provenance to tell the story of R scripts
 link: https://www.lncc.br/~lgadelha/publications/eScience2021.pdf
 date: 2021-10-18 00:00:00
