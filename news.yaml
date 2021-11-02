@@ -1,5 +1,14 @@
 ---
 title: |  
+      Reproducibility in subsurface geoscience
+link: https://eartharxiv.org/repository/view/2796/
+date: 2021-10-31 00:00:00
+tags: [reproducible paper]
+description: |
+      Reproducibility, the extent to which consistent results are obtained when an experiment or study is repeated, sits at the foundation of science. The aim of this process is to produce robust findings and knowledge, with reproducibility being the screening tool to benchmark how well we are implementing the scientific method. However, the re-examination of results from many disciplines has caused significant concern as to the reproducibility of published findings. This concern is well-founded – our ability to independently reproduce results build trust both within the scientific community, between scientists and the politicians charged with translating research findings into public policy, and the general public. Within geoscience, discussions and practical frameworks for reproducibility are in their infancy, particularly in subsurface geoscience, an area where there are commonly significant uncertainties related to data (e.g. geographical coverage). Given the vital role of subsurface geoscience as part of sustainable development pathways and in achieving Net Zero, such as for carbon capture storage, mining, and natural hazard assessment, there is likely to be an increased scrutiny on the reproducibility of geoscience results. We surveyed 347 Earth scientists from a broad section of academia, government, and industry to understand their experience and knowledge of reproducibility in the subsurface. More than 85% of respondents recognised there is a reproducibility problem in subsurface geoscience, with >90% of respondents viewing conceptual biases as having a major impact on the robustness of their findings and overall quality of their work. Access to data, undocumented methodologies, and confidentiality issues (e.g. use of proprietary data and methods) were identified as major barriers to reproducing published results. Overall, the survey results suggest a need for funding bodies, data providers, research groups, and publishers to build a framework and set of minimum standards for increasing the reproducibility of, and political and public trust in, the results of subsurface studies.
+
+---
+title: |  
       Immediate Feedback for Students to Solve Notebook Reproducibility Problems in the Classroom
 link: https://hal.archives-ouvertes.fr/hal-03378094
 date: 2021-10-19 00:00:00
