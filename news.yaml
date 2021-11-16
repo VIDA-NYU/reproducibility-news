@@ -1,5 +1,23 @@
 ---
 title: |  
+      The Art of Publishing Reproducible Research Outputs: Supporting emerging practices through cultural and technological innovation
+link: https://zenodo.org/record/5521077
+date: 2021-10-31 00:00:00
+tags: [reproducible paper]
+description: |
+      Reproducibility and transparency can be regarded (at least in experimental research) as a hallmark of research. The ability to reproduce research results in order to check their reliability is an important cornerstone of research that helps to guarantee the quality of research and to build on existing knowledge. The digital turn has brought more opportunities to document, share and verify research processes and outcomes. Consequently, there is an increasing demand for more transparency with regard to research processes and outcomes. This fits well with the open science agenda requiring, amongst others, open software, open data, and open access to publications even if openness alone does not guarantee reproducibility. The purpose of this activity of Knowledge Exchange was to explore current practices and barriers in the area of research reproducibility, with a focus on the publication and dissemination stage. We wanted to determine how technical and social infrastructures can support future developments in this area. In this work, we defined research reproducibility as cases where data and procedures shared by the authors of a study are used to obtain the same results as in their original work. We captured the views of research funding organisations, research performing organisations, learned societies, researchers, academic publishers and infrastructure and service providers. 
+
+---
+title: |  
+      A systematic review and quality of reporting checklist for repeatability and reproducibility of radiomic features
+link: https://doi.org/10.1016/j.phro.2021.10.007
+date: 2021-11-16 00:00:00
+tags: [reproducible paper]
+description: |
+      Although quantitative image biomarkers (radiomics) show promising value for cancer diagnosis, prognosis, and treatment assessment, these biomarkers still lack reproducibility. In this systematic review, we aimed to assess the progress in radiomics reproducibility and repeatability in the recent years. Four hundred fifty-one abstracts were retrieved according to our search pattern criteria, with the publication dates ranging from 2017/05/01 to 2020/12/01. Each abstract including the keywords was independently screened by four observers. Forty-two full-text articles were selected for further analysis. Patient population data, radiomic feature classes, feature extraction software, image preprocessing, and reproducibility results were extracted from each article. To support the community with a standardized reporting strategy, we propose a specific reporting checklist to evaluate the feasibility to reproduce each study. Many studies continue to under-report essential reproducibility information: all but one clinical and all but two phantom studies missed to report at least one important item reporting image acquisition. The studies included in this review indicate that all radiomic features are sensitive to image acquisition, reconstruction, tumor segmentation, and interpolation. However, the amount of sensitivity is feature dependent, for instance, textural features were, in general, less robust than statistical features. Radiomics repeatability, reproducibility, and reporting quality can substantially be improved regarding feature extraction software and settings, image preprocessing and acquisition, cutoff values for stable feature selection. Our proposed radiomics reporting checklist can serve to simplify and improve the reporting and, eventually, guarantee the possibility to fully replicate and validate radiomic studies.
+
+---
+title: |  
       Reproducibility in subsurface geoscience
 link: https://eartharxiv.org/repository/view/2796/
 date: 2021-10-31 00:00:00
