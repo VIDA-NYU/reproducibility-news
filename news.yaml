@@ -1,5 +1,23 @@
 ---
 title: |  
+      End-to-End provenance representation for the understandability and reproducibility of scientific experiments using a semantic approach
+link: https://doi.org/10.1186/s13326-021-00253-1
+date: 2022-01-11 00:00:00
+tags: [reproducible paper]
+description: |
+      We present the "REPRODUCE-ME" data model and ontology to describe the end-to-end provenance of scientific experiments by extending existing standards in the semantic web. The ontology brings together different aspects of the provenance of scientific studies by interlinking non-computational data and steps with computational data and steps to achieve understandability and reproducibility. We explain the important classes and properties of the ontology and how they are mapped to existing ontologies like PROV-O and P-Plan. The ontology is evaluated by answering competency questions over the knowledge base of scientific experiments consisting of computational and non-computational data and steps.
+
+---
+title: |  
+      Rigour and reproducibility in Canadian research: call for a coordinated approach
+link: http://dx.doi.org/10.1139/facets-2021-0162
+date: 2022-01-11 00:00:00
+tags: [reproducibility report]
+description: |
+      Shortcomings in the rigour and reproducibility of research have become well-known issues and persist despite repeated calls for improvement. A coordinated effort among researchers, institutions, funders, publishers, learned societies, and regulators may be the most effective way of tackling these issues. The UK Reproducibility Network (UKRN) has fostered collaboration across various stakeholders in research and are creating the infrastructure necessary to advance rigorous and reproducible research practices across the United Kingdom. Other Reproducibility Networks, modelled on UKRN, are now emerging in other countries. Canada could benefit from a comparable network to unify the voices around research quality and maximize the value of Canadian research.
+      
+---
+title: |  
       Replication in the social sciences
 link: http://doi.org/10.24449/FG-2021-00016
 date: 2022-01-03 00:00:00
