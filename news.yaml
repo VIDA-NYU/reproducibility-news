@@ -18,6 +18,51 @@ description: |
       
 ---
 title: |  
+      Towards reproducible software studies with MAO and Renku☆
+link: https://doi.org/10.1016/j.softx.2021.100947
+date: 2022-01-08 00:00:00
+tags: [reproducible paper]
+description: |
+      In software engineering, the developers’ joy of decomposing and recomposing microservice-based applications has led to an enormous wave of microservice artefact technologies. To understand them better, researchers perform hundreds of experiments and empirical studies on them each year. Improving the reuse and reproducibility of these studies requires two ingredients: A system to automate repetitive experiments, and a research data management system with emphasis on making research reproducible. Both frameworks are now available via the Microservice Artefact Observatory (MAO) and Renku. In this paper, we explain the current capabilities of MAO as a global federated research infrastructure for determining software quality characteristics. Moreover, we emphasise the integration of MAO with Renku to demonstrate how a reproducible end-to-end experiment workflow involving globally distributed research teams looks like.
+
+---
+title: |  
+      Evaluating the reproducibility of research in obstetrics and gynecology
+link: https://doi.org/10.1016/j.ejogrb.2021.12.021
+date: 2022-01-08 00:00:00
+tags: [reproducible paper]
+description: |
+      In the studies we examined, research in the field of Obstetrics and Gynecology is not consistently reproducible and frequently lacks conflict of interest disclosure. Consequences of this could be far-reaching and include increased research waste, widespread acceptance of misleading results and erroneous conclusions guiding clinical decision-making.
+
+---
+title: |  
+      Improving research quality: the view from the UK Reproducibility Network institutional leads for research improvement
+link: https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-021-05883-3
+date: 2022-01-08 00:00:00
+tags: [reproducible paper]
+description: |
+      The adoption and incentivisation of open and transparent research practices is critical in addressing issues around research reproducibility and research integrity. These practices will require training and funding. Individuals need to be incentivised to adopt open and transparent research practices (e.g., added as desirable criteria in hiring, probation, and promotion decisions, recognition that funded research should be conducted openly and transparently, the importance of publishers mandating the publication of research workflows and appropriately curated data associated with each research output). Similarly, institutions need to be incentivised to encourage the adoption of open and transparent practices by researchers. Research quality should be prioritised over research quantity. As research transparency will look different for different disciplines, there can be no one-size-fits-all approach. An outward looking and joined up UK research strategy is needed that places openness and transparency at the heart of research activity. This should involve key stakeholders (institutions, research organisations, funders, publishers, and Government) and crucially should be focused on action. Failure to do this will have negative consequences not just for UK research, but also for our ability to innovate and subsequently commercialise UK-led discovery.
+
+---
+title: |  
+      Steps to Increase the Reproducibility of Geotechnical Laboratory Test Data
+link: https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29GT.1943-5606.0002742
+date: 2022-01-08 00:00:00
+tags: [reproducible paper]
+description: |
+      Forum papers are thought-provoking opinion pieces or essays founded in fact, sometimes containing speculation, on a civil engineering topic of general interest and relevance to the readership of the journal. The views expressed in this Forum article do not necessarily reflect the views of ASCE or the Editorial Board of the journal.
+
+---
+title: |  
+     Reproducible and Portable Big Data Analytics in the Cloud 
+link: https://arxiv.org/abs/2112.09762v1
+date: 2022-01-08 00:00:00
+tags: [reproducible paper]
+description: |
+           Cloud computing has become a major approach to enable reproducible computational experiments because of its support of on-demand hardware and software resource provisioning. Yet there are still two main difficulties in reproducing big data applications in the cloud. The first is how to automate end-to-end execution of big data analytics in the cloud including virtual distributed environment provisioning, network and security group setup, and big data analytics pipeline description and execution. The second is an application developed for one cloud, such as AWS or Azure, is difficult to reproduce in another cloud, a.k.a. vendor lock-in problem. To tackle these problems, we leverage serverless computing and containerization techniques for automatic scalable big data application execution and reproducibility, and utilize the adapter design pattern to enable application portability and reproducibility across different clouds. Based on the approach, we propose and develop an open-source toolkit that supports 1) on-demand distributed hardware and software environment provisioning, 2) automatic data and configuration storage for each execution, 3) flexible client modes based on user preferences, 4) execution history query, and 5) simple reproducibility of existing executions in the same environment or a different environment. We did extensive experiments on both AWS and Azure using three big data analytics applications that run on a virtual CPU/GPU cluster. Three main behaviors of our toolkit were benchmarked: i) execution overhead ratio for reproducibility support, ii) differences of reproducing the same application on AWS and Azure in terms of execution time, budgetary cost and cost-performance ratio, iii) differences between scale-out and scale-up approach for the same application on AWS and Azure.
+
+---
+title: |  
       Replication in the social sciences
 link: http://doi.org/10.24449/FG-2021-00016
 date: 2022-01-03 00:00:00
