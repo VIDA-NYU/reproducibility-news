@@ -1,5 +1,32 @@
 ---
 title: |  
+      The critical need to foster computational reproducibility
+link: https://doi.org/10.1088/1748-9326/ac5cf8
+date: 2022-03-15 00:00:00
+tags: [reproducible paper]
+description: |
+      The climate crisis illustrates the critical need for earth and environmental models to assess the Earth's past and future by translating emissions into climate signals and subsequent impacts regarding floods, droughts, or heatwaves, as well as future resource availability. While computational models grow in relevance by guiding policies and public discourse, our trust in these models is put to the test. A recent study estimates that 93% of hydrology and water resources published studies cannot be reproduced. In this perspective, we question whether we are amid a reproducibility crisis in the computational earth sciences and peek behind the curtain of everyday research. Software development has become an integral part of research in most areas, including the earth sciences, where computational models and data processing algorithms become increasingly sophisticated to solve the challenges of our time. Paradoxically, this development poses a threat to scientific progress: Reproducibility, as an essential pillar of science, is increasingly difficult to reach or even to test. This trend is particularly worrisome as scientific results have potentially controversial implications for stakeholders and policymakers and may influence public opinion and decisions for a long time. In recent years, progress towards Open Science has led to more publishers demanding access to data and source code alongside peer-reviewed manuscripts; but recent studies still find that less reproducible research may be even cited more frequently. We argue that we insufficiently understand how the earth science community currently attempts to reproduce computational results and what challenges they face in this effort. To what do scientists attribute this lack of reproducibility in computational earth sciences, and what are possible solutions? In this perspective we survey the community on what they think is necessary and paint a picture of a future that fosters reproducible computational science and thus trust.
+
+---
+title: |  
+      Reproducibility in Computing Research: An Empirical Study
+link: https://doi.org/10.1109/ACCESS.2022.3158675
+date: 2022-03-15 00:00:00
+tags: [reproducible paper]
+description: |
+      In computing, research findings are often anecdotally faulted for not being reproducible. Numerous empirical studies have analyzed the reproducibility of a variety of research. Our objective, in this study, is to quantify the current state of reproducibility of research in computing based on prior research, using three reproducibility factors—Method, Data and Experiment—to measure three different degrees of reproducibility. Twenty-five variables traditionally utilized to document reproducibility are identified and grouped into three factors, namely Method, Data and Experiment. These variables describe the extent to which these factors are documented for each paper. Approximately 100 randomly selected research papers from the International Conference on Information Systems series, for the year 2019, are surveyed. Our findings suggest that none of the papers documented all the variables. In fact, the results show that relatively few variables for each factor are documented. Some of the variables vary across different categories of papers, and most papers fail in at least one of the factors. Reproducibility scores decrease with increased documentation requirements. Reproducibility may improve over time, as researchers prioritize reproducibility and utilize methods that ensure reproducibility. Research documentation in computing is remarkably limited, resulting in a dearth of reproducible factors. Future research may study the shifts and trends in reproducibility over time. Meanwhile, researchers and publishers must increase their focus on the reproducibility aspects of their papers. This study contributes to our understanding of the status quo of reproducibility in computing research.
+
+---
+title: |  
+      Beyond the Badge: Reproducibility Engineering as a Lifetime Skill
+link: https://arxiv.org/abs/2203.05283
+date: 2022-03-10 00:00:00
+tags: [reproducible paper]
+description: |
+      Ascertaining reproducibility of scientific experiments is receiving increased attention across disciplines. We argue that the necessary skills are important beyond pure scientific utility, and that they should be taught as part of software engineering (SWE) education. They serve a dual purpose: Apart from acquiring the coveted badges assigned to reproducible research, reproducibility engineering is a lifetime skill for a professional industrial career in computer science. SWE curricula seem an ideal fit for conveying such capabilities, yet they require some extensions, especially given that even at flagship conferences like ICSE, only slightly more than one-third of the technical papers (at the 2021 edition) receive recognition for artefact reusability. Knowledge and capabilities in setting up engineering environments that allow for reproducing artefacts and results over decades (a standard requirement in many traditional engineering disciplines), writing semi-literate commit messages that document crucial steps of a decision-making process and that are tightly coupled with code, or sustainably taming dynamic, quickly changing software dependencies, to name a few: They all contribute to solving the scientific reproducibility crisis, and enable software engineers to build sustainable, long-term maintainable, software-intensive, industrial systems. We propose to teach these skills at the undergraduate level, on par with traditional SWE topics.
+
+---
+title: |  
       The reproducibility debate is an opportunity, not a crisis
 link: https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-05942-3
 date: 2022-02-14 00:00:00
