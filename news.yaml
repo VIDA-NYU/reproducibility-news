@@ -1,5 +1,32 @@
 ---
 title: |  
+      Share the code, not just the data: A case study of the reproducibility of JML articles published under the open data policy
+link: https://psyarxiv.com/hf297/
+date: 2022-04-04 00:00:00
+tags: [reproducible paper]
+description: |
+      In 2019 the Journal of Memory and Language instituted an open data and code policy; this policy requires that, as a rule, code and data be released at the latest upon publication. How effective is this policy? We compared 59 papers published before, and 59 papers published after, the policy took effect. After the policy was in place, the rate of data sharing increased by more than 50%. We further looked at whether papers published under the open data policy were reproducible, in the sense that the published results should be possible to regenerate given the data, and given the code, when code was provided. For 8 out of the 59 papers, data sets were inaccessible. The reproducibility rate ranged from 34% to 56%, depending on the reproducibility criteria. The strongest predictor of whether an attempt to reproduce would be successful is the presence of the analysis code: it increases the probability of reproducing reported results by almost 40%. We propose two simple steps that can increase the reproducibility of published papers: share the analysis code, and attempt to reproduce one’s own analysis using only the shared materials.
+
+---
+title: |  
+      Investigating the Effectiveness of the Open Data Badge Policy at Psychological Science Through Computational Reproducibility
+link: https://psyarxiv.com/729qt/
+date: 2022-04-04 00:00:00
+tags: [reproducible paper]
+description: |
+      In April 2019, Psychological Science published its first issue in which all research articles received the Open Data badge. We used that issue to investigate the effectiveness of this badge, focusing on the adherence to its stated aim at Psychological Science: ensuring reproducibility of results. Twelve researchers of varying experience levels attempted to reproduce the results of the empirical articles in the target issue (at least three researchers per article). We found that all articles provided at least some data, 6/14 articles provided analysis code or scripts, only 1/14 articles was rated to be exactly reproducible, and 3/14 essentially reproducible with minor deviations. We recommend that Psychological Science require a check of reproducibility at the peer review stage before awarding badges, and that the Open Data badge be renamed "Open Data and Code" to avoid confusion and encourage researchers to adhere to this higher standard.
+
+---
+title: |  
+      The Critical Need to Foster Reproducibility in Computational Geoscience
+link: https://meetingorganizer.copernicus.org/EGU22/EGU22-2139.html
+date: 2022-04-04 00:00:00
+tags: [reproducible paper]
+description: |
+      Chains of computer models translate emissions into climate signals and subsequent into impacts regarding floods, droughts, heatwaves, and other perils. While the need for computational geoscience is significant, recent publications across the geo- and environmental sciences suggest that reproducibility of computational geoscience might be limited. So far, the focus of reproducibility largely remained on discussions of this problem in the social sciencesor medicine; in this talk, we take a peek behind the curtain of everyday geoscientific research and unveil how we need to foster reproducibility in computational geoscience and what is required to do that. A poll among more than 300 geoscientists reveals that geoscientific research is currently not reproducible enough. 61% say that a lack of reproducible research is putting trust in our results at stake, and only 3% strongly agree that computational geoscientific research is reproducible. Leading causes, contrasting previous polls, are not only a lack of resources and willingness to share code and data but also a lack of knowledge about state-of-the-art software development methods and licenses among the geoscientific community. To lay a path for a future where Open Science is the norm, we let the voices of the community speak on what they think is necessary and paint a picture of a future that fosters reproducible geoscience and thus trust.
+
+---
+title: |  
       The critical need to foster computational reproducibility
 link: https://doi.org/10.1088/1748-9326/ac5cf8
 date: 2022-03-15 00:00:00
