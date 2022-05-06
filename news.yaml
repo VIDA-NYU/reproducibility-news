@@ -1,5 +1,14 @@
 ---
 title: |  
+      Defining the role of open source software in research reproducibility
+link: https://arxiv.org/abs/2204.12564
+date: 2022-05-05 00:00:00
+tags: [reproducible paper]
+description: |
+      Reproducibility is inseparable from transparency, as sharing data, code and computational environment is a pre-requisite for being able to retrace the steps of producing the research results. Others have made the case that this artifact sharing should adopt appropriate licensing schemes that permit reuse, modification and redistribution. I make a new proposal for the role of open source software, stemming from the lessons it teaches about distributed collaboration and a commitment-based culture. Reviewing the defining features of open source software (licensing, development, communities), I look for explanation of its success from the perspectives of connectivism -- a learning theory for the digital age -- and the language-action framework of Winograd and Flores. I contend that reproducibility is about trust, which we build in community via conversations, and open source software is a route to learn how to be more effective learning (discovering) together. 
+
+---
+title: |  
       Share the code, not just the data: A case study of the reproducibility of JML articles published under the open data policy
 link: https://psyarxiv.com/hf297/
 date: 2022-04-04 00:00:00
