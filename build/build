@@ -29,11 +29,11 @@ def main():
 
     for i, entry in enumerate(list_entries('news.yaml')):
         if entry['title'] in seen_titles:
-            sys.stderr.write("Error: duplicated title: %s\n" % entry['title'])
+            print("Error: duplicated title: %s\n" % entry['title'], file=sys.stderr)
             sys.exit(1)
         seen_titles.add(entry['title'])
         if entry['link'] in seen_links:
-            sys.stderr.write("Error: duplicated link: %s\n" % entry['link'])
+            print("Error: duplicated link: %s\n" % entry['link'], file=sys.stderr)
             sys.exit(1)
         seen_links.add(entry['link'])
 

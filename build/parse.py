@@ -1,15 +1,16 @@
-import io
 import sys
 import yaml
 
 
 def list_entries(filename):
-    with io.open(filename, encoding='utf-8') as fp:
-        for nb, entry in enumerate(yaml.load_all(fp)):
+    with open(filename, 'r', encoding='utf-8') as fp:
+        for nb, entry in enumerate(yaml.safe_load_all(fp)):
             for key in ['title', 'link', 'date', 'tags', 'description']:
                 if not key in entry:
-                    sys.stderr.write("Missing key '%s' in entry #%d\n" % (
-                                     key, nb))
+                    print(
+                        "Missing key '%s' in entry #%d\n" % (key, nb),
+                        file=sys.stderr,
+                    )
                     sys.exit(1)
 
             entry['title'] = entry['title'].strip()

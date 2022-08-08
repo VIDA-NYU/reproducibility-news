@@ -28,7 +28,8 @@ def load_latest_tweets():
     return [tweet.text for tweet in api.get_user('ReproFeed').timeline()]
 
 alphanum = frozenset(
-    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
+    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+)
 
 
 def shorten(text, length=255):
@@ -65,12 +66,12 @@ def has_been_tweeted(last_tweets, entry):
 def tweet(entries):
     """Tweet a list of entries.
     """
-    sys.stderr.write("Sending %d tweets...\n" % len(entries))
+    print("Sending %d tweets...\n" % len(entries), file=sys.stderr)
 
     for entry in entries:
         time.sleep(60)
         text = "%s %s" % (shorten(entry['title']), entry['link'])
-        sys.stderr.write(("TWEET: %s\n" % text).encode('utf-8'))
+        print("TWEET: %s\n" % text, file=sys.stderr)
         api.update_status(text)
 
 def main():
@@ -88,7 +89,7 @@ def main():
 
         to_tweet.append(entry)
 
-    sys.stderr.write("Couldn't tweet: couldn't find a known last tweet\n")
+    print("Couldn't tweet: couldn't find a known last tweet\n", file=sys.stderr)
     sys.exit(1)
 
 

@@ -12,8 +12,6 @@ jobs:
         with:
           fetch-depth: 3
       - uses: actions/setup-python@v3
-        with:
-          python-version: "2.7"
       - name: Install dependencies
         run: pip install jinja2 PyYAML tweepy
       - name: Build
