@@ -1,5 +1,14 @@
 ---
 title: |  
+      Promoting and Enabling Reproducible Data Science Through a Reproducibility Challenge
+link: https://hdsr.mitpress.mit.edu/pub/mlconlea/release/1?readingCollection=b697ca32
+date: 2022-08-08 00:00:00
+tags: [data science]
+description: |
+      The reproducibility of research results is the basic requirement for the reliability of scientific discovery, yet it is hard to achieve. Whereas funding agencies, scientific journals, and professional societies are developing guidelines, requirements, and incentives, and researchers are developing tools and processes, the role of a university in promoting and enabling reproducible research has been unclear. In this report, we describe the Reproducibility Challenge that we organized at the University of Michigan to promote reproducible research in data science and Artificial Intelligence (AI). We observed that most researchers focused on nuts-and-bolts reproducibility issues relevant to their own research. Many teams were building their own reproducibility protocols and software for lack of any available options off the shelf. If we could help them with this, they would have preferred to adopt rather than build anew. We argue that universities—their data science centers and research support units—have a critical role to play in promoting "actionable reproducibility" (Goeva et al., 2020) through creating and validating tools and processes, and subsequently enabling and encouraging their adoption.
+
+---
+title: |  
       Defining the role of open source software in research reproducibility
 link: https://arxiv.org/abs/2204.12564
 date: 2022-05-05 00:00:00
