@@ -7,6 +7,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: twitter
     steps:
       - uses: actions/checkout@v3
         with:
@@ -24,6 +26,11 @@ jobs:
           GITHUB_REPO: ${{ github.repository }}
       - name: Tweet
         if: ${{ github.ref == 'refs/heads/master' }}
+        env:
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
         run: build/tweet
       - name: Trigger reproduciblescience.org rebuild
         if: ${{ github.ref == 'refs/heads/master' }}
