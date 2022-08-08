@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Reproducibility News Feed</title>
-    <link>http://reproduciblescience.org/</link>
+    <link>https://github.com/VIDA-NYU/reproducibility-news</link>
     <description>A feed that shows recent news about scientific reproducibility efforts.</description>
 {% for item in items %}
     <item>

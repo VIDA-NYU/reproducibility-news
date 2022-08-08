@@ -1,6 +1,6 @@
 # Contributing
 
-We would absolutely love any pull requests to contribute materials to our RSS feed of curated materials about reproducibility. If you add resources to our feed, the contributions will be tweeted out via the [@ReproFeed](https://twitter.com/ReproFeed) twitter bot and added to the directory on [reproduciblescience.org](https://reproduciblescience.org/directory).
+We would absolutely love any pull requests to contribute materials to our RSS feed of curated materials about reproducibility. If you add resources to our feed, the contributions will be tweeted out via the [@ReproFeed](https://twitter.com/ReproFeed) twitter bot.
 
 ## Best Practices for Contributing
 * Make sure that the resource you are suggesting isn't already in the feed.
