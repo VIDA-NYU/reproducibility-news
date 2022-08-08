@@ -1,0 +1,38 @@
+name: Build
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: twitter
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 3
+      - uses: actions/setup-python@v3
+      - name: Install dependencies
+        run: pip install "jinja2>=3.1,<4" "PyYAML>=6.0,<7" "tweepy>=4.10,<5"
+      - name: Build
+        run: build/build
+      - name: Upload
+        if: ${{ github.ref == 'refs/heads/master' }}
+        run: build/upload
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+      - name: Tweet
+        if: ${{ github.ref == 'refs/heads/master' }}
+        env:
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        run: build/tweet
+      - name: Trigger reproduciblescience.org rebuild
+        if: ${{ github.ref == 'refs/heads/master' }}
+        run: |
+          curl -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token $TOKEN_TRAVIS" -d '{"request": {"branch": "master", "message": "reproducibility-news updated"}}' https://api.travis-ci.org/repo/ViDA-NYU%2Freproducible-science/requests
