@@ -25,7 +25,7 @@ api = tweepy.API(auth)
 def load_latest_tweets():
     """Load the latest tweets from the timeline.
     """
-    return [tweet.text for tweet in api.get_user('ReproFeed').timeline()]
+    return [tweet.text for tweet in api.get_user(screen_name='ReproFeed').timeline()]
 
 alphanum = frozenset(
     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
