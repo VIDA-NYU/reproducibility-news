@@ -1,9 +1,45 @@
 ---
 title: |  
+      Reproducibility in machine learning for medical imaging
+link: https://arxiv.org/abs/2209.05097
+date: 2022-09-20 00:00:00
+tags: [reproducible paper]
+description: |
+           Reproducibility is a cornerstone of science, as the replication of findings is the process through which they become knowledge. It is widely considered that many fields of science are undergoing a reproducibility crisis. This has led to the publications of various guidelines in order to improve research reproducibility. This didactic chapter intends at being an introduction to reproducibility for researchers in the field of machine learning for medical imaging. We first distinguish between different types of reproducibility. For each of them, we aim at defining it, at describing the requirements to achieve it and at discussing its utility. The chapter ends with a discussion on the benefits of reproducibility and with a plea for a non-dogmatic approach to this concept and its implementation in research practice. 
+
+---
+title: |  
+      Computational reproducibility of Jupyter notebooks from biomedical publications
+link: https://arxiv.org/abs/2209.04308
+date: 2022-09-20 00:00:00
+tags: [reproducible paper]
+description: |
+      Jupyter notebooks allow to bundle executable code with its documentation and output in one interactive environment, and they represent a popular mechanism to document and share computational workflows, including for research publications. Here, we analyze the computational reproducibility of 9625 Jupyter notebooks from 1117 GitHub repositories associated with 1419 publications indexed in the biomedical literature repository PubMed Central. 8160 of these were written in Python, including 4169 that had their dependencies declared in standard requirement files and that we attempted to re-run automatically. For 2684 of these, all declared dependencies could be installed successfully, and we re-ran them to assess reproducibility. Of these, 396 notebooks ran through without any errors, including 245 that produced results identical to those reported in the original. Running the other notebooks resulted in exceptions. We zoom in on common problems and practices, highlight trends and discuss potential improvements to Jupyter-related workflows associated with biomedical publications. 
+
+---
+title: |  
+      A simple kit to use computational notebooks for more openness, reproducibility, and productivity in research
+link: https://doi.org/10.1371/journal.pcbi.1010356
+date: 2022-09-20 00:00:00
+tags: [reproducible paper]
+description: |
+      The ubiquitous use of computational work for data generation, processing, and modeling increased the importance of digital documentation in improving research quality and impact. Computational notebooks are files that contain descriptive text, as well as code and its outputs, in a single, dynamic, and visually appealing file that is easier to understand by nonspecialists. Traditionally used by data scientists when producing reports and informing decision-making, the use of this tool in research publication is not common, despite its potential to increase research impact and quality. For a single study, the content of such documentation partially overlaps with that of classical lab notebooks and that of the scientific manuscript reporting the study. Therefore, to minimize the amount of work required to manage all the files related to these contents and optimize their production, we present a starter kit to facilitate the implementation of computational notebooks in the research process, including publication. The kit contains the template of a computational notebook integrated into a research project that employs R, Python, or Julia. Using examples of ecological studies, we show how computational notebooks also foster the implementation of principles of Open Science, such as reproducibility and traceability. The kit is designed for beginners, but at the end we present practices that can be gradually implemented to develop a fully digital research workflow. Our hope is that such minimalist yet effective starter kit will encourage researchers to adopt this practice in their workflow, regardless of their computational background.
+
+---
+title: |  
+      Plea for a Simple But Radical Change in Scientific Publication: To Improve Openness, Reliability, and Reproducibility, Let’s Deposit and Validate Our Results before Writing Articles
+link: https://doi.org/10.1523/ENEURO.0318-22.2022 
+date: 2022-09-20 00:00:00
+tags: [reproducible paper]
+description: |
+      Limited reproducibility and validity are major sources of concern in biology and other fields of science. Their origins have been extensively described and include material variability, incomplete materials and methods report, results selection, defective experimental design, lack of power, inappropriate statistics, overinterpretation, and reluctance to publish negative results. Promoting complete and accurate communication of positive and negative results is a major objective. Multiple steps in this direction are taken, but they are not sufficient and the general construction of articles has not been questioned. I propose here a simple change with a potentially strong positive impact. First, when they complete a substantial coherent set of experiments, scientists deposit their positive or negative results in a database [“deposited results,” (DRs)], including detailed materials, methods, raw data, analysis, and processed results. The DRs are technically reviewed and validated as “validated DRs” (vDRs) or rejected until satisfactory. vDR databases are open (after an embargo period if requested by the authors) and can later be updated by them or others with replications or replication failures, providing a comprehensive active log of scientific data. Articles, in this proposal, are then built as they currently are, except they only include vDRs as strong and open building blocks. I argue that this approach would increase the transparency, reproducibility, and reliability of scientific publications and have additional advantages including accurate author credit, better material for evaluation, exhaustive scientific archiving, and increased openness of life science material.
+
+---
+title: |  
       Promoting and Enabling Reproducible Data Science Through a Reproducibility Challenge
 link: https://hdsr.mitpress.mit.edu/pub/mlconlea/release/1?readingCollection=b697ca32
 date: 2022-08-08 00:00:00
-tags: [data science]
+tags: [data science, reproducible paper]
 description: |
       The reproducibility of research results is the basic requirement for the reliability of scientific discovery, yet it is hard to achieve. Whereas funding agencies, scientific journals, and professional societies are developing guidelines, requirements, and incentives, and researchers are developing tools and processes, the role of a university in promoting and enabling reproducible research has been unclear. In this report, we describe the Reproducibility Challenge that we organized at the University of Michigan to promote reproducible research in data science and Artificial Intelligence (AI). We observed that most researchers focused on nuts-and-bolts reproducibility issues relevant to their own research. Many teams were building their own reproducibility protocols and software for lack of any available options off the shelf. If we could help them with this, they would have preferred to adopt rather than build anew. We argue that universities—their data science centers and research support units—have a critical role to play in promoting "actionable reproducibility" (Goeva et al., 2020) through creating and validating tools and processes, and subsequently enabling and encouraging their adoption.
 
