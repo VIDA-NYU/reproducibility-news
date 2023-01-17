@@ -19,13 +19,13 @@ jobs:
       - name: Build
         run: build/build
       - name: Upload
-        if: ${{ github.ref == 'refs/heads/master' }}
+        if: ${{ github.ref == 'refs/heads/trunk' }}
         run: build/upload
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: ${{ github.repository }}
       - name: Tweet
-        if: ${{ github.ref == 'refs/heads/master' }}
+        if: ${{ github.ref == 'refs/heads/trunk' }}
         env:
           TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
           TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
@@ -33,6 +33,6 @@ jobs:
           TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
         run: build/tweet
       - name: Trigger reproduciblescience.org rebuild
-        if: ${{ github.ref == 'refs/heads/master' }}
+        if: ${{ github.ref == 'refs/heads/trunk' }}
         run: |
           curl -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token $TOKEN_TRAVIS" -d '{"request": {"branch": "master", "message": "reproducibility-news updated"}}' https://api.travis-ci.org/repo/ViDA-NYU%2Freproducible-science/requests
