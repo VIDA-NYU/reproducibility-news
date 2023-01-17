@@ -35,4 +35,4 @@ jobs:
       - name: Trigger reproduciblescience.org rebuild
         if: ${{ github.ref == 'refs/heads/trunk' }}
         run: |
-          curl -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token $TOKEN_TRAVIS" -d '{"request": {"branch": "master", "message": "reproducibility-news updated"}}' https://api.travis-ci.org/repo/ViDA-NYU%2Freproducible-science/requests
+          curl -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token $TOKEN_TRAVIS" -d '{"request": {"branch": "trunk", "message": "reproducibility-news updated"}}' https://api.travis-ci.org/repo/ViDA-NYU%2Freproducible-science/requests
