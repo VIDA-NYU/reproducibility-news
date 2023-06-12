@@ -1,5 +1,32 @@
 ---
 title: |  
+       Towards a Framework Based on Open Science Practices for Promoting Reproducibility of Software Engineering Controlled Experiments 
+link: https://sol.sbc.org.br/index.php/cibse/article/view/24707
+date: 2023-06-12 00:00:00
+tags: [reproducible paper]
+description: |
+      Experimentation in Software Engineering has increased in the last decades as a way to provide evidence on theories and technologies. In a controlled experiment life cycle, several artifacts are used/reused and even produced. Such artifacts are mostly in the form of data, which should favor the reproducibility of such experiments. In this context, reproducibility can be defined as the ability to reproduce a study. Different benefits, such as methodology and data reuse, can be achieved from this ability. Despite the recognized benefits, several challenges have been faced by researchers regarding the experiments’ reproducibility capability. To overcome them, we understand that Open Science practices, related to provenance, preservation, and curation, might aid in improving such a capability. Therefore, in this paper, we present the proposal for an open science-based Framework to deal with controlled experiment research artifacts towards making such experiments de facto reproducible. To do so, different models associated with open science practices are planned to be integrated into the Framework.
+
+---
+title: |  
+      Reproducibility Report for the Paper: 'Workload Interference Prevention with Intelligent Routing and Flexible Job Placement on Dragonfly'
+link: https://doi.org/10.1145/3573900.3596136
+date: 2023-06-12 00:00:00
+tags: [reproducible paper]
+description: |
+      For the paper a permanent artifact is available. This artifact provides a simple script to reproduce the results. The results in the paper are simulations and therefore have no issues running on different hardware.
+
+---
+title: |  
+      Reproducibility Report for the Paper: 'Hybrid PDES Simulation of HPC Networks Using Zombie Packets'
+link: https://doi.org/10.1145/3573900.3596135
+date: 2023-06-12 00:00:00
+tags: [reproducible paper]
+description: |
+      The examined paper presents a surrogate model for HPC networks. The authors have uploaded their artifact to Zenodo, which ensures a long-term retention of the artifact. This paper can thus receive the Artifacts Available badge. The artifact allows for easy re-running of experiments for two figures and textual output for one table. All of the dependencies are documented. The software in the artifact runs correctly with minimal intervention, and is relevant to the paper, earning the Artifacts Evaluated–Functional badge. The experimental results are reproduced in two figures and one table, which gains the Results Reproduced badge. Furthermore, since the artifact is also available on GitHub, the paper is assigned the Artifacts Evaluated–Reusable badge.
+
+---
+title: |  
       A framework for the broad dissemination of hydrological models for non-expert users
 link: https://doi.org/10.1016/j.envsoft.2023.105695
 date: 2023-04-12 00:00:00
