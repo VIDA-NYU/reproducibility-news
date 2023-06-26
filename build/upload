@@ -1,5 +1,0 @@
-#!/bin/sh
-
-pip install ghp-import
-ghp-import -n target
-git push -qf https://${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git gh-pages

@@ -1,14 +1,19 @@
 name: Build
 
 on:
-  - push
-  - pull_request
+  push:
+    branches:
+      - trunk
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
-      name: twitter
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
@@ -20,12 +25,15 @@ jobs:
         run: pip install "jinja2>=3.1,<4" "PyYAML>=6.0,<7"
       - name: Build
         run: build/build
-      - name: Upload
-        if: ${{ github.ref == 'refs/heads/trunk' }}
-        run: build/upload
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPO: ${{ github.repository }}
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: 'target'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
       - name: Trigger reproduciblescience.org rebuild
         if: ${{ github.ref == 'refs/heads/trunk' }}
         run: |
